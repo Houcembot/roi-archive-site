@@ -18,9 +18,9 @@
     --font:"Aptos","Segoe UI",system-ui,sans-serif;
   }
   *{box-sizing:border-box}
-  html,body{height:100%}
+  html{height:100%}
   body{
-    margin:0;color:var(--ink);font-family:var(--font);overflow:hidden;
+    margin:0;color:var(--ink);font-family:var(--font);overflow-x:hidden;min-height:100vh;
     background:
       radial-gradient(140% 100% at 50% 50%, rgba(227,179,65,.05), transparent 60%),
       var(--bg);
@@ -233,6 +233,48 @@
   .q-toast{position:absolute;bottom:12px;left:50%;transform:translateX(-50%);background:var(--active);color:#03110f;font-size:.7rem;font-weight:700;padding:5px 13px;letter-spacing:.06em;opacity:0;transition:opacity .3s;pointer-events:none}
   .q-toast.show{opacity:1}
 
+  /* ---- section détaillée (scroll sous le HUD) ---- */
+  .details{max-width:1480px;margin:0 auto;padding:26px 20px 64px}
+  .dscroll-hint{text-align:center;color:var(--phos-dim);font-size:.6rem;letter-spacing:.22em;text-transform:uppercase;padding:6px 0 24px}
+  .dsec{margin-bottom:32px}
+  .dsec-h{display:flex;align-items:baseline;gap:14px;margin-bottom:14px;border-bottom:1px solid var(--quiet);padding-bottom:10px}
+  .dsec-h h2{margin:0;font-family:var(--display);font-weight:600;font-size:1.25rem}
+  .dsec-h h2 b{color:var(--phos)}
+  .dtable-wrap{border:1px solid var(--quiet);max-height:60vh;overflow:auto}
+  .dtable{width:100%;border-collapse:collapse;font-size:.78rem}
+  .dtable th{text-align:left;padding:9px 12px;color:var(--dim);font-size:.58rem;letter-spacing:.1em;text-transform:uppercase;background:#0a0f0c;border-bottom:1px solid var(--quiet);position:sticky;top:0;z-index:1}
+  .dtable td{padding:8px 12px;border-bottom:1px solid var(--quiet);vertical-align:top}
+  .dtable tbody tr:nth-child(even){background:rgba(255,255,255,.012)}
+  .dtable tbody tr:hover{background:rgba(54,216,196,.06)}
+  .dtable a{color:var(--active);text-decoration:none}
+  .dtable a:hover{text-decoration:underline}
+  .dtable .q{display:block;color:var(--dim);font-size:.7rem;margin-top:2px;max-width:330px}
+  .dint{font-weight:800;font-size:.68rem;text-transform:uppercase}
+  .dint.fort{color:var(--active)} .dint.moy{color:var(--phos)} .dint.sui{color:var(--dim)}
+  .dval{font-variant-numeric:tabular-nums} .dval.unk{color:var(--dim);font-style:italic}
+  .dgrid2{display:grid;grid-template-columns:1.3fr 1fr;gap:14px}
+  .dgrid4{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+  .dcard{border:1px solid var(--quiet);background:var(--panel);padding:16px;min-width:0}
+  .dcard .tag{display:block;margin-bottom:14px}
+  .dfunnel .frow{display:grid;grid-template-columns:96px 1fr 30px;align-items:center;gap:9px;margin-bottom:6px;font-size:.74rem}
+  .dfunnel .fl{color:var(--dim)}
+  .dfunnel .fb{height:9px;background:var(--quiet);overflow:hidden}
+  .dfunnel .fb i{display:block;height:100%;background:linear-gradient(90deg,var(--phos),var(--active))}
+  .dfunnel b{font-family:var(--display);text-align:right}
+  .dvalue{margin:16px 0 10px}
+  .dvalue b{font-family:var(--display);font-size:1.7rem;color:var(--phos)}
+  .dvalue em{font-style:normal;color:var(--dim);font-size:.72rem;margin-left:6px}
+  .dmix{list-style:none;margin:0;padding:0}
+  .dmix li{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:center;padding:7px 0 9px;font-size:.78rem;border-bottom:1px solid var(--quiet)}
+  .dmix b{font-family:var(--display)}
+  .dmix .mb{grid-column:1/-1;height:5px;background:var(--quiet);margin-top:5px;overflow:hidden}
+  .dmix .mb i{display:block;height:100%;background:var(--phos)}
+  .dlist{list-style:none;margin:0;padding:0}
+  .dlist li{padding:8px 0;border-bottom:1px solid var(--quiet);font-size:.76rem;color:var(--ink);line-height:1.35}
+  .dlist li b{display:block;font-size:.56rem;color:var(--dim);letter-spacing:.06em;text-transform:uppercase;margin-bottom:3px;font-family:var(--display)}
+  .dlist .empty{color:var(--dim);font-style:italic}
+  @media(max-width:1100px){.dgrid2,.dgrid4{grid-template-columns:1fr}}
+
   @media (max-width:1100px){ .console{grid-template-columns:0 1fr 0} .rail,.dossier{display:none} .bottom{grid-template-columns:1fr} }
 </style>
 </head>
@@ -370,6 +412,40 @@
     </div>
   </div>
 
+</div>
+
+<div class="details">
+  <div class="dscroll-hint">▾ détails complets</div>
+
+  <section class="dsec">
+    <div class="dsec-h"><span class="tag">Registre</span><h2>Toutes les opportunités <b id="opp-count" class="num"></b></h2></div>
+    <div class="dtable-wrap">
+      <table class="dtable">
+        <thead><tr><th>#</th><th>Projet</th><th>Localisation</th><th>Date</th><th>Fit</th><th>Intérêt</th><th>Valeur</th><th>État</th></tr></thead>
+        <tbody id="opp-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="dsec dgrid2">
+    <div class="dcard">
+      <span class="tag">Cascade &amp; valeur</span>
+      <div class="dfunnel" id="d-funnel"></div>
+      <div class="dvalue"><b class="num" id="d-pipe">—</b><em>pipeline valorisé</em></div>
+      <div class="bdist" id="d-dist"></div>
+    </div>
+    <div class="dcard">
+      <span class="tag">Répartition par pays</span>
+      <ul class="dmix" id="d-mix"></ul>
+    </div>
+  </section>
+
+  <section class="dsec dgrid4">
+    <div class="dcard"><span class="tag">Décisions</span><ul class="dlist" id="dd-dec"></ul></div>
+    <div class="dcard"><span class="tag">Validations</span><ul class="dlist" id="dd-val"></ul></div>
+    <div class="dcard"><span class="tag">Questions flotte</span><ul class="dlist" id="dd-que"></ul></div>
+    <div class="dcard"><span class="tag">Risques</span><ul class="dlist" id="dd-rsk"></ul></div>
+  </section>
 </div>
 
 <script>
@@ -545,14 +621,49 @@
     window.__renderDR([]);
   })();
 
+  // ---- section détaillée (scroll) : table complète + analytique + opérations ----
+  function renderDetails(items){
+    const tb=document.getElementById('opp-tbody');if(!tb)return;
+    const ranked=items.map(it=>({it,fit:Number(it.fit)||0,val:parseVal(it.clientValue)})).sort((a,b)=>b.fit-a.fit||b.val-a.val);
+    setT('opp-count','('+items.length+')');
+    tb.innerHTML=ranked.map((r,i)=>{
+      const it=r.it,lvl=r.fit>=80?'fort':r.fit>=65?'moy':'sui',intl=lvl==='fort'?'Fort':lvl==='moy'?'Moyen':'À suivre';
+      const loc=[it.city,it.country].filter(Boolean).join(' · ')||'—';
+      const link=/^https?:\/\//i.test(String(it.url||''))?`<a href="${esc(it.url)}" target="_blank" rel="noreferrer noopener">${esc(it.source||'—')}</a>`:esc(it.source||'—');
+      const val=it.clientValue?`<span class="dval">${esc(it.clientValue)}</span>`:`<span class="dval unk">unknown</span>`;
+      return `<tr><td>${i+1}</td><td>${link}<span class="q">${esc(it.query||'')}</span></td><td>${esc(loc)}</td><td>${esc(it.date||'—')}</td><td class="num">${r.fit}</td><td><span class="dint ${lvl}">${intl}</span></td><td>${val}</td><td>${esc(it.status||'—')}</td></tr>`;
+    }).join('');
+  }
+  function renderDetailExtras(items, decisions){
+    const D=window.ROI_ARCHIVE_OPS_DATA||{};
+    const f=document.getElementById('d-funnel');
+    if(f)f.innerHTML=FUNNEL.map(s=>`<div class="frow"><span class="fl">${s[0]}</span><div class="fb"><i style="width:${s[1]}%"></i></div><b class="num">${s[1]}</b></div>`).join('');
+    const ranked=items.map(it=>({it,val:parseVal(it.clientValue)})).sort((a,b)=>b.val-a.val);
+    let sumE=0;items.map(it=>({it,fit:Number(it.fit)||0,val:parseVal(it.clientValue)})).sort((a,b)=>b.fit-a.fit||b.val-a.val).slice(0,10).forEach(r=>{if(String(r.it.clientValue||'').includes('€'))sumE+=r.val;});
+    setT('d-pipe',sumE.toLocaleString('fr-FR').replace(/ /g,' ')+' €');
+    const total=items.length,fortN=Math.min(10,total),moyN=Math.min(24,Math.max(0,total-10)),suiN=Math.max(0,total-34);
+    const dd=document.getElementById('d-dist');
+    if(dd)dd.innerHTML=`<span class="df" style="flex:${fortN||1}">${fortN} fort</span><span class="dm" style="flex:${moyN||1}">${moyN} moyen</span><span class="ds" style="flex:${suiN||1}">${suiN} à suivre</span>`;
+    const mix=document.getElementById('d-mix');
+    if(mix){const cc={};items.forEach(it=>{const k=(it.country||'??');cc[k]=(cc[k]||0)+1;});
+      const arr=Object.entries(cc).sort((a,b)=>b[1]-a[1]).slice(0,7),mx=Math.max(...arr.map(e=>e[1]),1);
+      mix.innerHTML=arr.length?arr.map(([k,v])=>`<li><span>${esc(k)}</span><b class="num">${v}</b><div class="mb"><i style="width:${v/mx*100}%"></i></div></li>`).join(''):'<li class="empty">—</li>';}
+    const fill=(id,arr,fmt)=>{const e=document.getElementById(id);if(e)e.innerHTML=(arr&&arr.length)?arr.map(fmt).join(''):'<li class="empty">Aucun.</li>';};
+    fill('dd-dec',decisions,x=>`<li><b>${esc(x.owner||'')}</b>${esc(x.title||x.note||'')}</li>`);
+    fill('dd-val',D.validations,x=>`<li><b>${esc(x.owner||'')} · ${esc(x.priority||x.status||'')}</b>${esc(x.title||x.label||'')}</li>`);
+    fill('dd-que',D.questions,x=>`<li><b>${esc(x.from||'')} · ${esc(x.priority||'')}</b>${esc(x.question||'')}</li>`);
+    fill('dd-rsk',D.risks,x=>`<li><b>${esc(x.level||'')} · ${esc(x.owner||'')}</b>${esc(x.title||x.label||'')}</li>`);
+  }
+
   // ---- données live (même source que le dashboard) avec repli démo ----
   const FALLBACK=Array.from({length:60},(_,i)=>({query:'Opportunité '+(i+1),source:['TED EU','UNGM','TUNEPS','Upwork','SAM.gov','BOAMP'][i%6],date:'2026-06-13',fit:81+((i*7)%19),clientValue:i%4===0?['45 000 €','30 000 €','TND 80 000','18 000 €'][(i/4|0)%4]:''}));
   fetch('ops/live-day-state.json?ts='+Date.now(),{cache:'no-store'})
     .then(r=>r.ok?r.json():Promise.reject())
     .then(d=>{const s=Array.isArray(d.searches)&&d.searches.length?d.searches:FALLBACK;plot(s);
       if(window.__renderDR)window.__renderDR(d.decisions);
+      renderDetails(s); renderDetailExtras(s, d.decisions);
       setT('mode', d.updatedAt?('Live · maj '+String(d.updatedAt).slice(11,16)):'Live · données réelles');})
-    .catch(()=>{plot(FALLBACK);setT('mode','Démo · hors-ligne');});
+    .catch(()=>{plot(FALLBACK);renderDetails(FALLBACK);renderDetailExtras(FALLBACK,[]);setT('mode','Démo · hors-ligne');});
 })();
 </script>
 
