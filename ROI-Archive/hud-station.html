@@ -34,8 +34,41 @@
     mix-blend-mode:multiply;opacity:.5;
   }
 
-  .console{display:grid;grid-template-columns:230px 1fr 336px;grid-template-rows:54px 1fr 196px;height:100vh;gap:1px;background:#0c110e}
-  .bottom{grid-column:1 / -1;display:grid;grid-template-columns:1fr 452px;background:var(--panel);border-top:1px solid var(--quiet)}
+  .console{display:grid;grid-template-columns:230px 1fr 336px;grid-template-rows:54px 1fr 292px;height:100vh;gap:1px;background:#0c110e}
+  .bottom{grid-column:1 / -1;display:grid;grid-template-rows:122px 1fr;background:var(--panel);border-top:1px solid var(--quiet);min-height:0}
+  .bottom-top{display:grid;grid-template-columns:1.05fr 1.2fr 1fr 1.05fr;border-bottom:1px solid var(--quiet);min-height:0}
+  .bottom-bot{display:grid;grid-template-columns:1fr 452px;min-height:0}
+  .bpanel{padding:9px 14px;border-right:1px solid var(--quiet);min-width:0;overflow:hidden}
+  .bpanel:last-child{border-right:0}
+  .bpanel .tag{display:block;margin-bottom:7px}
+  .fleet-row{display:flex;gap:6px}
+  .st{flex:1;background:#0c100e;border:1px solid var(--quiet);padding:6px 7px;min-width:0}
+  .st span{display:block;font-size:.56rem;color:var(--dim);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .st b{display:block;font-family:var(--display);font-size:1.15rem;color:var(--phos);line-height:1.1}
+  .st i{font-style:normal;font-size:.52rem;color:var(--dim);letter-spacing:.04em}
+  .conv{display:flex;flex-direction:column;gap:3px}
+  .cstep{display:grid;grid-template-columns:68px 1fr 22px 30px;align-items:center;gap:6px;font-size:.64rem}
+  .cl{color:var(--dim);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .cbar{height:6px;background:var(--quiet);overflow:hidden}
+  .cbar i{display:block;height:100%;background:var(--phos)}
+  .cstep b{font-family:var(--display);text-align:right}
+  .cstep u{color:var(--active);text-decoration:none;font-size:.56rem;text-align:right}
+  .vbig{display:flex;align-items:baseline;gap:9px}
+  .vbig b{font-family:var(--display);font-size:1.5rem;color:var(--phos)}
+  .vbig em{font-style:normal;color:var(--dim);font-size:.66rem}
+  .bdist{display:flex;height:22px;margin-top:12px;border:1px solid var(--quiet);overflow:hidden}
+  .bdist span{display:flex;align-items:center;justify-content:center;font-size:.6rem;font-weight:800;color:#04110f;min-width:0}
+  .bdist .df{background:var(--active)} .bdist .dm{background:var(--phos)} .bdist .ds{background:var(--quiet);color:var(--dim)}
+  .kpi-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1px;background:var(--quiet);border:1px solid var(--quiet)}
+  .kc{background:var(--panel);padding:5px 7px;min-width:0}
+  .kc span{display:block;font-size:.52rem;color:var(--dim);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .kc b{font-family:var(--display);font-size:1rem;line-height:1.1}
+  .kc-warn b,.kc-attention b{color:var(--phos)} .kc-risk b{color:var(--alert)}
+  .dr{display:flex;flex-direction:column;overflow:auto}
+  .drow{display:grid;grid-template-columns:56px 1fr;gap:9px;padding:5px 0;font-size:.72rem;border-bottom:1px solid var(--quiet)}
+  .drow i{font-style:normal;font-size:.52rem;font-weight:800;letter-spacing:.07em;padding-top:2px}
+  .dec i{color:var(--active)} .rsk i{color:var(--alert)}
+  .drow span{color:var(--ink);line-height:1.3}
 
   /* ---- top command bar ---- */
   .cmd{grid-column:1 / -1;display:flex;align-items:center;gap:26px;padding:0 22px;background:var(--panel);border-bottom:1px solid var(--quiet)}
@@ -78,7 +111,9 @@
   .scopewrap .hdr h1{margin:5px 0 0;font-family:var(--display);font-weight:600;font-size:1.15rem;letter-spacing:.02em}
   .scopewrap .meta{position:absolute;top:14px;right:18px;text-align:right;z-index:4;font-size:.64rem;color:var(--dim);letter-spacing:.06em;line-height:1.7}
   .scopewrap .meta b{color:var(--phos);font-family:var(--display)}
-  .scope{position:relative;width:min(96%,940px);aspect-ratio:2 / 1;align-self:center}
+  .scope{position:relative;width:min(96%,940px);aspect-ratio:2 / 1;align-self:center;overflow:hidden;cursor:grab;touch-action:none}
+  .world{position:absolute;inset:0;transform-origin:0 0;will-change:transform}
+  .zoomhint{position:absolute;bottom:6px;right:10px;font-size:.56rem;letter-spacing:.08em;color:var(--dim);opacity:.55;pointer-events:none}
   .scope svg{position:absolute;inset:0;width:100%;height:100%}
   .land{fill:rgba(227,179,65,.05);stroke:rgba(227,179,65,.34);stroke-width:.5;vector-effect:non-scaling-stroke;stroke-linejoin:round}
   .graticule{stroke:rgba(227,179,65,.085);stroke-width:.5;fill:none;vector-effect:non-scaling-stroke}
@@ -252,9 +287,12 @@
     <div class="hdr"><span class="tag">Carte des opportunités</span><h1>Détection géographique</h1></div>
     <div class="meta">contacts <b id="m-count">—</b> / 100<br>régions <b id="m-regions">—</b><br>verrous <b>10</b></div>
     <div class="scope" id="scope">
-      <svg viewBox="0 0 720 360" id="map" preserveAspectRatio="xMidYMid meet"></svg>
-      <div class="scan" id="scan"></div>
-      <!-- blips injected here -->
+      <div class="world" id="world">
+        <svg viewBox="0 0 720 360" id="map" preserveAspectRatio="xMidYMid meet"></svg>
+        <div class="scan" id="scan"></div>
+        <!-- blips injected here -->
+      </div>
+      <div class="zoomhint">molette = zoom · glisser = déplacer</div>
     </div>
   </main>
 
@@ -294,19 +332,42 @@
 
   <!-- bottom : flotte + comms -->
   <div class="bottom">
-  <footer class="fleet">
-    <div class="ftag">Flotte</div>
-    <div class="station"><span class="role">Scout</span><div class="nm">ScrapBot <i>online</i></div><div class="thru"><b class="num">100</b><small>RECHERCHES</small></div><div class="sig"><i></i></div></div>
-    <div class="station"><span class="role">Commerce</span><div class="nm">ComBot <i>online</i></div><div class="thru"><b class="num">4</b><small>ÉCHANGES</small></div><div class="sig"><i style="animation-delay:.5s"></i></div></div>
-    <div class="station"><span class="role">Secrétariat</span><div class="nm">InfoBot <i>online</i></div><div class="thru"><b class="num">6</b><small>NOTES</small></div><div class="sig"><i style="animation-delay:1s"></i></div></div>
-    <div class="station"><span class="role">Liaison</span><div class="nm">CloBot <i style="color:var(--phos)">idle</i></div><div class="thru"><b class="num">8</b><small>MSG DISCORD</small></div><div class="sig"><i style="animation-delay:1.5s"></i></div></div>
-  </footer>
-  <section class="comms" id="comms">
-    <div class="comms-hd"><span class="tag">Comms · questions flotte</span><span class="qcount" id="q-count">—</span></div>
-    <div class="q-active" id="q-active"></div>
-    <div class="q-queue" id="q-queue"></div>
-    <div class="q-toast" id="q-toast"></div>
-  </section>
+    <div class="bottom-top">
+      <div class="bpanel">
+        <span class="tag">Flotte</span>
+        <div class="fleet-row">
+          <div class="st"><span>ScrapBot</span><b class="num">100</b><i>recherches</i></div>
+          <div class="st"><span>ComBot</span><b class="num">4</b><i>échanges</i></div>
+          <div class="st"><span>InfoBot</span><b class="num">6</b><i>notes</i></div>
+          <div class="st"><span>CloBot</span><b class="num">8</b><i>discord</i></div>
+        </div>
+      </div>
+      <div class="bpanel">
+        <span class="tag">Cascade de conversion</span>
+        <div class="conv" id="conv"></div>
+      </div>
+      <div class="bpanel">
+        <span class="tag">Valeur &amp; intérêt</span>
+        <div class="vbig"><b class="num" id="b-pipe">—</b><em id="b-pipe-sub">—</em></div>
+        <div class="bdist" id="b-dist"></div>
+      </div>
+      <div class="bpanel">
+        <span class="tag">Indicateurs semaine</span>
+        <div class="kpi-grid" id="kpi-grid"></div>
+      </div>
+    </div>
+    <div class="bottom-bot">
+      <div class="bpanel">
+        <span class="tag">Décisions &amp; risques</span>
+        <div class="dr" id="dr"></div>
+      </div>
+      <section class="comms" id="comms">
+        <div class="comms-hd"><span class="tag">Comms · questions flotte</span><span class="qcount" id="q-count">—</span></div>
+        <div class="q-active" id="q-active"></div>
+        <div class="q-queue" id="q-queue"></div>
+        <div class="q-toast" id="q-toast"></div>
+      </section>
+    </div>
   </div>
 
 </div>
@@ -343,6 +404,8 @@
   const REGIONS={ted:[50,9],ungm:[46.2,6.1],tuneps:[36.8,10.2],malt:[48.85,2.35],upwork:[39,-98],fiverr:[32,34.8],sam:[38.9,-77],boamp:[48.85,2.35],reddit:[39,-98],linkedin:[40,-74],artstation:[37,-122],facebook:[37,-122]};
   const COUNTRIES={tunis:[36.8,10.2],tunisie:[34,9],tunisia:[34,9],paris:[48.85,2.35],france:[46.6,2.2],'états-unis':[39,-98],'etats-unis':[39,-98],'united states':[39,-98],usa:[39,-98],londres:[51.5,-0.1],london:[51.5,-0.1],'royaume-uni':[54,-2],allemagne:[51,10],germany:[51,10],belgique:[50.6,4.6],bruxelles:[50.85,4.35],suisse:[46.8,8.2],'genève':[46.2,6.1],canada:[56,-106],maroc:[32,-6],'algérie':[28,3],espagne:[40,-4],italie:[42.8,12.6],dubai:[25.2,55.3],'émirats':[24,54],qatar:[25.3,51.2],arabie:[24,45],'égypte':[26,30]};
   function geoOf(it){
+    // coords exactes si ScrapBot les fournit (pays/ville), sinon déduction texte/source
+    if(typeof it.lat==='number' && typeof it.lon==='number') return [it.lat, it.lon];
     const t=((it.source||'')+' '+(it.query||'')+' '+(it.note||'')+' '+(it.topic||'')).toLowerCase();
     for(const k in COUNTRIES){if(t.indexOf(k)>=0)return COUNTRIES[k];}
     for(const k in REGIONS){if(t.indexOf(k)>=0)return REGIONS[k];}
@@ -350,6 +413,7 @@
   }
 
   const scope=document.getElementById('scope');
+  const world=document.getElementById('world');
   const parseVal=v=>{const n=parseInt(String(v||'').replace(/[^\d]/g,''),10);return isNaN(n)?0:n;};
   const sectorOf=s=>{let h=0;s=String(s||'');for(let i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))&0xffff;return h%6;};
   const mul=a=>()=>{a|=0;a=a+0x6D2B79F5|0;let x=Math.imul(a^a>>>15,1|a);x=x+Math.imul(x^x>>>7,61|x)^x;return((x^x>>>14)>>>0)/4294967296;};
@@ -376,6 +440,7 @@
     if(dl){
       const row=(k,v)=>v?`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`:'';
       dl.innerHTML = row('Rang priorité','#'+d.rank+' / '+totalCount)
+        + row('Localisation', [d.city,d.country].filter(Boolean).join(' · '))
         + row('Accès', d.access)
         + row('Compte', d.account)
         + row('Sujet', d.topic)
@@ -384,7 +449,7 @@
   }
 
   function plot(items){
-    scope.querySelectorAll('.blip').forEach(n=>n.remove());blips=[];
+    world.querySelectorAll('.blip').forEach(n=>n.remove());blips=[];
     const total=items.length||1;
     // priorité = fit puis valeur ; le rang donne le niveau (Top10 / Compatibles34 / reste) et le rayon
     const ranked=items.map(it=>({it,fit:Number(it.fit)||0,val:parseVal(it.clientValue)}))
@@ -393,7 +458,7 @@
     ranked.forEach((r,rank)=>{
       const lvl=rank<10?'fort':rank<34?'moy':'sui';
       const g=geoOf(r.it);
-      const lat=g[0]+(rnd()-0.5)*7, lon=g[1]+(rnd()-0.5)*10;
+      const lat=g[0]+(rnd()-0.5)*1.6, lon=g[1]+(rnd()-0.5)*2.2;
       const leftPct=Math.max(1.5,Math.min(98.5,(lon+180)/360*100));
       const topPct=Math.max(4,Math.min(96,(90-lat)/180*100));
       const size=r.val?7+Math.min(r.val/130000,1)*9:(lvl==='fort'?7:5);
@@ -407,10 +472,10 @@
       const toLeft=leftPct>76;
       lbl.style.transform=`translate(${toLeft?-(size/2+5):(size/2+5)}px,-50%) translate(${toLeft?'-100%':'0'},0)`;
       node.appendChild(lbl);
-      const data={name:r.it.query||r.it.name||'Opportunité',source:r.it.source||r.it.name||'—',url:r.it.url||'',date:r.it.date||'',fit:r.fit,val:r.val,valStr:r.it.clientValue||'',lvl,rank:rank+1,access:r.it.access||'',account:r.it.account||'',topic:r.it.topic||'',note:r.it.note||'',status:r.it.status||r.it.access||'retenu'};
+      const data={name:r.it.query||r.it.name||'Opportunité',source:r.it.source||r.it.name||'—',url:r.it.url||'',date:r.it.date||'',fit:r.fit,val:r.val,valStr:r.it.clientValue||'',lvl,rank:rank+1,city:r.it.city||'',country:r.it.country||'',access:r.it.access||'',account:r.it.account||'',topic:r.it.topic||'',note:r.it.note||'',status:r.it.status||r.it.access||'retenu'};
       const b={el:node,x:leftPct,data};
       node.addEventListener('click',()=>select(b));
-      scope.appendChild(node);blips.push(b);
+      world.appendChild(node);blips.push(b);
     });
     // ---- stats live ----
     const locked=Math.min(10,total);
@@ -424,6 +489,11 @@
     let sumE=0,chiff=0;ranked.slice(0,10).forEach(r=>{if(r.it.clientValue){chiff++;if(String(r.it.clientValue).includes('€'))sumE+=r.val;}});
     setT('pipe-val',sumE.toLocaleString('fr-FR').replace(/ /g,' ')+' €');
     setT('pipe-split',chiff+' chiffrés · '+(10-chiff)+' unknown');
+    const fortN=Math.min(10,total),moyN=Math.min(24,Math.max(0,total-10)),suiN=Math.max(0,total-34);
+    setT('b-pipe',sumE.toLocaleString('fr-FR').replace(/ /g,' ')+' €');
+    setT('b-pipe-sub',chiff+' chiffrés · '+(10-chiff)+' unknown');
+    const bd=document.getElementById('b-dist');
+    if(bd)bd.innerHTML=`<span class="df" style="flex:${fortN||1}">${fortN}</span><span class="dm" style="flex:${moyN||1}">${moyN}</span><span class="ds" style="flex:${suiN||1}">${suiN}</span>`;
     if(blips.length)select(blips[0]);
   }
 
@@ -441,11 +511,46 @@
   }
   requestAnimationFrame(loop);
 
+  // ---- zoom molette (vers le curseur) + pan glisser ----
+  let z=1,px=0,py=0;
+  const applyView=()=>{world.style.transform=`translate(${px}px,${py}px) scale(${z})`;};
+  const clampView=()=>{const w=scope.clientWidth,h=scope.clientHeight;px=Math.min(0,Math.max(w-w*z,px));py=Math.min(0,Math.max(h-h*z,py));};
+  scope.addEventListener('wheel',e=>{
+    e.preventDefault();
+    const r=scope.getBoundingClientRect(),mx=e.clientX-r.left,my=e.clientY-r.top;
+    const nz=Math.max(1,Math.min(8,z*(e.deltaY<0?1.18:1/1.18)));
+    const wx=(mx-px)/z, wy=(my-py)/z;
+    px=mx-wx*nz; py=my-wy*nz; z=nz; clampView(); applyView();
+  },{passive:false});
+  let drag=false,dx0=0,dy0=0,px0=0,py0=0;
+  scope.addEventListener('pointerdown',e=>{ if(e.target.closest('.blip'))return; drag=true;dx0=e.clientX;dy0=e.clientY;px0=px;py0=py;try{scope.setPointerCapture(e.pointerId);}catch(_){ } scope.style.cursor='grabbing'; });
+  scope.addEventListener('pointermove',e=>{ if(!drag)return; px=px0+(e.clientX-dx0);py=py0+(e.clientY-dy0);clampView();applyView(); });
+  const endDrag=()=>{drag=false;scope.style.cursor='grab';};
+  scope.addEventListener('pointerup',endDrag); scope.addEventListener('pointercancel',endDrag);
+
+  // ---- bandeau bas : cascade conversion, KPI, décisions/risques ----
+  const FUNNEL=[['Lectures',100],['Compatibles',34],['Intéressantes',18],['Top fit≥80',10],['Emails',10]];
+  (function(){
+    const conv=document.getElementById('conv');
+    if(conv)conv.innerHTML=FUNNEL.map((s,i)=>{const prev=i?FUNNEL[i-1][1]:s[1];const rate=Math.round(s[1]/prev*100);
+      return `<div class="cstep"><span class="cl">${s[0]}</span><div class="cbar"><i style="width:${s[1]}%"></i></div><b class="num">${s[1]}</b><u>${i?rate+'%':''}</u></div>`;}).join('');
+    const D=window.ROI_ARCHIVE_OPS_DATA||{};
+    const kg=document.getElementById('kpi-grid');
+    if(kg&&Array.isArray(D.kpis))kg.innerHTML=D.kpis.slice(0,6).map(k=>`<div class="kc kc-${esc(k.state||'ok')}"><span>${esc(k.label)}</span><b class="num">${esc(k.value)}</b></div>`).join('');
+    window.__renderDR=decs=>{const dr=document.getElementById('dr');if(!dr)return;
+      const risks=Array.isArray(D.risks)?D.risks:[];const dd=Array.isArray(decs)?decs:[];let h='';
+      dd.slice(0,2).forEach(x=>h+=`<div class="drow dec"><i>DÉCISION</i><span>${esc(x.title||x.note||'')}</span></div>`);
+      risks.slice(0,3).forEach(x=>h+=`<div class="drow rsk"><i>RISQUE</i><span>${esc(x.title||x.label||'')}</span></div>`);
+      dr.innerHTML=h||'<span class="qlbl">Rien à signaler.</span>';};
+    window.__renderDR([]);
+  })();
+
   // ---- données live (même source que le dashboard) avec repli démo ----
   const FALLBACK=Array.from({length:60},(_,i)=>({query:'Opportunité '+(i+1),source:['TED EU','UNGM','TUNEPS','Upwork','SAM.gov','BOAMP'][i%6],date:'2026-06-13',fit:81+((i*7)%19),clientValue:i%4===0?['45 000 €','30 000 €','TND 80 000','18 000 €'][(i/4|0)%4]:''}));
   fetch('ops/live-day-state.json?ts='+Date.now(),{cache:'no-store'})
     .then(r=>r.ok?r.json():Promise.reject())
     .then(d=>{const s=Array.isArray(d.searches)&&d.searches.length?d.searches:FALLBACK;plot(s);
+      if(window.__renderDR)window.__renderDR(d.decisions);
       setT('mode', d.updatedAt?('Live · maj '+String(d.updatedAt).slice(11,16)):'Live · données réelles');})
     .catch(()=>{plot(FALLBACK);setT('mode','Démo · hors-ligne');});
 })();

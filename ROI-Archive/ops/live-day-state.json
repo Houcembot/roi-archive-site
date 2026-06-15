@@ -16,7 +16,11 @@
       "status": "retenu",
       "topic": "Voxel Brain / Archive R&D",
       "note": "trouver appels d'offres francophones / formation; animation 3D; VR",
-      "clientValue": "45 000 €"
+      "clientValue": "45 000 €",
+      "city": "Bruxelles",
+      "country": "BE",
+      "lat": 50.85,
+      "lon": 4.35
     },
     {
       "index": 2,
@@ -30,7 +34,11 @@
       "status": "retenu",
       "topic": "ComfyUI + n8n : pipeline image/video IA",
       "note": "trouver appels d'offres internationaux / scan 3D; patrimoine; animation 3D",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "index": 3,
@@ -44,7 +52,11 @@
       "status": "retenu",
       "topic": "Course AI : formation IA et production 3D",
       "note": "trouver projets medical/scientifique / medical 3D; scientific visualization",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Tunis",
+      "country": "TN",
+      "lat": 36.8,
+      "lon": 10.18
     },
     {
       "index": 4,
@@ -58,7 +70,11 @@
       "status": "retenu",
       "topic": "IASOBOT : robot/avatar institutionnel",
       "note": "trouver formations ecoles/universites / formation; Unreal; VR",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Londres",
+      "country": "GB",
+      "lat": 51.51,
+      "lon": -0.13
     },
     {
       "index": 5,
@@ -72,7 +88,11 @@
       "status": "retenu",
       "topic": "Avatar IRIS : digital human R&D",
       "note": "trouver patrimoine et musees / scan 3D; viewer web; patrimoine",
-      "clientValue": "30 000 €"
+      "clientValue": "30 000 €",
+      "city": "Paris",
+      "country": "FR",
+      "lat": 48.85,
+      "lon": 2.35
     },
     {
       "index": 6,
@@ -86,7 +106,11 @@
       "status": "retenu",
       "topic": "Unreal / MetaHumans / facial tracking",
       "note": "trouver briefs produit / animation 3D; VFX; produit",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Paris",
+      "country": "FR",
+      "lat": 48.85,
+      "lon": 2.35
     },
     {
       "index": 7,
@@ -100,7 +124,11 @@
       "status": "retenu",
       "topic": "Merck Medical : visualisation scientifique 3D",
       "note": "trouver besoins temps reel / Unreal; avatar; realtime",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Copenhague",
+      "country": "DK",
+      "lat": 55.68,
+      "lon": 12.57
     },
     {
       "index": 8,
@@ -114,7 +142,11 @@
       "status": "retenu",
       "topic": "FootLyser : analyse visuelle et pedagogie medicale",
       "note": "trouver missions formation / formation; 3ds Max; Unreal; VR",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Sfax",
+      "country": "TN",
+      "lat": 34.74,
+      "lon": 10.76
     },
     {
       "index": 9,
@@ -128,7 +160,11 @@
       "status": "retenu",
       "topic": "Projet Deformations : corps, simulation et enseignement",
       "note": "trouver projets sante / medical 3D; animation",
-      "clientValue": "TND 80 000"
+      "clientValue": "TND 80 000",
+      "city": "Toronto",
+      "country": "CA",
+      "lat": 43.65,
+      "lon": -79.38
     },
     {
       "index": 10,
@@ -142,7 +178,11 @@
       "status": "retenu",
       "topic": "Cuirasse de Carthage : scan 3D patrimoine",
       "note": "decouvrir forums emplois 3D / animation 3D; pipeline",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Lyon",
+      "country": "FR",
+      "lat": 45.76,
+      "lon": 4.84
     },
     {
       "index": 11,
@@ -156,7 +196,11 @@
       "status": "retenu",
       "topic": "Scan-to-production : de la capture au viewer web",
       "note": "decouvrir forums francophones / Unreal; realtime",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Berlin",
+      "country": "DE",
+      "lat": 52.52,
+      "lon": 13.4
     },
     {
       "index": 12,
@@ -170,7 +214,11 @@
       "status": "retenu",
       "topic": "Map 3D Haram : reconstruction spatiale et patrimoine",
       "note": "decouvrir demandes scan / scan 3D; photogrammetry",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "New York",
+      "country": "US",
+      "lat": 40.71,
+      "lon": -74.01
     },
     {
       "index": 13,
@@ -184,7 +232,11 @@
       "status": "retenu",
       "topic": "Robot Film : personnage, realtime et pipeline narratif",
       "note": "ecoles et universites / formation; animation 3D",
-      "clientValue": "18 000 €"
+      "clientValue": "18 000 €",
+      "city": "Sousse",
+      "country": "TN",
+      "lat": 35.83,
+      "lon": 10.64
     },
     {
       "index": 14,
@@ -198,7 +250,11 @@
       "status": "a_nourrir",
       "topic": "Robot Wonderdynamics : IA et animation personnage",
       "note": "institutions publiques / scan 3D; patrimoine",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Austin",
+      "country": "US",
+      "lat": 30.27,
+      "lon": -97.74
     },
     {
       "index": 15,
@@ -212,7 +268,11 @@
       "status": "a_nourrir",
       "topic": "OBD Robot : prototype robotique/communication",
       "note": "opportunites locales / formation; VR; Unreal",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Marseille",
+      "country": "FR",
+      "lat": 43.3,
+      "lon": 5.37
     },
     {
       "index": 16,
@@ -226,7 +286,11 @@
       "status": "retenu",
       "topic": "Projet SANTE / Projet Soin",
       "note": "appels d'offres Tunisie / formation; animation 3D; digital",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Madrid",
+      "country": "ES",
+      "lat": 40.42,
+      "lon": -3.7
     },
     {
       "index": 17,
@@ -240,7 +304,11 @@
       "status": "retenu",
       "topic": "Medical Protections : pedagogie visuelle de prevention",
       "note": "signaux manuels LinkedIn / animation 3D; formation",
-      "clientValue": "120 000 €"
+      "clientValue": "120 000 €",
+      "city": "Nairobi",
+      "country": "KE",
+      "lat": -1.29,
+      "lon": 36.82
     },
     {
       "index": 18,
@@ -254,7 +322,11 @@
       "status": "retenu",
       "topic": "Retopo Separator : retopologie et qualite mesh",
       "note": "signaux Reddit publics / animation 3D; VFX",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Ariana",
+      "country": "TN",
+      "lat": 36.86,
+      "lon": 10.19
     },
     {
       "index": 19,
@@ -268,7 +340,11 @@
       "status": "retenu",
       "topic": "ZBrush courses : expertise formation sculpt/character",
       "note": "jobs et briefs creatifs / Unreal; realtime; character",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Bangalore",
+      "country": "IN",
+      "lat": 12.97,
+      "lon": 77.59
     },
     {
       "index": 20,
@@ -282,7 +358,11 @@
       "status": "retenu",
       "topic": "Pipeline Doctor : Maya, 3ds Max, Substance, AE, Unreal",
       "note": "marketplace briefs / medical 3D; Unreal; formation",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Bordeaux",
+      "country": "FR",
+      "lat": 44.84,
+      "lon": -0.58
     },
     {
       "index": 21,
@@ -296,7 +376,11 @@
       "status": "retenu",
       "topic": "Voxel Brain / Archive R&D",
       "note": "trouver appels d'offres francophones / formation; animation 3D; VR",
-      "clientValue": "TND 25 000"
+      "clientValue": "TND 25 000",
+      "city": "Rome",
+      "country": "IT",
+      "lat": 41.9,
+      "lon": 12.5
     },
     {
       "index": 22,
@@ -310,7 +394,11 @@
       "status": "retenu",
       "topic": "ComfyUI + n8n : pipeline image/video IA",
       "note": "trouver appels d'offres internationaux / scan 3D; patrimoine; animation 3D",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Rome",
+      "country": "IT",
+      "lat": 41.9,
+      "lon": 12.5
     },
     {
       "index": 23,
@@ -324,7 +412,11 @@
       "status": "retenu",
       "topic": "Course AI : formation IA et production 3D",
       "note": "trouver projets medical/scientifique / medical 3D; scientific visualization",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Tunis",
+      "country": "TN",
+      "lat": 36.8,
+      "lon": 10.18
     },
     {
       "index": 24,
@@ -338,7 +430,11 @@
       "status": "retenu",
       "topic": "IASOBOT : robot/avatar institutionnel",
       "note": "trouver formations ecoles/universites / formation; Unreal; VR",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Dubaï",
+      "country": "AE",
+      "lat": 25.2,
+      "lon": 55.27
     },
     {
       "index": 25,
@@ -352,7 +448,11 @@
       "status": "retenu",
       "topic": "Avatar IRIS : digital human R&D",
       "note": "trouver patrimoine et musees / scan 3D; viewer web; patrimoine",
-      "clientValue": "60 000 €"
+      "clientValue": "60 000 €",
+      "city": "Nantes",
+      "country": "FR",
+      "lat": 47.22,
+      "lon": -1.55
     },
     {
       "index": 26,
@@ -366,7 +466,11 @@
       "status": "retenu",
       "topic": "Unreal / MetaHumans / facial tracking",
       "note": "trouver briefs produit / animation 3D; VFX; produit",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Amsterdam",
+      "country": "NL",
+      "lat": 52.37,
+      "lon": 4.9
     },
     {
       "index": 27,
@@ -380,7 +484,11 @@
       "status": "retenu",
       "topic": "Merck Medical : visualisation scientifique 3D",
       "note": "trouver besoins temps reel / Unreal; avatar; realtime",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "index": 28,
@@ -394,7 +502,11 @@
       "status": "retenu",
       "topic": "FootLyser : analyse visuelle et pedagogie medicale",
       "note": "trouver missions formation / formation; 3ds Max; Unreal; VR",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Sfax",
+      "country": "TN",
+      "lat": 34.74,
+      "lon": 10.76
     },
     {
       "index": 29,
@@ -408,7 +520,11 @@
       "status": "retenu",
       "topic": "Projet Deformations : corps, simulation et enseignement",
       "note": "trouver projets sante / medical 3D; animation",
-      "clientValue": "9 500 €"
+      "clientValue": "9 500 €",
+      "city": "Lisbonne",
+      "country": "PT",
+      "lat": 38.72,
+      "lon": -9.14
     },
     {
       "index": 30,
@@ -422,7 +538,11 @@
       "status": "retenu",
       "topic": "Cuirasse de Carthage : scan 3D patrimoine",
       "note": "decouvrir forums emplois 3D / animation 3D; pipeline",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Toulouse",
+      "country": "FR",
+      "lat": 43.6,
+      "lon": 1.44
     },
     {
       "index": 31,
@@ -436,7 +556,11 @@
       "status": "retenu",
       "topic": "Scan-to-production : de la capture au viewer web",
       "note": "decouvrir forums francophones / Unreal; realtime",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Vienne",
+      "country": "AT",
+      "lat": 48.21,
+      "lon": 16.37
     },
     {
       "index": 32,
@@ -450,7 +574,11 @@
       "status": "retenu",
       "topic": "Map 3D Haram : reconstruction spatiale et patrimoine",
       "note": "decouvrir demandes scan / scan 3D; photogrammetry",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Copenhague",
+      "country": "DK",
+      "lat": 55.68,
+      "lon": 12.57
     },
     {
       "index": 33,
@@ -464,7 +592,11 @@
       "status": "retenu",
       "topic": "Robot Film : personnage, realtime et pipeline narratif",
       "note": "ecoles et universites / formation; animation 3D",
-      "clientValue": "45 000 €"
+      "clientValue": "45 000 €",
+      "city": "Sousse",
+      "country": "TN",
+      "lat": 35.83,
+      "lon": 10.64
     },
     {
       "index": 34,
@@ -478,7 +610,11 @@
       "status": "retenu",
       "topic": "Robot Wonderdynamics : IA et animation personnage",
       "note": "institutions publiques / scan 3D; patrimoine",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Berlin",
+      "country": "DE",
+      "lat": 52.52,
+      "lon": 13.4
     },
     {
       "index": 35,
@@ -492,7 +628,11 @@
       "status": "retenu",
       "topic": "OBD Robot : prototype robotique/communication",
       "note": "opportunites locales / formation; VR; Unreal",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Paris",
+      "country": "FR",
+      "lat": 48.85,
+      "lon": 2.35
     },
     {
       "index": 36,
@@ -506,7 +646,11 @@
       "status": "retenu",
       "topic": "Projet SANTE / Projet Soin",
       "note": "appels d'offres Tunisie / formation; animation 3D; digital",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Bruxelles",
+      "country": "BE",
+      "lat": 50.85,
+      "lon": 4.35
     },
     {
       "index": 37,
@@ -520,7 +664,11 @@
       "status": "retenu",
       "topic": "Medical Protections : pedagogie visuelle de prevention",
       "note": "signaux manuels LinkedIn / animation 3D; formation",
-      "clientValue": "30 000 €"
+      "clientValue": "30 000 €",
+      "city": "New York",
+      "country": "US",
+      "lat": 40.71,
+      "lon": -74.01
     },
     {
       "index": 38,
@@ -534,7 +682,11 @@
       "status": "retenu",
       "topic": "Retopo Separator : retopologie et qualite mesh",
       "note": "signaux Reddit publics / animation 3D; VFX",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Ariana",
+      "country": "TN",
+      "lat": 36.86,
+      "lon": 10.19
     },
     {
       "index": 39,
@@ -548,7 +700,11 @@
       "status": "retenu",
       "topic": "ZBrush courses : expertise formation sculpt/character",
       "note": "jobs et briefs creatifs / Unreal; realtime; character",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Londres",
+      "country": "GB",
+      "lat": 51.51,
+      "lon": -0.13
     },
     {
       "index": 40,
@@ -562,7 +718,11 @@
       "status": "retenu",
       "topic": "Pipeline Doctor : Maya, 3ds Max, Substance, AE, Unreal",
       "note": "marketplace briefs / medical 3D; Unreal; formation",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Lyon",
+      "country": "FR",
+      "lat": 45.76,
+      "lon": 4.84
     },
     {
       "index": 41,
@@ -576,7 +736,11 @@
       "status": "retenu",
       "topic": "Voxel Brain / Archive R&D",
       "note": "trouver appels d'offres francophones / formation; animation 3D; VR",
-      "clientValue": "TND 80 000"
+      "clientValue": "TND 80 000",
+      "city": "Paris",
+      "country": "FR",
+      "lat": 48.85,
+      "lon": 2.35
     },
     {
       "index": 42,
@@ -590,7 +754,11 @@
       "status": "retenu",
       "topic": "ComfyUI + n8n : pipeline image/video IA",
       "note": "trouver appels d'offres internationaux / scan 3D; patrimoine; animation 3D",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Nairobi",
+      "country": "KE",
+      "lat": -1.29,
+      "lon": 36.82
     },
     {
       "index": 43,
@@ -604,7 +772,11 @@
       "status": "retenu",
       "topic": "Course AI : formation IA et production 3D",
       "note": "trouver projets medical/scientifique / medical 3D; scientific visualization",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Tunis",
+      "country": "TN",
+      "lat": 36.8,
+      "lon": 10.18
     },
     {
       "index": 44,
@@ -618,7 +790,11 @@
       "status": "retenu",
       "topic": "IASOBOT : robot/avatar institutionnel",
       "note": "trouver formations ecoles/universites / formation; Unreal; VR",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Toronto",
+      "country": "CA",
+      "lat": 43.65,
+      "lon": -79.38
     },
     {
       "index": 45,
@@ -632,7 +808,11 @@
       "status": "retenu",
       "topic": "Avatar IRIS : digital human R&D",
       "note": "trouver patrimoine et musees / scan 3D; viewer web; patrimoine",
-      "clientValue": "18 000 €"
+      "clientValue": "18 000 €",
+      "city": "Marseille",
+      "country": "FR",
+      "lat": 43.3,
+      "lon": 5.37
     },
     {
       "index": 46,
@@ -646,7 +826,11 @@
       "status": "retenu",
       "topic": "Unreal / MetaHumans / facial tracking",
       "note": "trouver briefs produit / animation 3D; VFX; produit",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Berlin",
+      "country": "DE",
+      "lat": 52.52,
+      "lon": 13.4
     },
     {
       "index": 47,
@@ -660,7 +844,11 @@
       "status": "retenu",
       "topic": "Merck Medical : visualisation scientifique 3D",
       "note": "trouver besoins temps reel / Unreal; avatar; realtime",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Rome",
+      "country": "IT",
+      "lat": 41.9,
+      "lon": 12.5
     },
     {
       "index": 48,
@@ -674,7 +862,11 @@
       "status": "retenu",
       "topic": "FootLyser : analyse visuelle et pedagogie medicale",
       "note": "trouver missions formation / formation; 3ds Max; Unreal; VR",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Sfax",
+      "country": "TN",
+      "lat": 34.74,
+      "lon": 10.76
     },
     {
       "index": 49,
@@ -688,7 +880,11 @@
       "status": "retenu",
       "topic": "Projet Deformations : corps, simulation et enseignement",
       "note": "trouver projets sante / medical 3D; animation",
-      "clientValue": "120 000 €"
+      "clientValue": "120 000 €",
+      "city": "Austin",
+      "country": "US",
+      "lat": 30.27,
+      "lon": -97.74
     },
     {
       "index": 50,
@@ -702,7 +898,11 @@
       "status": "retenu",
       "topic": "Cuirasse de Carthage : scan 3D patrimoine",
       "note": "decouvrir forums emplois 3D / animation 3D; pipeline",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Bordeaux",
+      "country": "FR",
+      "lat": 44.84,
+      "lon": -0.58
     },
     {
       "index": 51,
@@ -716,7 +916,11 @@
       "status": "retenu",
       "topic": "Scan-to-production : de la capture au viewer web",
       "note": "decouvrir forums francophones / Unreal; realtime",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Madrid",
+      "country": "ES",
+      "lat": 40.42,
+      "lon": -3.7
     },
     {
       "index": 52,
@@ -730,7 +934,11 @@
       "status": "retenu",
       "topic": "Map 3D Haram : reconstruction spatiale et patrimoine",
       "note": "decouvrir demandes scan / scan 3D; photogrammetry",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "index": 53,
@@ -744,7 +952,11 @@
       "status": "retenu",
       "topic": "Robot Film : personnage, realtime et pipeline narratif",
       "note": "ecoles et universites / formation; animation 3D",
-      "clientValue": "TND 25 000"
+      "clientValue": "TND 25 000",
+      "city": "Sousse",
+      "country": "TN",
+      "lat": 35.83,
+      "lon": 10.64
     },
     {
       "index": 54,
@@ -758,7 +970,11 @@
       "status": "a_nourrir",
       "topic": "Robot Wonderdynamics : IA et animation personnage",
       "note": "institutions publiques / scan 3D; patrimoine",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Bangalore",
+      "country": "IN",
+      "lat": 12.97,
+      "lon": 77.59
     },
     {
       "index": 55,
@@ -772,7 +988,11 @@
       "status": "a_nourrir",
       "topic": "OBD Robot : prototype robotique/communication",
       "note": "opportunites locales / formation; VR; Unreal",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Nantes",
+      "country": "FR",
+      "lat": 47.22,
+      "lon": -1.55
     },
     {
       "index": 56,
@@ -786,7 +1006,11 @@
       "status": "retenu",
       "topic": "Projet SANTE / Projet Soin",
       "note": "appels d'offres Tunisie / formation; animation 3D; digital",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Rome",
+      "country": "IT",
+      "lat": 41.9,
+      "lon": 12.5
     },
     {
       "index": 57,
@@ -800,7 +1024,11 @@
       "status": "retenu",
       "topic": "Medical Protections : pedagogie visuelle de prevention",
       "note": "signaux manuels LinkedIn / animation 3D; formation",
-      "clientValue": "60 000 €"
+      "clientValue": "60 000 €",
+      "city": "Copenhague",
+      "country": "DK",
+      "lat": 55.68,
+      "lon": 12.57
     },
     {
       "index": 58,
@@ -814,7 +1042,11 @@
       "status": "retenu",
       "topic": "Retopo Separator : retopologie et qualite mesh",
       "note": "signaux Reddit publics / animation 3D; VFX",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Ariana",
+      "country": "TN",
+      "lat": 36.86,
+      "lon": 10.19
     },
     {
       "index": 59,
@@ -828,7 +1060,11 @@
       "status": "retenu",
       "topic": "ZBrush courses : expertise formation sculpt/character",
       "note": "jobs et briefs creatifs / Unreal; realtime; character",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Dubaï",
+      "country": "AE",
+      "lat": 25.2,
+      "lon": 55.27
     },
     {
       "index": 60,
@@ -842,7 +1078,11 @@
       "status": "retenu",
       "topic": "Pipeline Doctor : Maya, 3ds Max, Substance, AE, Unreal",
       "note": "marketplace briefs / medical 3D; Unreal; formation",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Toulouse",
+      "country": "FR",
+      "lat": 43.6,
+      "lon": 1.44
     },
     {
       "index": 61,
@@ -856,7 +1096,11 @@
       "status": "retenu",
       "topic": "Voxel Brain / Archive R&D",
       "note": "trouver appels d'offres francophones / formation; animation 3D; VR",
-      "clientValue": "9 500 €"
+      "clientValue": "9 500 €",
+      "city": "Amsterdam",
+      "country": "NL",
+      "lat": 52.37,
+      "lon": 4.9
     },
     {
       "index": 62,
@@ -870,7 +1114,11 @@
       "status": "retenu",
       "topic": "ComfyUI + n8n : pipeline image/video IA",
       "note": "trouver appels d'offres internationaux / scan 3D; patrimoine; animation 3D",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "New York",
+      "country": "US",
+      "lat": 40.71,
+      "lon": -74.01
     },
     {
       "index": 63,
@@ -884,7 +1132,11 @@
       "status": "retenu",
       "topic": "Course AI : formation IA et production 3D",
       "note": "trouver projets medical/scientifique / medical 3D; scientific visualization",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Tunis",
+      "country": "TN",
+      "lat": 36.8,
+      "lon": 10.18
     },
     {
       "index": 64,
@@ -898,7 +1150,11 @@
       "status": "retenu",
       "topic": "IASOBOT : robot/avatar institutionnel",
       "note": "trouver formations ecoles/universites / formation; Unreal; VR",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Lisbonne",
+      "country": "PT",
+      "lat": 38.72,
+      "lon": -9.14
     },
     {
       "index": 65,
@@ -912,7 +1168,11 @@
       "status": "retenu",
       "topic": "Avatar IRIS : digital human R&D",
       "note": "trouver patrimoine et musees / scan 3D; viewer web; patrimoine",
-      "clientValue": "45 000 €"
+      "clientValue": "45 000 €",
+      "city": "Paris",
+      "country": "FR",
+      "lat": 48.85,
+      "lon": 2.35
     },
     {
       "index": 66,
@@ -926,7 +1186,11 @@
       "status": "retenu",
       "topic": "Unreal / MetaHumans / facial tracking",
       "note": "trouver briefs produit / animation 3D; VFX; produit",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Vienne",
+      "country": "AT",
+      "lat": 48.21,
+      "lon": 16.37
     },
     {
       "index": 67,
@@ -940,7 +1204,11 @@
       "status": "retenu",
       "topic": "Merck Medical : visualisation scientifique 3D",
       "note": "trouver besoins temps reel / Unreal; avatar; realtime",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Nairobi",
+      "country": "KE",
+      "lat": -1.29,
+      "lon": 36.82
     },
     {
       "index": 68,
@@ -954,7 +1222,11 @@
       "status": "retenu",
       "topic": "FootLyser : analyse visuelle et pedagogie medicale",
       "note": "trouver missions formation / formation; 3ds Max; Unreal; VR",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Sfax",
+      "country": "TN",
+      "lat": 34.74,
+      "lon": 10.76
     },
     {
       "index": 69,
@@ -968,7 +1240,11 @@
       "status": "retenu",
       "topic": "Projet Deformations : corps, simulation et enseignement",
       "note": "trouver projets sante / medical 3D; animation",
-      "clientValue": "30 000 €"
+      "clientValue": "30 000 €",
+      "city": "Berlin",
+      "country": "DE",
+      "lat": 52.52,
+      "lon": 13.4
     },
     {
       "index": 70,
@@ -982,7 +1258,11 @@
       "status": "retenu",
       "topic": "Cuirasse de Carthage : scan 3D patrimoine",
       "note": "decouvrir forums emplois 3D / animation 3D; pipeline",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Lyon",
+      "country": "FR",
+      "lat": 45.76,
+      "lon": 4.84
     },
     {
       "index": 71,
@@ -996,7 +1276,11 @@
       "status": "retenu",
       "topic": "Scan-to-production : de la capture au viewer web",
       "note": "decouvrir forums francophones / Unreal; realtime",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Bruxelles",
+      "country": "BE",
+      "lat": 50.85,
+      "lon": 4.35
     },
     {
       "index": 72,
@@ -1010,7 +1294,11 @@
       "status": "retenu",
       "topic": "Map 3D Haram : reconstruction spatiale et patrimoine",
       "note": "decouvrir demandes scan / scan 3D; photogrammetry",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Rome",
+      "country": "IT",
+      "lat": 41.9,
+      "lon": 12.5
     },
     {
       "index": 73,
@@ -1024,7 +1312,11 @@
       "status": "retenu",
       "topic": "Robot Film : personnage, realtime et pipeline narratif",
       "note": "ecoles et universites / formation; animation 3D",
-      "clientValue": "TND 80 000"
+      "clientValue": "TND 80 000",
+      "city": "Sousse",
+      "country": "TN",
+      "lat": 35.83,
+      "lon": 10.64
     },
     {
       "index": 74,
@@ -1038,7 +1330,11 @@
       "status": "retenu",
       "topic": "Robot Wonderdynamics : IA et animation personnage",
       "note": "institutions publiques / scan 3D; patrimoine",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Londres",
+      "country": "GB",
+      "lat": 51.51,
+      "lon": -0.13
     },
     {
       "index": 75,
@@ -1052,7 +1348,11 @@
       "status": "retenu",
       "topic": "OBD Robot : prototype robotique/communication",
       "note": "opportunites locales / formation; VR; Unreal",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Marseille",
+      "country": "FR",
+      "lat": 43.3,
+      "lon": 5.37
     },
     {
       "index": 76,
@@ -1066,7 +1366,11 @@
       "status": "retenu",
       "topic": "Projet SANTE / Projet Soin",
       "note": "appels d'offres Tunisie / formation; animation 3D; digital",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Paris",
+      "country": "FR",
+      "lat": 48.85,
+      "lon": 2.35
     },
     {
       "index": 77,
@@ -1080,7 +1384,11 @@
       "status": "retenu",
       "topic": "Medical Protections : pedagogie visuelle de prevention",
       "note": "signaux manuels LinkedIn / animation 3D; formation",
-      "clientValue": "18 000 €"
+      "clientValue": "18 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "index": 78,
@@ -1094,7 +1402,11 @@
       "status": "retenu",
       "topic": "Retopo Separator : retopologie et qualite mesh",
       "note": "signaux Reddit publics / animation 3D; VFX",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Ariana",
+      "country": "TN",
+      "lat": 36.86,
+      "lon": 10.19
     },
     {
       "index": 79,
@@ -1108,7 +1420,11 @@
       "status": "retenu",
       "topic": "ZBrush courses : expertise formation sculpt/character",
       "note": "jobs et briefs creatifs / Unreal; realtime; character",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Toronto",
+      "country": "CA",
+      "lat": 43.65,
+      "lon": -79.38
     },
     {
       "index": 80,
@@ -1122,7 +1438,11 @@
       "status": "retenu",
       "topic": "Pipeline Doctor : Maya, 3ds Max, Substance, AE, Unreal",
       "note": "marketplace briefs / medical 3D; Unreal; formation",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Bordeaux",
+      "country": "FR",
+      "lat": 44.84,
+      "lon": -0.58
     },
     {
       "index": 81,
@@ -1136,7 +1456,11 @@
       "status": "retenu",
       "topic": "Voxel Brain / Archive R&D",
       "note": "trouver appels d'offres francophones / formation; animation 3D; VR",
-      "clientValue": "120 000 €"
+      "clientValue": "120 000 €",
+      "city": "Berlin",
+      "country": "DE",
+      "lat": 52.52,
+      "lon": 13.4
     },
     {
       "index": 82,
@@ -1150,7 +1474,11 @@
       "status": "retenu",
       "topic": "ComfyUI + n8n : pipeline image/video IA",
       "note": "trouver appels d'offres internationaux / scan 3D; patrimoine; animation 3D",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Copenhague",
+      "country": "DK",
+      "lat": 55.68,
+      "lon": 12.57
     },
     {
       "index": 83,
@@ -1164,7 +1492,11 @@
       "status": "retenu",
       "topic": "Course AI : formation IA et production 3D",
       "note": "trouver projets medical/scientifique / medical 3D; scientific visualization",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Tunis",
+      "country": "TN",
+      "lat": 36.8,
+      "lon": 10.18
     },
     {
       "index": 84,
@@ -1178,7 +1510,11 @@
       "status": "retenu",
       "topic": "IASOBOT : robot/avatar institutionnel",
       "note": "trouver formations ecoles/universites / formation; Unreal; VR",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Austin",
+      "country": "US",
+      "lat": 30.27,
+      "lon": -97.74
     },
     {
       "index": 85,
@@ -1192,7 +1528,11 @@
       "status": "retenu",
       "topic": "Avatar IRIS : digital human R&D",
       "note": "trouver patrimoine et musees / scan 3D; viewer web; patrimoine",
-      "clientValue": "TND 25 000"
+      "clientValue": "TND 25 000",
+      "city": "Nantes",
+      "country": "FR",
+      "lat": 47.22,
+      "lon": -1.55
     },
     {
       "index": 86,
@@ -1206,7 +1546,11 @@
       "status": "retenu",
       "topic": "Unreal / MetaHumans / facial tracking",
       "note": "trouver briefs produit / animation 3D; VFX; produit",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Madrid",
+      "country": "ES",
+      "lat": 40.42,
+      "lon": -3.7
     },
     {
       "index": 87,
@@ -1220,7 +1564,11 @@
       "status": "retenu",
       "topic": "Merck Medical : visualisation scientifique 3D",
       "note": "trouver besoins temps reel / Unreal; avatar; realtime",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "New York",
+      "country": "US",
+      "lat": 40.71,
+      "lon": -74.01
     },
     {
       "index": 88,
@@ -1234,7 +1582,11 @@
       "status": "retenu",
       "topic": "FootLyser : analyse visuelle et pedagogie medicale",
       "note": "trouver missions formation / formation; 3ds Max; Unreal; VR",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Sfax",
+      "country": "TN",
+      "lat": 34.74,
+      "lon": 10.76
     },
     {
       "index": 89,
@@ -1248,7 +1600,11 @@
       "status": "retenu",
       "topic": "Projet Deformations : corps, simulation et enseignement",
       "note": "trouver projets sante / medical 3D; animation",
-      "clientValue": "60 000 €"
+      "clientValue": "60 000 €",
+      "city": "Bangalore",
+      "country": "IN",
+      "lat": 12.97,
+      "lon": 77.59
     },
     {
       "index": 90,
@@ -1262,7 +1618,11 @@
       "status": "retenu",
       "topic": "Cuirasse de Carthage : scan 3D patrimoine",
       "note": "decouvrir forums emplois 3D / animation 3D; pipeline",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Toulouse",
+      "country": "FR",
+      "lat": 43.6,
+      "lon": 1.44
     },
     {
       "index": 91,
@@ -1276,7 +1636,11 @@
       "status": "retenu",
       "topic": "Scan-to-production : de la capture au viewer web",
       "note": "decouvrir forums francophones / Unreal; realtime",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Rome",
+      "country": "IT",
+      "lat": 41.9,
+      "lon": 12.5
     },
     {
       "index": 92,
@@ -1290,7 +1654,11 @@
       "status": "retenu",
       "topic": "Map 3D Haram : reconstruction spatiale et patrimoine",
       "note": "decouvrir demandes scan / scan 3D; photogrammetry",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Nairobi",
+      "country": "KE",
+      "lat": -1.29,
+      "lon": 36.82
     },
     {
       "index": 93,
@@ -1304,7 +1672,11 @@
       "status": "retenu",
       "topic": "Robot Film : personnage, realtime et pipeline narratif",
       "note": "ecoles et universites / formation; animation 3D",
-      "clientValue": "9 500 €"
+      "clientValue": "9 500 €",
+      "city": "Sousse",
+      "country": "TN",
+      "lat": 35.83,
+      "lon": 10.64
     },
     {
       "index": 94,
@@ -1318,7 +1690,11 @@
       "status": "a_nourrir",
       "topic": "Robot Wonderdynamics : IA et animation personnage",
       "note": "institutions publiques / scan 3D; patrimoine",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Dubaï",
+      "country": "AE",
+      "lat": 25.2,
+      "lon": 55.27
     },
     {
       "index": 95,
@@ -1332,7 +1708,11 @@
       "status": "a_nourrir",
       "topic": "OBD Robot : prototype robotique/communication",
       "note": "opportunites locales / formation; VR; Unreal",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Paris",
+      "country": "FR",
+      "lat": 48.85,
+      "lon": 2.35
     },
     {
       "index": 96,
@@ -1346,7 +1726,11 @@
       "status": "retenu",
       "topic": "Projet SANTE / Projet Soin",
       "note": "appels d'offres Tunisie / formation; animation 3D; digital",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Amsterdam",
+      "country": "NL",
+      "lat": 52.37,
+      "lon": 4.9
     },
     {
       "index": 97,
@@ -1360,7 +1744,11 @@
       "status": "retenu",
       "topic": "Medical Protections : pedagogie visuelle de prevention",
       "note": "signaux manuels LinkedIn / animation 3D; formation",
-      "clientValue": "45 000 €"
+      "clientValue": "45 000 €",
+      "city": "Rome",
+      "country": "IT",
+      "lat": 41.9,
+      "lon": 12.5
     },
     {
       "index": 98,
@@ -1374,7 +1762,11 @@
       "status": "retenu",
       "topic": "Retopo Separator : retopologie et qualite mesh",
       "note": "signaux Reddit publics / animation 3D; VFX",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Ariana",
+      "country": "TN",
+      "lat": 36.86,
+      "lon": 10.19
     },
     {
       "index": 99,
@@ -1388,7 +1780,11 @@
       "status": "retenu",
       "topic": "ZBrush courses : expertise formation sculpt/character",
       "note": "jobs et briefs creatifs / Unreal; realtime; character",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Lisbonne",
+      "country": "PT",
+      "lat": 38.72,
+      "lon": -9.14
     },
     {
       "index": 100,
@@ -1402,7 +1798,11 @@
       "status": "retenu",
       "topic": "Pipeline Doctor : Maya, 3ds Max, Substance, AE, Unreal",
       "note": "marketplace briefs / medical 3D; Unreal; formation",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Lyon",
+      "country": "FR",
+      "lat": 45.76,
+      "lon": 4.84
     }
   ],
   "topSites": [
@@ -1414,7 +1814,11 @@
       "score": 100,
       "reason": "appel d'offres animation 3D formation VR / Voxel Brain / Archive R&D",
       "access": "public",
-      "clientValue": "45 000 €"
+      "clientValue": "45 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 2,
@@ -1424,7 +1828,11 @@
       "score": 100,
       "reason": "3D animation tender museum heritage digitization / ComfyUI + n8n : pipeline image/video IA",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 3,
@@ -1434,7 +1842,11 @@
       "score": 100,
       "reason": "medical animation request for proposal / Course AI : formation IA et production 3D",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 4,
@@ -1444,7 +1856,11 @@
       "score": 100,
       "reason": "need 3D product animation freelancer / Unreal / MetaHumans / facial tracking",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 5,
@@ -1454,7 +1870,11 @@
       "score": 100,
       "reason": "looking for Unreal Engine virtual production studio / Merck Medical : visualisation scientifique 3D",
       "access": "public",
-      "clientValue": "30 000 €"
+      "clientValue": "30 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 6,
@@ -1464,7 +1884,11 @@
       "score": 100,
       "reason": "cherche formateur 3ds Max Unreal VR / FootLyser : analyse visuelle et pedagogie medicale",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 7,
@@ -1474,7 +1898,11 @@
       "score": 100,
       "reason": "cherche studio animation 3D medicale / Projet Deformations : corps, simulation et enseignement",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 8,
@@ -1484,7 +1912,11 @@
       "score": 100,
       "reason": "forum projet Unreal Engine freelance / Scan-to-production : de la capture au viewer web",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 9,
@@ -1494,7 +1926,11 @@
       "score": 100,
       "reason": "site:edu 3D animation training request proposal / Robot Film : personnage, realtime et pipeline narratif",
       "access": "public",
-      "clientValue": "TND 80 000"
+      "clientValue": "TND 80 000",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 10,
@@ -1504,7 +1940,11 @@
       "score": 100,
       "reason": "TUNEPS animation 3D formation digitalisation / Projet SANTE / Projet Soin",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 11,
@@ -1514,7 +1954,11 @@
       "score": 100,
       "reason": "LinkedIn post cherche studio 3D animation formation / Medical Protections : pedagogie visuelle de prevention",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 12,
@@ -1524,7 +1968,11 @@
       "score": 100,
       "reason": "ArtStation jobs Unreal virtual production / ZBrush courses : expertise formation sculpt/character",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 13,
@@ -1534,7 +1982,11 @@
       "score": 100,
       "reason": "Upwork 3D medical animation Unreal training / Pipeline Doctor : Maya, 3ds Max, Substance, AE, Unreal",
       "access": "compte_voxel",
-      "clientValue": "18 000 €"
+      "clientValue": "18 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 14,
@@ -1544,7 +1996,11 @@
       "score": 100,
       "reason": "appel d'offres animation 3D formation VR / Voxel Brain / Archive R&D",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 15,
@@ -1554,7 +2010,11 @@
       "score": 100,
       "reason": "3D animation tender museum heritage digitization / ComfyUI + n8n : pipeline image/video IA",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 16,
@@ -1564,7 +2024,11 @@
       "score": 100,
       "reason": "medical animation request for proposal / Course AI : formation IA et production 3D",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 17,
@@ -1574,7 +2038,11 @@
       "score": 100,
       "reason": "need 3D product animation freelancer / Unreal / MetaHumans / facial tracking",
       "access": "public",
-      "clientValue": "120 000 €"
+      "clientValue": "120 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 18,
@@ -1584,7 +2052,11 @@
       "score": 100,
       "reason": "looking for Unreal Engine virtual production studio / Merck Medical : visualisation scientifique 3D",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 19,
@@ -1594,7 +2066,11 @@
       "score": 100,
       "reason": "cherche formateur 3ds Max Unreal VR / FootLyser : analyse visuelle et pedagogie medicale",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 20,
@@ -1604,7 +2080,11 @@
       "score": 100,
       "reason": "cherche studio animation 3D medicale / Projet Deformations : corps, simulation et enseignement",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 21,
@@ -1614,7 +2094,11 @@
       "score": 100,
       "reason": "forum projet Unreal Engine freelance / Scan-to-production : de la capture au viewer web",
       "access": "public",
-      "clientValue": "TND 25 000"
+      "clientValue": "TND 25 000",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 22,
@@ -1624,7 +2108,11 @@
       "score": 100,
       "reason": "3D scanning photogrammetry project request forum / Map 3D Haram : reconstruction spatiale et patrimoine",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 23,
@@ -1634,7 +2122,11 @@
       "score": 100,
       "reason": "site:edu 3D animation training request proposal / Robot Film : personnage, realtime et pipeline narratif",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 24,
@@ -1644,7 +2136,11 @@
       "score": 100,
       "reason": "TUNEPS animation 3D formation digitalisation / Projet SANTE / Projet Soin",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 25,
@@ -1654,7 +2150,11 @@
       "score": 100,
       "reason": "LinkedIn post cherche studio 3D animation formation / Medical Protections : pedagogie visuelle de prevention",
       "access": "public",
-      "clientValue": "60 000 €"
+      "clientValue": "60 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 26,
@@ -1664,7 +2164,11 @@
       "score": 100,
       "reason": "Upwork 3D medical animation Unreal training / Pipeline Doctor : Maya, 3ds Max, Substance, AE, Unreal",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 27,
@@ -1674,7 +2178,11 @@
       "score": 100,
       "reason": "appel d'offres animation 3D formation VR / Voxel Brain / Archive R&D",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 28,
@@ -1684,7 +2192,11 @@
       "score": 100,
       "reason": "3D animation tender museum heritage digitization / ComfyUI + n8n : pipeline image/video IA",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 29,
@@ -1694,7 +2206,11 @@
       "score": 100,
       "reason": "medical animation request for proposal / Course AI : formation IA et production 3D",
       "access": "public",
-      "clientValue": "9 500 €"
+      "clientValue": "9 500 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 30,
@@ -1704,7 +2220,11 @@
       "score": 100,
       "reason": "need 3D product animation freelancer / Unreal / MetaHumans / facial tracking",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 31,
@@ -1714,7 +2234,11 @@
       "score": 100,
       "reason": "looking for Unreal Engine virtual production studio / Merck Medical : visualisation scientifique 3D",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 32,
@@ -1724,7 +2248,11 @@
       "score": 100,
       "reason": "cherche formateur 3ds Max Unreal VR / FootLyser : analyse visuelle et pedagogie medicale",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 33,
@@ -1734,7 +2262,11 @@
       "score": 100,
       "reason": "cherche studio animation 3D medicale / Projet Deformations : corps, simulation et enseignement",
       "access": "compte_voxel",
-      "clientValue": "45 000 €"
+      "clientValue": "45 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 34,
@@ -1744,7 +2276,11 @@
       "score": 100,
       "reason": "forum projet Unreal Engine freelance / Scan-to-production : de la capture au viewer web",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 35,
@@ -1754,7 +2290,11 @@
       "score": 100,
       "reason": "site:edu 3D animation training request proposal / Robot Film : personnage, realtime et pipeline narratif",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 36,
@@ -1764,7 +2304,11 @@
       "score": 100,
       "reason": "TUNEPS animation 3D formation digitalisation / Projet SANTE / Projet Soin",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 37,
@@ -1774,7 +2318,11 @@
       "score": 100,
       "reason": "LinkedIn post cherche studio 3D animation formation / Medical Protections : pedagogie visuelle de prevention",
       "access": "public",
-      "clientValue": "30 000 €"
+      "clientValue": "30 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 38,
@@ -1784,7 +2332,11 @@
       "score": 100,
       "reason": "ArtStation jobs Unreal virtual production / ZBrush courses : expertise formation sculpt/character",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 39,
@@ -1794,7 +2346,11 @@
       "score": 100,
       "reason": "Upwork 3D medical animation Unreal training / Pipeline Doctor : Maya, 3ds Max, Substance, AE, Unreal",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 40,
@@ -1804,7 +2360,11 @@
       "score": 100,
       "reason": "appel d'offres animation 3D formation VR / Voxel Brain / Archive R&D",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 41,
@@ -1814,7 +2374,11 @@
       "score": 100,
       "reason": "3D animation tender museum heritage digitization / ComfyUI + n8n : pipeline image/video IA",
       "access": "public",
-      "clientValue": "TND 80 000"
+      "clientValue": "TND 80 000",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 42,
@@ -1824,7 +2388,11 @@
       "score": 100,
       "reason": "medical animation request for proposal / Course AI : formation IA et production 3D",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 43,
@@ -1834,7 +2402,11 @@
       "score": 100,
       "reason": "need 3D product animation freelancer / Unreal / MetaHumans / facial tracking",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 44,
@@ -1844,7 +2416,11 @@
       "score": 100,
       "reason": "looking for Unreal Engine virtual production studio / Merck Medical : visualisation scientifique 3D",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 45,
@@ -1854,7 +2430,11 @@
       "score": 100,
       "reason": "cherche formateur 3ds Max Unreal VR / FootLyser : analyse visuelle et pedagogie medicale",
       "access": "public",
-      "clientValue": "18 000 €"
+      "clientValue": "18 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 46,
@@ -1864,7 +2444,11 @@
       "score": 100,
       "reason": "cherche studio animation 3D medicale / Projet Deformations : corps, simulation et enseignement",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 47,
@@ -1874,7 +2458,11 @@
       "score": 100,
       "reason": "forum projet Unreal Engine freelance / Scan-to-production : de la capture au viewer web",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 48,
@@ -1884,7 +2472,11 @@
       "score": 100,
       "reason": "3D scanning photogrammetry project request forum / Map 3D Haram : reconstruction spatiale et patrimoine",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 49,
@@ -1894,7 +2486,11 @@
       "score": 100,
       "reason": "site:edu 3D animation training request proposal / Robot Film : personnage, realtime et pipeline narratif",
       "access": "public",
-      "clientValue": "120 000 €"
+      "clientValue": "120 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 50,
@@ -1904,7 +2500,11 @@
       "score": 100,
       "reason": "TUNEPS animation 3D formation digitalisation / Projet SANTE / Projet Soin",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 51,
@@ -1914,7 +2514,11 @@
       "score": 100,
       "reason": "LinkedIn post cherche studio 3D animation formation / Medical Protections : pedagogie visuelle de prevention",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 52,
@@ -1924,7 +2528,11 @@
       "score": 100,
       "reason": "Upwork 3D medical animation Unreal training / Pipeline Doctor : Maya, 3ds Max, Substance, AE, Unreal",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 53,
@@ -1934,7 +2542,11 @@
       "score": 100,
       "reason": "appel d'offres animation 3D formation VR / Voxel Brain / Archive R&D",
       "access": "public",
-      "clientValue": "TND 25 000"
+      "clientValue": "TND 25 000",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 54,
@@ -1944,7 +2556,11 @@
       "score": 100,
       "reason": "3D animation tender museum heritage digitization / ComfyUI + n8n : pipeline image/video IA",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 55,
@@ -1954,7 +2570,11 @@
       "score": 100,
       "reason": "medical animation request for proposal / Course AI : formation IA et production 3D",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 56,
@@ -1964,7 +2584,11 @@
       "score": 100,
       "reason": "need 3D product animation freelancer / Unreal / MetaHumans / facial tracking",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 57,
@@ -1974,7 +2598,11 @@
       "score": 100,
       "reason": "looking for Unreal Engine virtual production studio / Merck Medical : visualisation scientifique 3D",
       "access": "public",
-      "clientValue": "60 000 €"
+      "clientValue": "60 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 58,
@@ -1984,7 +2612,11 @@
       "score": 100,
       "reason": "cherche formateur 3ds Max Unreal VR / FootLyser : analyse visuelle et pedagogie medicale",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 59,
@@ -1994,7 +2626,11 @@
       "score": 100,
       "reason": "cherche studio animation 3D medicale / Projet Deformations : corps, simulation et enseignement",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 60,
@@ -2004,7 +2640,11 @@
       "score": 100,
       "reason": "forum projet Unreal Engine freelance / Scan-to-production : de la capture au viewer web",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 61,
@@ -2014,7 +2654,11 @@
       "score": 100,
       "reason": "site:edu 3D animation training request proposal / Robot Film : personnage, realtime et pipeline narratif",
       "access": "public",
-      "clientValue": "9 500 €"
+      "clientValue": "9 500 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 62,
@@ -2024,7 +2668,11 @@
       "score": 100,
       "reason": "TUNEPS animation 3D formation digitalisation / Projet SANTE / Projet Soin",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 63,
@@ -2034,7 +2682,11 @@
       "score": 100,
       "reason": "LinkedIn post cherche studio 3D animation formation / Medical Protections : pedagogie visuelle de prevention",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 64,
@@ -2044,7 +2696,11 @@
       "score": 100,
       "reason": "ArtStation jobs Unreal virtual production / ZBrush courses : expertise formation sculpt/character",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 65,
@@ -2054,7 +2710,11 @@
       "score": 100,
       "reason": "Upwork 3D medical animation Unreal training / Pipeline Doctor : Maya, 3ds Max, Substance, AE, Unreal",
       "access": "compte_voxel",
-      "clientValue": "45 000 €"
+      "clientValue": "45 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 66,
@@ -2064,7 +2724,11 @@
       "score": 98,
       "reason": "3D scanning photogrammetry project request forum / Map 3D Haram : reconstruction spatiale et patrimoine",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 67,
@@ -2074,7 +2738,11 @@
       "score": 98,
       "reason": "Unreal Engine training tender university / IASOBOT : robot/avatar institutionnel",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 68,
@@ -2084,7 +2752,11 @@
       "score": 98,
       "reason": "3D scanning photogrammetry project request forum / Map 3D Haram : reconstruction spatiale et patrimoine",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 69,
@@ -2094,7 +2766,11 @@
       "score": 98,
       "reason": "Unreal Engine training tender university / IASOBOT : robot/avatar institutionnel",
       "access": "compte_voxel",
-      "clientValue": "30 000 €"
+      "clientValue": "30 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 70,
@@ -2104,7 +2780,11 @@
       "score": 98,
       "reason": "3D scanning photogrammetry project request forum / Map 3D Haram : reconstruction spatiale et patrimoine",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 71,
@@ -2114,7 +2794,11 @@
       "score": 97,
       "reason": "ArtStation jobs Unreal virtual production / ZBrush courses : expertise formation sculpt/character",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 72,
@@ -2124,7 +2808,11 @@
       "score": 97,
       "reason": "ArtStation jobs Unreal virtual production / ZBrush courses : expertise formation sculpt/character",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 73,
@@ -2134,7 +2822,11 @@
       "score": 94,
       "reason": "Unreal Engine training tender university / IASOBOT : robot/avatar institutionnel",
       "access": "compte_voxel",
-      "clientValue": "TND 80 000"
+      "clientValue": "TND 80 000",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 74,
@@ -2144,7 +2836,11 @@
       "score": 94,
       "reason": "digital heritage 3D scanning procurement / Avatar IRIS : digital human R&D",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 75,
@@ -2154,7 +2850,11 @@
       "score": 94,
       "reason": "Unreal Engine training tender university / IASOBOT : robot/avatar institutionnel",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 76,
@@ -2164,7 +2864,11 @@
       "score": 94,
       "reason": "digital heritage 3D scanning procurement / Avatar IRIS : digital human R&D",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 77,
@@ -2174,7 +2878,11 @@
       "score": 94,
       "reason": "Unreal Engine training tender university / IASOBOT : robot/avatar institutionnel",
       "access": "compte_voxel",
-      "clientValue": "18 000 €"
+      "clientValue": "18 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 78,
@@ -2184,7 +2892,11 @@
       "score": 92,
       "reason": "site:reddit.com looking for 3D animation studio / Retopo Separator : retopologie et qualite mesh",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 79,
@@ -2194,7 +2906,11 @@
       "score": 92,
       "reason": "site:reddit.com looking for 3D animation studio / Retopo Separator : retopologie et qualite mesh",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 80,
@@ -2204,7 +2920,11 @@
       "score": 92,
       "reason": "site:reddit.com looking for 3D animation studio / Retopo Separator : retopologie et qualite mesh",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 81,
@@ -2214,7 +2934,11 @@
       "score": 90,
       "reason": "digital heritage 3D scanning procurement / Avatar IRIS : digital human R&D",
       "access": "compte_voxel",
-      "clientValue": "120 000 €"
+      "clientValue": "120 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 82,
@@ -2224,7 +2948,11 @@
       "score": 90,
       "reason": "digital heritage 3D scanning procurement / Avatar IRIS : digital human R&D",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 83,
@@ -2234,7 +2962,11 @@
       "score": 90,
       "reason": "digital heritage 3D scanning procurement / Avatar IRIS : digital human R&D",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 84,
@@ -2244,7 +2976,11 @@
       "score": 89,
       "reason": "best forum 3D jobs animation freelance / Cuirasse de Carthage : scan 3D patrimoine",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 85,
@@ -2254,7 +2990,11 @@
       "score": 89,
       "reason": "best forum 3D jobs animation freelance / Cuirasse de Carthage : scan 3D patrimoine",
       "access": "compte_voxel",
-      "clientValue": "TND 25 000"
+      "clientValue": "TND 25 000",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 86,
@@ -2264,7 +3004,11 @@
       "score": 89,
       "reason": "best forum 3D jobs animation freelance / Cuirasse de Carthage : scan 3D patrimoine",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 87,
@@ -2274,7 +3018,11 @@
       "score": 88,
       "reason": "site:reddit.com looking for 3D animation studio / Retopo Separator : retopologie et qualite mesh",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 88,
@@ -2284,7 +3032,11 @@
       "score": 88,
       "reason": "site:reddit.com looking for 3D animation studio / Retopo Separator : retopologie et qualite mesh",
       "access": "public",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 89,
@@ -2294,7 +3046,11 @@
       "score": 87,
       "reason": "site:gov 3D scanning heritage tender / Robot Wonderdynamics : IA et animation personnage",
       "access": "compte_voxel",
-      "clientValue": "60 000 €"
+      "clientValue": "60 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 90,
@@ -2304,7 +3060,11 @@
       "score": 87,
       "reason": "site:gov 3D scanning heritage tender / Robot Wonderdynamics : IA et animation personnage",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 91,
@@ -2314,7 +3074,11 @@
       "score": 85,
       "reason": "best forum 3D jobs animation freelance / Cuirasse de Carthage : scan 3D patrimoine",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 92,
@@ -2324,7 +3088,11 @@
       "score": 85,
       "reason": "formation VR Unreal Tunisie appel partenariat / OBD Robot : prototype robotique/communication",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 93,
@@ -2334,7 +3102,11 @@
       "score": 85,
       "reason": "best forum 3D jobs animation freelance / Cuirasse de Carthage : scan 3D patrimoine",
       "access": "compte_voxel",
-      "clientValue": "9 500 €"
+      "clientValue": "9 500 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 94,
@@ -2344,7 +3116,11 @@
       "score": 85,
       "reason": "formation VR Unreal Tunisie appel partenariat / OBD Robot : prototype robotique/communication",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 95,
@@ -2354,7 +3130,11 @@
       "score": 83,
       "reason": "site:gov 3D scanning heritage tender / Robot Wonderdynamics : IA et animation personnage",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 96,
@@ -2364,7 +3144,11 @@
       "score": 83,
       "reason": "site:gov 3D scanning heritage tender / Robot Wonderdynamics : IA et animation personnage",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 97,
@@ -2374,7 +3158,11 @@
       "score": 83,
       "reason": "site:gov 3D scanning heritage tender / Robot Wonderdynamics : IA et animation personnage",
       "access": "compte_voxel",
-      "clientValue": "45 000 €"
+      "clientValue": "45 000 €",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 98,
@@ -2384,7 +3172,11 @@
       "score": 81,
       "reason": "formation VR Unreal Tunisie appel partenariat / OBD Robot : prototype robotique/communication",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 99,
@@ -2394,7 +3186,11 @@
       "score": 81,
       "reason": "formation VR Unreal Tunisie appel partenariat / OBD Robot : prototype robotique/communication",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     },
     {
       "rank": 100,
@@ -2404,7 +3200,11 @@
       "score": 81,
       "reason": "formation VR Unreal Tunisie appel partenariat / OBD Robot : prototype robotique/communication",
       "access": "compte_voxel",
-      "clientValue": ""
+      "clientValue": "",
+      "city": "Genève",
+      "country": "CH",
+      "lat": 46.2,
+      "lon": 6.14
     }
   ],
   "exchanges": [
