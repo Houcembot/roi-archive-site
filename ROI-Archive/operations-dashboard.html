@@ -1,0 +1,3293 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ROI-Archive Operations Dashboard</title>
+  <script src="ops/dashboard-data.js"></script>
+  <script src="ops/public-scenario-test-data.js"></script>
+  <script src="ops/public-live-scenario-data.js"></script>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #070908;
+      --panel: #101311;
+      --panel-2: #151916;
+      --ink: #f1f0e8;
+      --muted: #a7aca2;
+      --quiet: #6f766d;
+      --line: #2a302b;
+      --line-strong: #475047;
+      --teal: #0bb4aa;
+      --teal-soft: rgba(11, 180, 170, .16);
+      --amber: #d6a541;
+      --red: #d96a52;
+      --green: #86bf73;
+      --blue: #6f9fd9;
+      --paper: #e8e1cf;
+      /* échelle d'espacement cohérente */
+      --s1: 8px;
+      --s2: 12px;
+      --s3: 18px;
+      --s4: 28px;
+      /* densité atténuée pour la zone Référence */
+      --ref-ink: #c9ccc4;
+      --ref-muted: #7e857b;
+      --ref-panel: #0d100e;
+      --radius: 6px;
+      --font: "Aptos", "Segoe UI", system-ui, sans-serif;
+      --display: "Bahnschrift", "Aptos Display", "Segoe UI", system-ui, sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        linear-gradient(90deg, rgba(255,255,255,.03) 1px, transparent 1px) 0 0 / 48px 48px,
+        linear-gradient(0deg, rgba(255,255,255,.025) 1px, transparent 1px) 0 0 / 48px 48px,
+        var(--bg);
+      color: var(--ink);
+      font-family: var(--font);
+      line-height: 1.45;
+    }
+
+    button, input { font: inherit; }
+
+    .shell {
+      width: min(1640px, calc(100% - 28px));
+      margin: 0 auto;
+      padding: 24px 0 40px;
+    }
+
+    .topbar {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 24px;
+      align-items: center;
+      padding: 14px 0 22px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .quick-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 14px 0 0;
+      padding: 0 0 18px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .quick-nav a {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border: 1px solid var(--line-strong);
+      color: var(--ink);
+      text-decoration: none;
+      font-size: .78rem;
+      font-weight: 800;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      background: #0a0d0b;
+      border-radius: 4px;
+    }
+
+    .quick-nav a:hover { border-color: var(--teal); color: var(--teal); }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      min-width: 0;
+    }
+
+    .brand img {
+      width: 54px;
+      height: 54px;
+      object-fit: contain;
+      background: #050606;
+      border: 1px solid var(--line);
+      padding: 8px;
+    }
+
+    .brand h1 {
+      margin: 0;
+      font-family: var(--display);
+      font-size: 1.7rem;
+      line-height: 1;
+      letter-spacing: 0;
+    }
+
+    .brand p {
+      margin: 5px 0 0;
+      color: var(--muted);
+      font-size: .92rem;
+    }
+
+    .clock {
+      display: grid;
+      grid-template-columns: auto auto;
+      gap: 1px;
+      background: var(--line);
+      border: 1px solid var(--line);
+    }
+
+    .clock div {
+      background: var(--panel);
+      padding: 12px 18px;
+      min-width: 132px;
+    }
+
+    .clock span {
+      display: block;
+      color: var(--quiet);
+      font-size: .72rem;
+      font-weight: 800;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    .clock strong {
+      display: block;
+      margin-top: 3px;
+      font-family: var(--display);
+      font-size: 1.35rem;
+      letter-spacing: 0;
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(0, .88fr) minmax(420px, 1.12fr);
+      gap: 18px;
+      padding: 22px 0;
+    }
+
+    .objective-band {
+      display: grid;
+      grid-template-columns: minmax(0, 1.6fr) minmax(280px, 1fr);
+      gap: var(--s4);
+      align-items: center;
+      padding: var(--s4) 0;
+      border-bottom: 1px solid var(--line-strong);
+    }
+    .objective-band .mission .label { color: var(--teal); }
+    .objective-band .mission h2 {
+      margin: var(--s1) 0 0;
+      font-family: var(--display);
+      font-size: 2.4rem;
+      line-height: 1.02;
+      max-width: 760px;
+    }
+    .objective-band .mission p {
+      margin: var(--s2) 0 0;
+      color: var(--muted);
+      font-size: .95rem;
+      max-width: 720px;
+    }
+    .objective-north {
+      border: 1px solid var(--teal);
+      background: linear-gradient(145deg, var(--teal-soft), transparent 60%), var(--panel);
+      padding: var(--s3);
+    }
+    .objective-north > span {
+      color: var(--quiet); font-size: .72rem; font-weight: 900;
+      letter-spacing: .14em; text-transform: uppercase;
+    }
+    .objective-north .north-value {
+      display: block; margin: var(--s1) 0 var(--s2);
+      font-family: var(--display); font-size: 3.4rem; line-height: 1; color: var(--teal);
+    }
+    .objective-support {
+      display: grid; grid-template-columns: repeat(3, 1fr);
+      gap: 1px; background: var(--line); border-top: 1px solid var(--line);
+    }
+    .objective-support div { background: var(--panel); padding: var(--s1) var(--s2); }
+    .objective-support span {
+      display: block; color: var(--quiet); font-size: .64rem;
+      letter-spacing: .1em; text-transform: uppercase;
+    }
+    .objective-support strong {
+      display: block; margin-top: 4px; font-family: var(--display); font-size: 1.2rem;
+    }
+
+    .command {
+      border: 1px solid var(--line);
+      background: linear-gradient(145deg, rgba(11,180,170,.09), transparent 40%), var(--panel);
+      padding: 24px;
+      min-height: 320px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .label {
+      color: var(--teal);
+      font-size: .76rem;
+      font-weight: 900;
+      letter-spacing: .18em;
+      text-transform: uppercase;
+    }
+
+    .command h2 {
+      margin: 16px 0 0;
+      font-family: var(--display);
+      font-size: 2rem;
+      line-height: .96;
+      letter-spacing: 0;
+      max-width: 760px;
+    }
+
+    .command p {
+      margin: 18px 0 0;
+      max-width: 780px;
+      color: var(--muted);
+      font-size: 1rem;
+    }
+
+    .next-action {
+      margin-top: 24px;
+      border-top: 1px solid var(--line);
+      padding-top: 18px;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 18px;
+      align-items: start;
+    }
+
+    .stamp {
+      min-width: 90px;
+      border: 1px solid var(--teal);
+      color: var(--teal);
+      padding: 10px 12px;
+      text-align: center;
+      font-family: var(--display);
+      font-weight: 800;
+      font-size: 1.3rem;
+    }
+
+    .next-action h3 {
+      margin: 0;
+      font-size: 1.12rem;
+    }
+
+    .next-action p {
+      margin: 6px 0 0;
+      font-size: .9rem;
+    }
+
+    .objective-banner {
+      display: grid;
+      grid-template-columns: minmax(0, 1.3fr) minmax(320px, .9fr);
+      gap: 1px;
+      background: var(--line);
+      margin-top: 18px;
+    }
+
+    .objective-lead,
+    .objective-stack {
+      background: var(--panel);
+      padding: 18px;
+    }
+
+    .objective-lead {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      min-height: 180px;
+    }
+
+    .objective-lead span,
+    .objective-mini span {
+      color: var(--quiet);
+      font-size: .72rem;
+      font-weight: 900;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    .objective-lead strong {
+      display: block;
+      margin-top: 10px;
+      font-family: var(--display);
+      font-size: 1.9rem;
+      line-height: 1.02;
+      letter-spacing: 0;
+      max-width: 900px;
+    }
+
+    .objective-lead p {
+      margin: 12px 0 0;
+      color: var(--muted);
+      font-size: .92rem;
+      max-width: 920px;
+    }
+
+    .objective-stack {
+      display: grid;
+      gap: 1px;
+      background: var(--line);
+      padding: 0;
+    }
+
+    .objective-mini {
+      background: #0c0f0d;
+      padding: 16px 18px;
+      min-height: 58px;
+    }
+
+    .objective-mini strong {
+      display: block;
+      margin-top: 6px;
+      font-family: var(--display);
+      font-size: 1rem;
+    }
+
+    .objective-mini p {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: .8rem;
+    }
+
+    .kpis {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 1px;
+      background: var(--line);
+      border: 1px solid var(--line);
+    }
+
+    .kpi {
+      background: var(--panel);
+      padding: 18px;
+      min-height: 150px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      position: relative;
+    }
+
+    .kpi::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 44px;
+      height: 3px;
+      background: var(--teal);
+    }
+
+    .kpi.warn::after { background: var(--amber); }
+    .kpi.risk::after { background: var(--red); }
+
+    .kpi span {
+      color: var(--quiet);
+      font-size: .74rem;
+      font-weight: 800;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    .kpi strong {
+      display: block;
+      margin-top: 10px;
+      font-family: var(--display);
+      font-size: 2.25rem;
+      line-height: 1;
+    }
+
+    .kpi p {
+      margin: 14px 0 0;
+      color: var(--muted);
+      font-size: .9rem;
+    }
+
+    .kpis {
+      align-self: stretch;
+    }
+
+    .analytics-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.35fr) minmax(260px, .65fr) minmax(260px, .65fr) minmax(280px, .7fr);
+      gap: 1px;
+      background: var(--line);
+    }
+
+    .chart-card {
+      background: var(--panel);
+      min-height: 280px;
+      padding: 18px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .chart-card h3 {
+      margin: 8px 0 0;
+      font-family: var(--display);
+      font-size: 1.05rem;
+    }
+
+    .chart-card p {
+      margin: 6px 0 0;
+      color: var(--quiet);
+      font-size: .82rem;
+    }
+
+    .line-chart {
+      width: 100%;
+      height: 210px;
+      margin-top: 12px;
+      display: block;
+    }
+
+    .line-chart .grid-line { stroke: rgba(255,255,255,.08); stroke-width: 1; }
+    .line-chart .axis-label { fill: var(--quiet); font: 700 10px var(--font); }
+    .line-chart .search-line { fill: none; stroke: var(--teal); stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+    .line-chart .opp-line { fill: none; stroke: var(--amber); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+    .line-chart .action-line { fill: none; stroke: var(--blue); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+    .line-chart circle { stroke: var(--panel); stroke-width: 2; }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 10px;
+      color: var(--muted);
+      font-size: .78rem;
+    }
+
+    .legend i {
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      margin-right: 6px;
+      border-radius: 50%;
+      vertical-align: -1px;
+    }
+
+    .donut-wrap, .pie-wrap {
+      min-height: 178px;
+      display: grid;
+      place-items: center;
+      margin-top: 12px;
+    }
+
+    .donut, .pie {
+      width: min(180px, 78%);
+      aspect-ratio: 1;
+      border-radius: 50%;
+      background: conic-gradient(var(--teal) 0 100%);
+      position: relative;
+      border: 1px solid var(--line-strong);
+    }
+
+    .donut::after {
+      content: attr(data-center);
+      position: absolute;
+      inset: 22%;
+      border-radius: 50%;
+      background: var(--panel);
+      display: grid;
+      place-items: center;
+      color: var(--ink);
+      font-family: var(--display);
+      font-size: 1.15rem;
+      font-weight: 900;
+      text-align: center;
+      padding: 8px;
+    }
+
+    .pie::after {
+      content: "";
+      position: absolute;
+      inset: 42%;
+      border-radius: 50%;
+      background: var(--panel);
+      border: 1px solid var(--line);
+    }
+
+    .chart-list {
+      margin: 12px 0 0;
+      padding: 0;
+      list-style: none;
+      display: grid;
+      gap: 7px;
+    }
+
+    .chart-list li {
+      display: grid;
+      grid-template-columns: 12px minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 8px;
+      color: var(--muted);
+      font-size: .8rem;
+    }
+
+    .chart-list i {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+    }
+
+    .funnel {
+      display: grid;
+      gap: 9px;
+      margin-top: 16px;
+    }
+
+    .funnel-row {
+      display: grid;
+      grid-template-columns: 92px 1fr 38px;
+      align-items: center;
+      gap: 10px;
+      color: var(--muted);
+      font-size: .8rem;
+    }
+
+    .funnel-bar {
+      height: 13px;
+      background: #0b0e0c;
+      border: 1px solid var(--line);
+      overflow: hidden;
+    }
+
+    .funnel-bar span {
+      display: block;
+      height: 100%;
+      background: linear-gradient(90deg, var(--teal), var(--amber));
+    }
+
+    .model-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 1px;
+      background: var(--line);
+    }
+
+    .model-card {
+      background: var(--panel);
+      min-height: 220px;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .model-card h3 {
+      margin: 10px 0 0;
+      font-family: var(--display);
+      font-size: 1.2rem;
+    }
+
+    .model-card dl {
+      margin: 14px 0 0;
+      display: grid;
+      gap: 8px;
+    }
+
+    .model-card div {
+      min-width: 0;
+    }
+
+    .model-card dt {
+      color: var(--quiet);
+      font-size: .68rem;
+      font-weight: 900;
+      letter-spacing: .11em;
+      text-transform: uppercase;
+    }
+
+    .model-card dd {
+      margin: 3px 0 0;
+      color: var(--muted);
+      font-size: .82rem;
+      overflow-wrap: anywhere;
+    }
+
+    .live-strip {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 16px;
+      padding: 14px 18px;
+      border-top: 1px solid var(--line);
+      background: #0c0f0d;
+    }
+
+    .progress-ring {
+      width: 68px;
+      aspect-ratio: 1;
+      border-radius: 50%;
+      background: conic-gradient(var(--teal) var(--progress, 0%), #20251f 0);
+      display: grid;
+      place-items: center;
+      border: 1px solid var(--line-strong);
+      font-family: var(--display);
+      font-weight: 900;
+    }
+
+    .progress-ring::after {
+      content: attr(data-label);
+      width: 48px;
+      aspect-ratio: 1;
+      border-radius: 50%;
+      background: var(--panel);
+      display: grid;
+      place-items: center;
+      font-size: .82rem;
+    }
+
+    .live-strip strong {
+      display: block;
+      font-family: var(--display);
+      font-size: 1.05rem;
+    }
+
+    .live-strip span {
+      color: var(--muted);
+      font-size: .84rem;
+    }
+
+    .bridge {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 1px;
+      background: var(--line);
+      border-top: 1px solid var(--line);
+    }
+
+    .bridge-card {
+      background: var(--panel);
+      padding: 14px 16px;
+      min-height: 112px;
+    }
+
+    .bridge-card strong {
+      display: block;
+      margin-top: 8px;
+      font-family: var(--display);
+      font-size: 1rem;
+      overflow-wrap: anywhere;
+    }
+
+    .bridge-card p {
+      margin: 8px 0 0;
+      color: var(--muted);
+      font-size: .82rem;
+      overflow-wrap: anywhere;
+    }
+
+    .secret-doc {
+      margin-top: 18px;
+      border: 1px solid var(--line);
+      background: rgba(12, 15, 13, .9);
+    }
+
+    .secret-doc summary {
+      list-style: none;
+      cursor: pointer;
+      padding: 16px 18px;
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 12px;
+    }
+
+    .secret-doc summary::-webkit-details-marker { display: none; }
+
+    .secret-doc h3 {
+      margin: 0;
+      font-family: var(--display);
+      font-size: 1.05rem;
+    }
+
+    .secret-doc p {
+      margin: 0;
+      color: var(--quiet);
+      font-size: .82rem;
+    }
+
+    .vault-link {
+      display: inline-flex;
+      align-items: center;
+      margin-top: 8px;
+      color: var(--teal);
+      text-decoration: none;
+      font-size: .8rem;
+      font-weight: 700;
+      letter-spacing: .02em;
+    }
+
+    .vault-link:hover { text-decoration: underline; }
+
+    .live-day-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.3fr) minmax(360px, .7fr);
+      gap: 1px;
+      background: var(--line);
+      margin-top: 18px;
+    }
+
+    .live-panel {
+      background: rgba(15, 18, 16, .95);
+      padding: 16px 18px 18px;
+      min-height: 240px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .live-panel h3 {
+      margin: 0;
+      font-family: var(--display);
+      font-size: 1.05rem;
+    }
+
+    .live-panel p {
+      margin: 6px 0 0;
+      color: var(--quiet);
+      font-size: .82rem;
+    }
+
+    .live-summary {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 1px;
+      background: var(--line);
+      margin: 14px 0 16px;
+    }
+
+    .live-summary div {
+      background: #0b0e0c;
+      padding: 12px 14px;
+    }
+
+    .live-summary span {
+      display: block;
+      color: var(--quiet);
+      font-size: .7rem;
+      text-transform: uppercase;
+      letter-spacing: .12em;
+      font-weight: 800;
+    }
+
+    .live-summary strong {
+      display: block;
+      margin-top: 8px;
+      font-family: var(--display);
+      font-size: 1.1rem;
+    }
+
+    .exchange-zone {
+      margin: 0 0 16px;
+      border: 1px solid var(--line);
+      background: #0a0d0b;
+    }
+
+    .exchange-zone-head {
+      padding: 14px 18px 12px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .exchange-zone-head span {
+      display: block;
+      color: var(--teal);
+      font-size: .72rem;
+      font-weight: 900;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+    }
+
+    .exchange-zone-head strong {
+      display: block;
+      margin-top: 8px;
+      font-family: var(--display);
+      font-size: 1.05rem;
+      letter-spacing: 0;
+    }
+
+    .exchange-zone-head p {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: .84rem;
+    }
+
+    .exchange-pipe {
+      display: flex;
+      align-items: stretch;
+      gap: 0;
+      margin-top: var(--s2);
+    }
+    .exchange-node {
+      flex: 1;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      padding: var(--s2);
+      border-radius: var(--radius);
+    }
+    .exchange-node .role {
+      color: var(--quiet);
+      font-size: .64rem;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+    .exchange-node b {
+      display: block;
+      font-family: var(--display);
+      font-size: 1rem;
+      margin-top: 4px;
+    }
+    .exchange-node .count {
+      display: block;
+      margin-top: 6px;
+      color: var(--teal);
+      font-weight: 800;
+      font-size: .82rem;
+      min-height: 1em;
+    }
+    .exchange-arrow {
+      display: flex;
+      align-items: center;
+      padding: 0 var(--s1);
+      color: var(--line-strong);
+      font-size: 1.1rem;
+      transition: color .3s, text-shadow .3s;
+    }
+    .exchange-zone.is-live .exchange-arrow {
+      color: var(--teal);
+      text-shadow: 0 0 8px rgba(11, 180, 170, .8);
+      animation: pulseArrow 1.1s ease-in-out infinite;
+    }
+    @keyframes pulseArrow { 0%, 100% { opacity: .5 } 50% { opacity: 1 } }
+    .exchange-journal {
+      margin-top: var(--s2);
+      border-top: 1px solid var(--line);
+      padding-top: var(--s2);
+      display: grid;
+      gap: 4px;
+    }
+    .exchange-journal .jrow {
+      display: grid;
+      grid-template-columns: 52px 160px 1fr;
+      gap: var(--s1);
+      font-size: .82rem;
+      padding: 4px 0;
+    }
+    .exchange-journal .jt { color: var(--quiet); font-variant-numeric: tabular-nums; }
+    .exchange-journal .jf { color: var(--teal); font-weight: 700; }
+    .exchange-journal .js { color: var(--muted); }
+    .exchange-journal:empty::before {
+      content: "En attente du premier échange.";
+      color: var(--quiet);
+      font-size: .82rem;
+    }
+    /* Intérêt Voxel (dérivé du fit) + valeur client par projet */
+    .interest {
+      display: inline-flex;
+      align-items: baseline;
+      gap: 6px;
+      font-size: .7rem;
+      font-weight: 800;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+    }
+    .interest i {
+      font-style: normal;
+      font-weight: 700;
+      opacity: .55;
+      font-variant-numeric: tabular-nums;
+    }
+    .interest-fort { color: var(--teal); }
+    .interest-moyen { color: var(--blue); }
+    .interest-suivre { color: var(--quiet); }
+    .val { font-variant-numeric: tabular-nums; color: var(--paper); }
+    .val-unknown { color: var(--quiet); font-style: italic; }
+    .live-search-table td small {
+      display: block;
+      margin-top: 2px;
+      color: var(--quiet);
+      font-size: .72rem;
+      line-height: 1.3;
+    }
+    .top-meta { display: block; margin-top: 4px; color: var(--muted); font-size: .76rem; }
+    /* Barre de progression linéaire (temps réel pendant le replay) */
+    .live-progress-bar {
+      grid-column: 1 / -1;
+      height: 6px;
+      margin-top: var(--s1);
+      background: #20251f;
+      border-radius: 3px;
+      overflow: hidden;
+    }
+    .live-progress-bar > span {
+      display: block;
+      height: 100%;
+      width: 0%;
+      background: var(--teal);
+      transition: width .4s ease;
+    }
+    /* Graphiques explicatifs remontés en pilotage */
+    .explain-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1.3fr);
+      gap: 1px;
+      background: var(--line);
+      border: 1px solid var(--line);
+      margin-top: var(--s3);
+    }
+    .explain-grid > .chart-card { margin: 0; }
+
+    .live-scroll {
+      max-height: 430px;
+      overflow: auto;
+      border: 1px solid var(--line);
+    }
+
+    .table-wrap table tr:nth-child(even) td {
+      background: rgba(255,255,255,.015);
+    }
+
+    .table-wrap table tr:hover td {
+      background: rgba(11,180,170,.05);
+    }
+
+    .live-search-table,
+    .live-trace-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .live-search-table th,
+    .live-search-table td,
+    .live-trace-table th,
+    .live-trace-table td {
+      padding: 10px 12px;
+      border-bottom: 1px solid var(--line);
+      text-align: left;
+      vertical-align: top;
+      font-size: .82rem;
+    }
+
+    .live-search-table th,
+    .live-trace-table th {
+      color: var(--quiet);
+      font-size: .68rem;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      background: #0a0d0b;
+      position: sticky;
+      top: 0;
+      z-index: 1;
+    }
+
+    .live-search-table tbody tr:nth-child(even) { background: rgba(255, 255, 255, .015); }
+    .live-search-table tbody tr:hover { background: rgba(11, 180, 170, .06); }
+
+    .live-top10,
+    .live-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: grid;
+      gap: 8px;
+    }
+
+    .live-top10 li,
+    .live-list li {
+      border: 1px solid var(--line);
+      background: #0b0e0c;
+      padding: 10px 12px;
+      display: grid;
+      gap: 4px;
+    }
+
+    .live-top10 .row,
+    .live-list .row {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: baseline;
+    }
+
+    .live-top10 strong,
+    .live-list strong {
+      font-family: var(--display);
+      font-size: .95rem;
+    }
+
+    .live-top10 span,
+    .live-list span {
+      color: var(--muted);
+      font-size: .8rem;
+    }
+
+    .live-top10 a,
+    .table-wrap a {
+      color: inherit;
+      text-decoration-color: rgba(11,180,170,.45);
+    }
+
+    .live-top10 a:hover,
+    .table-wrap a:hover {
+      color: var(--teal);
+    }
+
+    .live-trace {
+      display: grid;
+      gap: 8px;
+    }
+
+    .mission-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1px;
+      background: var(--line);
+    }
+
+    .mission-card {
+      background: var(--panel);
+      padding: 16px 18px;
+      min-height: 166px;
+    }
+
+    .mission-card span {
+      display: block;
+      color: var(--quiet);
+      text-transform: uppercase;
+      letter-spacing: .12em;
+      font-size: .7rem;
+      font-weight: 800;
+    }
+
+    .mission-card strong {
+      display: block;
+      margin-top: 10px;
+      font-family: var(--display);
+      font-size: 1.1rem;
+      line-height: 1.15;
+    }
+
+    .mission-card p {
+      margin: 12px 0 0;
+      color: var(--muted);
+      font-size: .9rem;
+    }
+
+    .secret-table {
+      width: 100%;
+      border-collapse: collapse;
+      border-top: 1px solid var(--line);
+    }
+
+    .secret-table th, .secret-table td {
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--line);
+      font-size: .86rem;
+      vertical-align: top;
+    }
+
+    .secret-table th {
+      color: var(--quiet);
+      font-size: .7rem;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      background: #0a0d0b;
+    }
+
+    .section {
+      margin-top: 18px;
+      border: 1px solid var(--line);
+      background: rgba(16, 19, 17, .82);
+      overflow: hidden;
+    }
+
+    .section-head {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 16px 18px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .section-head h2 {
+      margin: 0;
+      font-family: var(--display);
+      font-size: 1.2rem;
+      letter-spacing: 0;
+    }
+
+    .section-head p {
+      margin: 4px 0 0;
+      color: var(--quiet);
+      font-size: .82rem;
+    }
+
+    .live-controls {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .live-mode {
+      color: var(--quiet);
+      font-size: .72rem;
+      font-weight: 900;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    .live-action {
+      border: 1px solid var(--line-strong);
+      background: rgba(10, 13, 11, .95);
+      color: var(--ink);
+      padding: 9px 12px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: .82rem;
+      font-weight: 800;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .live-action[data-running="true"] {
+      border-color: rgba(134,191,115,.55);
+      color: var(--green);
+    }
+
+    .live-action[data-running="false"] {
+      border-color: rgba(111,159,217,.55);
+      color: var(--blue);
+    }
+
+    .section, .live-panel, .mission-card, .chart-card, .model-card, .bridge-card, .item, .email-slot, .queue-item, .log-item {
+      border-radius: var(--radius);
+    }
+
+    table tbody tr:last-child td {
+      border-bottom: 0;
+    }
+
+    .command-shell {
+      display: grid;
+      grid-template-columns: minmax(0, 1.2fr) minmax(340px, .8fr);
+      gap: 1px;
+      background: var(--line);
+      margin-top: 18px;
+    }
+
+    .command-pane {
+      background: rgba(14, 17, 15, .96);
+      padding: 16px 18px 18px;
+      min-width: 0;
+    }
+
+    .command-pane h3 {
+      margin: 0;
+      font-family: var(--display);
+      font-size: 1rem;
+    }
+
+    .command-pane p {
+      margin: 6px 0 0;
+      color: var(--quiet);
+      font-size: .82rem;
+    }
+
+    .command-actions {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .command-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 14px;
+    }
+
+    .command-pills button,
+    .command-foot button {
+      border: 1px solid var(--line-strong);
+      background: #0b0e0c;
+      color: var(--ink);
+      padding: 8px 11px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: .78rem;
+      font-weight: 800;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+    }
+
+    .command-pills button[data-kind="reply"],
+    .command-pills button[data-kind="submit"] { border-color: rgba(134,191,115,.55); color: var(--green); }
+    .command-pills button[data-kind="validate"] { border-color: rgba(214,165,65,.55); color: var(--amber); }
+    .command-pills button[data-kind="site"] { border-color: rgba(111,159,217,.55); color: var(--blue); }
+
+    .command-form {
+      display: grid;
+      gap: 14px;
+      margin-top: 14px;
+    }
+
+    .field-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .field {
+      display: grid;
+      gap: 6px;
+      min-width: 0;
+    }
+
+    .field label {
+      color: var(--quiet);
+      font-size: .7rem;
+      font-weight: 800;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    .field select,
+    .field input,
+    .field textarea {
+      width: 100%;
+      border: 1px solid var(--line-strong);
+      background: #0a0d0b;
+      color: var(--ink);
+      padding: 10px 12px;
+      border-radius: 4px;
+      min-width: 0;
+    }
+
+    .field textarea {
+      min-height: 150px;
+      resize: vertical;
+      line-height: 1.4;
+    }
+
+    .command-preview {
+      border: 1px solid var(--line);
+      background: #0a0d0b;
+      padding: 12px 14px;
+      min-height: 120px;
+      white-space: pre-wrap;
+      overflow-wrap: anywhere;
+      font-size: .84rem;
+    }
+
+    .command-queue,
+    .command-log {
+      display: grid;
+      gap: 8px;
+      margin-top: 14px;
+      max-height: 320px;
+      overflow: auto;
+    }
+
+    .queue-item,
+    .log-item {
+      border: 1px solid var(--line);
+      background: #0b0e0c;
+      padding: 10px 12px;
+      min-width: 0;
+    }
+
+    .queue-item button {
+      border: 0;
+      background: transparent;
+      color: inherit;
+      width: 100%;
+      text-align: left;
+      padding: 0;
+      cursor: pointer;
+    }
+
+    .queue-item strong,
+    .log-item strong {
+      display: block;
+      font-size: .9rem;
+    }
+
+    .queue-item span,
+    .log-item span {
+      display: block;
+      color: var(--muted);
+      font-size: .8rem;
+      margin-top: 4px;
+      overflow-wrap: anywhere;
+    }
+
+    .command-foot {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-top: 12px;
+    }
+
+    .gate-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(4, 5, 5, .92);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      z-index: 80;
+    }
+
+    .gate-overlay.active {
+      display: flex;
+    }
+
+    .gate-card {
+      width: min(560px, 100%);
+      border: 1px solid var(--line-strong);
+      background: #0b0e0c;
+      padding: 22px;
+    }
+
+    .gate-card h2 {
+      margin: 0;
+      font-family: var(--display);
+      font-size: 1.6rem;
+    }
+
+    .gate-card p {
+      margin: 10px 0 0;
+      color: var(--muted);
+    }
+
+    .gate-card .field {
+      margin-top: 16px;
+    }
+
+    .gate-card .command-foot {
+      margin-top: 16px;
+    }
+
+    body[data-dashboard-unlocked="false"] [data-secret-panel="command"] {
+      display: none;
+    }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: flex-end;
+    }
+
+    .filter {
+      border: 1px solid var(--line-strong);
+      background: transparent;
+      color: var(--muted);
+      padding: 8px 10px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: .82rem;
+      font-weight: 800;
+    }
+
+    .filter.active {
+      background: var(--teal);
+      color: #04100f;
+      border-color: var(--teal);
+    }
+
+    .week-grid {
+      display: grid;
+      grid-template-columns: repeat(7, minmax(0, 1fr));
+      gap: 1px;
+      background: var(--line);
+    }
+
+    .day {
+      background: var(--panel);
+      min-height: 178px;
+      padding: 14px;
+      border-top: 3px solid transparent;
+    }
+
+    .day.today { border-top-color: var(--teal); }
+
+    .day .day-title {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      align-items: baseline;
+    }
+
+    .day strong {
+      font-family: var(--display);
+      font-size: 1rem;
+    }
+
+    .day time {
+      color: var(--teal);
+      font-weight: 900;
+      font-size: .84rem;
+    }
+
+    .day p {
+      margin: 12px 0 0;
+      color: var(--muted);
+      font-size: .86rem;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      min-height: 24px;
+      padding: 4px 8px;
+      margin-top: 12px;
+      border: 1px solid var(--line-strong);
+      color: var(--muted);
+      border-radius: 99px;
+      font-size: .72rem;
+      font-weight: 900;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    .badge.ok, .badge.planifie, .badge.actif, .badge.pret { border-color: rgba(134,191,115,.55); color: var(--green); }
+    .badge.warn, .badge.a_valider, .badge.attention, .badge.a_connecter { border-color: rgba(214,165,65,.62); color: var(--amber); }
+    .badge.risk, .badge.haut { border-color: rgba(217,106,82,.7); color: var(--red); }
+    .badge.reserve, .badge.optionnel { color: var(--blue); border-color: rgba(111,159,217,.55); }
+
+    .agent-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 1px;
+      background: var(--line);
+    }
+
+    .agent {
+      background: var(--panel);
+      padding: 16px;
+      min-height: 210px;
+    }
+
+    .agent h3 {
+      margin: 10px 0 0;
+      font-family: var(--display);
+      font-size: 1.2rem;
+    }
+
+    .agent p {
+      margin: 10px 0 0;
+      color: var(--muted);
+      font-size: .88rem;
+    }
+
+    .split {
+      display: grid;
+      grid-template-columns: minmax(0, 1.35fr) minmax(360px, .65fr);
+      gap: 18px;
+      margin-top: 18px;
+    }
+
+    .table-wrap { overflow-x: auto; }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 780px;
+    }
+
+    th, td {
+      padding: 13px 14px;
+      border-bottom: 1px solid var(--line);
+      text-align: left;
+      vertical-align: top;
+      font-size: .88rem;
+    }
+
+    th {
+      color: var(--quiet);
+      font-size: .72rem;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      background: #0c0f0d;
+    }
+
+    td strong { display: block; color: var(--ink); }
+    td small { display: block; margin-top: 4px; color: var(--quiet); font-size: .78rem; }
+
+    .side-stack {
+      display: grid;
+      gap: 18px;
+    }
+
+    .list {
+      display: grid;
+      gap: 1px;
+      background: var(--line);
+    }
+
+    .item {
+      background: var(--panel);
+      padding: 14px;
+    }
+
+    .item h3 {
+      margin: 8px 0 0;
+      font-size: .98rem;
+    }
+
+    .item p {
+      margin: 8px 0 0;
+      color: var(--muted);
+      font-size: .86rem;
+    }
+
+    .email-grid {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 1px;
+      background: var(--line);
+    }
+
+    .email-slot {
+      background: var(--panel);
+      min-height: 124px;
+      padding: 13px;
+    }
+
+    .email-slot strong {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      font-family: var(--display);
+    }
+
+    .email-slot p {
+      margin: 10px 0 0;
+      color: var(--muted);
+      font-size: .82rem;
+    }
+
+    .report {
+      display: grid;
+      grid-template-columns: minmax(0, .75fr) minmax(0, 1.25fr);
+      gap: 1px;
+      background: var(--line);
+    }
+
+    .report-panel {
+      background: var(--panel);
+      padding: 18px;
+    }
+
+    .report-lines {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: grid;
+      gap: 8px;
+    }
+
+    .report-lines li {
+      border-left: 2px solid var(--teal);
+      padding-left: 10px;
+      color: var(--muted);
+      font-size: .9rem;
+    }
+
+    .footer {
+      margin-top: 18px;
+      padding: 18px 0 0;
+      color: var(--quiet);
+      font-size: .82rem;
+      border-top: 1px solid var(--line);
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    @media (max-width: 1160px) {
+      .hero, .split, .report { grid-template-columns: 1fr; }
+      .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .week-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .agent-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .email-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .analytics-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .model-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+
+    @media (max-width: 720px) {
+      .shell { width: min(100% - 20px, 1540px); padding-top: 12px; }
+      .topbar, .next-action { grid-template-columns: 1fr; }
+      .clock { grid-template-columns: 1fr; }
+      .hero { padding-top: 12px; }
+      .command h2 { font-size: 2.15rem; }
+      .kpis, .week-grid, .agent-grid, .email-grid, .analytics-grid, .model-grid { grid-template-columns: 1fr; }
+      .live-day-grid, .live-summary { grid-template-columns: 1fr; }
+      .objective-banner, .exchange-band { grid-template-columns: 1fr; }
+      .section-head { align-items: flex-start; flex-direction: column; }
+      .toolbar { justify-content: flex-start; }
+      .live-strip { grid-template-columns: 1fr; }
+      .bridge { grid-template-columns: 1fr; }
+      .secret-doc summary { flex-direction: column; align-items: flex-start; }
+      .mission-grid { grid-template-columns: 1fr; }
+    }
+    .zone-divider {
+      display: flex; align-items: center; gap: var(--s2);
+      margin: var(--s4) 0 var(--s3);
+      color: var(--quiet); font-size: .74rem; font-weight: 900;
+      letter-spacing: .18em; text-transform: uppercase;
+    }
+    .zone-divider::after {
+      content: ""; flex: 1; height: 1px; background: var(--line);
+    }
+    .reference-zone .section h2 { color: var(--ref-ink); }
+    .reference-zone .section p { color: var(--ref-muted); }
+    .reference-zone .section { opacity: .92; }
+    .reference-zone .chart-card,
+    .reference-zone .model-card,
+    .reference-zone .item { background: var(--ref-panel); }
+  </style>
+  <script>window.ROI_ARCHIVE_PUBLIC = true;</script>
+</head>
+<body>
+  <div class="gate-overlay" id="gate-overlay" aria-hidden="true">
+    <div class="gate-card">
+      <span class="label">Acces limite</span>
+      <h2>Deverrouiller le dashboard</h2>
+      <p>Le mode public limite l'acces aux commandes. Entre le code pour afficher le panneau de commande complet.</p>
+      <div class="field">
+        <label for="gate-passcode">Code d'acces</label>
+        <input id="gate-passcode" type="password" autocomplete="off" placeholder="Code">
+      </div>
+      <div class="command-foot">
+        <button type="button" id="gate-unlock">Deverrouiller</button>
+        <button type="button" id="gate-close">Fermer</button>
+      </div>
+      <p id="gate-feedback" style="margin-top:12px"></p>
+    </div>
+  </div>
+  <main class="shell">
+    <header class="topbar">
+      <div class="brand">
+        <img src="assets/logo_alpha3.webp" alt="Voxel Studio">
+        <div>
+          <h1>ROI-Archive Operations</h1>
+          <p>ScrapBot, ComBot, InfoBot, passations, emails, validations et posts.</p>
+        </div>
+      </div>
+      <div class="clock" aria-label="Horaires officiels">
+        <div>
+          <span>Heure officielle</span>
+          <strong id="official-time">09:00</strong>
+        </div>
+        <div>
+          <span>Fuseau</span>
+          <strong id="timezone">Europe/Paris</strong>
+        </div>
+      </div>
+    </header>
+
+    <nav class="quick-nav" aria-label="Navigation rapide">
+      <a href="#live-day">Live day</a>
+      <a href="#command-center">Commande</a>
+      <a href="#scenario-block">Scenario</a>
+      <a href="#discovery-block">Sources</a>
+      <a href="#report-block">Rapport</a>
+    </nav>
+
+    <section class="objective-band" id="objective-band">
+      <div class="mission">
+        <span class="label">Objectif directeur</span>
+        <h2>Transformer l'archive Voxel3DS en moteur de CA.</h2>
+        <p>Détecter les opportunités les plus proches des services Voxel, retenir les signaux fit&nbsp;≥&nbsp;80 et les convertir en approches clients prêtes à valider.</p>
+      </div>
+      <div class="objective-north">
+        <span>Opportunités fit ≥ 80 — aujourd'hui</span>
+        <strong class="north-value" id="objective-north-value">10</strong>
+        <div class="objective-support">
+          <div><span>Recherches</span><strong id="objective-searches">100</strong></div>
+          <div><span>Approches</span><strong id="objective-approaches">4</strong></div>
+          <div><span>Validations</span><strong id="objective-validations">6</strong></div>
+        </div>
+      </div>
+    </section>
+    <section class="hero" id="hero">
+      <div class="command">
+        <div>
+          <span class="label">Centre de controle</span>
+          <h2>Tout ce qui bouge dans ROI-Archive, visible en un seul ecran.</h2>
+          <p>InfoBot documente les echanges, signale les doutes, garde les validations visibles et prepare le rapport Discord quotidien. Toutes les actions officielles sont cadrees a 09:00.</p>
+        </div>
+        <div class="next-action">
+          <div class="stamp">09:00</div>
+          <div>
+            <h3 id="next-title">Action du jour</h3>
+            <p id="next-body">Chargement du planning operationnel.</p>
+          </div>
+        </div>
+      </div>
+      <div class="kpis" id="kpis"></div>
+    </section>
+
+    <section class="section" id="live-day">
+      <div class="section-head">
+        <div>
+          <h2>Live day</h2>
+          <p>Flux du jour en temps réel.</p>
+        </div>
+        <div class="live-controls">
+          <span class="live-mode" id="live-mode">Replay navigateur</span>
+          <span class="badge actif" id="live-day-status">pause</span>
+          <button class="live-action" id="live-toggle" type="button" aria-pressed="false" data-running="false">Play</button>
+        </div>
+      </div>
+      <div class="live-summary">
+        <div><span>Recherches</span><strong id="live-search-count">0/100</strong></div>
+        <div><span>Retenus fit>=80</span><strong id="live-top-count">0</strong></div>
+        <div><span>Echanges</span><strong id="live-exchange-count">0</strong></div>
+        <div><span>Maj</span><strong id="live-day-updated">--</strong></div>
+        <div class="live-progress-bar" title="Progression des recherches du jour"><span id="live-progress-bar-fill"></span></div>
+      </div>
+      <div class="exchange-zone" id="exchange-zone">
+        <div class="exchange-zone-head">
+          <span>Zone d'echange</span>
+          <strong>ScrapBot -> ComBot -> InfoBot -> CloBot</strong>
+          <p>Le flux de la journee : qui produit quoi, et le journal reel des echanges.</p>
+        </div>
+        <div class="exchange-pipe" id="exchange-band"></div>
+        <div class="exchange-journal" id="exchange-journal"></div>
+      </div>
+      <div class="live-day-grid">
+        <article class="live-panel">
+          <h3>Flux recherche</h3>
+          <p id="live-search-note">Attente du premier lot ScrapBot.</p>
+          <div class="live-scroll" style="margin-top:14px">
+            <table class="live-search-table">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Projet</th>
+                  <th>Date</th>
+                  <th>Intérêt</th>
+                  <th>Valeur</th>
+                  <th>État</th>
+                </tr>
+              </thead>
+              <tbody id="live-searches"></tbody>
+            </table>
+          </div>
+        </article>
+        <div class="live-side-stack" style="display:grid;gap:1px;background:var(--line)">
+          <article class="live-panel">
+            <h3>Sites retenus</h3>
+            <p>Sites et annonces avec fit >= 80, tries par date la plus recente puis score.</p>
+            <ol class="live-top10" id="live-top10" style="margin-top:14px"></ol>
+          </article>
+          <article class="live-panel">
+            <h3>Décisions</h3>
+            <p>Passation ScrapBot → ComBot → InfoBot. Le journal des échanges est dans la Zone d'échange.</p>
+            <ul class="live-list" id="live-decisions" style="margin-top:14px"></ul>
+          </article>
+          <article class="live-panel">
+            <h3>InfoBot / Discord trace</h3>
+            <p>Rapport du jour et messages envoyes sur #roi-archive.</p>
+            <ul class="live-list" id="live-infobot-report" style="margin-top:14px"></ul>
+            <div class="live-trace" id="live-discord-trace" style="margin-top:14px"></div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="explain-block">
+      <div class="section-head">
+        <div>
+          <h2>Lecture des chiffres</h2>
+          <p>Entonnoir recherches → opportunités → approches, et accumulation de la journée.</p>
+        </div>
+      </div>
+      <div class="explain-grid">
+        <article class="chart-card">
+          <span class="label">Funnel</span>
+          <h3>100 recherches → 10 opportunités</h3>
+          <div class="funnel" id="funnel"></div>
+        </article>
+        <article class="chart-card">
+          <span class="label">Recherche live</span>
+          <h3>Volume vs opportunités</h3>
+          <svg class="line-chart" id="line-chart" viewBox="0 0 620 220" role="img" aria-label="Courbe de recherche"></svg>
+          <div class="legend" id="line-legend"></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" data-secret-panel="command" id="command-center">
+      <div class="section-head">
+        <div>
+          <h2>Centre de commande</h2>
+          <p>Réponses, validations et journal des actions.</p>
+        </div>
+        <div class="command-actions">
+          <button class="live-action" id="command-copy" type="button">Copier</button>
+          <button class="live-action" id="command-save" type="button">Sauver</button>
+          <button class="live-action" id="command-clear" type="button">Effacer</button>
+        </div>
+      </div>
+      <div class="command-shell">
+        <article class="command-pane">
+          <h3>Composer une commande</h3>
+          <p>Choisis une question, un type d'action, puis enregistre la commande ou copie le texte pour Discord.</p>
+          <div class="command-pills" id="command-presets">
+            <button type="button" data-kind="reply">Repondre question</button>
+            <button type="button" data-kind="validate">Valider brouillon</button>
+            <button type="button" data-kind="email">Generer email</button>
+            <button type="button" data-kind="social">Generer post</button>
+            <button type="button" data-kind="site">Update site</button>
+            <button type="button" data-kind="report">Rapport InfoBot</button>
+            <button type="button" data-kind="live">Play / Pause</button>
+          </div>
+          <form class="command-form" id="command-form">
+            <div class="field-grid">
+              <div class="field">
+                <label for="command-target">Cible</label>
+                <select id="command-target">
+                  <option>ScrapBot</option>
+                  <option>ComBot</option>
+                  <option>InfoBot</option>
+                  <option>CloBot</option>
+                  <option>Utilisateur</option>
+                </select>
+              </div>
+              <div class="field">
+                <label for="command-type">Action</label>
+                <select id="command-type">
+                  <option value="reply">Repondre question</option>
+                  <option value="validate">Valider brouillon</option>
+                  <option value="email">Email de prospection</option>
+                  <option value="social">Post reseaux sociaux</option>
+                  <option value="site">Mise a jour site</option>
+                  <option value="report">Rapport quotidien</option>
+                  <option value="live">Piloter le live</option>
+                </select>
+              </div>
+              <div class="field">
+                <label for="command-question">Element lie</label>
+                <select id="command-question"></select>
+              </div>
+              <div class="field">
+                <label for="command-status">Statut</label>
+                <select id="command-status">
+                  <option value="a_valider">A valider</option>
+                  <option value="approuve">Approuve</option>
+                  <option value="ajuster">A ajuster</option>
+                  <option value="done">Termine</option>
+                </select>
+              </div>
+            </div>
+            <div class="field">
+              <label for="command-title">Titre</label>
+              <input id="command-title" type="text" placeholder="Titre de commande">
+            </div>
+            <div class="field">
+              <label for="command-message">Message / consigne</label>
+              <textarea id="command-message" placeholder="Renseigne ici la consigne, la réponse ou le contenu du message."></textarea>
+            </div>
+            <div class="command-preview" id="command-preview">Aucune commande composee.</div>
+            <div class="command-foot">
+              <button type="submit">Ajouter au journal</button>
+              <button type="button" id="command-apply">Appliquer sur la selection</button>
+            </div>
+          </form>
+        </article>
+        <aside class="command-pane">
+          <h3>Questions et journal</h3>
+          <p>Clique une question pour la charger dans le composeur.</p>
+          <div class="command-queue" id="command-queue"></div>
+          <h3 style="margin-top:18px">Historique recent</h3>
+          <p>Les actions gardent une trace locale et peuvent etre renvoyees a Discord via le tunnel.</p>
+          <div class="command-log" id="command-log"></div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section" id="scenario-block">
+      <div class="section-head">
+        <div>
+          <h2>Scenario 10 Minutes</h2>
+          <p>Courbe recherche, repartition des taches, mix services et entonnoir d'opportunites.</p>
+        </div>
+        <span class="badge actif" id="scenario-status">scenario</span>
+      </div>
+      <div class="analytics-grid">
+        <article class="chart-card">
+          <span class="label">Charge bots</span>
+          <h3>Repartition test</h3>
+          <div class="donut-wrap"><div class="donut" id="task-donut" data-center="10 min"></div></div>
+          <ul class="chart-list" id="task-donut-list"></ul>
+        </article>
+        <article class="chart-card">
+          <span class="label">Services Voxel</span>
+          <h3>Mix opportunites</h3>
+          <div class="pie-wrap"><div class="pie" id="service-pie"></div></div>
+          <ul class="chart-list" id="service-pie-list"></ul>
+        </article>
+      </div>
+      <div class="live-strip">
+        <div class="progress-ring" id="live-progress" data-label="0/10" style="--progress:0%"></div>
+        <div>
+          <strong id="live-phase">Attente scenario</strong>
+          <span id="live-event">Le scenario 10 minutes attend le declenchement des bots.</span>
+        </div>
+        <span id="live-updated">--</span>
+      </div>
+      <div class="bridge" id="discord-bridge"></div>
+    </section>
+
+    <div class="zone-divider">Référence</div>
+    <div class="reference-zone">
+    <section class="section" id="model-block">
+      <div class="section-head">
+        <div>
+          <h2>Modeles IA et Bots Discord</h2>
+          <p>Chaque bot logique ROI-Archive est rattache a un bot Discord et a son modele.</p>
+        </div>
+      </div>
+      <div class="model-grid" id="model-grid"></div>
+      <details class="secret-doc">
+        <summary>
+        <div>
+          <h3>Document secret des recherches</h3>
+          <p>Plie par defaut. Lecture locale depuis le dashboard.</p>
+          
+        </div>
+        <span class="badge reserve">secret</span>
+      </summary>
+        <div class="table-wrap">
+          <table class="secret-table">
+            <thead>
+              <tr>
+                <th>Source</th>
+                <th>Finding</th>
+                <th>Fit</th>
+                <th>Prochaine etape</th>
+              </tr>
+            </thead>
+            <tbody id="research-doc"></tbody>
+          </table>
+        </div>
+      </details>
+    </section>
+
+    <section class="section" id="objectives">
+      <div class="section-head">
+        <div>
+          <h2>Objectifs ComBot</h2>
+          <p>Cap clair: repérer les opportunites les plus recentes et les plus fortes, puis les transformer en actions exploitables.</p>
+        </div>
+      </div>
+      <div class="objective-banner">
+        <div class="objective-lead">
+          <div>
+            <span>Objectif directeur</span>
+            <strong id="objective-lead">Traquer les opportunites les plus recentes, garder celles avec fit &gt;= 80, puis les convertir en leads, contenus et preuves Voxel.</strong>
+            <p>Priorite absolue: classer par date la plus recente, retenir les signaux forts, puis faire remonter les meilleurs a ComBot et au site officiel.</p>
+          </div>
+        </div>
+        <div class="objective-stack">
+          <article class="objective-mini">
+            <span>Journalier</span>
+            <strong id="daily-objective">Explorer le maximum d'opportunites existantes qui correspondent a Voxel Studio.</strong>
+            <p>ScrapBot alimente la veille, ComBot decide quoi pousser.</p>
+          </article>
+          <article class="objective-mini">
+            <span>Hebdo</span>
+            <strong id="weekly-objective">Produire des retenues fit &gt;= 80, relier les opportunites aux services Voxel, et preparer l'accroche de nouveaux clients.</strong>
+            <p>Le top retenu sert de base a la prospection et aux posts.</p>
+          </article>
+          <article class="objective-mini">
+            <span>Site</span>
+            <strong id="site-objective">Proposer des mises a jour claires pour voxel3ds.com a partir des forces R&amp;D de l'archive.</strong>
+            <p>La page doit montrer l'innovation avant la production visuelle.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="schedule-block">
+      <div class="section-head">
+        <div>
+          <h2>Planning 09:00</h2>
+          <p>Mardi-samedi recherche, lundi passation et prospection, mardi/vendredi posts sociaux.</p>
+        </div>
+        <span class="badge actif" id="data-status">data</span>
+      </div>
+      <div class="week-grid" id="week-grid"></div>
+    </section>
+
+    <section class="section" id="agents-block">
+      <div class="section-head">
+        <div>
+          <h2>Agents</h2>
+          <p>Responsabilites et signaux de controle.</p>
+        </div>
+      </div>
+      <div class="agent-grid" id="agent-grid"></div>
+    </section>
+
+    <div class="split">
+      <section class="section" style="margin-top:0" id="actions-block">
+        <div class="section-head">
+          <div>
+            <h2>Registre actions</h2>
+            <p>Recherche, passation, email, social, problemes et controle.</p>
+          </div>
+          <div class="toolbar" id="filters">
+            <button class="filter active" data-filter="all">Tout</button>
+            <button class="filter" data-filter="a_valider">Validation</button>
+            <button class="filter" data-filter="recherche">Recherche</button>
+            <button class="filter" data-filter="email">Email</button>
+            <button class="filter" data-filter="social">Social</button>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Action</th>
+                <th>Agent</th>
+                <th>Statut</th>
+                <th>Estimation</th>
+                <th>Doute / pronostic</th>
+              </tr>
+            </thead>
+            <tbody id="actions-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <aside class="side-stack">
+        <section class="section" style="margin-top:0" id="validations-block">
+          <div class="section-head">
+            <div>
+              <h2>Validations</h2>
+              <p>Elements qui bloquent ou demandent decision.</p>
+            </div>
+          </div>
+          <div class="list" id="validations"></div>
+        </section>
+
+        <section class="section" style="margin-top:0" id="questions-block">
+          <div class="section-head">
+            <div>
+              <h2>Questions 11:00</h2>
+              <p>Questions groupees par InfoBot et transmises via CloBot.</p>
+            </div>
+          </div>
+          <div class="list" id="questions"></div>
+        </section>
+
+        <section class="section" style="margin-top:0" id="risks-block">
+          <div class="section-head">
+            <div>
+              <h2>Risques</h2>
+              <p>Problemes actifs et mitigation.</p>
+            </div>
+          </div>
+          <div class="list" id="risks"></div>
+        </section>
+      </aside>
+    </div>
+
+    <section class="section" id="outreach-block">
+      <div class="section-head">
+        <div>
+          <h2>Monday Outreach</h2>
+          <p>10 emails de prospection a remplir le lundi par ComBot apres passation ScrapBot.</p>
+        </div>
+        <span class="badge a_valider">10 slots</span>
+      </div>
+      <div class="email-grid" id="emails"></div>
+    </section>
+
+    <div class="split">
+      <section class="section" style="margin-top:0" id="discovery-block">
+        <div class="section-head">
+          <div>
+            <h2>Decouverte et sources</h2>
+            <p>Sources de depart et signaux de marche a enrichir par ScrapBot.</p>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Source</th>
+                <th>Categorie</th>
+                <th>Fit</th>
+                <th>Service Voxel</th>
+                <th>Acces</th>
+                <th>Statut</th>
+              </tr>
+            </thead>
+            <tbody id="discoveries"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="section" style="margin-top:0" id="improvements-block">
+        <div class="section-head">
+          <div>
+            <h2>Ameliorations</h2>
+            <p>Idees de pilotage proposees par InfoBot.</p>
+          </div>
+        </div>
+        <div class="list" id="improvements"></div>
+      </section>
+    </div>
+
+    <section class="section" id="report-block">
+      <div class="section-head">
+        <div>
+          <h2>Echanges et rapport Discord</h2>
+          <p>Ce qu'InfoBot doit documenter et envoyer chaque jour.</p>
+        </div>
+      </div>
+      <div class="report">
+        <div class="report-panel">
+          <span class="label" id="report-status">rapport</span>
+          <h2 id="report-title" style="margin:12px 0 0;font-family:var(--display);font-size:1.55rem">Rapport InfoBot</h2>
+          <ul class="report-lines" id="report-lines" style="margin-top:18px"></ul>
+        </div>
+        <div class="report-panel">
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Heure</th>
+                  <th>De</th>
+                  <th>Vers</th>
+                  <th>Sujet</th>
+                  <th>Statut</th>
+                </tr>
+              </thead>
+              <tbody id="exchanges"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    </div><!-- /reference-zone -->
+
+    <footer class="footer">
+      <span id="updated-at">Derniere mise a jour : --</span>
+      <span>Data source : ops/dashboard-data.js</span>
+    </footer>
+  </main>
+
+  <script>
+    const data = window.ROI_ARCHIVE_OPS_DATA || {};
+    const dayMap = ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"];
+    const today = dayMap[new Date().getDay()];
+
+    const byId = (id) => document.getElementById(id);
+    const cls = (value) => String(value || "").toLowerCase().replace(/[^a-z0-9_]+/g, "_");
+
+    function badge(value) {
+      return `<span class="badge ${cls(value)}">${value || "a suivre"}</span>`;
+    }
+
+    function accessLabel(value) {
+      const key = String(value || "").toLowerCase();
+      const map = {
+        public: "public",
+        compte_voxel: "compte test",
+        compte_officiel: "compte officiel",
+        login_requis: "login requis",
+        bloque: "bloqué",
+        lecture_compte: "compte test",
+        compte_a_brancher: "compte test"
+      };
+      return map[key] || value || "a definir";
+    }
+
+    // Sécurité : données alimentées par ScrapBot (contenu web externe) -> tout passer par ici avant innerHTML.
+    function escHtml(s) {
+      return String(s == null ? "" : s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+    }
+    function safeUrl(u) {
+      u = String(u || "").trim();
+      return /^https?:\/\//i.test(u) ? u : "";
+    }
+
+    function externalLink(label, url) {
+      const safe = safeUrl(url);
+      if (!safe) return escHtml(label);
+      return `<a href="${escHtml(safe)}" target="_blank" rel="noreferrer noopener">${escHtml(label)}</a>`;
+    }
+
+    // Intérêt Voxel déduit du score fit (0-100).
+    function interestBadge(score) {
+      const n = Number(score) || 0;
+      let lvl = "suivre", txt = "À suivre";
+      if (n >= 80) { lvl = "fort"; txt = "Fort"; }
+      else if (n >= 65) { lvl = "moyen"; txt = "Moyen"; }
+      return `<span class="interest interest-${lvl}" title="fit ${n}">${txt}<i>${n}</i></span>`;
+    }
+
+    // Valeur annoncée par le client ; "unknown" si non communiquée.
+    function clientValueCell(item) {
+      const v = String(item.clientValue || "").trim();
+      return v ? `<span class="val">${escHtml(v)}</span>` : `<span class="val-unknown">unknown</span>`;
+    }
+
+    function conicGradient(items) {
+      const total = items.reduce((sum, item) => sum + Number(item.value || 0), 0) || 1;
+      let cursor = 0;
+      return items.map(item => {
+        const start = cursor;
+        const end = cursor + (Number(item.value || 0) / total) * 100;
+        cursor = end;
+        return `${item.color} ${start.toFixed(2)}% ${end.toFixed(2)}%`;
+      }).join(", ");
+    }
+
+    function renderChartList(id, items) {
+      byId(id).innerHTML = items.map(item => `
+        <li><i style="background:${item.color}"></i><span>${item.label}</span><strong>${item.value}</strong></li>
+      `).join("");
+    }
+
+    function renderLineChart() {
+      const series = data.chartData?.researchLine || [];
+      const svg = byId("line-chart");
+      if (!series.length) {
+        svg.innerHTML = "";
+        return;
+      }
+
+      const width = 620;
+      const height = 220;
+      const pad = { left: 38, right: 18, top: 18, bottom: 30 };
+      const maxMinute = Math.max(...series.map(item => item.minute), 1);
+      const maxValue = Math.max(...series.flatMap(item => [item.searches, item.opportunities * 10, item.actions * 10]), 1);
+      const x = (minute) => pad.left + (minute / maxMinute) * (width - pad.left - pad.right);
+      const y = (value) => height - pad.bottom - (value / maxValue) * (height - pad.top - pad.bottom);
+      const path = (key, scale = 1) => series.map((item, index) => `${index ? "L" : "M"} ${x(item.minute).toFixed(1)} ${y((item[key] || 0) * scale).toFixed(1)}`).join(" ");
+      const points = (key, color, scale = 1) => series.map(item => `<circle cx="${x(item.minute).toFixed(1)}" cy="${y((item[key] || 0) * scale).toFixed(1)}" r="4" fill="${color}"></circle>`).join("");
+
+      svg.innerHTML = `
+        <line class="grid-line" x1="${pad.left}" y1="${y(maxValue * .25)}" x2="${width - pad.right}" y2="${y(maxValue * .25)}"></line>
+        <line class="grid-line" x1="${pad.left}" y1="${y(maxValue * .50)}" x2="${width - pad.right}" y2="${y(maxValue * .50)}"></line>
+        <line class="grid-line" x1="${pad.left}" y1="${y(maxValue * .75)}" x2="${width - pad.right}" y2="${y(maxValue * .75)}"></line>
+        <line class="grid-line" x1="${pad.left}" y1="${height - pad.bottom}" x2="${width - pad.right}" y2="${height - pad.bottom}"></line>
+        <text class="axis-label" x="4" y="${y(maxValue * .75) + 4}">${Math.round(maxValue * .75)}</text>
+        <text class="axis-label" x="4" y="${y(maxValue * .50) + 4}">${Math.round(maxValue * .50)}</text>
+        <text class="axis-label" x="4" y="${y(maxValue * .25) + 4}">${Math.round(maxValue * .25)}</text>
+        <text class="axis-label" x="${pad.left}" y="212">0 min</text>
+        <text class="axis-label" x="${width - 62}" y="212">${maxMinute} min</text>
+        <path class="search-line" d="${path("searches")}"></path>
+        <path class="opp-line" d="${path("opportunities", 10)}"></path>
+        <path class="action-line" d="${path("actions", 10)}"></path>
+        ${points("searches", "#12b8a6")}
+        ${points("opportunities", "#d7a640", 10)}
+        ${points("actions", "#6fa0d8", 10)}
+      `;
+
+      byId("line-legend").innerHTML = `
+        <span><i style="background:#12b8a6"></i>recherches</span>
+        <span><i style="background:#d7a640"></i>opportunites x10</span>
+        <span><i style="background:#6fa0d8"></i>actions x10</span>
+      `;
+    }
+
+    function renderCharts() {
+      renderLineChart();
+
+      const taskDonut = data.chartData?.taskDonut || [];
+      byId("task-donut").style.background = `conic-gradient(${conicGradient(taskDonut)})`;
+      byId("task-donut").dataset.center = `${data.scenario?.durationMinutes || 10} min`;
+      renderChartList("task-donut-list", taskDonut);
+
+      const servicePie = data.chartData?.servicePie || [];
+      byId("service-pie").style.background = `conic-gradient(${conicGradient(servicePie)})`;
+      renderChartList("service-pie-list", servicePie);
+
+      const funnel = data.chartData?.funnel || [];
+      // Chiffre nord = opportunités fit>=80 (étape "Top" du funnel) ; approches = "Emails".
+      const topStep = funnel.find(f => /top/i.test(f.label));
+      const emailStep = funnel.find(f => /email/i.test(f.label));
+      const northEl = document.getElementById("objective-north-value");
+      if (northEl && topStep) northEl.textContent = String(topStep.value);
+      const oAppr = document.getElementById("objective-approaches");
+      if (oAppr && emailStep) oAppr.textContent = String(emailStep.value);
+      const oVal = document.getElementById("objective-validations");
+      if (oVal && Array.isArray(data.validations)) oVal.textContent = String(data.validations.length);
+      const max = Math.max(...funnel.map(item => item.value), 1);
+      byId("funnel").innerHTML = funnel.map(item => `
+        <div class="funnel-row">
+          <span>${item.label}</span>
+          <div class="funnel-bar"><span style="width:${Math.max((item.value / max) * 100, 4)}%"></span></div>
+          <strong>${item.value}</strong>
+        </div>
+      `).join("");
+    }
+
+    function renderLiveScenario() {
+      const live = data.liveScenario || {};
+      const total = Number(data.scenario?.durationMinutes || 10);
+      const elapsed = Number(live.elapsedMinutes || 0);
+      const percent = Math.max(0, Math.min(100, (elapsed / total) * 100));
+      const ring = byId("live-progress");
+      ring.style.setProperty("--progress", `${percent}%`);
+      ring.dataset.label = `${elapsed}/${total}`;
+      byId("live-phase").textContent = live.phase || data.scenario?.status || "scenario";
+      byId("live-event").textContent = live.lastEvent || data.scenario?.rule || "En attente.";
+      byId("live-updated").textContent = live.updatedAt || data.generatedAt || "--";
+      byId("scenario-status").textContent = live.status || data.scenario?.status || "pret";
+    }
+
+    function renderDiscordBridge() {
+      const bridge = data.discordBridge || {};
+      byId("discord-bridge").innerHTML = `
+        <article class="bridge-card">
+          <span class="label">Discord bridge</span>
+          <strong>${bridge.status || "pending"}</strong>
+          <p>${bridge.lastEvent || "En attente du test live Discord."}</p>
+        </article>
+        <article class="bridge-card">
+          <span class="label">roi-archive</span>
+          <strong>${bridge.roiArchiveChannelId || "1515406640998907964"}</strong>
+          <p>message ${bridge.roiArchiveMessageId || "en attente"}</p>
+        </article>
+        <article class="bridge-card">
+          <span class="label">DM confirmation</span>
+          <strong>${bridge.dmUserId || "458941683464404993"}</strong>
+          <p>message ${bridge.dmMessageId || "en attente"}</p>
+        </article>
+        <article class="bridge-card">
+          <span class="label">Derniere maj</span>
+          <strong>${bridge.updatedAt || data.generatedAt || "--"}</strong>
+          <p>${data.officialLocation || "Tunis"} / ${data.timezone || "Africa/Tunis"}</p>
+        </article>
+      `;
+    }
+
+    function renderResearchDoc() {
+      const doc = data.researchDoc || {};
+      byId("research-doc").innerHTML = (doc.entries || []).map(item => `
+        <tr>
+          <td><strong>${item.source}</strong></td>
+          <td>${item.finding}</td>
+          <td>${item.fit}</td>
+          <td>${item.nextStep}</td>
+        </tr>
+      `).join("");
+    }
+
+    function renderModels() {
+      byId("model-grid").innerHTML = (data.botRuntime || []).map(bot => `
+        <article class="model-card">
+          <div>
+            <span class="label">${bot.logicalBot}</span>
+            <h3>${bot.discordBot}</h3>
+            <dl>
+              <div><dt>Modele</dt><dd>${bot.aiModel}</dd></div>
+              <div><dt>Backend</dt><dd>${bot.backend}</dd></div>
+              <div><dt>Mission</dt><dd>${bot.mission}</dd></div>
+              <div><dt>Declencheur</dt><dd>${bot.trigger}</dd></div>
+            </dl>
+          </div>
+          ${badge(bot.status)}
+        </article>
+      `).join("");
+    }
+
+    function renderKpis() {
+      byId("kpis").innerHTML = (data.kpis || []).map(kpi => `
+        <article class="kpi ${cls(kpi.state)}">
+          <div>
+            <span>${kpi.label}</span>
+            <strong>${kpi.value}</strong>
+          </div>
+          <p>${kpi.sub}</p>
+        </article>
+      `).join("");
+    }
+
+    function renderSchedule() {
+      const schedule = data.schedule || [];
+      byId("week-grid").innerHTML = schedule.map(item => `
+        <article class="day ${item.day === today ? "today" : ""}">
+          <div class="day-title">
+            <strong>${item.day}</strong>
+            <time>${item.time}</time>
+          </div>
+          <p><strong>${item.owner}</strong></p>
+          <p>${item.action}</p>
+          <p>${item.output}</p>
+          ${badge(item.status)}
+        </article>
+      `).join("");
+
+      const next = schedule.find(item => item.day === today) || schedule[0];
+      if (next) {
+        byId("next-title").textContent = `${next.day} ${next.time} - ${next.owner}`;
+        byId("next-body").textContent = `${next.action}. Sortie attendue : ${next.output}.`;
+      }
+    }
+
+    function renderAgents() {
+      byId("agent-grid").innerHTML = (data.agents || []).map(agent => `
+        <article class="agent">
+          <span class="label">${agent.role}</span>
+          <h3>${agent.name}</h3>
+          <p><strong>${agent.discordBot || "Bot Discord a definir"}</strong> / ${agent.backend || "backend"}<br>${agent.model || "modele a definir"}</p>
+          <p>${agent.today}</p>
+          <p>${agent.signal}</p>
+          ${badge(agent.status)}
+        </article>
+      `).join("");
+    }
+
+    function actionRows(filter = "all") {
+      const actions = (data.actions || []).filter(action => {
+        if (filter === "all") return true;
+        if (filter === "a_valider") return action.validationNeeded || action.status === "a_valider";
+        return action.type === filter;
+      });
+
+      byId("actions-body").innerHTML = actions.map(action => `
+        <tr>
+          <td><strong>${action.id}</strong><small>${action.time} / ${action.priority}</small></td>
+          <td><strong>${action.title}</strong><small>${action.notes}</small></td>
+          <td>${action.agent}<small>${action.type}</small></td>
+          <td>${badge(action.status)}${action.validationNeeded ? badge("a_valider") : ""}</td>
+          <td>${action.estimate}<small>${action.forecast}</small></td>
+          <td>${action.doubt}</td>
+        </tr>
+      `).join("");
+    }
+
+    function renderLists() {
+      byId("validations").innerHTML = (data.validations || []).map(item => `
+        <article class="item">
+          ${badge(item.priority)} ${badge(item.status)}
+          <h3>${item.title}</h3>
+          <p>${item.type} / ${item.owner} / deadline : ${item.deadline}</p>
+        </article>
+      `).join("");
+
+      byId("questions").innerHTML = (data.questions || []).map(item => `
+        <article class="item">
+          ${badge(item.priority)} ${badge(item.status)}
+          <h3>${item.question}</h3>
+          <p>${item.time} / ${item.from} / ${item.context}</p>
+        </article>
+      `).join("");
+
+      byId("risks").innerHTML = (data.risks || []).map(item => `
+        <article class="item">
+          ${badge(item.level)}
+          <h3>${item.title}</h3>
+          <p>${item.owner} : ${item.mitigation}</p>
+        </article>
+      `).join("");
+
+      byId("improvements").innerHTML = (data.improvements || []).map(item => `
+        <article class="item">
+          <span class="label">${item.id} / ${item.owner}</span>
+          <h3>${item.title}</h3>
+          <p>${item.impact}</p>
+        </article>
+      `).join("");
+    }
+
+    function renderEmails() {
+      byId("emails").innerHTML = (data.emails || []).map(email => `
+        <article class="email-slot">
+          <strong><span>Email ${email.slot}</span>${badge(email.status)}</strong>
+          <p>${email.opportunity}</p>
+          <p>${email.service || "Service a matcher"} / ${email.proof || "preuve a choisir"}</p>
+        </article>
+      `).join("");
+    }
+
+    function renderDiscoveryAndReport() {
+      const discoveries = [...(data.discoveries || [])].sort((a, b) => {
+        const ad = String(a.date || "0000-00-00");
+        const bd = String(b.date || "0000-00-00");
+        if (ad !== bd) return bd.localeCompare(ad);
+        return Number(b.fit || 0) - Number(a.fit || 0);
+      });
+
+      byId("discoveries").innerHTML = discoveries.map(item => `
+        <tr>
+          <td><strong>${externalLink(item.source, item.url)}</strong></td>
+          <td>${item.date || "—"}</td>
+          <td>${item.category}</td>
+          <td>${item.fit}</td>
+          <td>${item.service}</td>
+          <td>${badge(accessLabel(item.accessState || item.access))}${item.account ? `<small>${item.account}</small>` : ""}</td>
+          <td>${badge(item.status)}</td>
+        </tr>
+      `).join("");
+
+      const report = data.discordReport || {};
+      byId("report-title").textContent = report.title || "Rapport InfoBot 09:00";
+      byId("report-status").textContent = report.status || "rapport";
+      byId("report-lines").innerHTML = (report.lines || []).map(line => `<li>${line}</li>`).join("");
+
+      byId("exchanges").innerHTML = (data.exchanges || []).map(item => `
+        <tr>
+          <td>${item.time}</td>
+          <td>${item.from}</td>
+          <td>${item.to}</td>
+          <td><strong>${item.topic}</strong><small>${item.summary}</small></td>
+          <td>${badge(item.status)}</td>
+        </tr>
+      `).join("");
+    }
+
+    const COMMAND_STATE_KEY = "roi-archive-command-state";
+    const COMMAND_LOG_KEY = "roi-archive-command-log";
+    const ACCESS_STATE_KEY = "roi-archive-access-state";
+    const PUBLIC_PASSCODE = data.publicAccess?.passcode || "roiarchive";
+
+    const defaultCommandState = {
+      target: "InfoBot",
+      type: "reply",
+      link: "",
+      title: "",
+      message: "",
+      status: "a_valider",
+      logs: []
+    };
+
+    let commandState = { ...defaultCommandState };
+    let commandHistory = [];
+    let publicUnlocked = !window.ROI_ARCHIVE_PUBLIC;
+
+    function nowTunis() {
+      return new Intl.DateTimeFormat("fr-FR", {
+        timeZone: data.timezone || "Africa/Tunis",
+        dateStyle: "short",
+        timeStyle: "short"
+      }).format(new Date());
+    }
+
+    function safeParse(json, fallback) {
+      try {
+        return json ? JSON.parse(json) : fallback;
+      } catch (error) {
+        return fallback;
+      }
+    }
+
+    function loadCommandState() {
+      let storedState = null;
+      let storedLog = null;
+      try {
+        storedState = localStorage.getItem(COMMAND_STATE_KEY);
+        storedLog = localStorage.getItem(COMMAND_LOG_KEY);
+      } catch (error) {
+        storedState = null;
+        storedLog = null;
+      }
+      const stored = safeParse(storedState, defaultCommandState);
+      commandState = {
+        ...defaultCommandState,
+        ...stored,
+        logs: Array.isArray(stored.logs) ? stored.logs : []
+      };
+      if (!commandState.link) {
+        const firstQuestion = (data.questions || [])[0];
+        if (firstQuestion) {
+          commandState.link = `question:${firstQuestion.id}`;
+        }
+      }
+      commandHistory = safeParse(storedLog, []);
+      try {
+        publicUnlocked = !window.ROI_ARCHIVE_PUBLIC || sessionStorage.getItem(ACCESS_STATE_KEY) === "unlocked";
+      } catch (error) {
+        publicUnlocked = !window.ROI_ARCHIVE_PUBLIC;
+      }
+      document.body.dataset.dashboardUnlocked = String(publicUnlocked);
+    }
+
+    function persistCommandState() {
+      try {
+        localStorage.setItem(COMMAND_STATE_KEY, JSON.stringify(commandState));
+        localStorage.setItem(COMMAND_LOG_KEY, JSON.stringify(commandHistory.slice(0, 50)));
+      } catch (error) {
+        // localStorage may be unavailable; keep the page working.
+      }
+    }
+
+    async function syncCommandHistory() {
+      try {
+        const resp = await fetch("/api/command-log", { cache: "no-store" });
+        if (!resp.ok) return;
+        const payload = await resp.json();
+        if (Array.isArray(payload.items)) {
+          commandHistory = payload.items.slice(0, 20);
+          commandState.logs = commandHistory.slice(0, 50);
+          renderCommandState();
+          persistCommandState();
+        }
+      } catch (error) {
+        // Static hosting or missing control server: keep local history.
+      }
+    }
+
+    function selectedLinkItem() {
+      const [kind, id] = String(commandState.link || "").split(":", 2);
+      if (kind === "validation") {
+        return (data.validations || []).find(item => item.id === id) || null;
+      }
+      return (data.questions || []).find(item => item.id === id) || null;
+    }
+
+    function buildCommandPreview() {
+      const item = selectedLinkItem();
+      const linkLabel = item ? `${commandState.link}` : "aucun element lie";
+      return [
+        `Cible: ${commandState.target}`,
+        `Action: ${commandState.type}`,
+        `Element: ${linkLabel}`,
+        `Statut: ${commandState.status}`,
+        `Titre: ${commandState.title || "sans titre"}`,
+        "",
+        commandState.message || "Aucun message saisi."
+      ].join("\n");
+    }
+
+    function renderCommandState() {
+      const questionSelect = byId("command-question");
+      const queue = byId("command-queue");
+      const log = byId("command-log");
+      if (!questionSelect || !queue || !log) return;
+
+      const linkOptions = [
+        { group: "Questions", kind: "question", items: data.questions || [] },
+        { group: "Validations", kind: "validation", items: data.validations || [] }
+      ];
+
+      questionSelect.innerHTML = linkOptions.map(group => `
+        <optgroup label="${group.group}">
+          ${group.items.map(item => `
+            <option value="${group.kind}:${item.id}" ${commandState.link === `${group.kind}:${item.id}` ? "selected" : ""}>
+              ${item.id} - ${item.title || item.question}
+            </option>
+          `).join("")}
+        </optgroup>
+      `).join("");
+
+      const questions = (data.questions || []).map(item => `
+        <article class="queue-item">
+          <button type="button" data-select-link="question:${item.id}">
+            <strong>${item.id} - ${item.question}</strong>
+            <span>${item.from} / ${item.priority} / ${item.status}</span>
+          </button>
+        </article>
+      `).join("");
+      const validations = (data.validations || []).map(item => `
+        <article class="queue-item">
+          <button type="button" data-select-link="validation:${item.id}">
+            <strong>${item.id} - ${item.title}</strong>
+            <span>${item.type} / ${item.priority} / ${item.status}</span>
+          </button>
+        </article>
+      `).join("");
+      queue.innerHTML = `
+        <div>
+          <span class="label">Questions en attente</span>
+          <div class="command-queue" style="margin-top:10px">${questions || '<article class="queue-item"><strong>Aucune question</strong><span>Tout est debloque.</span></article>'}</div>
+        </div>
+        <div style="margin-top:14px">
+          <span class="label">Validations ouvertes</span>
+          <div class="command-queue" style="margin-top:10px">${validations || '<article class="queue-item"><strong>Aucune validation</strong><span>Rien a traiter.</span></article>'}</div>
+        </div>
+      `;
+
+      log.innerHTML = commandHistory.length ? commandHistory.map(entry => `
+        <article class="log-item">
+          <strong>${entry.title}</strong>
+          <span>${entry.time} / ${entry.target} / ${entry.type} / ${entry.status}</span>
+          <span>${entry.message}</span>
+        </article>
+      `).join("") : '<article class="log-item"><strong>Aucune commande</strong><span>Le journal se remplira ici.</span></article>';
+
+      byId("command-target").value = commandState.target;
+      byId("command-type").value = commandState.type;
+      byId("command-status").value = commandState.status;
+      byId("command-title").value = commandState.title;
+      byId("command-message").value = commandState.message;
+      byId("command-preview").textContent = buildCommandPreview();
+    }
+
+    function syncCommandFromForm() {
+      commandState.target = byId("command-target").value;
+      commandState.type = byId("command-type").value;
+      commandState.link = byId("command-question").value;
+      commandState.status = byId("command-status").value;
+      commandState.title = byId("command-title").value.trim();
+      commandState.message = byId("command-message").value.trim();
+      commandState.logs = commandHistory.slice(0, 50);
+      byId("command-preview").textContent = buildCommandPreview();
+      persistCommandState();
+    }
+
+    function composePreset(kind) {
+      const item = selectedLinkItem();
+      const titleText = item ? (item.title || item.question || item.id) : "Commande libre";
+      const baseMessage = item
+        ? `${item.id}\n${item.title || item.question}\n\nContexte: ${item.context || item.deadline || item.notes || item.summary || "a definir"}`
+        : "Contexte: a definir";
+
+      const templates = {
+        reply: { target: "CloBot", type: "reply", status: "approuve", title: `Reponse ${titleText}` },
+        validate: { target: "Utilisateur", type: "validate", status: "approuve", title: `Validation ${titleText}` },
+        email: { target: "ComBot", type: "email", status: "a_valider", title: "Prospection email" },
+        social: { target: "ComBot", type: "social", status: "a_valider", title: "Post social" },
+        site: { target: "ComBot", type: "site", status: "a_valider", title: "Update site Voxel" },
+        report: { target: "InfoBot", type: "report", status: "done", title: "Rapport quotidien" },
+        live: { target: "InfoBot", type: "live", status: "done", title: "Pilotage live" }
+      };
+
+      const preset = templates[kind] || templates.reply;
+      commandState = {
+        ...commandState,
+        ...preset,
+        link: commandState.link || (item ? `${item.id.startsWith("VAL") ? "validation" : "question"}:${item.id}` : ""),
+        message: kind === "live"
+          ? "Ordre de marche: basculer Play/Pause selon la situation du flux live."
+          : kind === "report"
+            ? "Construire le rapport quotidien avec actions, opportunites, blocages et validations."
+            : `${baseMessage}\n\nAction attendue: ${preset.type}.`,
+        logs: commandHistory.slice(0, 50)
+      };
+      renderCommandState();
+      persistCommandState();
+    }
+
+    async function submitCommand(entry) {
+      try {
+        const resp = await fetch("/api/command", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(entry)
+        });
+        if (resp.ok) {
+          return await resp.json();
+        }
+      } catch (error) {
+        // Fall back to local-only history when the control server is absent.
+      }
+      return null;
+    }
+
+    function updateLinkedItemStatus() {
+      const item = selectedLinkItem();
+      if (!item) return;
+      if (commandState.link.startsWith("question:")) {
+        item.status = commandState.status === "approuve" ? "repondu" : commandState.status;
+      } else if (commandState.link.startsWith("validation:")) {
+        item.status = commandState.status;
+      }
+    }
+
+    function recordCommand() {
+      const item = selectedLinkItem();
+      const entry = {
+        time: nowTunis(),
+        target: commandState.target,
+        type: commandState.type,
+        status: commandState.status,
+        title: commandState.title || (item ? item.id : "Commande"),
+        message: commandState.message,
+        link: commandState.link
+      };
+      commandHistory = [entry, ...commandHistory].slice(0, 20);
+      updateLinkedItemStatus();
+      commandState.logs = commandHistory.slice(0, 50);
+      persistCommandState();
+      renderLists();
+      renderCommandState();
+      return entry;
+    }
+
+    function openGate() {
+      if (!window.ROI_ARCHIVE_PUBLIC) return;
+      byId("gate-overlay").classList.add("active");
+      byId("gate-overlay").setAttribute("aria-hidden", "false");
+      document.body.dataset.dashboardUnlocked = "false";
+    }
+
+    function closeGate() {
+      if (!window.ROI_ARCHIVE_PUBLIC) return;
+      byId("gate-passcode").value = "";
+      byId("gate-feedback").textContent = "Code requis.";
+    }
+
+    function hideGate() {
+      if (!window.ROI_ARCHIVE_PUBLIC) return;
+      byId("gate-overlay").classList.remove("active");
+      byId("gate-overlay").setAttribute("aria-hidden", "true");
+      document.body.dataset.dashboardUnlocked = "true";
+    }
+
+    function unlockGate() {
+      if (!window.ROI_ARCHIVE_PUBLIC) return;
+      const input = byId("gate-passcode");
+      const feedback = byId("gate-feedback");
+      if (input.value.trim() === PUBLIC_PASSCODE) {
+        sessionStorage.setItem(ACCESS_STATE_KEY, "unlocked");
+        publicUnlocked = true;
+        hideGate();
+        feedback.textContent = "";
+        return;
+      }
+      feedback.textContent = "Code incorrect.";
+    }
+
+    async function applyCurrentCommand() {
+      syncCommandFromForm();
+      const item = selectedLinkItem();
+      const entry = recordCommand();
+      await submitCommand(entry);
+      if (item) {
+        renderDiscoveryAndReport();
+      }
+      byId("command-preview").textContent = buildCommandPreview();
+    }
+
+    function renderLiveDay(live) {
+      if (!live) return;
+      const searches = Array.isArray(live.searches) ? live.searches : [];
+      const topSites = Array.isArray(live.topSites) ? live.topSites : [];
+      const exchanges = Array.isArray(live.exchanges) ? live.exchanges : [];
+      const decisions = Array.isArray(live.decisions) ? live.decisions : [];
+      const reportLines = Array.isArray(live.infobotReport?.lines) ? live.infobotReport.lines : [];
+      const trace = Array.isArray(live.discordTrace) ? live.discordTrace : [];
+
+      byId("live-day-status").textContent = live.status || "live";
+      byId("live-search-count").textContent = `${live.completedSearches || searches.length || 0}/100`;
+      const fill = document.getElementById("live-progress-bar-fill");
+      if (fill) {
+        const done = Number(live.completedSearches || searches.length || 0);
+        fill.style.width = `${Math.max(0, Math.min(100, done))}%`;
+      }
+      const oSearch = document.getElementById("objective-searches");
+      if (oSearch) oSearch.textContent = String(live.completedSearches || searches.length || oSearch.textContent);
+      byId("live-top-count").textContent = String(topSites.length);
+      byId("live-exchange-count").textContent = String(exchanges.length);
+      byId("live-day-updated").textContent = live.updatedAt || "--";
+      byId("live-search-note").textContent = live.stageNote || "Flux live en cours.";
+
+      byId("live-searches").innerHTML = searches.map(item => `
+        <tr>
+          <td><strong>${item.index}</strong></td>
+          <td>${externalLink(item.source, item.url)}<small>${escHtml(item.query || "")}</small></td>
+          <td>${escHtml(item.date || "—")}</td>
+          <td>${interestBadge(item.fit)}</td>
+          <td>${clientValueCell(item)}</td>
+          <td>${badge(item.status)}</td>
+        </tr>
+      `).join("");
+
+      byId("live-top10").innerHTML = topSites.map(item => `
+        <li>
+          <div class="row"><strong>#${escHtml(item.rank)} ${externalLink(item.name, item.url)}</strong>${interestBadge(item.score)}</div>
+          <span>${escHtml(item.reason)}</span>
+          <span class="top-meta">Valeur client : ${clientValueCell(item)}${item.date ? " · " + item.date : ""}</span>
+        </li>
+      `).join("");
+
+      const journal = document.getElementById("exchange-journal");
+      if (journal) {
+        journal.innerHTML = exchanges.slice(-6).reverse().map(item => `
+          <div class="jrow">
+            <span class="jt">${escHtml(item.time)}</span>
+            <span class="jf">${escHtml(item.from)} → ${escHtml(item.to)}</span>
+            <span class="js">${escHtml(item.topic)}${item.summary ? " · " + escHtml(item.summary) : ""}</span>
+          </div>
+        `).join("");
+      }
+      const setNode = (key, txt) => {
+        const el = document.getElementById(`node-count-${key}`);
+        if (el) el.textContent = txt;
+      };
+      setNode("scrap", `${live.completedSearches || searches.length || 0} recherches`);
+      setNode("com", `${exchanges.length} échanges`);
+      setNode("info", `${reportLines.length || decisions.length} notes`);
+      setNode("clo", `${trace.length} msg Discord`);
+
+      byId("live-decisions").innerHTML = decisions.map(item => `
+        <li>
+          <div class="row"><strong>${item.title}</strong><span>${item.owner}</span></div>
+          <span>${item.note}</span>
+        </li>
+      `).join("");
+
+      byId("live-infobot-report").innerHTML = reportLines.map(line => `
+        <li><strong>InfoBot</strong><span>${line}</span></li>
+      `).join("");
+
+      byId("live-discord-trace").innerHTML = trace.map(item => `
+        <div class="item">
+          ${badge(item.status)}
+          <h3>${item.channel}</h3>
+          <p>${item.message}</p>
+        </div>
+      `).join("");
+    }
+
+    // Pipeline logique fixe (l'ordre/les noms du dataset ne sont pas garantis).
+    const EXCHANGE_PIPELINE = [
+      { key: "scrap", name: "ScrapBot", role: "Scout" },
+      { key: "com", name: "ComBot", role: "Commerce" },
+      { key: "info", name: "InfoBot", role: "Secrétariat" },
+      { key: "clo", name: "CloBot", role: "Liaison" }
+    ];
+
+    function renderExchangeBand() {
+      const band = byId("exchange-band");
+      if (!band) return;
+      band.innerHTML = EXCHANGE_PIPELINE.map((bot, i) => {
+        const node = `
+          <div class="exchange-node">
+            <span class="role">${bot.role}</span>
+            <b>${bot.name}</b>
+            <span class="count" id="node-count-${bot.key}"></span>
+          </div>`;
+        const arrow = i < EXCHANGE_PIPELINE.length - 1 ? `<div class="exchange-arrow">▶</div>` : "";
+        return node + arrow;
+      }).join("");
+    }
+
+    let liveRunning = false;
+    let liveRefreshTimer = null;
+    let publicReplayTimer = null;
+    let publicReplayStep = 0;
+
+    function applyLiveButtonState() {
+      const button = byId("live-toggle");
+      if (!button) return;
+      button.dataset.running = String(liveRunning);
+      button.setAttribute("aria-pressed", String(liveRunning));
+      button.textContent = liveRunning ? "Pause" : "Play";
+      const mode = byId("live-mode");
+      if (mode) {
+        mode.textContent = window.ROI_ARCHIVE_PUBLIC
+          ? (liveRunning ? "Replay actif" : "Replay navigateur")
+          : (liveRunning ? "Live actif" : "Pause");
+      }
+      const zone = document.getElementById("exchange-zone");
+      if (zone) zone.classList.toggle("is-live", liveRunning);
+    }
+
+    async function attemptLiveControl(action) {
+      try {
+        await fetch(`/api/live/${action}`, { method: "POST" });
+        return true;
+      } catch (error) {
+        // No-op on static hosting. The UI still toggles the polling loop.
+      }
+      return false;
+    }
+
+    function startLivePolling() {
+      if (liveRefreshTimer) clearInterval(liveRefreshTimer);
+      refreshLiveDay();
+      liveRefreshTimer = setInterval(refreshLiveDay, 5000);
+    }
+
+    function stopLivePolling() {
+      if (liveRefreshTimer) clearInterval(liveRefreshTimer);
+      liveRefreshTimer = null;
+    }
+
+    function stopPublicReplay() {
+      if (publicReplayTimer) clearInterval(publicReplayTimer);
+      publicReplayTimer = null;
+    }
+
+    function buildReplaySearches(count) {
+      const pool = Array.isArray(data.discoveries) ? data.discoveries : [];
+      if (!pool.length || !count) return [];
+      return Array.from({ length: count }, (_, index) => {
+        const base = pool[index % pool.length] || {};
+        const fitBase = Number(base.fit || 0);
+        const fit = Math.max(60, Math.min(99, fitBase || (82 - (index % 9))));
+        return {
+          index: index + 1,
+          source: base.source || `Source ${index + 1}`,
+          url: base.url || "",
+          date: base.date || data.generatedAt?.slice(0, 10) || "2026-06-13",
+          query: base.service || base.category || base.finding || "veille",
+          fit,
+          access: base.accessState || "public",
+          status: fit >= 80 ? "retenu" : (index < 12 ? "lu" : "attente")
+        };
+      });
+    }
+
+    function renderPublicReplay() {
+      const series = Array.isArray(data.chartData?.researchLine) ? data.chartData.researchLine : [];
+      const frame = series[Math.min(publicReplayStep, Math.max(series.length - 1, 0))] || { searches: 0, opportunities: 0, actions: 0, minute: 0 };
+      const searchCount = Number(frame.searches || 0);
+      const searches = buildReplaySearches(searchCount);
+      const discoveries = Array.isArray(data.discoveries) ? data.discoveries : [];
+      const topSites = discoveries
+        .filter(item => Number(item.fit || 0) >= 80)
+        .sort((a, b) => String(b.date || "").localeCompare(String(a.date || "")) || Number(b.fit || 0) - Number(a.fit || 0))
+        .slice(0, 10)
+        .map((item, index) => ({
+          rank: index + 1,
+          name: item.source,
+          url: item.url || "",
+          score: item.fit,
+          reason: item.service || item.finding || "",
+          access: item.accessState || "public"
+        }));
+      const exchanges = Array.isArray(data.exchanges) ? data.exchanges.slice(0, Math.min(publicReplayStep + 1, data.exchanges.length)) : [];
+      const decisions = [
+        {
+          title: "Selection du jour",
+          owner: "ComBot",
+          note: `${searchCount}/100 lectures, ${topSites.length} retenues, ${Number(frame.opportunities || 0)} opportunites.`
+        },
+        {
+          title: "Trace Discord",
+          owner: "InfoBot",
+          note: `${Math.min(publicReplayStep + 1, Array.isArray(data.discordReport?.lines) ? data.discordReport.lines.length : 0)} lignes pretes pour #roi-archive.`
+        }
+      ];
+      const reportLines = Array.isArray(data.discordReport?.lines)
+        ? data.discordReport.lines.slice(0, Math.min(publicReplayStep + 2, data.discordReport.lines.length))
+        : [];
+      const trace = [
+        {
+          status: "en lecture",
+          channel: "#roi-archive",
+          message: "Replay navigateur en cours: le bouton Play anime les vues sans serveur."
+        },
+        {
+          status: "pret",
+          channel: "CloBot",
+          message: "Questions 11:00 et rapport quotidien visibles dans l'interface."
+        }
+      ];
+
+      renderLiveDay({
+        status: "replay",
+        completedSearches: searchCount,
+        topSites,
+        searches,
+        exchanges,
+        decisions,
+        infobotReport: { lines: reportLines },
+        discordTrace: trace,
+        updatedAt: frame.minute !== undefined ? `T+${frame.minute} min` : data.generatedAt || "--",
+        stageNote: `Replay navigateur: ${searchCount}/100 recherches, ${topSites.length} retenues, ${exchanges.length} echanges.`
+      });
+      const note = byId("live-search-note");
+      if (note) note.textContent = `Replay navigateur actif: ${searchCount}/100 recherches visibles.`;
+      const status = byId("live-day-status");
+      if (status) status.textContent = "play";
+      const updated = byId("live-day-updated");
+      if (updated) updated.textContent = frame.minute !== undefined ? `T+${frame.minute} min` : "--";
+      const mode = byId("live-mode");
+      if (mode) mode.textContent = liveRunning ? "Replay actif" : "Replay navigateur";
+    }
+
+    async function toggleLiveLoop() {
+      liveRunning = !liveRunning;
+      applyLiveButtonState();
+      if (liveRunning) {
+        if (window.ROI_ARCHIVE_PUBLIC) {
+          stopLivePolling();
+          stopPublicReplay();
+          publicReplayStep = 0;
+          renderPublicReplay();
+          publicReplayTimer = setInterval(() => {
+            if (!liveRunning) return;
+            const series = Array.isArray(data.chartData?.researchLine) ? data.chartData.researchLine : [];
+            publicReplayStep = Math.min(publicReplayStep + 1, Math.max(series.length - 1, 0));
+            renderPublicReplay();
+          }, 1200);
+        } else {
+          await attemptLiveControl("start");
+          startLivePolling();
+        }
+      } else {
+        if (window.ROI_ARCHIVE_PUBLIC) {
+          stopPublicReplay();
+        } else {
+          await attemptLiveControl("stop");
+        }
+        stopLivePolling();
+      }
+    }
+
+    async function refreshLiveDay() {
+      if (!liveRunning) return;
+      if (window.ROI_ARCHIVE_PUBLIC) {
+        renderPublicReplay();
+        return;
+      }
+      try {
+        const resp = await fetch(`ops/live-day-state.json?ts=${Date.now()}`, { cache: "no-store" });
+        if (!resp.ok) return;
+        const live = await resp.json();
+        renderLiveDay(live);
+      } catch (error) {
+        // Keep the dashboard usable even if the live feed is not ready.
+      }
+    }
+
+    async function syncLiveStatus() {
+      try {
+        const resp = await fetch("/api/live/status", { cache: "no-store" });
+        if (!resp.ok) return;
+        const status = await resp.json();
+        liveRunning = Boolean(status.running);
+        applyLiveButtonState();
+        if (liveRunning) {
+          startLivePolling();
+        } else {
+          stopLivePolling();
+        }
+      } catch (error) {
+        // Static hosting or missing control server: keep the UI usable.
+      }
+    }
+
+    function bindFilters() {
+      byId("filters").addEventListener("click", event => {
+        const button = event.target.closest("button[data-filter]");
+        if (!button) return;
+        [...byId("filters").querySelectorAll("button")].forEach(item => item.classList.remove("active"));
+        button.classList.add("active");
+        actionRows(button.dataset.filter);
+      });
+    }
+
+    function boot() {
+      loadCommandState();
+      byId("official-time").textContent = data.officialTime || "09:00";
+      byId("timezone").textContent = data.timezone || "Africa/Tunis";
+      byId("updated-at").textContent = `Derniere mise a jour : ${data.generatedAt || "non renseignee"}`;
+      byId("data-status").textContent = `InfoBot / ${data.infoBot?.status || "actif"}`;
+      document.body.dataset.dashboardUnlocked = String(publicUnlocked);
+
+      if (window.ROI_ARCHIVE_PUBLIC) {
+        const secretDoc = document.querySelector(".secret-doc");
+        if (secretDoc) secretDoc.remove();
+      }
+
+      renderKpis();
+      renderCharts();
+      renderExchangeBand();
+      renderLiveScenario();
+      renderDiscordBridge();
+      renderModels();
+      renderResearchDoc();
+      if (data.objectives) {
+        byId("weekly-objective").textContent = data.objectives.weekly || byId("weekly-objective").textContent;
+        byId("daily-objective").textContent = data.objectives.daily || byId("daily-objective").textContent;
+        byId("site-objective").textContent = data.objectives.site || byId("site-objective").textContent;
+      }
+      renderSchedule();
+      renderAgents();
+      actionRows();
+      renderLists();
+      renderEmails();
+      renderDiscoveryAndReport();
+      renderCommandState();
+      syncCommandHistory();
+      if (window.ROI_ARCHIVE_PUBLIC && !publicUnlocked) {
+        openGate();
+      }
+      byId("command-form").addEventListener("submit", async event => {
+        event.preventDefault();
+        await applyCurrentCommand();
+      });
+      byId("command-target").addEventListener("change", syncCommandFromForm);
+      byId("command-type").addEventListener("change", event => {
+        syncCommandFromForm();
+        composePreset(event.target.value);
+      });
+      byId("command-question").addEventListener("change", syncCommandFromForm);
+      byId("command-status").addEventListener("change", syncCommandFromForm);
+      byId("command-title").addEventListener("input", syncCommandFromForm);
+      byId("command-message").addEventListener("input", syncCommandFromForm);
+      byId("command-presets").addEventListener("click", event => {
+        const button = event.target.closest("button[data-kind]");
+        if (!button) return;
+        composePreset(button.dataset.kind);
+      });
+      byId("command-queue").addEventListener("click", event => {
+        const button = event.target.closest("[data-select-link]");
+        if (!button) return;
+        commandState.link = button.dataset.selectLink;
+        const linked = selectedLinkItem();
+        if (linked) {
+          commandState.title = linked.title || linked.question || linked.id;
+          commandState.message = linked.question
+            ? `${linked.question}\n\nContexte: ${linked.context || ""}`.trim()
+            : `${linked.title || linked.question || linked.id}\n\nContexte: ${linked.deadline || linked.status || ""}`.trim();
+          commandState.target = button.dataset.selectLink.startsWith("validation:")
+            ? "Utilisateur"
+            : "CloBot";
+          commandState.type = button.dataset.selectLink.startsWith("validation:") ? "validate" : "reply";
+          commandState.status = "a_valider";
+        }
+        renderCommandState();
+        persistCommandState();
+      });
+      byId("command-copy").addEventListener("click", async () => {
+        syncCommandFromForm();
+        try {
+          await navigator.clipboard.writeText(buildCommandPreview());
+        } catch (error) {
+          // Clipboard may be unavailable.
+        }
+      });
+      byId("command-save").addEventListener("click", async () => {
+        await applyCurrentCommand();
+      });
+      byId("command-clear").addEventListener("click", () => {
+        commandState = { ...defaultCommandState };
+        renderCommandState();
+        persistCommandState();
+      });
+      byId("command-apply").addEventListener("click", async () => {
+        await applyCurrentCommand();
+      });
+      byId("gate-unlock").addEventListener("click", unlockGate);
+      byId("gate-close").addEventListener("click", closeGate);
+      byId("gate-passcode").addEventListener("keydown", event => {
+        if (event.key === "Enter") unlockGate();
+      });
+      byId("live-toggle").addEventListener("click", toggleLiveLoop);
+      applyLiveButtonState();
+      syncLiveStatus();
+      bindFilters();
+    }
+
+    boot();
+  </script>
+</body>
+</html>
