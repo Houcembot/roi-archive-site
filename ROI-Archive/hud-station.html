@@ -114,6 +114,10 @@
   .scope{position:relative;width:min(96%,940px);aspect-ratio:2 / 1;align-self:center;overflow:hidden;cursor:grab;touch-action:none}
   .world{position:absolute;inset:0;transform-origin:0 0;will-change:transform}
   .zoomhint{position:absolute;bottom:6px;right:10px;font-size:.56rem;letter-spacing:.08em;color:var(--dim);opacity:.55;pointer-events:none}
+  .hud-play{background:var(--active);color:#03110f;border:0;font-family:var(--display);font-weight:700;font-size:.62rem;letter-spacing:.12em;text-transform:uppercase;padding:6px 13px;cursor:pointer}
+  .hud-play.paused{background:transparent;color:var(--phos);box-shadow:inset 0 0 0 1px var(--phos)}
+  .hud-play:hover{filter:brightness(1.12)}
+  .blip.pending{opacity:0!important;pointer-events:none}
   .scope svg{position:absolute;inset:0;width:100%;height:100%}
   .land{fill:rgba(227,179,65,.05);stroke:rgba(227,179,65,.34);stroke-width:.5;vector-effect:non-scaling-stroke;stroke-linejoin:round}
   .graticule{stroke:rgba(227,179,65,.085);stroke-width:.5;fill:none;vector-effect:non-scaling-stroke}
@@ -289,6 +293,7 @@
       <span class="led"><i></i>InfoBot</span>
       <span class="led idle"><i></i>CloBot</span>
     </div>
+    <button class="hud-play" id="hud-play" type="button">⏸ Pause</button>
     <div class="mode" id="mode">Balayage actif</div>
     <div class="clock"><span>J+0 · TUNIS</span><b class="num" id="clock">09:00:00</b></div>
   </div>
@@ -496,7 +501,7 @@
   const setT=(id,v)=>{const e=document.getElementById(id);if(e)e.textContent=v;};
   const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
-  let blips=[],selected=null,totalCount=0;
+  let blips=[],selected=null,totalCount=0,revealed=0,playing=true,revealOrder=[],playStartReal=0,playElapsedMs=0;
 
   function select(b){
     if(selected)selected.el.classList.remove('sel');
@@ -539,7 +544,7 @@
       const topPct=Math.max(4,Math.min(96,(90-lat)/180*100));
       const size=r.val?7+Math.min(r.val/130000,1)*9:(lvl==='fort'?7:5);
       const node=document.createElement('div');
-      node.className='blip '+lvl;
+      node.className='blip '+lvl+(playing?' pending':'');
       node.style.left=leftPct+'%';node.style.top=topPct+'%';
       node.style.width=size+'px';node.style.height=size+'px';
       node.innerHTML='<div class="d"></div>';
@@ -556,7 +561,9 @@
     // ---- stats live ----
     const locked=Math.min(10,total);
     totalCount=total;
-    setT('m-count',total);
+    revealOrder=blips.slice().sort((a,b)=>a.x-b.x);
+    revealed=playing?0:total; playElapsedMs=0; playStartReal=Date.now();
+    setT('m-count', revealed);
     setT('m-regions', new Set(items.map(it=>geoOf(it).join(','))).size);
     const pct=Math.round(locked/total*100);
     setT('verrou-pct',pct+'%');
@@ -575,17 +582,42 @@
 
   // ---- balayage horizontal : illumine les blips à son passage ----
   const scan=document.getElementById('scan');
-  let sx=0,last=performance.now();const SPEED=20;
+  let sx=0,last=performance.now();const SPEED=20,REVEAL_MS=7000;
   function loop(now){
-    const dt=Math.min((now-last)/1000,0.08);last=now;const prev=sx;sx=(sx+SPEED*dt)%100;
-    scan.style.left=sx+'%';
-    for(const b of blips){
-      const hit = sx>=prev ? (b.x>prev&&b.x<=sx) : (b.x>prev||b.x<=sx);
-      if(hit){b.el.classList.add('lit');clearTimeout(b._t);b._t=setTimeout(()=>b.el.classList.remove('lit'),60);}
+    const dt=Math.min((now-last)/1000,0.08);last=now;
+    if(playing){
+      const prev=sx;sx=(sx+SPEED*dt)%100;
+      scan.style.left=sx+'%';
+      // illumination des blips déjà révélés au passage du balayage
+      for(const b of blips){
+        const hit = sx>=prev ? (b.x>prev&&b.x<=sx) : (b.x>prev||b.x<=sx);
+        if(hit && !b.el.classList.contains('pending')){b.el.classList.add('lit');clearTimeout(b._t);b._t=setTimeout(()=>b.el.classList.remove('lit'),60);}
+      }
+      // révélation progressive — horloge réelle (robuste quel que soit le fps)
+      if(revealed<blips.length){
+        const elapsed=playElapsedMs+(Date.now()-playStartReal);
+        const target=Math.min(blips.length,Math.floor(elapsed/REVEAL_MS*blips.length));
+        while(revealed<target){const b=revealOrder[revealed];if(b)b.el.classList.remove('pending');revealed++;}
+        setT('m-count',revealed);
+      }
     }
     requestAnimationFrame(loop);
   }
   requestAnimationFrame(loop);
+
+  // ---- Play / Pause : rejoue la détection (les blips apparaissent progressivement) ----
+  const playBtn=document.getElementById('hud-play');
+  function setPlay(p){
+    if(p===playing)return;
+    if(p) playStartReal=Date.now(); else playElapsedMs+=Date.now()-playStartReal;
+    playing=p;
+    if(playBtn){playBtn.textContent=p?'⏸ Pause':'▶ Play';playBtn.classList.toggle('paused',!p);}
+    setT('mode',p?'Détection en cours':'En pause');
+  }
+  if(playBtn)playBtn.addEventListener('click',()=>{
+    if(!playing && revealed>=blips.length && blips.length){blips.forEach(b=>b.el.classList.add('pending'));revealed=0;playElapsedMs=0;playStartReal=Date.now();setT('m-count',0);}
+    setPlay(!playing);
+  });
 
   // ---- zoom molette (vers le curseur) + pan glisser ----
   let z=1,px=0,py=0;
