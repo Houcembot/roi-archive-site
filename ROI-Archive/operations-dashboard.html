@@ -2384,8 +2384,10 @@
     }
 
     function renderResearchDoc() {
+      const el = byId("research-doc");
+      if (!el) return; // retiré en mode public (vault secret) — ne pas planter le boot
       const doc = data.researchDoc || {};
-      byId("research-doc").innerHTML = (doc.entries || []).map(item => `
+      el.innerHTML = (doc.entries || []).map(item => `
         <tr>
           <td><strong>${item.source}</strong></td>
           <td>${item.finding}</td>
