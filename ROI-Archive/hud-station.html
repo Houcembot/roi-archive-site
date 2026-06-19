@@ -172,6 +172,43 @@
     padding:0 10px;
   }
   .field input:focus,.field select:focus{border-color:var(--teal)}
+  .segment-control{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:6px;
+    margin:0 0 12px;
+  }
+  .segment-button{
+    min-height:42px;
+    border:1px solid var(--line);
+    color:var(--muted);
+    background:#060b09;
+    text-align:left;
+    padding:7px 9px;
+  }
+  .segment-button:hover{
+    border-color:rgba(55,214,192,.55);
+    color:var(--ink);
+  }
+  .segment-button.active{
+    border-color:var(--teal);
+    color:var(--ink);
+    background:rgba(55,214,192,.1);
+  }
+  .segment-button span{
+    display:block;
+    font-family:var(--display);
+    font-size:.8rem;
+    font-weight:700;
+    line-height:1.1;
+  }
+  .segment-button small{
+    display:block;
+    margin-top:3px;
+    color:var(--quiet);
+    font-size:.68rem;
+  }
+  .segment-button.active small{color:var(--teal)}
   .country-list{
     overflow:auto;
     padding:8px;
@@ -519,6 +556,11 @@
     font-size:.75rem;
     overflow-wrap:anywhere;
   }
+  .reason.segment-reason{
+    color:var(--teal);
+    border-color:rgba(55,214,192,.28);
+    background:rgba(55,214,192,.055);
+  }
   .audit-line{
     margin-top:14px;
     color:var(--muted);
@@ -593,6 +635,28 @@
       </section>
       <section class="side-section">
         <p class="label">Filtres</p>
+        <div id="segmentControl" class="segment-control" aria-label="Segments métier">
+          <button class="segment-button active" type="button" data-segment="" aria-pressed="true">
+            <span>Tous</span>
+            <small id="segCountAll">0 offre</small>
+          </button>
+          <button class="segment-button" type="button" data-segment="formation" aria-pressed="false">
+            <span>Formation</span>
+            <small id="segCountFormation">0 offre</small>
+          </button>
+          <button class="segment-button" type="button" data-segment="animation" aria-pressed="false">
+            <span>Animation</span>
+            <small id="segCountAnimation">0 offre</small>
+          </button>
+          <button class="segment-button" type="button" data-segment="rnd" aria-pressed="false">
+            <span>R&amp;D</span>
+            <small id="segCountRnd">0 offre</small>
+          </button>
+          <button class="segment-button" type="button" data-segment="medical" aria-pressed="false">
+            <span>Médical</span>
+            <small id="segCountMedical">0 offre</small>
+          </button>
+        </div>
         <label class="field">
           <span>Recherche</span>
           <input id="searchBox" type="search" autocomplete="off" placeholder="pays, sujet, acheteur, référence">
@@ -602,7 +666,7 @@
           <select id="countrySelect"></select>
         </label>
         <label class="field">
-          <span>Sujet</span>
+          <span>Signal technique</span>
           <select id="subjectSelect">
             <option value="">Tous les sujets</option>
             <option value="formation">Formation</option>
@@ -684,6 +748,7 @@
     selectedCountry: "",
     selectedOfferId: "",
     search: "",
+    segment: "",
     subject: "",
     sort: "priority"
   };
@@ -698,6 +763,12 @@
     totalCountries: $("totalCountries"),
     totalErrors: $("totalErrors"),
     knownBudget: $("knownBudget"),
+    segmentControl: $("segmentControl"),
+    segCountAll: $("segCountAll"),
+    segCountFormation: $("segCountFormation"),
+    segCountAnimation: $("segCountAnimation"),
+    segCountRnd: $("segCountRnd"),
+    segCountMedical: $("segCountMedical"),
     searchBox: $("searchBox"),
     countrySelect: $("countrySelect"),
     subjectSelect: $("subjectSelect"),
@@ -725,6 +796,18 @@
     timeStyle: "short"
   });
   const fmtDate = new Intl.DateTimeFormat("fr-FR", { dateStyle: "medium" });
+  const SEGMENT_LABELS = {
+    formation: "Formation",
+    animation: "Animation / 3D",
+    rnd: "R&D",
+    medical: "Médical"
+  };
+  const SEGMENT_FALLBACK_TERMS = {
+    formation: ["formation", "training", "capacity building", "certification", "curriculum", "education", "e-learning", "skills", "teaching and learning materials", "training equipment"],
+    animation: ["3d", "3d animation", "animation 3d", "ar/vr", "augmented reality", "content development", "digital content", "media production", "simulation", "video", "virtual laboratory", "virtual reality", "vr equipment"],
+    rnd: ["rnd_ia", "software_data", "api development", "automation", "database management system", "digitalization", "information management system", "information system", "r&d", "software", "system integration"],
+    medical: ["anatomy", "clinical", "clinical simulation", "diagnostic", "healthcare simulation", "hospital", "medical", "medical imaging", "medical simulation", "patient", "veterinary"]
+  };
 
   function formatDate(value){
     if(!value) return "non publiée";
@@ -765,8 +848,50 @@
       offer.reference,
       offer.method,
       offer.subject,
+      Array.isArray(offer.segments) ? offer.segments.join(" ") : "",
+      Array.isArray(offer.segmentReasons) ? offer.segmentReasons.join(" ") : "",
+      offer.verifier?.decision,
+      Array.isArray(offer.verifier?.reasons) ? offer.verifier.reasons.join(" ") : "",
       offer.evidenceExcerpt
     ].join(" ").toLowerCase();
+  }
+
+  function keywordPresent(text, term){
+    const escaped = String(term).replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/\s+/g, "\\s+");
+    return new RegExp(`(^|[^a-z0-9])${escaped}([^a-z0-9]|$)`, "i").test(text);
+  }
+
+  function offerSegments(offer){
+    const direct = Array.isArray(offer.segments) ? offer.segments : [];
+    const normalized = new Set();
+    for(const segment of direct){
+      if(segment === "rnd_ia") normalized.add("rnd");
+      else if(segment === "3d_vr") normalized.add("animation");
+      else if(SEGMENT_LABELS[segment]) normalized.add(segment);
+    }
+    if(normalized.size) return Array.from(normalized);
+
+    const sourceText = [
+      offer.title,
+      offer.project,
+      offer.subject,
+      Array.isArray(offer.fitReasons) ? offer.fitReasons.join(" ") : "",
+      Array.isArray(offer.segmentReasons) ? offer.segmentReasons.join(" ") : "",
+      offer.evidenceExcerpt
+    ].join(" ").toLowerCase();
+    for(const [segment, terms] of Object.entries(SEGMENT_FALLBACK_TERMS)){
+      if(terms.some(term => keywordPresent(sourceText, term))) normalized.add(segment);
+    }
+    return Array.from(normalized);
+  }
+
+  function segmentLabel(segments){
+    const list = Array.isArray(segments) ? segments : [];
+    return list.map(segment => SEGMENT_LABELS[segment] || segment).filter(Boolean).join(" · ");
+  }
+
+  function activeSegmentLabel(){
+    return state.segment ? SEGMENT_LABELS[state.segment] : "Offres vérifiées";
   }
 
   function subjectLabel(raw){
@@ -851,9 +976,17 @@
     els.landLayer.replaceChildren(createSvg("path", {d:paths.join(" "), class:"land"}));
   }
 
+  function matchesNonCountryFilters(offer){
+    const q = state.search.trim().toLowerCase();
+    if(state.segment && !offerSegments(offer).includes(state.segment)) return false;
+    if(state.subject && !String(offer.subject || "").includes(state.subject)) return false;
+    if(q && !normalizedText(offer).includes(q)) return false;
+    return true;
+  }
+
   function countryStats(){
     const map = new Map();
-    for(const offer of state.offers){
+    for(const offer of state.offers.filter(matchesNonCountryFilters)){
       const current = map.get(offer.country) || {
         country: offer.country,
         count: 0,
@@ -871,11 +1004,13 @@
   }
 
   function applyFilters(){
-    const q = state.search.trim().toLowerCase();
+    const activeCountries = new Set(state.offers.filter(matchesNonCountryFilters).map(offer => offer.country));
+    if(state.selectedCountry && !activeCountries.has(state.selectedCountry)){
+      state.selectedCountry = "";
+    }
     state.filtered = state.offers.filter((offer) => {
+      if(!matchesNonCountryFilters(offer)) return false;
       if(state.selectedCountry && offer.country !== state.selectedCountry) return false;
-      if(state.subject && !String(offer.subject || "").includes(state.subject)) return false;
-      if(q && !normalizedText(offer).includes(q)) return false;
       return true;
     });
 
@@ -905,6 +1040,27 @@
       const generated = new Date(state.payload.generatedAt);
       fillText(els.generatedAt, fmtDateTime.format(generated));
       fillText(els.nextRun, fmtDateTime.format(new Date(generated.getTime() + 2 * 60 * 60 * 1000)));
+    }
+  }
+
+  function renderSegmentControl(){
+    const counts = {all: state.offers.length, formation: 0, animation: 0, rnd: 0, medical: 0};
+    for(const offer of state.offers){
+      for(const segment of offerSegments(offer)){
+        if(Object.prototype.hasOwnProperty.call(counts, segment)) counts[segment] += 1;
+      }
+    }
+    const plural = (count) => `${fmtInt.format(count)} offre${count > 1 ? "s" : ""}`;
+    fillText(els.segCountAll, plural(counts.all));
+    fillText(els.segCountFormation, plural(counts.formation));
+    fillText(els.segCountAnimation, plural(counts.animation));
+    fillText(els.segCountRnd, plural(counts.rnd));
+    fillText(els.segCountMedical, plural(counts.medical));
+
+    for(const button of els.segmentControl.querySelectorAll("[data-segment]")){
+      const active = button.dataset.segment === state.segment;
+      button.classList.toggle("active", active);
+      button.setAttribute("aria-pressed", active ? "true" : "false");
     }
   }
 
@@ -962,15 +1118,16 @@
   function renderResults(){
     const countryLabel = state.selectedCountry || "Tous les pays";
     const count = state.filtered.length;
+    const segmentTitle = activeSegmentLabel();
     fillText(els.selectedCountryLabel, countryLabel);
-    fillText(els.selectedCountryMeta, count ? `${fmtInt.format(count)} offre(s) filtrée(s)` : "aucune offre vérifiée dans ce filtre");
-    fillText(els.resultsTitle, state.selectedCountry ? `Offres · ${state.selectedCountry}` : "Offres vérifiées");
+    fillText(els.selectedCountryMeta, count ? `${fmtInt.format(count)} offre(s) · ${segmentTitle}` : "aucune offre vérifiée dans ce filtre");
+    fillText(els.resultsTitle, state.selectedCountry ? `${segmentTitle} · ${state.selectedCountry}` : segmentTitle);
     fillText(els.resultsMeta, `${fmtInt.format(count)} résultat(s)`);
 
     if(!count){
       const empty = document.createElement("div");
       empty.className = "empty";
-      empty.textContent = "Aucune offre officielle ne correspond aux filtres actuels.";
+      empty.textContent = `Aucune offre officielle ne correspond au filtre ${segmentTitle.toLowerCase()}.`;
       els.offerList.replaceChildren(empty);
       return;
     }
@@ -990,7 +1147,7 @@
       meta.textContent = `${offer.country} · ${offer.noticeType || "avis"} · deadline ${formatDate(offer.deadline)}`;
       const reasons = document.createElement("div");
       reasons.className = "offer-reasons";
-      reasons.textContent = subjectLabel(offer.subject);
+      reasons.textContent = segmentLabel(offerSegments(offer)) || subjectLabel(offer.subject);
       main.append(title, meta, reasons);
 
       const score = document.createElement("div");
@@ -1026,6 +1183,7 @@
     const facts = [
       ["Pays", offer.country],
       ["Priorité", `${offer.priority || 0}/100`],
+      ["Segment", segmentLabel(offerSegments(offer)) || "non classé"],
       ["Deadline", `${formatDate(offer.deadline)}${offer.deadlineTime ? " · " + offer.deadlineTime : ""}`],
       ["Budget", offer.budget && offer.budget !== "unknown" ? offer.budget : "non publié dans l'avis"],
       ["Acheteur", offer.buyer],
@@ -1066,11 +1224,18 @@
       tag.textContent = reason;
       reasons.appendChild(tag);
     }
+    for(const reason of offer.segmentReasons || []){
+      const tag = document.createElement("span");
+      tag.className = "reason segment-reason";
+      tag.textContent = `segment: ${reason}`;
+      reasons.appendChild(tag);
+    }
     if(reasons.childElementCount) evidence.appendChild(reasons);
 
     const audit = document.createElement("div");
     audit.className = "audit-line";
-    audit.textContent = `Vérification: ${offer.verification || "verified"} · ID ${offer.id} · collecté ${offer.collectedAt ? fmtDateTime.format(new Date(offer.collectedAt)) : "non publié"}.`;
+    const verifier = offer.verifier ? ` · ${offer.verifier.bot || "VerifierBot"}: ${offer.verifier.decision || "include"} (${offer.verifier.model || "rule_based_voxel_fit_v1"})` : "";
+    audit.textContent = `Vérification source: ${offer.verification || "verified"}${verifier} · ID ${offer.id} · collecté ${offer.collectedAt ? fmtDateTime.format(new Date(offer.collectedAt)) : "non publié"}.`;
     evidence.appendChild(audit);
 
     els.detailBody.replaceChildren(factGrid, evidence);
@@ -1079,6 +1244,7 @@
   function renderAll(){
     applyFilters();
     renderMetrics();
+    renderSegmentControl();
     renderCountryControls();
     renderMarkers();
     renderResults();
@@ -1127,6 +1293,13 @@
     state.search = els.searchBox.value;
     renderAll();
   });
+  els.segmentControl.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-segment]");
+    if(!button) return;
+    state.segment = button.dataset.segment || "";
+    state.selectedOfferId = "";
+    renderAll();
+  });
   els.countrySelect.addEventListener("change", () => selectCountry(els.countrySelect.value));
   els.subjectSelect.addEventListener("change", () => {
     state.subject = els.subjectSelect.value;
@@ -1156,6 +1329,7 @@
     state.selectedCountry = "";
     state.selectedOfferId = "";
     state.search = "";
+    state.segment = "";
     state.subject = "";
     state.sort = "priority";
     els.searchBox.value = "";
