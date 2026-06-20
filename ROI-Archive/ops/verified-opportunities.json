@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T08:56:24+00:00",
+  "generatedAt": "2026-06-20T09:37:41+00:00",
   "sourcePolicy": "verified-only",
   "verifier": {
     "bot": "VerifierBot",
@@ -71,6 +71,21 @@
     "media production",
     "video production"
   ],
+  "schedule": {
+    "status": "running",
+    "activeDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday",
+      "saturday"
+    ],
+    "startTime": "09:00",
+    "cycleHours": 2.0,
+    "runDurationMinutes": 720.0,
+    "queryDelaySeconds": 6.0
+  },
   "activeAsOf": "2026-06-20",
   "minimumDaysLeft": 1,
   "total": 2,
@@ -80,9 +95,7 @@
     "Kenya": 1
   },
   "segments": {
-    "animation": 2,
-    "formation": 2,
-    "rnd": 2
+    "animation": 2
   },
   "errors": [],
   "items": [
@@ -105,8 +118,11 @@
       "budget": "unknown",
       "priority": 100,
       "subject": "3d_vr, digital_learning, software_data, formation, rnd_ia, communication",
+      "primarySegment": "animation",
       "segments": [
-        "animation",
+        "animation"
+      ],
+      "secondarySegments": [
         "formation",
         "rnd"
       ],
@@ -167,7 +183,7 @@
         ]
       },
       "evidenceExcerpt": "loyability Enhancement Project (P176965) Source of Funding IDA – D9870 Reference No. FM-NDOE-530804-GO-RFQ Date June 15, 2027 The FSM National Department of Education invites sealed quotations from eligible bidders for: No. Goods Description Qty Location 1 AR/VR learning hardware 10 Pohnpei – location confirmed by FSM National Department of Education 2 Mobile charging cart 1 Same as above 3 External camera and tripod 2 Same as above 4 Automotive technology simulation software 10 Same as above 5 Science inquiry/lab simulation software 10 Same as above 6 Precision measurement software 10 Same as above 7 Electrical fundamentals simulation software 10 Same as above 8 Simulation platform software 10 Same as above 9 Digital content library for career readiness education 10 Same as above 10 Welding simulation software 10 Same as above 11 Welder simulator torch handle 10 Same as above 12 HVAC ba",
-      "collectedAt": "2026-06-20T08:55:30+00:00",
+      "collectedAt": "2026-06-20T09:36:59+00:00",
       "snapshotUrl": "ops/evidence/OP00452214.html"
     },
     {
@@ -189,8 +205,11 @@
       "budget": "unknown",
       "priority": 100,
       "subject": "3d_vr, software_data, formation, rnd_ia",
+      "primarySegment": "animation",
       "segments": [
-        "animation",
+        "animation"
+      ],
+      "secondarySegments": [
         "formation",
         "rnd"
       ],
@@ -248,7 +267,7 @@
         ]
       },
       "evidenceExcerpt": "Specific Procurement Notice Request for Bids Goods (One-Envelope Bidding Process) Country: Kenya Name of Project: Kenya Digital Economy Acceleration Project Contract Title: Supply, Delivery, Installation and Commissioning of Virtual Laboratory (VR) Equipment for Simulation-Based Training in TVETs Institutions Loan No./Credit No./ Grant No.: 7289-KE and 7290-KE RFB Reference No.: KE-ICTA-553315-GO-RFB 1. The Government of Kenya has received financing from the World Bank toward the cost of the Kenya Digital Economy Acceleration Project and intends to apply part of the proceeds toward payments under the contract for Supply, Delivery, Installation and Commissioning of Virtual Laboratory (VR) Equipment for Simulation-Based Training in TVETs Institutions. For this contract, the Borrower shall process the payments using the Direct Payment disbursement method, as defined in the World Bank’s Disb",
-      "collectedAt": "2026-06-20T08:55:30+00:00",
+      "collectedAt": "2026-06-20T09:37:00+00:00",
       "snapshotUrl": "ops/evidence/OP00451397.html"
     }
   ]

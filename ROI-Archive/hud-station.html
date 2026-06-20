@@ -209,6 +209,102 @@
     font-size:.68rem;
   }
   .segment-button.active small{color:var(--teal)}
+  .control-head{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:10px;
+    margin-bottom:9px;
+  }
+  .control-head .label{margin:0}
+  .control-state{
+    min-width:64px;
+    border:1px solid rgba(142,209,109,.32);
+    color:var(--green);
+    background:rgba(142,209,109,.06);
+    padding:4px 7px;
+    text-align:center;
+    font-size:.68rem;
+    text-transform:uppercase;
+  }
+  .control-state.paused{
+    border-color:rgba(227,179,65,.32);
+    color:var(--amber);
+    background:rgba(227,179,65,.065);
+  }
+  .control-state.offline{
+    border-color:rgba(139,150,137,.25);
+    color:var(--muted);
+    background:#060b09;
+  }
+  .control-actions{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:6px;
+    margin-bottom:10px;
+  }
+  .control-button{
+    min-height:36px;
+    border:1px solid var(--line);
+    color:var(--ink);
+    background:#060b09;
+    padding:0 10px;
+    text-align:center;
+  }
+  .control-button:hover:not(:disabled){
+    border-color:rgba(55,214,192,.55);
+  }
+  .control-button.primary{
+    border-color:rgba(55,214,192,.6);
+    color:var(--teal);
+    background:rgba(55,214,192,.08);
+  }
+  .control-button:disabled{
+    cursor:not-allowed;
+    color:var(--quiet);
+    border-color:var(--line-soft);
+    background:#060907;
+  }
+  .control-grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:8px;
+    margin-bottom:10px;
+  }
+  .control-grid .field{margin:0}
+  .day-grid{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:6px;
+    margin:0 0 10px;
+  }
+  .day-toggle{
+    display:flex;
+    align-items:center;
+    gap:6px;
+    min-height:30px;
+    border:1px solid var(--line);
+    color:var(--muted);
+    background:#060b09;
+    padding:0 7px;
+    font-size:.72rem;
+  }
+  .day-toggle input{
+    width:13px;
+    height:13px;
+    accent-color:var(--teal);
+  }
+  .day-toggle:has(input:checked){
+    color:var(--ink);
+    border-color:rgba(55,214,192,.45);
+    background:rgba(55,214,192,.06);
+  }
+  .control-note{
+    margin:8px 0 0;
+    color:var(--muted);
+    font-size:.72rem;
+    line-height:1.4;
+  }
   .country-list{
     overflow:auto;
     padding:8px;
@@ -650,7 +746,7 @@
             <small id="segCountFormation">0 offre</small>
           </button>
           <button class="segment-button" type="button" data-segment="animation" aria-pressed="false">
-            <span>Animation</span>
+            <span>Animation/VR</span>
             <small id="segCountAnimation">0 offre</small>
           </button>
           <button class="segment-button" type="button" data-segment="rnd" aria-pressed="false">
@@ -690,6 +786,44 @@
             <option value="date">Avis récent</option>
           </select>
         </label>
+      </section>
+      <section class="side-section control-section">
+        <div class="control-head">
+          <p class="label">Pilotage recherche</p>
+          <span id="searchControlState" class="control-state offline">lecture seule</span>
+        </div>
+        <div class="control-actions">
+          <button id="searchPlay" class="control-button primary" type="button">Play</button>
+          <button id="searchPause" class="control-button" type="button">Pause</button>
+        </div>
+        <div class="control-grid">
+          <label class="field">
+            <span>Cycle (h)</span>
+            <input id="cycleHours" type="number" min="1" max="24" step="1" inputmode="numeric">
+          </label>
+          <label class="field">
+            <span>Départ</span>
+            <input id="startTime" type="time">
+          </label>
+          <label class="field">
+            <span>Fenêtre (min)</span>
+            <input id="runDurationMinutes" type="number" min="15" max="1440" step="15" inputmode="numeric">
+          </label>
+          <label class="field">
+            <span>Pause requête (s)</span>
+            <input id="queryDelaySeconds" type="number" min="0" max="120" step="0.5" inputmode="decimal">
+          </label>
+        </div>
+        <div class="day-grid" aria-label="Jours actifs">
+          <label class="day-toggle"><input type="checkbox" data-search-day="monday"><span>Lun</span></label>
+          <label class="day-toggle"><input type="checkbox" data-search-day="tuesday"><span>Mar</span></label>
+          <label class="day-toggle"><input type="checkbox" data-search-day="wednesday"><span>Mer</span></label>
+          <label class="day-toggle"><input type="checkbox" data-search-day="thursday"><span>Jeu</span></label>
+          <label class="day-toggle"><input type="checkbox" data-search-day="friday"><span>Ven</span></label>
+          <label class="day-toggle"><input type="checkbox" data-search-day="saturday"><span>Sam</span></label>
+        </div>
+        <button id="saveSearchControl" class="control-button" type="button">Appliquer le planning</button>
+        <p id="searchControlNote" class="control-note">Connexion au contrôle local.</p>
       </section>
       <section class="side-section" style="padding-bottom:8px">
         <p class="label">Pays détectés</p>
@@ -755,7 +889,9 @@
     search: "",
     segment: "",
     subject: "",
-    sort: "priority"
+    sort: "priority",
+    searchControl: null,
+    controlBusy: false
   };
 
   const $ = (id) => document.getElementById(id);
@@ -778,6 +914,15 @@
     countrySelect: $("countrySelect"),
     subjectSelect: $("subjectSelect"),
     sortSelect: $("sortSelect"),
+    searchControlState: $("searchControlState"),
+    searchPlay: $("searchPlay"),
+    searchPause: $("searchPause"),
+    cycleHours: $("cycleHours"),
+    startTime: $("startTime"),
+    runDurationMinutes: $("runDurationMinutes"),
+    queryDelaySeconds: $("queryDelaySeconds"),
+    saveSearchControl: $("saveSearchControl"),
+    searchControlNote: $("searchControlNote"),
     countryList: $("countryList"),
     selectedCountryLabel: $("selectedCountryLabel"),
     selectedCountryMeta: $("selectedCountryMeta"),
@@ -794,6 +939,16 @@
     snapshotLink: $("snapshotLink"),
     detailBody: $("detailBody")
   };
+  const searchDayInputs = Array.from(document.querySelectorAll("[data-search-day]"));
+  const CONTROL_API_ENABLED = ["127.0.0.1", "localhost", "::1"].includes(location.hostname);
+  const DEFAULT_SEARCH_CONTROL = {
+    status: "running",
+    activeDays: ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
+    startTime: "09:00",
+    cycleHours: 2,
+    runDurationMinutes: 720,
+    queryDelaySeconds: 6
+  };
 
   const fmtInt = new Intl.NumberFormat("fr-FR");
   const fmtDateTime = new Intl.DateTimeFormat("fr-FR", {
@@ -803,7 +958,7 @@
   const fmtDate = new Intl.DateTimeFormat("fr-FR", { dateStyle: "medium" });
   const SEGMENT_LABELS = {
     formation: "Formation",
-    animation: "Animation / 3D",
+    animation: "Animation / VR",
     rnd: "R&D",
     medical: "Médical"
   };
@@ -853,7 +1008,9 @@
       offer.reference,
       offer.method,
       offer.subject,
+      offer.primarySegment,
       Array.isArray(offer.segments) ? offer.segments.join(" ") : "",
+      Array.isArray(offer.secondarySegments) ? offer.secondarySegments.join(" ") : "",
       Array.isArray(offer.segmentReasons) ? offer.segmentReasons.join(" ") : "",
       Array.isArray(offer.archiveMatches) ? offer.archiveMatches.map(match => [
         match.label,
@@ -872,6 +1029,9 @@
   }
 
   function offerSegments(offer){
+    if(offer.primarySegment && SEGMENT_LABELS[offer.primarySegment]){
+      return [offer.primarySegment];
+    }
     const direct = Array.isArray(offer.segments) ? offer.segments : [];
     const normalized = new Set();
     for(const segment of direct){
@@ -902,6 +1062,118 @@
 
   function activeSegmentLabel(){
     return state.segment ? SEGMENT_LABELS[state.segment] : "Offres vérifiées";
+  }
+
+  function searchControlConfig(){
+    return {
+      ...DEFAULT_SEARCH_CONTROL,
+      ...(state.payload?.schedule || {}),
+      ...(state.searchControl?.config || {})
+    };
+  }
+
+  function setSearchControlInputs(config){
+    els.cycleHours.value = config.cycleHours ?? DEFAULT_SEARCH_CONTROL.cycleHours;
+    els.startTime.value = config.startTime || DEFAULT_SEARCH_CONTROL.startTime;
+    els.runDurationMinutes.value = config.runDurationMinutes ?? DEFAULT_SEARCH_CONTROL.runDurationMinutes;
+    els.queryDelaySeconds.value = config.queryDelaySeconds ?? DEFAULT_SEARCH_CONTROL.queryDelaySeconds;
+    const activeDays = new Set(config.activeDays || DEFAULT_SEARCH_CONTROL.activeDays);
+    for(const input of searchDayInputs){
+      input.checked = activeDays.has(input.dataset.searchDay);
+    }
+  }
+
+  function readSearchControlInputs(){
+    const activeDays = searchDayInputs.filter(input => input.checked).map(input => input.dataset.searchDay);
+    return {
+      activeDays: activeDays.length ? activeDays : DEFAULT_SEARCH_CONTROL.activeDays,
+      startTime: els.startTime.value || DEFAULT_SEARCH_CONTROL.startTime,
+      cycleHours: Number(els.cycleHours.value) || DEFAULT_SEARCH_CONTROL.cycleHours,
+      runDurationMinutes: Number(els.runDurationMinutes.value) || DEFAULT_SEARCH_CONTROL.runDurationMinutes,
+      queryDelaySeconds: Number(els.queryDelaySeconds.value) || 0
+    };
+  }
+
+  function renderSearchControl(){
+    const config = searchControlConfig();
+    const available = Boolean(state.searchControl?.available);
+    const running = Boolean(state.searchControl?.running);
+    setSearchControlInputs(config);
+    els.searchControlState.classList.toggle("offline", !available);
+    els.searchControlState.classList.toggle("paused", available && config.status === "paused");
+    els.searchControlState.textContent = available ? (config.status === "paused" ? "pause" : running ? "cherche" : "actif") : "lecture seule";
+    const disabled = !available || state.controlBusy;
+    for(const control of [els.searchPlay, els.searchPause, els.saveSearchControl, els.cycleHours, els.startTime, els.runDurationMinutes, els.queryDelaySeconds, ...searchDayInputs]){
+      control.disabled = disabled;
+    }
+    els.searchPlay.textContent = running ? "Recherche en cours" : "Play";
+    els.searchPause.disabled = !available || state.controlBusy || config.status === "paused";
+    const note = state.searchControl?.message || (
+      available
+        ? `Cycle ${config.cycleHours}h · fenêtre ${config.startTime} + ${config.runDurationMinutes} min · pause ${config.queryDelaySeconds}s entre requêtes.`
+        : "Contrôle actif seulement depuis le serveur local 127.0.0.1:8790."
+    );
+    fillText(els.searchControlNote, note);
+  }
+
+  async function loadSearchControl(){
+    if(!CONTROL_API_ENABLED){
+      state.searchControl = {
+        available: false,
+        config: searchControlConfig(),
+        message: "GitHub Pages est en lecture seule. Ouvre la page locale pour lancer ou pauser le bot."
+      };
+      renderSearchControl();
+      return;
+    }
+    try{
+      const response = await fetch("/api/search/status", {cache:"no-store"});
+      if(!response.ok) throw new Error(`HTTP ${response.status}`);
+      const payload = await response.json();
+      state.searchControl = {
+        ...payload,
+        available: true,
+        message: payload.reason ? `État: ${payload.reason}` : "Contrôle local connecté."
+      };
+    }catch(error){
+      state.searchControl = {
+        available: false,
+        config: searchControlConfig(),
+        message: `Serveur local non joignable: ${error.message}`
+      };
+    }
+    renderSearchControl();
+  }
+
+  async function sendSearchControl(path, payload){
+    if(!CONTROL_API_ENABLED) return;
+    state.controlBusy = true;
+    renderSearchControl();
+    try{
+      const response = await fetch(path, {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify(payload || {})
+      });
+      if(!response.ok) throw new Error(`HTTP ${response.status}`);
+      const result = await response.json();
+      state.searchControl = {
+        ...result,
+        available: true,
+        message: result.status === "demarre"
+          ? "Collecte forcée lancée. La publication suivra la fin du passage."
+          : result.reason ? `État: ${result.reason}` : "Planning mis à jour."
+      };
+    }catch(error){
+      state.searchControl = {
+        available: false,
+        config: searchControlConfig(),
+        message: `Commande refusée: ${error.message}`
+      };
+    }finally{
+      state.controlBusy = false;
+      renderSearchControl();
+    }
   }
 
   function subjectLabel(raw){
@@ -1048,8 +1320,9 @@
     fillText(els.knownBudget, fmtInt.format(state.offers.filter(o => budgetValue(o) > 0).length));
     if(state.payload?.generatedAt){
       const generated = new Date(state.payload.generatedAt);
+      const cycleHours = Number(searchControlConfig().cycleHours || 2);
       fillText(els.generatedAt, fmtDateTime.format(generated));
-      fillText(els.nextRun, fmtDateTime.format(new Date(generated.getTime() + 2 * 60 * 60 * 1000)));
+      fillText(els.nextRun, fmtDateTime.format(new Date(generated.getTime() + cycleHours * 60 * 60 * 1000)));
     }
   }
 
@@ -1189,11 +1462,16 @@
     fillText(els.detailSub, `${offer.country} · ${offer.source} · ${offer.noticeType || "avis officiel"}`);
     setLink(els.officialLink, offer.sourceUrl);
     setLink(els.snapshotLink, offer.snapshotUrl);
+    const primarySegments = offerSegments(offer);
+    const secondarySegments = Array.isArray(offer.secondarySegments)
+      ? offer.secondarySegments.filter(segment => !primarySegments.includes(segment))
+      : [];
 
     const facts = [
       ["Pays", offer.country],
       ["Priorité", `${offer.priority || 0}/100`],
-      ["Segment", segmentLabel(offerSegments(offer)) || "non classé"],
+      ["Segment principal", segmentLabel(primarySegments) || "non classé"],
+      ["Signaux secondaires", segmentLabel(secondarySegments) || "aucun"],
       ["Deadline", `${formatDate(offer.deadline)}${offer.deadlineTime ? " · " + offer.deadlineTime : ""}`],
       ["Budget", offer.budget && offer.budget !== "unknown" ? offer.budget : "non publié dans l'avis"],
       ["Acheteur", offer.buyer],
@@ -1296,6 +1574,7 @@
       state.offers = Array.isArray(state.payload.items) ? state.payload.items : [];
       state.selectedOfferId = state.offers[0]?.id || "";
       renderAll();
+      loadSearchControl();
     }catch(error){
       const box = document.createElement("div");
       box.className = "error";
@@ -1304,6 +1583,7 @@
       fillText(els.generatedAt, "erreur");
       fillText(els.detailTitle, "Données vérifiées indisponibles");
       fillText(els.detailSub, "Le fichier local verified-opportunities.json n'a pas été chargé.");
+      loadSearchControl();
     }
   }
 
@@ -1327,6 +1607,15 @@
   els.sortSelect.addEventListener("change", () => {
     state.sort = els.sortSelect.value;
     renderAll();
+  });
+  els.searchPlay.addEventListener("click", () => {
+    sendSearchControl("/api/search/start", {...readSearchControlInputs(), status: "running"});
+  });
+  els.searchPause.addEventListener("click", () => {
+    sendSearchControl("/api/search/stop", {});
+  });
+  els.saveSearchControl.addEventListener("click", () => {
+    sendSearchControl("/api/search/config", readSearchControlInputs());
   });
   els.countryList.addEventListener("click", (event) => {
     const button = event.target.closest("[data-country]");
@@ -1356,6 +1645,7 @@
     renderAll();
   });
 
+  renderSearchControl();
   loadLand();
   loadData();
 })();
