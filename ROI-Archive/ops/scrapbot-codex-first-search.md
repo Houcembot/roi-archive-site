@@ -1,17 +1,17 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-20T15:42:01+00:00
+Genere: 2026-06-20T17:19:39+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 20 requetes, 2 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
 
 ## Resultat
-- Candidats lus: 91
+- Candidats lus: 93
 - Likely fit: 13
 - A revoir: 8
-- Rejetes: 70
+- Rejetes: 72
 - Offres publiees dans le HUD: 6
 
 ## Top offres publiees / compatibles
@@ -109,6 +109,6 @@ Genere: 2026-06-20T15:42:01+00:00
 - no-archive-match: Public Expenditure and Institutional Reviews | World Bank Procurement Notices | South Africa | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450547
 - no-archive-match: Cybersecurity Specialist | World Bank Procurement Notices | Philippines | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452355
 - no-archive-match: Technical Assistance for Institutional Development Support for the RPUC to Strengthen Key Utility Functions | World Bank Procurement Notices | Mauritius | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451739
-- no-archive-match: Procurement of Battery Energy Storage Systems (BESS) with Energy Management Systems (EMS) and Ancillary Equipment at Kyiv HPP / PSP, Kaniv, Kremenchuk and Seredniodniprovska Hydropower Plants, including related services (training of UHE staff) | World Bank Procurement Notices | Ukraine | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00431982
+- no-archive-match: Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar | TED EU Tenders | Germany | https://ted.europa.eu/en/notice/-/detail/411975-2026
 
 Fichier brut: `ops/scrapbot-codex-probe.json`

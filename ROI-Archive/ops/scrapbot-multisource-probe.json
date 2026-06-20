@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T15:42:01+00:00",
+  "generatedAt": "2026-06-20T17:19:39+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -23,11 +23,8 @@
       "url": "https://api.ted.europa.eu/v3/notices/search",
       "status": "active",
       "mode": "public API expert query with deadline filter",
-      "searchedTerms": 20,
-      "errors": [
-        "avatar: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n",
-        "research platform virtual reality: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n"
-      ]
+      "searchedTerms": 22,
+      "errors": []
     }
   ],
   "queryTerms": [
@@ -55,12 +52,12 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 70.37,
-  "totalCandidates": 91,
+  "durationSeconds": 75.64,
+  "totalCandidates": 93,
   "summary": {
     "likely_fit": 13,
     "review": 8,
-    "reject": 70
+    "reject": 72
   },
   "items": [
     {
@@ -1609,6 +1606,48 @@
       "source": "World Bank Procurement Notices"
     },
     {
+      "id": "TED-411975-2026",
+      "title": "Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar",
+      "country": "Germany",
+      "projectCountry": "Germany",
+      "noticeType": "cn-standard",
+      "noticeDate": "2026-06-16",
+      "deadline": "2026-07-13",
+      "deadlineTime": "",
+      "project": "",
+      "buyer": "Techniker Krankenkasse",
+      "contactEmail": "",
+      "reference": "411975-2026",
+      "method": "cn-standard",
+      "source": "TED EU Tenders",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/411975-2026",
+      "matchedTerms": [
+        "avatar"
+      ],
+      "titleSignals": [
+        "software_data: software"
+      ],
+      "bodySignals": [
+        "software_data: software"
+      ],
+      "segmentSignals": [
+        "rnd: software"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "software"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 1,
+      "bodySignalCount": 1,
+      "searchText": "germany – it services: consulting, software development, internet and support – fotorealistischer beratungsavatar  germany – it services: consulting, software development, internet and support – fotorealistischer beratungsavatar die techniker krankenkasse (tk) ist seit vielen jahren im bereich der internationalen beschäftigung aktiv und unterstützt unternehmen beim onboarding internationaler mitarbeitender - insbesondere bei fragen zur sozialversicherung. expatriates, die zum arbeiten nach deutschland kommen, können sich zudem bei der tk zu vielfältigen fragestellungen rund um ihre migration nach deutschland informieren, darunter insbesondere: - gesetzliche krankenversicherung und sozialversicherung in deutschland, - grundlegende abläufe im deutschen gesundheitswesen, - sozialversicherungsrechtliche besonderheiten bei internationalen beschäftigungsverhältnissen. - ergänzende informationen rund um den erwerbsmigrationsprozess . seit dem jahr 2025 können fragen an nicht-generative avatare gerichtet werden. alle einzelheiten ergeben sich aus den vergabeunterlagen. techniker krankenkasse germany",
+      "excerpt": "Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar Die Techniker Krankenkasse (TK) ist seit vielen Jahren im Bereich der internationalen Beschäftigung aktiv und unterstützt Unternehmen beim Onboarding internationaler Mitarbeitender - insbesondere bei Fragen zur Sozialversicherung. Expatriates, die zum Arbeiten nach Deutschland kommen, können sich zudem bei der TK zu vielfältigen Fragestellungen rund um ihre Migration nach Deutschland informieren, darunter insbesondere: - gesetzliche Krankenversicherung und Sozialversicherung in Deutschland, - grundlegende Abläufe im deutschen Gesundheitswesen, - sozialversicherungsrechtliche Besonderheiten bei internationalen Beschäftigungsverhältnissen. - ergänzende Informationen rund um den Erwerbsmigrationsprozess . Seit dem Jahr 2025 können Fragen an nicht-generative Avatare gerichtet wer",
+      "probeScore": 18,
+      "probeDecision": "reject"
+    },
+    {
       "id": "OP00431982",
       "title": "Procurement of Battery Energy Storage Systems (BESS) with Energy Management Systems (EMS) and Ancillary Equipment at Kyiv HPP / PSP, Kaniv, Kremenchuk and Seredniodniprovska Hydropower Plants, including related services (training of UHE staff)",
       "country": "Ukraine",
@@ -2575,6 +2614,40 @@
       "searchText": "multimedia production services for zach- undp field documentation mission  multimedia production services for zach- undp field documentation mission 29-jun-2026 03:00 (gmt -4.00) undp call for individual consultants undp-zwe-01837 zimbabwe",
       "excerpt": "Multimedia Production Services for ZACH- UNDP Field Documentation Mission 29-Jun-2026 03:00 (GMT -4.00) UNDP Call for individual consultants UNDP-ZWE-01837 Zimbabwe",
       "probeScore": 2,
+      "probeDecision": "reject"
+    },
+    {
+      "id": "TED-357768-2026",
+      "title": "Spain – Interpretation services – Servicio de interpretación para televisión en lenguaje de signos.",
+      "country": "Spain",
+      "projectCountry": "Spain",
+      "noticeType": "cn-standard",
+      "noticeDate": "2026-05-26",
+      "deadline": "2026-06-22",
+      "deadlineTime": "",
+      "project": "",
+      "buyer": "Corporación de Servizos Audiovisuais de Galicia, S.A. (CSAG)",
+      "contactEmail": "",
+      "reference": "357768-2026",
+      "method": "cn-standard",
+      "source": "TED EU Tenders",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/357768-2026",
+      "matchedTerms": [
+        "avatar"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "searchText": "spain – interpretation services – servicio de interpretación para televisión en lenguaje de signos.  spain – interpretation services – servicio de interpretación para televisión en lenguaje de signos. es objeto del contrato el servicio de interpretación en lenguaje de signos (en adelante ils) para personas sordas, sordociegas y con discapacidad auditiva con el fin de transmitir el mensaje a ese colectivo de personas, así como a todas aquellas que sean usuarias de esta lengua. serán objeto de interpretación los programas e informativos que se emiten en directo o previamente grabados para dar cumplimiento a lo dispuesto en la ley 1/2025, de 14 de marzo, de servicios de los medios públicos de comunicación audiovisual de galicia para la sociedad digital y en la ley 13/2022, de 7 de julio, general de comunicación audiovisual. el servicio se articula en dos tipologías de programas: • ils de programas en directo • ils de programas previamente grabados. el servicio deberá ser realizado únicamente por personas, no aceptándose las propuestas que expongan o incluyan para la prestación del servicio otras opciones tecnológicas (avatares, presentadores virtuales, etc.). corporación de servizos audiovisuais de galicia, s.a. (csag) spain",
+      "excerpt": "s de programas: • ILS de programas en directo • ILS de programas previamente grabados. El servicio deberá ser realizado únicamente por personas, no aceptándose las propuestas que expongan o incluyan para la prestación del servicio otras opciones tecnológicas (avatares, presentadores virtuales, etc.). Corporación de Servizos Audiovisuais de Galicia, S.A. (CSAG) Spain",
+      "probeScore": 1,
       "probeDecision": "reject"
     },
     {
