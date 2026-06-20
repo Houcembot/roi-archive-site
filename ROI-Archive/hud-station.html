@@ -561,6 +561,11 @@
     border-color:rgba(55,214,192,.28);
     background:rgba(55,214,192,.055);
   }
+  .reason.archive-reason{
+    color:#dfe8d1;
+    border-color:rgba(142,209,109,.34);
+    background:rgba(142,209,109,.065);
+  }
   .audit-line{
     margin-top:14px;
     color:var(--muted);
@@ -850,6 +855,11 @@
       offer.subject,
       Array.isArray(offer.segments) ? offer.segments.join(" ") : "",
       Array.isArray(offer.segmentReasons) ? offer.segmentReasons.join(" ") : "",
+      Array.isArray(offer.archiveMatches) ? offer.archiveMatches.map(match => [
+        match.label,
+        Array.isArray(match.matchedTerms) ? match.matchedTerms.join(" ") : "",
+        Array.isArray(match.archiveEvidence) ? match.archiveEvidence.join(" ") : ""
+      ].join(" ")).join(" ") : "",
       offer.verifier?.decision,
       Array.isArray(offer.verifier?.reasons) ? offer.verifier.reasons.join(" ") : "",
       offer.evidenceExcerpt
@@ -1228,6 +1238,14 @@
       const tag = document.createElement("span");
       tag.className = "reason segment-reason";
       tag.textContent = `segment: ${reason}`;
+      reasons.appendChild(tag);
+    }
+    for(const match of offer.archiveMatches || []){
+      const tag = document.createElement("span");
+      tag.className = "reason archive-reason";
+      const evidence = Array.isArray(match.archiveEvidence) ? match.archiveEvidence.slice(0, 2).join(", ") : "";
+      const terms = Array.isArray(match.matchedTerms) ? match.matchedTerms.slice(0, 3).join(", ") : "";
+      tag.textContent = `archive: ${match.label || "Voxel"} · ${terms}${evidence ? " -> " + evidence : ""}`;
       reasons.appendChild(tag);
     }
     if(reasons.childElementCount) evidence.appendChild(reasons);

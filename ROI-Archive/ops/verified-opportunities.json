@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T06:54:46+00:00",
+  "generatedAt": "2026-06-20T08:56:05+00:00",
   "sourcePolicy": "verified-only",
   "verifier": {
     "bot": "VerifierBot",
@@ -17,291 +17,41 @@
   ],
   "queryTerms": [
     "training",
-    "capacity building",
-    "digitalization",
-    "information systems",
-    "data visualization",
-    "GIS",
     "AR VR",
     "virtual reality",
+    "simulation",
     "animation",
     "3D",
+    "3D animation",
+    "Unreal",
+    "Maya",
+    "ZBrush",
+    "Substance 3D",
+    "medical visualization",
+    "scientific visualization",
+    "photogrammetry",
+    "scan 3D",
     "media production",
-    "communication strategy",
-    "ICT",
-    "online learning"
+    "video production"
   ],
   "activeAsOf": "2026-06-20",
   "minimumDaysLeft": 1,
-  "total": 15,
-  "countryCount": 13,
+  "total": 5,
+  "countryCount": 5,
   "countries": {
-    "Philippines": 1,
-    "Kenya": 2,
-    "Bangladesh": 1,
-    "Ukraine": 1,
-    "Cambodia": 1,
     "Micronesia, Federated States of": 1,
     "Mozambique": 1,
-    "Nigeria": 1,
-    "St. Lucia": 2,
+    "St. Lucia": 1,
     "Gambia, The": 1,
-    "Moldova": 1,
-    "Tajikistan": 1,
-    "North Macedonia": 1
+    "Kenya": 1
   },
   "segments": {
-    "formation": 10,
-    "rnd": 14,
-    "animation": 3
+    "animation": 2,
+    "formation": 5,
+    "rnd": 5
   },
   "errors": [],
   "items": [
-    {
-      "id": "OP00449635",
-      "title": "GIS Specialist",
-      "country": "Philippines",
-      "lat": 12.88,
-      "lon": 121.77,
-      "projectCountry": "Philippines",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "08-Jun-2026",
-      "deadline": "2026-06-23",
-      "deadlineTime": "09:00",
-      "project": "Support to Parcelization of Lands for Individual Titling (SPLIT) Project",
-      "buyer": "Department of Agrarian Reform",
-      "contactEmail": "usec.faspo@dar.gov.ph",
-      "reference": "SPLIT-REF-087",
-      "method": "Individual Consultant Selection",
-      "budget": "unknown",
-      "priority": 100,
-      "subject": "software_data, formation, rnd_ia, 3d_vr",
-      "segments": [
-        "formation"
-      ],
-      "segmentReasons": [
-        "formation: curriculum"
-      ],
-      "fitReasons": [
-        "software_data: geospatial, gis specialist",
-        "formation: curriculum",
-        "rnd_ia: data, analytics, digital",
-        "3d_vr: geospatial"
-      ],
-      "matchedTerm": "GIS",
-      "source": "World Bank Procurement Notices",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00449635",
-      "verification": "verified",
-      "verifier": {
-        "bot": "VerifierBot",
-        "model": "rule_based_voxel_fit_v1",
-        "decision": "include",
-        "reasons": [
-          "software_data: gis specialist"
-        ]
-      },
-      "evidenceExcerpt": "NDIVIDUAL TITLING (SPLIT) PROJECT REQUEST FOR EXPRESSIONS OF INTEREST (INDIVIDUAL CONSULTANT SELECTION) COUNTRY: PHILIPPINES NAME OF PROJECT: Support to Parcelization of Land Individual Titling (SPLIT) Loan No./Credit No./ Grant No.: 9141-PH Assignment Title: GIS Specialist Reference No.: SPLIT-REF-087 The Government of the Republic of the Philippines, through the Department of Agrarian Reform (DAR), has received financing from the International Bank for Reconstruction and Development (IBRD), a member of the World Bank Group, toward the cost of the Support to Parcelization of Lands for Individual Titling (SPLIT) Project and intends to apply a portion of the proceeds of the loan to payments for consulting services under this assignment. The Department of Agrarian Reform (DAR) seeks to engage the services of a qualified GIS Specialist who shall provide technical expertise in the developmen",
-      "collectedAt": "2026-06-20T06:54:15+00:00",
-      "snapshotUrl": "ops/evidence/OP00449635.html"
-    },
-    {
-      "id": "OP00447048",
-      "title": "Consultancy for system integration and API Development between the Kenya Investment Single Window ( KISW) and Patner Agencies and Counties for Digital one-Stop Centre ( OSC) Implementation.",
-      "country": "Kenya",
-      "lat": -0.02,
-      "lon": 37.91,
-      "projectCountry": "Kenya",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "09-Jun-2026",
-      "deadline": "2026-06-24",
-      "deadlineTime": "10:00",
-      "project": "Kenya Jobs and Economic Transformation (KJET) Project",
-      "buyer": "State Department of Investments Promotion",
-      "contactEmail": "leombara@hotmail.com",
-      "reference": "KE-SDIP-554976-CS-QCBS",
-      "method": "Quality And Cost-Based Selection",
-      "budget": "unknown",
-      "priority": 100,
-      "subject": "digital_learning, software_data, rnd_ia",
-      "segments": [
-        "rnd"
-      ],
-      "segmentReasons": [
-        "rnd: api development, software, system integration"
-      ],
-      "fitReasons": [
-        "digital_learning: digital platform",
-        "software_data: api development, software, system integration",
-        "rnd_ia: ict, software, platform, digital"
-      ],
-      "matchedTerm": "capacity building",
-      "source": "World Bank Procurement Notices",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00447048",
-      "verification": "verified",
-      "verifier": {
-        "bot": "VerifierBot",
-        "model": "rule_based_voxel_fit_v1",
-        "decision": "include",
-        "reasons": [
-          "software_data: api development, system integration"
-        ]
-      },
-      "evidenceExcerpt": "SELECTION) COUNTRY : KENYA NAME OF PROJECT : KENYA JOBS AND ECONOMIC TRANSFORMATION PROJECT ASSIGNMENT TITLE : CONSULTANCY FOR SYSTEMS INTEGRATION AND API DEVELOPMENT BETWEEN THE KENYA INVESTMENT SINGLE WINDOW (KISW) AND PARTNER AGENCIES AND COUNTIES FOR THE DIGITAL ONE-STOP-CENTRE (OSC) IMPLEMENTATION. LOAN/CREDIT NO : 7450-KE REFERENCE NO : KE-SDIP-554976-CS-QCBS The Government of Kenya (GoK) has received financing from the World Bank towards the cost of the Kenya Jobs and Economic Transformation (KJET) Project and intends to apply part of the proceeds for consulting services The consulting services involve systems integration and API development for the Kenya Investment Single Window (KISW) of the Kenya Investment Authority (InvestKenya) to support the implementation of the Digital One Stop Centre (DOSC), a unified digital platform that consolidates investor services from multiple go",
-      "collectedAt": "2026-06-20T06:54:05+00:00",
-      "snapshotUrl": "ops/evidence/OP00447048.html"
-    },
-    {
-      "id": "OP00450095",
-      "title": "Communication Strategy Development Firm",
-      "country": "Bangladesh",
-      "lat": 23.68,
-      "lon": 90.36,
-      "projectCountry": "Bangladesh",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "09-Jun-2026",
-      "deadline": "2026-06-24",
-      "deadlineTime": "15:00",
-      "project": "Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project",
-      "buyer": "Ministry of Women and Children Affairs",
-      "contactEmail": "pdbeibey.simcbp@gmail.com",
-      "reference": "BEIBEY/SF-01",
-      "method": "Quality And Cost-Based Selection",
-      "budget": "unknown",
-      "priority": 100,
-      "subject": "creative_comm, formation, communication",
-      "segments": [
-        "formation",
-        "rnd"
-      ],
-      "segmentReasons": [
-        "formation: capacity building, training",
-        "rnd: research"
-      ],
-      "fitReasons": [
-        "creative_comm: communication strategy, strategic communication",
-        "formation: training, capacity building",
-        "communication: communication, media, campaign, awareness"
-      ],
-      "matchedTerm": "capacity building",
-      "source": "World Bank Procurement Notices",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450095",
-      "verification": "verified",
-      "verifier": {
-        "bot": "VerifierBot",
-        "model": "rule_based_voxel_fit_v1",
-        "decision": "include",
-        "reasons": [
-          "creative_comm: communication strategy"
-        ]
-      },
-      "evidenceExcerpt": "cing Investments and Benefits for Early Years (BEIBEY) Project 4. Procuring Entity District : Dhaka 5. EOI for selection of : CONSULTING FIRM 6. EOI Ref No : /SIMCBP/SF-01/51/2026/96 Date: 07/06/2026 7. Package details : BEIBEY/SF-01: Consultancy Services for Communication Strategy Review and Development Key Information 8. Procurement Method : Quality and Cost Base Selection 9. Source of Funds : GOB & IDA Credit 10. Development Partner : IDA, World Bank Particular Information 11. Project Name : “Bangladesh Enhancing Investments and Benefits for Early Years (BEIBEY) Project” Supporting Implementation of Mother and Child Benefit Programme (SIMCBP). 12. EOI Closing Date : Expressions of Interest must be submitted to the undersigned address by 3:00 pm on or before 24/06/26, in a sealed envelope clearly marked “Expression of Interest”, contract Package number and position applied for. In addi",
-      "collectedAt": "2026-06-20T06:54:05+00:00",
-      "snapshotUrl": "ops/evidence/OP00450095.html"
-    },
-    {
-      "id": "OP00447675",
-      "title": "Consulting services for the development of teaching and learning materials (TLM)  for the first cycle of study at the level of upper secondary education (10th grade)",
-      "country": "Ukraine",
-      "lat": 48.38,
-      "lon": 31.17,
-      "projectCountry": "Ukraine",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "28-May-2026",
-      "deadline": "2026-06-25",
-      "deadlineTime": "13:00",
-      "project": "Lifting Education Access and Resilience in times of Need in Ukraine Program",
-      "buyer": "Ministry of Education and Science of Ukraine",
-      "contactEmail": "kateryna.kovtun@mon.gov.ua",
-      "reference": "LEARN-1.1-TLM10",
-      "method": "Quality And Cost-Based Selection",
-      "budget": "unknown",
-      "priority": 100,
-      "subject": "digital_learning, software_data, formation, rnd_ia, communication",
-      "segments": [
-        "formation",
-        "rnd"
-      ],
-      "segmentReasons": [
-        "formation: curriculum, education, teaching and learning materials, training",
-        "rnd: software"
-      ],
-      "fitReasons": [
-        "digital_learning: teaching and learning materials",
-        "software_data: software",
-        "formation: training, curriculum, education",
-        "rnd_ia: data, analytics, software, platform",
-        "communication: content"
-      ],
-      "matchedTerm": "online learning",
-      "source": "World Bank Procurement Notices",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00447675",
-      "verification": "verified",
-      "verifier": {
-        "bot": "VerifierBot",
-        "model": "rule_based_voxel_fit_v1",
-        "decision": "include",
-        "reasons": [
-          "digital_learning: teaching and learning materials"
-        ]
-      },
-      "evidenceExcerpt": "s of Interest has been issued. The consulting services (hereinafter – the Services) include: • developing teaching and learning materials (hereinafter referred to as “TLM”) for the first cycle/year of upper secondary education (Grade 10); • upgrading the MoES digital repository for TLM storage and use by expanding the repository’s capacity, as well as updating the User Manual for the repository; • developing, publishing, and disseminating hard copies of the Manuals on TLM; • conducting training for TLM users; and • organizing a final event for dissemination of the results. The expected period for the Consultant’s provision of the Services is approximately 12 calendar months from the date of contract signing. The required objective of the Services must be achieved by the Consultant within the agreed program and in accordance with the Ukrainian legislation, the World Bank’s policies and ru",
-      "collectedAt": "2026-06-20T06:54:46+00:00",
-      "snapshotUrl": "ops/evidence/OP00447675.html"
-    },
-    {
-      "id": "OP00450030",
-      "title": "Individual Consultant for ECE Digital Platform and Content Development Specialist",
-      "country": "Cambodia",
-      "lat": 12.57,
-      "lon": 104.99,
-      "projectCountry": "Cambodia",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "09-Jun-2026",
-      "deadline": "2026-06-28",
-      "deadlineTime": "17:00",
-      "project": "Nurturing Early Skills through Technology",
-      "buyer": "Shanti Volunteer Association (NEST PMU)",
-      "contactEmail": "info@sva-cambodia.org",
-      "reference": "KH-SVA-NEST PMU-553629-CS-INDV",
-      "method": "Individual Consultant Selection",
-      "budget": "unknown",
-      "priority": 100,
-      "subject": "digital_learning, software_data, creative_comm, formation, rnd_ia, communication",
-      "segments": [
-        "animation",
-        "formation",
-        "rnd"
-      ],
-      "segmentReasons": [
-        "formation: capacity building, curriculum, digital learning, e-learning",
-        "animation: content development",
-        "rnd: digitalization"
-      ],
-      "fitReasons": [
-        "digital_learning: digital learning, digital platform, e-learning, online learning",
-        "software_data: digitalization",
-        "creative_comm: content development",
-        "formation: training, capacity building, curriculum, skills",
-        "rnd_ia: digitalization, platform, digital",
-        "communication: content"
-      ],
-      "matchedTerm": "capacity building",
-      "source": "World Bank Procurement Notices",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450030",
-      "verification": "verified",
-      "verifier": {
-        "bot": "VerifierBot",
-        "model": "rule_based_voxel_fit_v1",
-        "decision": "include",
-        "reasons": [
-          "digital_learning: digital platform",
-          "creative_comm: content development"
-        ]
-      },
-      "evidenceExcerpt": "Title ECE Digital Platform and Content Development Specialist Contractual Arrangement Local Recruitment Expected Start Date 16 July 2026 Contract Duration Initial contract period of 24 months, renewable based on satisfactory performance, project needs, and availability of funding. Level of Input Part-time, long-term assignment with regular monthly engagement Project Nurturing Early Skills through Technology (NEST) Project Financing Partner The World Bank Hiring Organization Shanti Volunteer Association (SVA) Duty Station Phnom Penh, with travel to Battambang, Banteay Meanchey, and Pailin Provinces as required Contract Type Individual Consultant (IC) 1. Background The Nurturing Early Skills through Technology (NEST) Project is funded by the Japan Social Development Fund (JSDF) and administered by the World Bank. The Project is implemented by Shanti Volunteer Association (SVA) in close col",
-      "collectedAt": "2026-06-20T06:54:05+00:00",
-      "snapshotUrl": "ops/evidence/OP00450030.html"
-    },
     {
       "id": "OP00452214",
       "title": "Training Equipment to Support Skills Testing & Certification",
@@ -352,7 +102,7 @@
         ]
       },
       "evidenceExcerpt": "loyability Enhancement Project (P176965) Source of Funding IDA – D9870 Reference No. FM-NDOE-530804-GO-RFQ Date June 15, 2027 The FSM National Department of Education invites sealed quotations from eligible bidders for: No. Goods Description Qty Location 1 AR/VR learning hardware 10 Pohnpei – location confirmed by FSM National Department of Education 2 Mobile charging cart 1 Same as above 3 External camera and tripod 2 Same as above 4 Automotive technology simulation software 10 Same as above 5 Science inquiry/lab simulation software 10 Same as above 6 Precision measurement software 10 Same as above 7 Electrical fundamentals simulation software 10 Same as above 8 Simulation platform software 10 Same as above 9 Digital content library for career readiness education 10 Same as above 10 Welding simulation software 10 Same as above 11 Welder simulator torch handle 10 Same as above 12 HVAC ba",
-      "collectedAt": "2026-06-20T06:54:03+00:00",
+      "collectedAt": "2026-06-20T08:54:55+00:00",
       "snapshotUrl": "ops/evidence/OP00452214.html"
     },
     {
@@ -401,57 +151,8 @@
         ]
       },
       "evidenceExcerpt": "REPUBLIC OF MOZAMBIQUE MINISTRY OF COMMUNICATIONS AND DIGITAL TRANSFORMATION MOZAMBIQUE DIGITAL ACCELERATION PROJECTS REQUEST FOR EXPRESSIONS OF INTEREST CONSULTING FIRMS DESIGN AND IMPLEMENT ICT TRAINING FOR PEOPLE WITH DISABILITIES PROJECT ID: P176459 Reference No.: N118/MDAP/MCTD/QCBS-CS/25 (Re-advertisement) 1. The Government of Mozambique, through the Ministry of Communications and Digital Transformation (MCTD), has received financing from the World Bank for the implementation of the Mozambique Digital Acceleration Project (MDAP), and intends to apply part of the funds to hire a firm to provide Training for Persons with Visual Impairments (Blind and Low Vision) in Mozambique on the Use of Information and Communication Technologies (ICTs). 2. The consultancy services (“the Services”) are intended, in the first phase, to train 847 persons with visual impairments (blind and low vision)",
-      "collectedAt": "2026-06-20T06:54:03+00:00",
+      "collectedAt": "2026-06-20T08:54:55+00:00",
       "snapshotUrl": "ops/evidence/OP00430424.html"
-    },
-    {
-      "id": "OP00451474",
-      "title": "Re-Engagement of MIS Consultant for the development of DataBase Management System and registration of second cohot GSP beneficiaries",
-      "country": "Nigeria",
-      "lat": 9.08,
-      "lon": 8.68,
-      "projectCountry": "Nigeria",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "16-Jun-2026",
-      "deadline": "2026-06-30",
-      "deadlineTime": "12:00",
-      "project": "Adolescent Girls Initiative for Learning and Empowerment",
-      "buyer": "YOBE AGILE ADF",
-      "contactEmail": "abdullahibula@gmail.com",
-      "reference": "YB/AGILE/2026/PP/005",
-      "method": "Consultant Qualification  Selection",
-      "budget": "unknown",
-      "priority": 100,
-      "subject": "software_data, formation, rnd_ia, communication",
-      "segments": [
-        "formation",
-        "rnd"
-      ],
-      "segmentReasons": [
-        "formation: education",
-        "rnd: database management system, information system, software"
-      ],
-      "fitReasons": [
-        "software_data: database management system, information system, management information system, software",
-        "formation: education",
-        "rnd_ia: information system, ict, software",
-        "communication: communication"
-      ],
-      "matchedTerm": "information systems",
-      "source": "World Bank Procurement Notices",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451474",
-      "verification": "verified",
-      "verifier": {
-        "bot": "VerifierBot",
-        "model": "rule_based_voxel_fit_v1",
-        "decision": "include",
-        "reasons": [
-          "software_data: database management system"
-        ]
-      },
-      "evidenceExcerpt": "ional experience. The Firm will be selected based on experience and capacity in carrying out prior or related work on similar MIS programs. The Consultancy Firm is expected to have at least 5-10 years of experience in developing and designing state-of-the-art information systems and operating models with National scope. The firm is also expected to have over the last 8 years undertaken at least two successful assignments similar in scope and budget. At a minimum, the firm selected for the assignment must satisfy the following requirements: Demonstrated experience, knowledge and expertise in strategy, design and implementation of information systems with national scope. Prior experience in biometrics is preferred. Ability to demonstrate prior successful implementations of similar projects. Prior experience in the formulation and administration of policies and strategies relating to social",
-      "collectedAt": "2026-06-20T06:54:09+00:00",
-      "snapshotUrl": "ops/evidence/OP00451474.html"
     },
     {
       "id": "OP00451818",
@@ -499,7 +200,7 @@
         ]
       },
       "evidenceExcerpt": "REQUEST FOR EXPRESSIONS OF INTEREST SAINT LUCIA Assignment Title: Consultancy to Support the Central Statistics Office to Institutionalise Strategic Communication of Official Statistics (Technical Assistance for CSO website upgrade, strategic communications, and outreach to support official statistics) Reference No.: SLU-DDM-TACOMM-CQS-26 The Government of Saint Lucia has received financing from the World Bank toward the cost of the OECS Data for Decision Making Project and intends to apply part of the proceeds for consulting services. The consulting services (“the Services”) are intended to support the Central Statistics Office (CSO) to institutionalise strategic communication of official statistics and to modernise the CSO website. The assignment will support the CSO’s strategic advocacy and communication endeavour to promote the availability of and access to its statistical products a",
-      "collectedAt": "2026-06-20T06:54:03+00:00",
+      "collectedAt": "2026-06-20T08:54:55+00:00",
       "snapshotUrl": "ops/evidence/OP00451818.html"
     },
     {
@@ -547,7 +248,7 @@
         ]
       },
       "evidenceExcerpt": "mbia Resilience, Inclusive, Skills and Equity Project (P179233) and intends to apply part of the proceeds toward payments under the contract [1]for Comprehensive Higher Education Management Information System (HEMIS). This system will serve as a comprehensive digital transformation platform and turnkey solution to modernize all MoHERST operations while establishing The Gambia as a regional leader in higher education management sys tems and will include the installation, integration, training and technical support. 2. The Central Project Coordination Unit of the Ministry of Finance and Economic Affairs now invites sealed Proposals from eligible Proposers for a Comprehensive Higher Education Management Information System (HEMIS). 3. The procurement process will be conducted through international competitive procurement using Request for Proposals (RFP) as specified in the World Bank’s “Pro",
-      "collectedAt": "2026-06-20T06:54:03+00:00",
+      "collectedAt": "2026-06-20T08:54:55+00:00",
       "snapshotUrl": "ops/evidence/OP00451910.html"
     },
     {
@@ -598,188 +299,8 @@
         ]
       },
       "evidenceExcerpt": "Specific Procurement Notice Request for Bids Goods (One-Envelope Bidding Process) Country: Kenya Name of Project: Kenya Digital Economy Acceleration Project Contract Title: Supply, Delivery, Installation and Commissioning of Virtual Laboratory (VR) Equipment for Simulation-Based Training in TVETs Institutions Loan No./Credit No./ Grant No.: 7289-KE and 7290-KE RFB Reference No.: KE-ICTA-553315-GO-RFB 1. The Government of Kenya has received financing from the World Bank toward the cost of the Kenya Digital Economy Acceleration Project and intends to apply part of the proceeds toward payments under the contract for Supply, Delivery, Installation and Commissioning of Virtual Laboratory (VR) Equipment for Simulation-Based Training in TVETs Institutions. For this contract, the Borrower shall process the payments using the Direct Payment disbursement method, as defined in the World Bank’s Disb",
-      "collectedAt": "2026-06-20T06:54:03+00:00",
+      "collectedAt": "2026-06-20T08:54:55+00:00",
       "snapshotUrl": "ops/evidence/OP00451397.html"
-    },
-    {
-      "id": "OP00443229",
-      "title": "Development and implementation of the Information System \"Movable Collateral Registry\"",
-      "country": "Moldova",
-      "lat": 47.41,
-      "lon": 28.37,
-      "projectCountry": "Moldova",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "11-Jun-2026",
-      "deadline": "2026-06-23",
-      "deadlineTime": "15:00",
-      "project": "MSME Competitiveness Project",
-      "buyer": "Project Implementation Unit of the Competitiveness Enhancement Project",
-      "contactEmail": "piu@mded.gov.md",
-      "reference": "MD-CEP-551819-NC-RFP",
-      "method": "Request for Proposals",
-      "budget": "unknown",
-      "priority": 98,
-      "subject": "software_data, rnd_ia",
-      "segments": [
-        "rnd"
-      ],
-      "segmentReasons": [
-        "rnd: digitalization, information system"
-      ],
-      "fitReasons": [
-        "software_data: digitalization, information system",
-        "rnd_ia: digitalization, information system, platform"
-      ],
-      "matchedTerm": "digitalization",
-      "source": "World Bank Procurement Notices",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00443229",
-      "verification": "verified",
-      "verifier": {
-        "bot": "VerifierBot",
-        "model": "rule_based_voxel_fit_v1",
-        "decision": "include",
-        "reasons": [
-          "software_data: information system"
-        ]
-      },
-      "evidenceExcerpt": "ject now invites sealed Proposals from eligible Proposers for procurement of Development and implementation of the Information System \"Movable Collateral Registry\" aimed to ensure the transition from the traditional paper-based business processes to extensive digitalization of movable collateral management in accordance with existing normative legal requirements and Technical Specifications . 3. The procurement process will be conducted through international competitive procurement using Request for Proposals (RFP) as specified in the World Bank’s “Procurement Regulations for IPF Borrowers” World Bank’s “Procurement Regulations for IPF Borrowers” dated November 2020 (“Procurement Regulations”), and is open to all eligible Proposers as defined in the Procurement Regulations. 4. Bids will be evaluated in accordance with the evaluation process set out in the bidding documents. The following",
-      "collectedAt": "2026-06-20T06:54:07+00:00",
-      "snapshotUrl": "ops/evidence/OP00443229.html"
-    },
-    {
-      "id": "OP00445232",
-      "title": "Design, develop, and deploy a secure and scalable National Semantic Catalog Information System for Tajikistan.",
-      "country": "Tajikistan",
-      "lat": 38.86,
-      "lon": 71.28,
-      "projectCountry": "Tajikistan",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "15-May-2026",
-      "deadline": "2026-06-30",
-      "deadlineTime": "15:00",
-      "project": "Tajikistan Digital Foundations Project",
-      "buyer": "Project Implementation Center under the Executive Office of the President of Tajikistan",
-      "contactEmail": "info@dt.tj",
-      "reference": "TDFP/RFB/IS/1",
-      "method": "Request for Bids",
-      "budget": "unknown",
-      "priority": 98,
-      "subject": "software_data, rnd_ia",
-      "segments": [
-        "rnd"
-      ],
-      "segmentReasons": [
-        "rnd: digitalization, information system"
-      ],
-      "fitReasons": [
-        "software_data: digitalization, information system",
-        "rnd_ia: digitalization, information system, digital"
-      ],
-      "matchedTerm": "digitalization",
-      "source": "World Bank Procurement Notices",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445232",
-      "verification": "verified",
-      "verifier": {
-        "bot": "VerifierBot",
-        "model": "rule_based_voxel_fit_v1",
-        "decision": "include",
-        "reasons": [
-          "software_data: information system"
-        ]
-      },
-      "evidenceExcerpt": "SPECIFIC PROCUREMENT NOTICE (REQUEST FOR BIDS) REPUBLIC OF TAJIKISTAN TAJIKISTAN DIGITAL FOUNDATIONS PROJECT Purchaser: State Institution \"Projects Implementation Center Fundamentals of Digitalization in Tajikistan\" of the Executive Office of the President of the Republic of Tajikistan Project: \"Tajikistan Digital Foundations Project Grant No. TF-C6744 Assignment Title: Design, develop, and deploy a secure and scalable National Semantic Catalog Information System for Tajikistan The Republic of Tajikistan received a grant from the International Development Association for the implementation of the \"Tajikistan Digital Foundations Project\" and intends to use part of the funds for a contract for the provision of Design, develop, and deploy a secure and scalable National Semantic Catalog Information System for Tajikistan The State Institution \"Projects Implementation Center Fundamentals of Di",
-      "collectedAt": "2026-06-20T06:54:07+00:00",
-      "snapshotUrl": "ops/evidence/OP00445232.html"
-    },
-    {
-      "id": "OP00450673",
-      "title": "Procurement of Equipment, Analytics and Software for Statistical Support",
-      "country": "St. Lucia",
-      "lat": 13.91,
-      "lon": -60.98,
-      "projectCountry": "OECS Countries",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "11-Jun-2026",
-      "deadline": "2026-07-08",
-      "deadlineTime": "09:30",
-      "project": "OECS Data for Decision Making (DDM) Project",
-      "buyer": "Ministry of Finance, Economic Development and Youth Economy",
-      "contactEmail": "sean.mathurin@govt.lc",
-      "reference": "SLU-DDM-RFQ-EQUIP-CSO-26",
-      "method": "Request for Quotations",
-      "budget": "unknown",
-      "priority": 94,
-      "subject": "software_data, rnd_ia",
-      "segments": [
-        "rnd"
-      ],
-      "segmentReasons": [
-        "rnd: software"
-      ],
-      "fitReasons": [
-        "software_data: software",
-        "rnd_ia: data, analytics, ict, software"
-      ],
-      "matchedTerm": "information systems",
-      "source": "World Bank Procurement Notices",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450673",
-      "verification": "verified",
-      "verifier": {
-        "bot": "VerifierBot",
-        "model": "rule_based_voxel_fit_v1",
-        "decision": "include",
-        "reasons": [
-          "software_data: software"
-        ]
-      },
-      "evidenceExcerpt": "Country: SAINT LUCIA Name of Project: OECS Data for Decision Making Project Project Number: P174986 Contract Title: Procurement of Equipment, Analytics and Software for Statistical Support Reference: SLU-DDM-RFQ-EQUIP-CSO-26 The Government of Saint Lucia has received financing from the World Bank toward the cost of the OECS Data for Decision Making Project and intends to apply part of the proceeds toward payments under the contract for the Procurement of Equipment, Analytics and Software for Statistical Support. The Ministry of Economic Development and Youth Economy now invites eligible firms to submit quotations for the supply and delivery of ICT equipment, GIS and mapping workstations, enterprise servers and storage solutions, monitors and peripherals, networking equipment, smart conferencing systems, printers and plotters, backup power equipment, tablets, and related accessories in su",
-      "collectedAt": "2026-06-20T06:54:09+00:00",
-      "snapshotUrl": "ops/evidence/OP00450673.html"
-    },
-    {
-      "id": "OP00451550",
-      "title": "Design, Development and Implementation of the Integrated Agricultural Information Platform (IAIP), including the State-owned Land Management Information System (SALMIS)",
-      "country": "North Macedonia",
-      "lat": 41.61,
-      "lon": 21.75,
-      "projectCountry": "North Macedonia",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "17-Jun-2026",
-      "deadline": "2026-08-10",
-      "deadlineTime": "12:00",
-      "project": "Agriculture Modernization Project",
-      "buyer": "Ministry of Agriculture, Forestry and Water Economy",
-      "contactEmail": "ana.gaceva@amp.mk",
-      "reference": "AMP-GO-RFP-SC2.1-3",
-      "method": "Request for Proposals",
-      "budget": "EUR 2,020,000.",
-      "priority": 92,
-      "subject": "software_data, rnd_ia",
-      "segments": [
-        "rnd"
-      ],
-      "segmentReasons": [
-        "rnd: information system"
-      ],
-      "fitReasons": [
-        "software_data: information system, management information system",
-        "rnd_ia: information system, platform"
-      ],
-      "matchedTerm": "information systems",
-      "source": "World Bank Procurement Notices",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451550",
-      "verification": "verified",
-      "verifier": {
-        "bot": "VerifierBot",
-        "model": "rule_based_voxel_fit_v1",
-        "decision": "include",
-        "reasons": [
-          "software_data: information system, management information system"
-        ]
-      },
-      "evidenceExcerpt": "Specific Procurement Notice Request for Proposal Information Systems (Design, Supply and Installation) (Without Prequalification) Purchaser : Ministry of Agriculture, Forestry and Water Economy Project : Agriculture Modernization Project Contract title : Design, Development and Implementation of the Integrated Agricultural Information Platform (IAIP), including the State-owned Land Management Information System (SALMIS) Country : Republic of North Macedonia Loan No.: 9037 - MK RFP No: AMP-GO-RFP-SC2.1-3 Issued on: 2026/06/15 The Ministry of Agriculture, Forestry and Water Economy has recieved financing from the World Bank toward the cost of the Agriculture Modernization Project and intends to apply part of the proceeds toward payments under the contract for Design, Development and Implementation of the Integrated Agricultural Information Platform (IAIP), including the State-owned Land Ma",
-      "collectedAt": "2026-06-20T06:54:09+00:00",
-      "snapshotUrl": "ops/evidence/OP00451550.html"
     }
   ]
 }
