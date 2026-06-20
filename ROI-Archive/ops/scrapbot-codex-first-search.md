@@ -1,17 +1,17 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-20T15:13:02+00:00
+Genere: 2026-06-20T15:42:01+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 18 requetes, 4 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 20 requetes, 2 erreur(s)
 
 ## Resultat
-- Candidats lus: 90
-- Likely fit: 10
+- Candidats lus: 91
+- Likely fit: 13
 - A revoir: 8
-- Rejetes: 72
+- Rejetes: 70
 - Offres publiees dans le HUD: 6
 
 ## Top offres publiees / compatibles
@@ -44,6 +44,18 @@ Genere: 2026-06-20T15:13:02+00:00
 - URL: https://www.ungm.org/Public/Notice/304000
 - Archive: Scan 3D / patrimoine / viewer
 - Extrait: Request for proposals – Digital Heritage & Interactive Media Production for Mar Mikhael Train Station – Beirut, Lebanon 01-Jul-2026 18:00 (GMT 3.00) UNESCO Request for proposal RFP No BEI-2026-003 Lebanon
+
+### Ireland – Motion picture and video production services – Provision of TV and Video Production Services
+- Source: TED EU Tenders | Pays: Ireland | Deadline: 2026-06-30 | Score: 59 | non publiee
+- URL: https://ted.europa.eu/en/notice/-/detail/350216-2026
+- Archive: Animation 3D / personnage
+- Extrait: Ireland – Motion picture and video production services – Provision of TV and Video Production Services Rásaíocht Con Éireann(RCÉ) /Greyhound Racing Ireland (GRI) invites tender submissions from interested parties for the provision of TV and Video Production Services in the areas listed in paragraph 2 – Specification. This Invitation to Tender (ITT) forms part of a tender process. It is advised that you read this docu
+
+### North Macedonia – Motion picture and video production services – Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government
+- Source: TED EU Tenders | Pays: North Macedonia | Deadline: 2026-07-09 | Score: 59 | non publiee
+- URL: https://ted.europa.eu/en/notice/-/detail/405939-2026
+- Archive: Animation 3D / personnage
+- Extrait: North Macedonia – Motion picture and video production services – Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government Government of the Republic of North Macedonia - General secre
 
 ### Two CT simulators, 3D scanning water phantom & dosimetry equipment
 - Source: UNGM Procurement | Pays: Ukraine | Deadline: 2026-07-17 | Score: 53 | non publiee
@@ -97,6 +109,6 @@ Genere: 2026-06-20T15:13:02+00:00
 - no-archive-match: Public Expenditure and Institutional Reviews | World Bank Procurement Notices | South Africa | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450547
 - no-archive-match: Cybersecurity Specialist | World Bank Procurement Notices | Philippines | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452355
 - no-archive-match: Technical Assistance for Institutional Development Support for the RPUC to Strengthen Key Utility Functions | World Bank Procurement Notices | Mauritius | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451739
-- no-archive-match: Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar | TED EU Tenders | Germany | https://ted.europa.eu/en/notice/-/detail/411975-2026
+- no-archive-match: Procurement of Battery Energy Storage Systems (BESS) with Energy Management Systems (EMS) and Ancillary Equipment at Kyiv HPP / PSP, Kaniv, Kremenchuk and Seredniodniprovska Hydropower Plants, including related services (training of UHE staff) | World Bank Procurement Notices | Ukraine | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00431982
 
 Fichier brut: `ops/scrapbot-codex-probe.json`
