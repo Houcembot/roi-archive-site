@@ -1,15 +1,15 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-20T15:11:35+00:00
+Genere: 2026-06-20T15:13:02+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 18 requetes, 4 erreur(s)
 
 ## Resultat
-- Candidats lus: 93
-- Likely fit: 13
+- Candidats lus: 90
+- Likely fit: 10
 - A revoir: 8
 - Rejetes: 72
 - Offres publiees dans le HUD: 6
@@ -44,18 +44,6 @@ Genere: 2026-06-20T15:11:35+00:00
 - URL: https://www.ungm.org/Public/Notice/304000
 - Archive: Scan 3D / patrimoine / viewer
 - Extrait: Request for proposals – Digital Heritage & Interactive Media Production for Mar Mikhael Train Station – Beirut, Lebanon 01-Jul-2026 18:00 (GMT 3.00) UNESCO Request for proposal RFP No BEI-2026-003 Lebanon
-
-### Ireland – Motion picture and video production services – Provision of TV and Video Production Services
-- Source: TED EU Tenders | Pays: Ireland | Deadline: 2026-06-30 | Score: 59 | non publiee
-- URL: https://ted.europa.eu/en/notice/-/detail/350216-2026
-- Archive: Animation 3D / personnage
-- Extrait: Ireland – Motion picture and video production services – Provision of TV and Video Production Services Rásaíocht Con Éireann(RCÉ) /Greyhound Racing Ireland (GRI) invites tender submissions from interested parties for the provision of TV and Video Production Services in the areas listed in paragraph 2 – Specification. This Invitation to Tender (ITT) forms part of a tender process. It is advised that you read this docu
-
-### North Macedonia – Motion picture and video production services – Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government
-- Source: TED EU Tenders | Pays: North Macedonia | Deadline: 2026-07-09 | Score: 59 | non publiee
-- URL: https://ted.europa.eu/en/notice/-/detail/405939-2026
-- Archive: Animation 3D / personnage
-- Extrait: North Macedonia – Motion picture and video production services – Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government Government of the Republic of North Macedonia - General secre
 
 ### Two CT simulators, 3D scanning water phantom & dosimetry equipment
 - Source: UNGM Procurement | Pays: Ukraine | Deadline: 2026-07-17 | Score: 53 | non publiee
