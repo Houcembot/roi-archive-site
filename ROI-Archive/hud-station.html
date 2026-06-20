@@ -150,6 +150,41 @@
     font-size:.7rem;
     font-weight:500;
   }
+  .codex-line{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:6px;
+    margin-top:8px;
+  }
+  .codex-cell{
+    min-height:52px;
+    border:1px solid var(--line);
+    background:#060b09;
+    padding:8px;
+  }
+  .codex-cell span{
+    display:block;
+    color:var(--muted);
+    font-size:.68rem;
+  }
+  .codex-cell b{
+    display:block;
+    margin-top:4px;
+    font-family:var(--display);
+    font-size:1.1rem;
+    color:var(--teal);
+  }
+  .codex-report{
+    display:inline-flex;
+    margin-top:10px;
+    min-height:30px;
+    align-items:center;
+    border:1px solid var(--line);
+    background:#07100d;
+    padding:0 9px;
+    color:var(--teal);
+    font-size:.76rem;
+  }
   .field{
     display:flex;
     flex-direction:column;
@@ -735,6 +770,15 @@
         </div>
       </section>
       <section class="side-section">
+        <p class="label">Revue Codex</p>
+        <div class="codex-line">
+          <div class="codex-cell"><span>Lus</span><b id="codexRead">0</b></div>
+          <div class="codex-cell"><span>Retenus</span><b id="codexKeep">0</b></div>
+          <div class="codex-cell"><span>Rejetés</span><b id="codexReject">0</b></div>
+        </div>
+        <a id="codexReportLink" class="codex-report" href="ops/scrapbot-codex-first-search.md" target="_blank" rel="noreferrer noopener">Rapport première recherche</a>
+      </section>
+      <section class="side-section">
         <p class="label">Filtres</p>
         <div id="segmentControl" class="segment-control" aria-label="Segments métier">
           <button class="segment-button active" type="button" data-segment="" aria-pressed="true">
@@ -879,9 +923,11 @@
 <script>
 (() => {
   const DATA_URL = "ops/verified-opportunities.json";
+  const CODEX_PROBE_URL = "ops/scrapbot-codex-probe.json";
   const LAND_URL = "ops/world-land-110m.geojson";
   const state = {
     payload: null,
+    codexProbe: null,
     offers: [],
     filtered: [],
     selectedCountry: "",
@@ -904,6 +950,10 @@
     totalCountries: $("totalCountries"),
     totalErrors: $("totalErrors"),
     knownBudget: $("knownBudget"),
+    codexRead: $("codexRead"),
+    codexKeep: $("codexKeep"),
+    codexReject: $("codexReject"),
+    codexReportLink: $("codexReportLink"),
     segmentControl: $("segmentControl"),
     segCountAll: $("segCountAll"),
     segCountFormation: $("segCountFormation"),
@@ -1326,6 +1376,19 @@
     }
   }
 
+  function renderCodexProbe(){
+    const summary = state.codexProbe?.summary || {};
+    const total = Number(state.codexProbe?.totalCandidates || 0);
+    const kept = Number(summary.likely_fit || 0);
+    const rejected = Number(summary.reject || 0);
+    fillText(els.codexRead, fmtInt.format(total));
+    fillText(els.codexKeep, fmtInt.format(kept));
+    fillText(els.codexReject, fmtInt.format(rejected));
+    if(state.codexProbe?.generatedAt){
+      els.codexReportLink.textContent = `Rapport Codex · ${fmtDateTime.format(new Date(state.codexProbe.generatedAt))}`;
+    }
+  }
+
   function renderSegmentControl(){
     const counts = {all: state.offers.length, formation: 0, animation: 0, rnd: 0, medical: 0};
     for(const offer of state.offers){
@@ -1540,6 +1603,7 @@
   function renderAll(){
     applyFilters();
     renderMetrics();
+    renderCodexProbe();
     renderSegmentControl();
     renderCountryControls();
     renderMarkers();
@@ -1585,6 +1649,17 @@
       fillText(els.detailSub, "Le fichier local verified-opportunities.json n'a pas été chargé.");
       loadSearchControl();
     }
+  }
+
+  async function loadCodexProbe(){
+    try{
+      const response = await fetch(`${CODEX_PROBE_URL}?ts=${Date.now()}`, {cache:"no-store"});
+      if(!response.ok) throw new Error(`HTTP ${response.status}`);
+      state.codexProbe = await response.json();
+    }catch(error){
+      state.codexProbe = {summary:{}, totalCandidates:0};
+    }
+    renderCodexProbe();
   }
 
   els.searchBox.addEventListener("input", () => {
@@ -1647,6 +1722,7 @@
 
   renderSearchControl();
   loadLand();
+  loadCodexProbe();
   loadData();
 })();
 </script>
