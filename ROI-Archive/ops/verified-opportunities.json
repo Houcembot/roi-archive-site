@@ -1,11 +1,48 @@
 {
-  "generatedAt": "2026-06-20T08:56:05+00:00",
+  "generatedAt": "2026-06-20T08:56:24+00:00",
   "sourcePolicy": "verified-only",
   "verifier": {
     "bot": "VerifierBot",
-    "model": "rule_based_voxel_fit_v1",
+    "model": "archive_profile_rule_v2",
     "minimumDecisionForPublish": "include",
-    "note": "ScrapBot collecte les avis officiels ; VerifierBot exclut les offres hors sujet Voxel avant publication."
+    "note": "ScrapBot collecte les avis officiels ; VerifierBot publie seulement les offres qui matchent une capacite prouvee par l'archive Voxel.",
+    "archiveProfile": {
+      "records": 1047,
+      "families": {
+        "avatar_robot_unreal": {
+          "count": 34,
+          "taille_go": 681.25
+        },
+        "cartoon_character_animation": {
+          "count": 44,
+          "taille_go": 2003.31
+        },
+        "education_research": {
+          "count": 19,
+          "taille_go": 336.23
+        },
+        "medical_scientific_body": {
+          "count": 64,
+          "taille_go": 1014.9
+        },
+        "pipeline_tools": {
+          "count": 195,
+          "taille_go": 4389.97
+        },
+        "product_ad_motion": {
+          "count": 57,
+          "taille_go": 1050.32
+        },
+        "scan_heritage_photogrammetry": {
+          "count": 55,
+          "taille_go": 617.45
+        }
+      },
+      "sources": [
+        "/home/max/.botfleet/shared/projets/ROI-Archive/dataset/archive_summary.json",
+        "/home/max/.botfleet/shared/projets/ROI-Archive/combot/top20_sujets.csv"
+      ]
+    }
   },
   "sources": [
     {
@@ -36,19 +73,16 @@
   ],
   "activeAsOf": "2026-06-20",
   "minimumDaysLeft": 1,
-  "total": 5,
-  "countryCount": 5,
+  "total": 2,
+  "countryCount": 2,
   "countries": {
     "Micronesia, Federated States of": 1,
-    "Mozambique": 1,
-    "St. Lucia": 1,
-    "Gambia, The": 1,
     "Kenya": 1
   },
   "segments": {
     "animation": 2,
-    "formation": 5,
-    "rnd": 5
+    "formation": 2,
+    "rnd": 2
   },
   "errors": [],
   "items": [
@@ -93,163 +127,48 @@
       "source": "World Bank Procurement Notices",
       "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452214",
       "verification": "verified",
+      "archiveMatches": [
+        {
+          "capability": "vr_simulation",
+          "label": "VR / simulation / laboratoire virtuel",
+          "matchedTerms": [
+            "ar/vr",
+            "simulator",
+            "vr learning"
+          ],
+          "archiveEvidence": [
+            "Unreal / MetaHumans / facial tracking",
+            "Projet Deformations",
+            "Pipeline temps réel"
+          ]
+        }
+      ],
       "verifier": {
         "bot": "VerifierBot",
-        "model": "rule_based_voxel_fit_v1",
+        "model": "archive_profile_rule_v2",
         "decision": "include",
+        "confidence": "high",
+        "profileSource": {
+          "records": 1047,
+          "families": [
+            "avatar_robot_unreal",
+            "cartoon_character_animation",
+            "education_research",
+            "medical_scientific_body",
+            "pipeline_tools",
+            "product_ad_motion",
+            "scan_heritage_photogrammetry"
+          ],
+          "topSubjects": "/home/max/.botfleet/shared/projets/ROI-Archive/combot/top20_sujets.csv",
+          "archiveSummary": "/home/max/.botfleet/shared/projets/ROI-Archive/dataset/archive_summary.json"
+        },
         "reasons": [
           "digital_learning: training equipment"
         ]
       },
       "evidenceExcerpt": "loyability Enhancement Project (P176965) Source of Funding IDA – D9870 Reference No. FM-NDOE-530804-GO-RFQ Date June 15, 2027 The FSM National Department of Education invites sealed quotations from eligible bidders for: No. Goods Description Qty Location 1 AR/VR learning hardware 10 Pohnpei – location confirmed by FSM National Department of Education 2 Mobile charging cart 1 Same as above 3 External camera and tripod 2 Same as above 4 Automotive technology simulation software 10 Same as above 5 Science inquiry/lab simulation software 10 Same as above 6 Precision measurement software 10 Same as above 7 Electrical fundamentals simulation software 10 Same as above 8 Simulation platform software 10 Same as above 9 Digital content library for career readiness education 10 Same as above 10 Welding simulation software 10 Same as above 11 Welder simulator torch handle 10 Same as above 12 HVAC ba",
-      "collectedAt": "2026-06-20T08:54:55+00:00",
+      "collectedAt": "2026-06-20T08:55:30+00:00",
       "snapshotUrl": "ops/evidence/OP00452214.html"
-    },
-    {
-      "id": "OP00430424",
-      "title": "Design and implement ICT training for people with disabilities",
-      "country": "Mozambique",
-      "lat": -18.67,
-      "lon": 35.53,
-      "projectCountry": "Mozambique",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "12-Jun-2026",
-      "deadline": "2026-06-29",
-      "deadlineTime": "15:00",
-      "project": "Mozambique Digital Acceleration Project",
-      "buyer": "Ministry of Transport and Communication",
-      "contactEmail": "asilva@padim.gov.mz",
-      "reference": "118/MDAP/MCTD/QCBS-CS/25",
-      "method": "Quality And Cost-Based Selection",
-      "budget": "unknown",
-      "priority": 100,
-      "subject": "software_data, formation, rnd_ia, communication",
-      "segments": [
-        "formation",
-        "rnd"
-      ],
-      "segmentReasons": [
-        "formation: skills, training",
-        "rnd: artificial intelligence, software"
-      ],
-      "fitReasons": [
-        "software_data: ict training, software",
-        "formation: training, skills",
-        "rnd_ia: ict, software, digital",
-        "communication: communication"
-      ],
-      "matchedTerm": "training",
-      "source": "World Bank Procurement Notices",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00430424",
-      "verification": "verified",
-      "verifier": {
-        "bot": "VerifierBot",
-        "model": "rule_based_voxel_fit_v1",
-        "decision": "include",
-        "reasons": [
-          "software_data: ict training"
-        ]
-      },
-      "evidenceExcerpt": "REPUBLIC OF MOZAMBIQUE MINISTRY OF COMMUNICATIONS AND DIGITAL TRANSFORMATION MOZAMBIQUE DIGITAL ACCELERATION PROJECTS REQUEST FOR EXPRESSIONS OF INTEREST CONSULTING FIRMS DESIGN AND IMPLEMENT ICT TRAINING FOR PEOPLE WITH DISABILITIES PROJECT ID: P176459 Reference No.: N118/MDAP/MCTD/QCBS-CS/25 (Re-advertisement) 1. The Government of Mozambique, through the Ministry of Communications and Digital Transformation (MCTD), has received financing from the World Bank for the implementation of the Mozambique Digital Acceleration Project (MDAP), and intends to apply part of the funds to hire a firm to provide Training for Persons with Visual Impairments (Blind and Low Vision) in Mozambique on the Use of Information and Communication Technologies (ICTs). 2. The consultancy services (“the Services”) are intended, in the first phase, to train 847 persons with visual impairments (blind and low vision)",
-      "collectedAt": "2026-06-20T08:54:55+00:00",
-      "snapshotUrl": "ops/evidence/OP00430424.html"
-    },
-    {
-      "id": "OP00451818",
-      "title": "Technical Assistance for CSO website upgrade, strategic communications, and outreach to support official statistics",
-      "country": "St. Lucia",
-      "lat": 13.91,
-      "lon": -60.98,
-      "projectCountry": "OECS Countries",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "17-Jun-2026",
-      "deadline": "2026-07-01",
-      "deadlineTime": "09:30",
-      "project": "OECS Data for Decision Making (DDM) Project",
-      "buyer": "Ministry of Finance, Economic Development and Youth Economy",
-      "contactEmail": "sean.mathurin@govt.lc",
-      "reference": "SLU-DDM-TACOMM-CQS-26",
-      "method": "Quality And Cost-Based Selection",
-      "budget": "unknown",
-      "priority": 100,
-      "subject": "creative_comm, formation, rnd_ia, communication",
-      "segments": [
-        "formation",
-        "rnd"
-      ],
-      "segmentReasons": [
-        "formation: training",
-        "rnd: research"
-      ],
-      "fitReasons": [
-        "creative_comm: communication strategy, strategic communication, strategic communications, website upgrade",
-        "formation: training, workshop",
-        "rnd_ia: data, analytics, digital",
-        "communication: communication, content, campaign, strategic communications"
-      ],
-      "matchedTerm": "training",
-      "source": "World Bank Procurement Notices",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451818",
-      "verification": "verified",
-      "verifier": {
-        "bot": "VerifierBot",
-        "model": "rule_based_voxel_fit_v1",
-        "decision": "include",
-        "reasons": [
-          "creative_comm: strategic communications, website upgrade"
-        ]
-      },
-      "evidenceExcerpt": "REQUEST FOR EXPRESSIONS OF INTEREST SAINT LUCIA Assignment Title: Consultancy to Support the Central Statistics Office to Institutionalise Strategic Communication of Official Statistics (Technical Assistance for CSO website upgrade, strategic communications, and outreach to support official statistics) Reference No.: SLU-DDM-TACOMM-CQS-26 The Government of Saint Lucia has received financing from the World Bank toward the cost of the OECS Data for Decision Making Project and intends to apply part of the proceeds for consulting services. The consulting services (“the Services”) are intended to support the Central Statistics Office (CSO) to institutionalise strategic communication of official statistics and to modernise the CSO website. The assignment will support the CSO’s strategic advocacy and communication endeavour to promote the availability of and access to its statistical products a",
-      "collectedAt": "2026-06-20T08:54:55+00:00",
-      "snapshotUrl": "ops/evidence/OP00451818.html"
-    },
-    {
-      "id": "OP00451910",
-      "title": "HEMIS Higher Education Information Management System",
-      "country": "Gambia, The",
-      "lat": 13.44,
-      "lon": -15.31,
-      "projectCountry": "Gambia, The",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "17-Jun-2026",
-      "deadline": "2026-07-24",
-      "deadlineTime": "11:30",
-      "project": "The Gambia Resilience, Inclusion, Skills, and Equity Project",
-      "buyer": "Central Project Coordinating Unit",
-      "contactEmail": "ataal@cpcumof.gm",
-      "reference": "GM-CPCU - MOFEA-547147-NC-RFP",
-      "method": "Request for Proposals",
-      "budget": "unknown",
-      "priority": 100,
-      "subject": "software_data, formation, rnd_ia",
-      "segments": [
-        "formation",
-        "rnd"
-      ],
-      "segmentReasons": [
-        "formation: education, skills, training",
-        "rnd: information management system, information system"
-      ],
-      "fitReasons": [
-        "software_data: information management system, information system, management information system",
-        "formation: training, skills, education",
-        "rnd_ia: information system, platform, digital"
-      ],
-      "matchedTerm": "training",
-      "source": "World Bank Procurement Notices",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451910",
-      "verification": "verified",
-      "verifier": {
-        "bot": "VerifierBot",
-        "model": "rule_based_voxel_fit_v1",
-        "decision": "include",
-        "reasons": [
-          "software_data: information management system"
-        ]
-      },
-      "evidenceExcerpt": "mbia Resilience, Inclusive, Skills and Equity Project (P179233) and intends to apply part of the proceeds toward payments under the contract [1]for Comprehensive Higher Education Management Information System (HEMIS). This system will serve as a comprehensive digital transformation platform and turnkey solution to modernize all MoHERST operations while establishing The Gambia as a regional leader in higher education management sys tems and will include the installation, integration, training and technical support. 2. The Central Project Coordination Unit of the Ministry of Finance and Economic Affairs now invites sealed Proposals from eligible Proposers for a Comprehensive Higher Education Management Information System (HEMIS). 3. The procurement process will be conducted through international competitive procurement using Request for Proposals (RFP) as specified in the World Bank’s “Pro",
-      "collectedAt": "2026-06-20T08:54:55+00:00",
-      "snapshotUrl": "ops/evidence/OP00451910.html"
     },
     {
       "id": "OP00451397",
@@ -290,16 +209,46 @@
       "source": "World Bank Procurement Notices",
       "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451397",
       "verification": "verified",
+      "archiveMatches": [
+        {
+          "capability": "vr_simulation",
+          "label": "VR / simulation / laboratoire virtuel",
+          "matchedTerms": [
+            "virtual laboratory",
+            "virtual reality"
+          ],
+          "archiveEvidence": [
+            "Unreal / MetaHumans / facial tracking",
+            "Projet Deformations",
+            "Pipeline temps réel"
+          ]
+        }
+      ],
       "verifier": {
         "bot": "VerifierBot",
-        "model": "rule_based_voxel_fit_v1",
+        "model": "archive_profile_rule_v2",
         "decision": "include",
+        "confidence": "high",
+        "profileSource": {
+          "records": 1047,
+          "families": [
+            "avatar_robot_unreal",
+            "cartoon_character_animation",
+            "education_research",
+            "medical_scientific_body",
+            "pipeline_tools",
+            "product_ad_motion",
+            "scan_heritage_photogrammetry"
+          ],
+          "topSubjects": "/home/max/.botfleet/shared/projets/ROI-Archive/combot/top20_sujets.csv",
+          "archiveSummary": "/home/max/.botfleet/shared/projets/ROI-Archive/dataset/archive_summary.json"
+        },
         "reasons": [
           "3d_vr: virtual laboratory, simulation, simulation-based training"
         ]
       },
       "evidenceExcerpt": "Specific Procurement Notice Request for Bids Goods (One-Envelope Bidding Process) Country: Kenya Name of Project: Kenya Digital Economy Acceleration Project Contract Title: Supply, Delivery, Installation and Commissioning of Virtual Laboratory (VR) Equipment for Simulation-Based Training in TVETs Institutions Loan No./Credit No./ Grant No.: 7289-KE and 7290-KE RFB Reference No.: KE-ICTA-553315-GO-RFB 1. The Government of Kenya has received financing from the World Bank toward the cost of the Kenya Digital Economy Acceleration Project and intends to apply part of the proceeds toward payments under the contract for Supply, Delivery, Installation and Commissioning of Virtual Laboratory (VR) Equipment for Simulation-Based Training in TVETs Institutions. For this contract, the Borrower shall process the payments using the Direct Payment disbursement method, as defined in the World Bank’s Disb",
-      "collectedAt": "2026-06-20T08:54:55+00:00",
+      "collectedAt": "2026-06-20T08:55:30+00:00",
       "snapshotUrl": "ops/evidence/OP00451397.html"
     }
   ]
