@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T17:19:39+00:00",
+  "generatedAt": "2026-06-22T07:26:36+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -52,12 +52,12 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 75.64,
-  "totalCandidates": 93,
+  "durationSeconds": 101.53,
+  "totalCandidates": 92,
   "summary": {
     "likely_fit": 13,
-    "review": 8,
-    "reject": 72
+    "review": 9,
+    "reject": 70
   },
   "items": [
     {
@@ -1165,6 +1165,50 @@
       "probeDecision": "review"
     },
     {
+      "id": "TED-424712-2026",
+      "title": "Norway – Software package and information systems – Software licences and accompanying services.",
+      "country": "Norway",
+      "projectCountry": "Norway",
+      "noticeType": "cn-standard",
+      "noticeDate": "2026-06-22",
+      "deadline": "2026-08-10",
+      "deadlineTime": "",
+      "project": "",
+      "buyer": "DEPARTEMENTENES DIGITALISERINGSORGANISASJON (DIO)",
+      "contactEmail": "",
+      "reference": "424712-2026",
+      "method": "cn-standard",
+      "source": "TED EU Tenders",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/424712-2026",
+      "matchedTerms": [
+        "media production"
+      ],
+      "titleSignals": [
+        "software_data: software"
+      ],
+      "bodySignals": [
+        "software_data: software",
+        "creative_comm: media production, video"
+      ],
+      "segmentSignals": [
+        "animation: media production, video",
+        "rnd: software"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "software"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 1,
+      "bodySignalCount": 3,
+      "searchText": "norway – software package and information systems – software licences and accompanying services.  norway – software package and information systems – software licences and accompanying services. licences not included in other sub-contracts are included in this, which we have called other software. see the detailed description under sub-contract 1 - other software. the contracting authority and the entities require good tools for editing pictures, video and audio. the current supplier mainly consists of adobe licences. see further description under sub-contract 2 - media production. dio uses a system from commvault in disciplines for back-up and local storage of e-mail boxes. there will be a need for the system going forward as well, but there will be changes on the licence model based on the manufacturer making changes here. see the detailed description under sub-contract 3 back-up system. see the approaching description under sub-contract 4 virtualisation. dio is in the process of constructing a new infrastructure platform. in anticipation of this being completed, there may be a need for interim systems in the cloud. the sub-contract shall therefore ensure the necessary flexibility so that dio can procure cloud licences and additional modules that support both temporary and long-term needs. see the detailed description under sub-contract 5 it service manager (itsm/esm). the contracting authority needs pexip licences for video conferencing services and accompanying software to ensure efficient interaction, meeting and collaboration across the organisation. see the detailed description under sub-contract 6 video conference. departementenes digitaliseringsorganisasjon (dio) norway",
+      "excerpt": "Norway – Software package and information systems – Software licences and accompanying services. Licences not included in other sub-contracts are included in this, which we have called other software. See the detailed description under Sub-Contract 1 - Other Software. The contracting authority and the entities require good tools for editing pictures, video and audio. The current supplier mainly consists of Adobe licences. See further description under Sub-Contract 2 - Media Production. DIO uses a system from Commvault in disciplines for back-up and local storage of e-mail boxes. There will be a need for the system going forward as well, but there will be changes on the licence model based on the manufacturer making changes here. See the detailed description under sub-contract 3 Back-up system. See the approaching description under Sub-Contract 4 Virtualisation. DIO is in the process of c",
+      "probeScore": 28,
+      "probeDecision": "review"
+    },
+    {
       "id": "OP00446445",
       "title": "PR and Strategic Communications Support for the INSON Project",
       "country": "Uzbekistan",
@@ -1646,41 +1690,6 @@
       "excerpt": "Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar Die Techniker Krankenkasse (TK) ist seit vielen Jahren im Bereich der internationalen Beschäftigung aktiv und unterstützt Unternehmen beim Onboarding internationaler Mitarbeitender - insbesondere bei Fragen zur Sozialversicherung. Expatriates, die zum Arbeiten nach Deutschland kommen, können sich zudem bei der TK zu vielfältigen Fragestellungen rund um ihre Migration nach Deutschland informieren, darunter insbesondere: - gesetzliche Krankenversicherung und Sozialversicherung in Deutschland, - grundlegende Abläufe im deutschen Gesundheitswesen, - sozialversicherungsrechtliche Besonderheiten bei internationalen Beschäftigungsverhältnissen. - ergänzende Informationen rund um den Erwerbsmigrationsprozess . Seit dem Jahr 2025 können Fragen an nicht-generative Avatare gerichtet wer",
       "probeScore": 18,
       "probeDecision": "reject"
-    },
-    {
-      "id": "OP00431982",
-      "title": "Procurement of Battery Energy Storage Systems (BESS) with Energy Management Systems (EMS) and Ancillary Equipment at Kyiv HPP / PSP, Kaniv, Kremenchuk and Seredniodniprovska Hydropower Plants, including related services (training of UHE staff)",
-      "country": "Ukraine",
-      "projectCountry": "Ukraine",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "12-Jun-2026",
-      "deadline": "2026-06-22",
-      "project": "Improving Power System Resilience for European Power Grid Integration Project",
-      "buyer": "PRIVATE JOINT STOCK COMPANY “UKRHYDROENERGO”",
-      "contactEmail": "o.hryshchenko@uhe.gov.ua",
-      "reference": "UHE-IPSR-DSI-1",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00431982",
-      "matchedTerms": [
-        "video production"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: training"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "SPECIFIC PROCUREMENT NOTICE Request for Bids Plant Design, Supply, and Installation (Without Prequalification) (Two-Envelope Bidding Process with rated criteria) Country: Ukraine Name of Project: Ukraine – Improving Power System Resilience for European Power Grid Integration (Installation of Hybrid Systems for Electricity Production in Ukrhydroenergo) Contract Title: Design, Supply and Installation of Battery Energy Storage Systems (BESS) with Energy Management Systems (EMS) and Ancillary Equipment at Kyiv HPP / PSP, Kaniv, Kremenchuk and Seredniodniprovska Hydropower Plants, including related services (training of UHE staff). IBRD Loan No. 9284-UA CTF Loan No. TF0B5994 CTF Loan No. TF0C5903-UA CTF Grant No. TF0B5724 Project ID: P176114 RFB Reference No.: UHE-IPSR-DSI-1 1. Private Joint Stock Company “Ukrhydroenergo” (PJSC Ukrhydroenergo or UHE) has received financing from the World Bank",
-      "probeScore": 15,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
     },
     {
       "id": "OP00448356",
@@ -2413,39 +2422,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00450781",
-      "title": "Formation technique en matière d'irrigation sous pression au profit du personnel de l'ORMVA du Tadla",
-      "country": "Morocco",
-      "projectCountry": "Morocco",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "12-Jun-2026",
-      "deadline": "2026-07-07",
-      "project": "Resilient and Sustainable Water in Agriculture",
-      "buyer": "Regional Agricultural Development Office Tadla",
-      "contactEmail": "mouslih2121@gmail.com",
-      "reference": "15/DRH/2026",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450781",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: formation"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "SELECTION DE CONSULTANTS PAR LES EMPRUNTEURS DE LA BANQUE SOLLICITATION DE MANIFESTATIONS D’INTERET Projet Résilience et Durabilité de l’Eau en Irrigation (REDI) Prêt de la Banque Mondiale N° : P175747 du 30 Mars 2022 Appel à manifestations d’intérêt (AMI) n°01/2026/DRH/ORMVA du Tadla Dans le cadre du projet de modernisation de l’agriculture irriguée dans le périmètre du Tadla financé par la Banque Mondiale (prêt n° P175747 du projet REDI), l’ORMVA du Tadla a prévu des actions de formation continue au profit de ses cadres et techniciens pour appuyer la mise en œuvre des programmes",
-      "probeScore": 13,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "OP00452269",
       "title": "Individual consultancy to design the curriculum of the regional women's leadership institute and the Regional STEM skills Accelerator Institute",
       "country": "Zambia",
@@ -2512,6 +2488,42 @@
       "titleSignalCount": 0,
       "bodySignalCount": 0,
       "excerpt": "in Sub-Saharan African countries 5 Technical Experience Demonstrated experience in procurement or management of works and supply contracts, with knowledge of FIDIC standards 20 Experience in power sector projects 5 Capacity Building Demonstrated experience in training, mentoring, or knowledge transfer in a project or institutional context 10 Interpersonal Skills Strong interpersonal and communication skills, and ability to work in a multinational and multidisciplinary environment 5 Digital Skills Proficiency in MS Office, Teams, Zoom, and related tools 5 Language Skills Fluency in Portuguese; basic English and/or French is an advantage 5 TOTAL 100 Candidates must achieve a minimum score of 75 points to proceed to the interview stage. Note: AFAP reserves it’s right to verify submitted references and use obtained information for evaluation purposes. The attention of interested Consultants",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00450959",
+      "title": "Consultancy services for establishment of integrated hydrology early warning data sharing, development of  of pilot models & information products for selected top priority hydrological services(Omo-Gibe, Awash & rift valley) and development of web portal",
+      "country": "Ethiopia",
+      "projectCountry": "Ethiopia",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "20-Jun-2026",
+      "deadline": "2026-07-10",
+      "project": "Ethiopia Flood Management Project",
+      "buyer": "Ministry of Water and Energy",
+      "contactEmail": "mamushketema9200@gmail.com",
+      "reference": "ET-MOWE-441375-CS-QCBS",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450959",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: capacity building, training"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "capacity building",
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "egrate and visualize outputs from WRF, HYPE, and impact-based forecasting systems. Establish GIS-based dashboards and visualization tools for decision-makers and stakeholders. Ensure role-based access control, sustainability, and national scalability. Provide training, capacity building, and two-year post-deployment technical support. KEY DELIVERABLES AND INDICATIVE TIMING: The key deliverables include an Inception Report and prototype (Week 2), Needs Assessment Report (Month 2), FRS, SRS, and data integration protocols (Month 4), Draft GIS-enabled Web Portal (Month 6), and a fully tested and deployed Web Portal with training, manuals, national rollout roadmap, and Final Consultancy Report (Month 12). Post-deployment, the Consultant shall provide two (2) years of maintenance and technical support. SCOPE OF SERVICES: The scope of the services is to assess institutional & technical require",
       "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -2615,76 +2627,6 @@
       "excerpt": "Multimedia Production Services for ZACH- UNDP Field Documentation Mission 29-Jun-2026 03:00 (GMT -4.00) UNDP Call for individual consultants UNDP-ZWE-01837 Zimbabwe",
       "probeScore": 2,
       "probeDecision": "reject"
-    },
-    {
-      "id": "TED-357768-2026",
-      "title": "Spain – Interpretation services – Servicio de interpretación para televisión en lenguaje de signos.",
-      "country": "Spain",
-      "projectCountry": "Spain",
-      "noticeType": "cn-standard",
-      "noticeDate": "2026-05-26",
-      "deadline": "2026-06-22",
-      "deadlineTime": "",
-      "project": "",
-      "buyer": "Corporación de Servizos Audiovisuais de Galicia, S.A. (CSAG)",
-      "contactEmail": "",
-      "reference": "357768-2026",
-      "method": "cn-standard",
-      "source": "TED EU Tenders",
-      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/357768-2026",
-      "matchedTerms": [
-        "avatar"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "searchText": "spain – interpretation services – servicio de interpretación para televisión en lenguaje de signos.  spain – interpretation services – servicio de interpretación para televisión en lenguaje de signos. es objeto del contrato el servicio de interpretación en lenguaje de signos (en adelante ils) para personas sordas, sordociegas y con discapacidad auditiva con el fin de transmitir el mensaje a ese colectivo de personas, así como a todas aquellas que sean usuarias de esta lengua. serán objeto de interpretación los programas e informativos que se emiten en directo o previamente grabados para dar cumplimiento a lo dispuesto en la ley 1/2025, de 14 de marzo, de servicios de los medios públicos de comunicación audiovisual de galicia para la sociedad digital y en la ley 13/2022, de 7 de julio, general de comunicación audiovisual. el servicio se articula en dos tipologías de programas: • ils de programas en directo • ils de programas previamente grabados. el servicio deberá ser realizado únicamente por personas, no aceptándose las propuestas que expongan o incluyan para la prestación del servicio otras opciones tecnológicas (avatares, presentadores virtuales, etc.). corporación de servizos audiovisuais de galicia, s.a. (csag) spain",
-      "excerpt": "s de programas: • ILS de programas en directo • ILS de programas previamente grabados. El servicio deberá ser realizado únicamente por personas, no aceptándose las propuestas que expongan o incluyan para la prestación del servicio otras opciones tecnológicas (avatares, presentadores virtuales, etc.). Corporación de Servizos Audiovisuais de Galicia, S.A. (CSAG) Spain",
-      "probeScore": 1,
-      "probeDecision": "reject"
-    },
-    {
-      "id": "OP00446541",
-      "title": "Disaster management specialist and Project coordinator",
-      "country": "Marshall Islands",
-      "projectCountry": "Marshall Islands",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "22-May-2026",
-      "deadline": "2026-06-22",
-      "project": "RMI Urban Resilience Project",
-      "buyer": "Ministry of Works, Infrastructure and Utilities.",
-      "contactEmail": "walter.myazoe@rmigov.mh",
-      "reference": "MH-MWIU-554411-CS-INDV",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446541",
-      "matchedTerms": [
-        "simulation"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: capacity building, curriculum, education, training"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "capacity building",
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": true,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "REQUEST FOR EXPRESSIONS OF INTEREST INDIVIDUAL CONSULTING SERVICES Government of the Republic of the Marshall Islands (RMI) RMI Urban Resilience Project Grant No.: E6610-MH Assignment Title: Disaster Specialist/Project Coordinator Reference no.: MH-MWIU-554411-CS-INDV 1. The Government of the Republic of Marshall Islands has applied for financing from the World Bank toward the cost of the RMI Urban Resilience Project (RMIURP) and intends to apply part of the proceeds for consulting services. 2. The purpose of this consultancy is to provide dedicated technical, coordination, and project management support to the Director of the National Disaster Management Office (NDMO) for the effective implementation of Component 5: Disaster Preparedness and Response under RMIURP. The Consultant will support NDMO in planning, coordinating, implementing, monitoring, and reporting on disaster preparedness",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
     },
     {
       "id": "OP00448165",
@@ -3131,6 +3073,42 @@
       "titleSignalCount": 0,
       "bodySignalCount": 1,
       "excerpt": "ention Food Systems Resilience and Ecosystem Health in Central Asia Grant No.: E452-TJ Assignment Title: Consulting Services for development of Infection Prevention and Control Standard Operating Procedures (SOPs) for priority pathogens and conducting cascade training for the One Health Workforce Reference No. (as per Procurement Plan): OHP/CS/CQS-2026/10 1. The Republic of Tajikistan has received financing from the International Development Association and International Bank for Reconstruction and Development toward the cost of the One Health for Pandemic Prevention Food Systems Resilience and Ecosystem Health in Central Asia and intends to apply part of the proceeds for consulting services. 2. The detailed Terms of Reference (TOR) for the assignment can be found at the following website: https://edavlat.tj//uploads/2026/6/17/b5a864eeef46566d2a7932382c935d8b_original.216547.pdf 3. The S",
+      "probeScore": 0,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00452535",
+      "title": "Provision of Consulting Services for the Development, Implementation, Capacity Building, and Performance Evaluation of a Quality Management System in Compliance with ISO 9001:2015",
+      "country": "Uzbekistan",
+      "projectCountry": "Uzbekistan",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "20-Jun-2026",
+      "deadline": "2026-07-06",
+      "project": "INnovative SOcial Protection System for inclusiON of Vulnerable People Project",
+      "buyer": "NATIONAL AGENCY FOR SOCIAL PROTECTION UNDER THE PRESIDENT OF THE REPUBLIC OF UZBEKISTAN",
+      "contactEmail": "d.gafarov@ihma.uz",
+      "reference": "UZ-INSON-CS-CQS-2.1.3.3.",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452535",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: capacity building, certification, training"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "capacity building",
+        "training"
+      ],
+      "offDomain": true,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "ervice Centers of Denov and Yunusabad districts. The assignment includes, but is not limited to, assessment and gap analysis against ISO 9001:2015 requirements, development of the QMS structure and documentation, process standardization, capacity building and training (including general awareness, practical training for process owners, and internal auditor training), implementation support, internal audit and certification preparation, and monitoring and continuous improvement. The duration of the assignment is up to 12 months from the date of contract signing, including up to 9 months for QMS development and implementation and up to 3 months for support during the certification audit. The detailed Terms of Reference (TOR) for the assignment can be found at the following link: https://docs.google.com/document/d/10EbQD8z7dJjTyXL12HwR2KLJFgryZZnv/edit?usp=sharing&ouid=104755491226149341341",
       "probeScore": 0,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
