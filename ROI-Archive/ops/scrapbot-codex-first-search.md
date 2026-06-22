@@ -1,6 +1,6 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-22T07:26:36+00:00
+Genere: 2026-06-22T09:32:52+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
