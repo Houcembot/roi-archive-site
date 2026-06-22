@@ -1,11 +1,11 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-22T11:39:27+00:00
+Genere: 2026-06-22T13:45:56+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 21 requetes, 1 erreur(s)
 
 ## Resultat
 - Candidats lus: 94
