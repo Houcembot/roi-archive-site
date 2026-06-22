@@ -1,6 +1,6 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-22T09:32:52+00:00
+Genere: 2026-06-22T11:39:27+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
@@ -8,10 +8,10 @@ Genere: 2026-06-22T09:32:52+00:00
 - TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
 
 ## Resultat
-- Candidats lus: 92
+- Candidats lus: 94
 - Likely fit: 13
 - A revoir: 9
-- Rejetes: 70
+- Rejetes: 72
 - Offres publiees dans le HUD: 6
 
 ## Top offres publiees / compatibles
