@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T12:18:56+00:00",
+  "generatedAt": "2026-06-23T14:25:59+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -23,10 +23,8 @@
       "url": "https://api.ted.europa.eu/v3/notices/search",
       "status": "active",
       "mode": "public API expert query with deadline filter",
-      "searchedTerms": 21,
-      "errors": [
-        "research platform virtual reality: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n"
-      ]
+      "searchedTerms": 22,
+      "errors": []
     }
   ],
   "queryTerms": [
@@ -54,7 +52,7 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 102.14,
+  "durationSeconds": 113.57,
   "totalCandidates": 82,
   "summary": {
     "likely_fit": 12,
