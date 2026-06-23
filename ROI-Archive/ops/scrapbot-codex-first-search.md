@@ -1,17 +1,17 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-23T08:05:58+00:00
+Genere: 2026-06-23T10:12:15+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 20 requetes, 2 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
 
 ## Resultat
-- Candidats lus: 87
+- Candidats lus: 82
 - Likely fit: 12
 - A revoir: 9
-- Rejetes: 66
+- Rejetes: 61
 - Offres publiees dans le HUD: 5
 
 ## Top offres publiees / compatibles
@@ -108,8 +108,8 @@ Genere: 2026-06-23T08:05:58+00:00
 - no-archive-match: Public Expenditure and Institutional Reviews | World Bank Procurement Notices | South Africa | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450547
 - no-archive-match: Cybersecurity Specialist | World Bank Procurement Notices | Philippines | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452355
 - no-archive-match: Technical Assistance for Institutional Development Support for the RPUC to Strengthen Key Utility Functions | World Bank Procurement Notices | Mauritius | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451739
-- no-archive-match: Supply and Delivery of Printed Learning Materials for ECCDE | World Bank Procurement Notices | Eswatini | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451132
-- no-archive-match: Supply and Delivery of Indoor Materials for Additional ECCDE Grade Zero Classrooms | World Bank Procurement Notices | Eswatini | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451134
-- no-archive-match: Supply, Delivery and Installation of Desktops and Printers for Phase 2 | World Bank Procurement Notices | Eswatini | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451136
+- no-archive-match: Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar | TED EU Tenders | Germany | https://ted.europa.eu/en/notice/-/detail/411975-2026
+- no-archive-match: Procurement of Training Bag | World Bank Procurement Notices | Bangladesh | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452909
+- no-archive-match: Procurement of Ultrasound Doppler - 4788 units (Batch 2) | World Bank Procurement Notices | Indonesia | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452677
 
 Fichier brut: `ops/scrapbot-codex-probe.json`

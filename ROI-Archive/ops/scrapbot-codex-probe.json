@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T08:05:58+00:00",
+  "generatedAt": "2026-06-23T10:12:15+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -23,11 +23,8 @@
       "url": "https://api.ted.europa.eu/v3/notices/search",
       "status": "active",
       "mode": "public API expert query with deadline filter",
-      "searchedTerms": 20,
-      "errors": [
-        "museum 3D: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n",
-        "avatar: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n"
-      ]
+      "searchedTerms": 22,
+      "errors": []
     }
   ],
   "queryTerms": [
@@ -55,12 +52,12 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 118.36,
-  "totalCandidates": 87,
+  "durationSeconds": 80.15,
+  "totalCandidates": 82,
   "summary": {
     "likely_fit": 12,
     "review": 9,
-    "reject": 66
+    "reject": 61
   },
   "items": [
     {
@@ -1518,60 +1515,67 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00451132",
-      "title": "Supply and Delivery of Printed Learning Materials for ECCDE",
-      "country": "Eswatini",
-      "projectCountry": "Eswatini",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "14-Jun-2026",
-      "deadline": "2026-07-03",
-      "project": "Strengthening Early Childhood Development and Basic Education Systems to Support Human Capital Devel",
-      "buyer": "Ministry of Education and Training",
-      "contactEmail": "procurement@moet-wbproject.org.sz",
-      "reference": "SZ-MOET-551495-GO-RFB",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451132",
+      "id": "TED-411975-2026",
+      "title": "Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar",
+      "country": "Germany",
+      "projectCountry": "Germany",
+      "noticeType": "cn-standard",
+      "noticeDate": "2026-06-16",
+      "deadline": "2026-07-13",
+      "deadlineTime": "",
+      "project": "",
+      "buyer": "Techniker Krankenkasse",
+      "contactEmail": "",
+      "reference": "411975-2026",
+      "method": "cn-standard",
+      "source": "TED EU Tenders",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/411975-2026",
       "matchedTerms": [
-        "training"
+        "avatar"
       ],
-      "titleSignals": [],
-      "bodySignals": [],
+      "titleSignals": [
+        "software_data: software"
+      ],
+      "bodySignals": [
+        "software_data: software"
+      ],
       "segmentSignals": [
-        "formation: education, training"
+        "rnd: software"
       ],
       "archiveMatches": [],
       "genericOnlyHits": [
-        "training"
+        "software"
       ],
       "offDomain": false,
       "noiseTitle": false,
       "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "Supply and Delivery of Printed Learning Materials for ECCDE - SZ-MOET-551495-GO-RFB The Ministry of Education and Training under a World Bank funded project has allocated/received funds to be used for the Supply and Delivery of Printed Learning Materials for ECCDE The Entity invites sealed Tenders from eligible Tenderers for the provision of the above Goods. Tendering will be conducted in accordance with the Open National Tendering method contained in the Public Procurement Regulations 2020. Interested eligible Tenderers may obtain further information about the Tender documents at the Email Address given below at 6(a) from 08:15am to 16:00pm . Tender documents in English may be purchased by interested Tenderers(s) from the address below at 6(a) upon payment of a non-refundablefee of E500.00 Five Hundred Emalangeni Only . The method of payment shall be Electronic Funds Transfer(EFT) to th",
-      "probeScore": 15,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
+      "titleSignalCount": 1,
+      "bodySignalCount": 1,
+      "searchText": "germany – it services: consulting, software development, internet and support – fotorealistischer beratungsavatar  germany – it services: consulting, software development, internet and support – fotorealistischer beratungsavatar die techniker krankenkasse (tk) ist seit vielen jahren im bereich der internationalen beschäftigung aktiv und unterstützt unternehmen beim onboarding internationaler mitarbeitender - insbesondere bei fragen zur sozialversicherung. expatriates, die zum arbeiten nach deutschland kommen, können sich zudem bei der tk zu vielfältigen fragestellungen rund um ihre migration nach deutschland informieren, darunter insbesondere: - gesetzliche krankenversicherung und sozialversicherung in deutschland, - grundlegende abläufe im deutschen gesundheitswesen, - sozialversicherungsrechtliche besonderheiten bei internationalen beschäftigungsverhältnissen. - ergänzende informationen rund um den erwerbsmigrationsprozess . seit dem jahr 2025 können fragen an nicht-generative avatare gerichtet werden. alle einzelheiten ergeben sich aus den vergabeunterlagen. techniker krankenkasse germany",
+      "excerpt": "Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar Die Techniker Krankenkasse (TK) ist seit vielen Jahren im Bereich der internationalen Beschäftigung aktiv und unterstützt Unternehmen beim Onboarding internationaler Mitarbeitender - insbesondere bei Fragen zur Sozialversicherung. Expatriates, die zum Arbeiten nach Deutschland kommen, können sich zudem bei der TK zu vielfältigen Fragestellungen rund um ihre Migration nach Deutschland informieren, darunter insbesondere: - gesetzliche Krankenversicherung und Sozialversicherung in Deutschland, - grundlegende Abläufe im deutschen Gesundheitswesen, - sozialversicherungsrechtliche Besonderheiten bei internationalen Beschäftigungsverhältnissen. - ergänzende Informationen rund um den Erwerbsmigrationsprozess . Seit dem Jahr 2025 können Fragen an nicht-generative Avatare gerichtet wer",
+      "probeScore": 18,
+      "probeDecision": "reject"
     },
     {
-      "id": "OP00451134",
-      "title": "Supply and Delivery of Indoor Materials for Additional ECCDE Grade Zero Classrooms",
-      "country": "Eswatini",
-      "projectCountry": "Eswatini",
+      "id": "OP00452909",
+      "title": "Procurement of Training Bag",
+      "country": "Bangladesh",
+      "projectCountry": "Bangladesh",
       "noticeType": "Invitation for Bids",
-      "noticeDate": "14-Jun-2026",
-      "deadline": "2026-07-03",
-      "project": "Strengthening Early Childhood Development and Basic Education Systems to Support Human Capital Devel",
-      "buyer": "Ministry of Education and Training",
-      "contactEmail": "procurement@moet-wbproject.org.sz",
-      "reference": "SZ-MOET-552980-GO-RFB",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451134",
+      "noticeDate": "22-Jun-2026",
+      "deadline": "2026-07-09",
+      "project": "Urban Health, Nutrition and Population Project",
+      "buyer": "Local Government Division",
+      "contactEmail": "pd.uhnpp2024.lgd@gmail.com",
+      "reference": "IUPHPSP-GD-31",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452909",
       "matchedTerms": [
         "training"
       ],
       "titleSignals": [],
       "bodySignals": [],
       "segmentSignals": [
-        "formation: education, training"
+        "formation: training"
       ],
       "archiveMatches": [],
       "genericOnlyHits": [
@@ -1582,78 +1586,7 @@
       "archiveCapabilityCount": 0,
       "titleSignalCount": 0,
       "bodySignalCount": 0,
-      "excerpt": "Supply and Delivery of Indoor Materials for Additional ECCDE Grade Zero Classrooms – SZ-MOET-552980-GO-RFB The Ministry of Education and Training under a World Bank funded project has allocated/received funds to be used for the Supply and Delivery of Indoor Materials for Additional ECCDE Grade Zero Classrooms (Educational Toys) The Entity invites sealed Tenders from eligible Tenderers for the provision of the above Goods (Educational Toys) Tendering will be conducted in accordance with the open National Tendering method contained in the PublicProcurement Regulations 2020. Interested eligible Tenderers may obtain further information about the Tender documents at the address given below at 4(a) from 08:15am to 16:00pm . Tender documents in English may be purchased by interested Tenderers(s) from the email address below at 4(a) upon submission of proof of payment of a non-refundable fee of",
-      "probeScore": 15,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00451136",
-      "title": "Supply, Delivery and Installation of Desktops and Printers for Phase 2",
-      "country": "Eswatini",
-      "projectCountry": "Eswatini",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "14-Jun-2026",
-      "deadline": "2026-07-03",
-      "project": "Strengthening Early Childhood Development and Basic Education Systems to Support Human Capital Devel",
-      "buyer": "Ministry of Education and Training",
-      "contactEmail": "procurement@moet-wbproject.org.sz",
-      "reference": "SZ-MOET-553699-GO-RFB",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451136",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: education, training"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "Supply, Delivery And Installation Of Desktops And Printers For Phase 2-SZ-MOET-553699-GO-RFB The Ministry of Education and Training under a World Bank funded project has allocated/received funds to be used for the Supply, Delivery And Installation Of Desktops And Printers For Phase 2. LOT 1: 212 DESKTOPS & LOT 2: 212 (3-IN-1) PRINTERS The Entity invites sealed Tenders from eligible Tenderers for the provision of the above Goods. Tendering will be conducted in accordance with the open National Tendering method contained in the Public Procurement Regulations 2020. Interested eligible Tenderers may obtain further information about the Tender documents at the address given below at 7(a) from 08:15am to 16:00pm . Tender documents in English may be purchased by interested Tenderers(s) from the address below at 7(a) upon payment of a non-refundable fee of E1000, One Thousand Emalangeni and upon",
-      "probeScore": 15,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00451117",
-      "title": "Supply, Delivery and Installation of Interactive Touch Screens for Phase 2 Schools",
-      "country": "Eswatini",
-      "projectCountry": "Eswatini",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "14-Jun-2026",
-      "deadline": "2026-07-17",
-      "project": "Strengthening Early Childhood Development and Basic Education Systems to Support Human Capital Devel",
-      "buyer": "Ministry of Education and Training",
-      "contactEmail": "procurement@moet-wbproject.org.sz",
-      "reference": "SZ-MOET-553692-GO-RFB",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451117",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: education, training",
-        "medical: hospital"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "ital Development in Eswatini Project (P173151) Contract Title: Supply, Delivery and Installation of Interactive Touch Screens for Phase 2 Schools Loan No./Credit No./ Grant No.: IBRD-93750 RFB Reference No.: SZ-MOET-553692-GO-RFB The Ministry of Education and Training in Eswatini has received financing from the World Bank toward the cost of the Strengthening Basic Education System Support to Human Capital Development in Eswatini Project (P173151) and intends to apply part of the proceeds toward payments under the contract[1] for Supply, Delivery and Installation of Interactive Touch Screens for Phase 2 Schools [2]. 2. The Ministry of Education and Training in Eswatini now invites sealed Bids from eligible Bidders for Supply, Delivery and Installation of Interactive Touch Screens for Phase 2 Schools listed below; Line Item N ° Description of Goods Quantity Final (Project Site) Destination",
+      "excerpt": "f Funds : Government, Aid or Grant Development Partner : World Bank Particular Information : Project Code : 224396200 Project Name : Improvement of Urban Public Health Services Project Tender/Proposal Package No. and Description : IUPHPSP-GD-31 Procurement of Training Bag Category : Miscellaneous manufactured and other goods; Manufactured goods, furniture, handicrafts, special-purpose products and associated consumables; Consumables and consumer goods; Handicraft and art supplies; Manufactured goods, furniture, handicrafts, special-purpose products and associated consumables;Laundry supplies;School slates or boards with writing or drawing surfaces;Artificial products;Apparatus and equipment designed for demonstrational purposes;Umbrellas and sunshades; walking sticks and seat sticks;Funeral supplies;Kitchen equipment, household items and catering supplies;Barracks supplies;Consumables;Ta",
       "probeScore": 15,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -1985,42 +1918,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00451176",
-      "title": "Finalize VNEEF (Vietnam National Energy Efficiecny Fund) model",
-      "country": "Viet Nam",
-      "projectCountry": "Viet Nam",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "15-Jun-2026",
-      "deadline": "2026-06-30",
-      "project": "Vietnam Scaling Up Energy Efficiency Project",
-      "buyer": "General Directorate of Energy (MOIT)",
-      "contactEmail": "vsueemoit@gmail.com",
-      "reference": "C2.2.14",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451176",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: capacity building, training"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "capacity building",
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "ancing appraisal criteria, and operational procedures of commercial banks and financial institutions, particularly regarding energy projects; (iv) experience in working with projects funded by international financial institutions and; (v) conducting technical training programs. Significant advantage will be given to consultants whose contracts clearly state scopes of work and level of complexity similar to those of this assignment. Geography experience: The consultant shall provide information about relevant experience in: (i) understanding of Vietnam’s legal and regulatory frameworks in energy efficiency, public/private investment procedures and national climate commitments; (ii) experience working with Vietnam and/ or other South East Asia countries on EE or sustainable energy projects and experience working with the Ministry of Industry and Trade (MOIT) or managing similar government-",
-      "probeScore": 13,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "OP00449586",
       "title": "Hiring a consultancy firm for design Review  of Warufu 20 m high earth fill dam and 3,000ha irrigation system",
       "country": "Rwanda",
@@ -2083,41 +1980,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00451254",
-      "title": "Consultancy to develop a comprehensive Operational Manual on Social Protection Funds for NSPA",
-      "country": "Gambia, The",
-      "projectCountry": "Gambia, The",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "15-Jun-2026",
-      "deadline": "2026-07-01",
-      "project": "The Gambia Resilience, Inclusion, Skills, and Equity Project",
-      "buyer": "Central Project Coordinating Unit",
-      "contactEmail": "nsosseh@cpcumof.gm",
-      "reference": "GM-CPCU - MOFEA-556571-CS-INDV",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451254",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: skills, training"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "institutional documents. Strong knowledge of social fund operations and international best practices. Proven expertise in results-based management, monitoring, and evaluation. Excellent writing and communication skills in English. Experience in facilitation, training, and stakeholder engagement 3.1 Desirable Qualifications Previous experience in West Africa or The Gambia, or a developing economy Knowledge of Gambian social protection system and policies Experience with social registries and targeting systems Knowledge of financial management and procurement procedures Familiarity with MIS for social programmes 4. Assignment Duration: The consultancy shall be completed within approximately 10 weeks (50 - 55 working days) from the date of contract signing. 5. Submission of Expressions of Interest: Expressions of interest should be delivered in a written form to the address below ( by emai",
-      "probeScore": 13,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "OP00451442",
       "title": "Recrutement d'un Consultant International pour la  mise en place d’une base de données et la formation sur le suivi de l’Evolution des couvertures forestières et des dégradations aux Comores",
       "country": "Comoros",
@@ -2146,6 +2008,39 @@
       "titleSignalCount": 0,
       "bodySignalCount": 0,
       "excerpt": "AVIS D’APPEL A MANIFESTATION D’INTERETS Objet : Recrutement d’un(e) Consultant(e) International(e) pour la mise en place et formation sur une base des données de la couverture forestière en Union des Comores. Le Gouvernement de l’Union des Comores, à travers le Ministère de l’Agriculture, de la Pêche et de l’Artisanat, met en œuvre le Projet de Résilience des Systèmes Alimentaires aux Comores (FSRP-KM) financé par la Banque mondiale. Dans le cadre de la gestion résiliente des paysages et des bassins versants du projet, la Coordination Nationale lance un Appel à manifestation d’intérêts pour le recrutement d’un(e) Consultant(e) International(e) pour la mise en place et formation sur une base des données de la couverture forestière en Union des Comores Pour avoir plus d’informations sur l’Appel à Manifestations d’intérêts ou pour télécharger les Termes de Références, veuillez consulter not",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00452560",
+      "title": "consultancy services for the development of codes of practice under the data protection and privacy act, cap.97",
+      "country": "Uganda",
+      "projectCountry": "Uganda",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "22-Jun-2026",
+      "deadline": "2026-07-03",
+      "project": "Uganda Digital Acceleration Project - GovNet",
+      "buyer": "National Information and Technology Authority - Uganda",
+      "contactEmail": "steven.batte@nita.go.ug",
+      "reference": "UG-NITA-U-555481-CS-CQS",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452560",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: education, skills"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "REQUEST FOR EXPRESSION OF INTEREST (CONSULTING SERVICES – FIRMS SELECTION) UGANDA UGANDA DIGITAL ACCELERATION PROJECT – GOVERNMENT NETWORK (UDAP-GOVNET) PROJECT ID -P171305 LOAN NUMBER: IDA-68980 REFERENCE NUMBER: NITA-UDAP/CONS/25-26/00052 ASSIGNMENT TITLE: CONSULTANCY SERVICES FOR THE DEVELOPMENT OF CODES OF PRACTICE UNDER THE DATA PROTECTION AND PRIVACY ACT, CAP.97 . The Government of Uganda, represented by the National Information Technology Authority - Uganda (NITA-U), has received financing from the World Bank towards the cost of the Uganda Digital Acceleration Project - Government Network (UDAP-GOVNET) and intends to apply part of the proceeds for Consulting services for the development of codes of practice under the data protection and privacy act, cap.97 The consulting services (“the Services”) include development of codes of practice under the data protection and privacy act, c",
       "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -2214,6 +2109,39 @@
       "titleSignalCount": 0,
       "bodySignalCount": 0,
       "excerpt": "République du Congo Projet de Protection Sociale, d’Inclusion Productive Des Jeunes (PSIPJ) Numéro du Crédit : IDA N° 71140 Intitulé de la Mission : Recrutement d’un cabinet de formation des cadres du Ministère en charge des affaires sociales sur le management et la gestion 1- La République du Congo a bénéficié d’un crédit IDA/Banque Mondiale pour financer le Projet de Protection Sociale et d’Inclusion Productive des Jeunes, PSIPJ en sigle. L’objectif de développement du PSIPJ est de fournir une aide d’urgence aux ménages touchés par la crise sanitaire et économique provoquée par la COVID-19 et d’accroître l’accès des ménages et des jeunes pauvres et vulnérables aux filets sociaux dans les zones d’intervention du projet. Le projet comprend quatre (4) composantes actives : (i) expansion du programme Lisungi pour le relèvement (composante 2) ; (ii) renforcement du système de protection soc",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00452930",
+      "title": "Assistance Technique pour l'élaboration du Plan de Gestion des Déchets des équipements Electriques et Electroniques du Projet de Transformation Numérique (PTN)",
+      "country": "Congo, Democratic Republic of",
+      "projectCountry": "Congo, Democratic Republic of",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "22-Jun-2026",
+      "deadline": "2026-07-06",
+      "project": "DRC Digital Transformation Project",
+      "buyer": "Digital Transformation Project",
+      "contactEmail": "noel.litanga@ugpatn.cd",
+      "reference": "ZR-UGP - PTN-531243-CS-INDV",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452930",
+      "matchedTerms": [
+        "animation"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: formation"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "n matière d’élaboration de plans de gestion ou d’études environnementales ; Avoir une connaissance approfondie de la législation congolaise et des réglementations environnementales pertinentes est un atout ; Disposer des capacités d’analyse, de rédaction et d’animation participative. L’attention des Consultants intéressés est attirée sur la Section III, paragraphes, 3.14, 3.16 et 3.17 du « Règlement de Passation des Marchés pour les Emprunteurs de FPI » de la Banque mondiale, Sixième Edition, février 25 (Règlement de passation des marchés), qui énonce la politique de la Banque mondiale en matière de conflits d’intérêts. Le candidat devra compléter l’Attestation d’intégrité de l’AFD et la retourner dûment signée accompagnée de sa manifestation d’intérêts. Un Consultant individuel sera sélectionné selon la méthode de Sélection de Consultants individuels par mise en concurrence ouverte nati",
       "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -2354,41 +2282,6 @@
       "titleSignalCount": 0,
       "bodySignalCount": 0,
       "excerpt": "egrate and visualize outputs from WRF, HYPE, and impact-based forecasting systems. Establish GIS-based dashboards and visualization tools for decision-makers and stakeholders. Ensure role-based access control, sustainability, and national scalability. Provide training, capacity building, and two-year post-deployment technical support. KEY DELIVERABLES AND INDICATIVE TIMING: The key deliverables include an Inception Report and prototype (Week 2), Needs Assessment Report (Month 2), FRS, SRS, and data integration protocols (Month 4), Draft GIS-enabled Web Portal (Month 6), and a fully tested and deployed Web Portal with training, manuals, national rollout roadmap, and Final Consultancy Report (Month 12). Post-deployment, the Consultant shall provide two (2) years of maintenance and technical support. SCOPE OF SERVICES: The scope of the services is to assess institutional & technical require",
-      "probeScore": 13,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00451329",
-      "title": "Development of the draft Statutory Instruments and Guidelines to enhance the Protection, Management, Collaboration and Economies of Natural Resources in protected areas, National Heritage and Forest Areas",
-      "country": "Zambia",
-      "projectCountry": "Zambia",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "15-Jun-2026",
-      "deadline": "2026-07-13",
-      "project": "Green, Resilient and Transformational Tourism Development Project (GREAT-TDP)",
-      "buyer": "Ministry of Tourism",
-      "contactEmail": "Chilala.Habasimbi@mot.gov.zm",
-      "reference": "ZM-MOT-552913-CS-QCBS",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451329",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: training"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "t; Development of legal and operational frameworks for tourism concessions, collaborative management partnerships, community participation, wildlife management, carbon trading, biodiversity credits, and sustainable natural resource utilization; Development of training materials and delivery of Training of Trainers (ToT) programmes to support implementation of the new regulatory framework; Development of communication materials to support awareness and dissemination of the new regulatory instruments; and Provision of recommendations to strengthen inter-agency coordination and management of overlapping land-use interests across protected landscapes. The assignment is expected to be implemented over a period of approximately sixteen (16) months. Eligibility and Submission of Expressions of Interest Interested consulting firms should provide information demonstrating that they possess the re",
       "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -3083,41 +2976,6 @@
       "probeDecision": "reject"
     },
     {
-      "id": "OP00451171",
-      "title": "Detailed Study on Optimizing Solid Waste Collection across the West Bank",
-      "country": "West Bank and Gaza",
-      "projectCountry": "West Bank and Gaza",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "15-Jun-2026",
-      "deadline": "2026-07-09",
-      "project": "Integrated Solid Waste Management Project-Phase I",
-      "buyer": "Municipal Development and Lending Fund",
-      "contactEmail": "azayed@mdlf.org.ps",
-      "reference": "GZ-MDLF-495910-CS-QCBS",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451171",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: training"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": true,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "tional support. Expertise in the preparation of Standard Operating Procedures (SOPs) and the preparation of detailed investment plans on strategic and on wasteshed and service area levels. Expertise in the design and implementation of capacity development and training programs in SWM systems and system standardization across planning, execution, and development of technical, financial, environmental, social, and OHS aspects in accordance with recognized international standards and the World Bank’s ESS. Technical and Managerial Organization: the firm uses recognized, pre-approved methodologies with track record in implementing multiple complex tasks simultaneously and managing technical teams efficiently and effectively. General Qualifications and Key Staff: Availability of Qualified Staff: Staff include team leader, solid waste specialist, financial specialist, legal expert, capacity dev",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "OP00452493",
       "title": "Social Safeguards officer",
       "country": "St. Lucia",
@@ -3239,7 +3097,7 @@
       "country": "Tajikistan",
       "projectCountry": "Tajikistan",
       "noticeType": "Invitation for Bids",
-      "noticeDate": "19-Jun-2026",
+      "noticeDate": "22-Jun-2026",
       "deadline": "2026-07-20",
       "project": "Tajikistan Water Supply and Sanitation Investment Project",
       "buyer": "MIDP Project Management Unit",
@@ -3263,7 +3121,7 @@
       "archiveCapabilityCount": 0,
       "titleSignalCount": 0,
       "bodySignalCount": 1,
-      "excerpt": "( ) : : ( (AF)) WSIP-1/AF : 48 917 , , ( 1 2) 1: 26 247 ( 2D 2E), ( 2F), ( 3D) ( ). 2: 22 670 ( 2D) ( 2G). : IDA E 0950-001-TJ AF : WSIP-AF-W-PMU/006 , « », , ( , AF) WSIP-1/AF 48 917 , , ( 1 2). : 1: 26 247 ( 2D 2E), ( 2F), ( 3D) ( ). 2: 22 670 ( 2D) ( 2G). (), « » 2025, (« »), , . , . , - . . pmu@wsip-1.tj 09:00 16:00 10 . , - ., . 15:00 , 20 2026. . , . , , , 10 , 20 2026 . 15:00 . . , , . (): 5: : .., : . 56, 4- « », . , : pmu@wsip-1.tj -: www.Obirusto.tj 10: , . , 40, 2- , 23 , ,",
+      "excerpt": "kh, Dusti, Vakhsh, and Vose districts (Lots 1 and 2) Lot 1: Construction of a water supply pipeline and water meter boxes to connect 26,247 households in villages in the Balkh District (Zones 2D and 2E), the Dusti District (Zone 2F), the Vakhsh District (Zone 3D), and the Vose District (the village of Kaduchi) Lot 2: Construction of a water supply pipeline and water meter boxes to connect 22,670 households in villages in the Balkh District (Zone 2D) and the Dusti District (Zone 2G) : IDA E 0950-001-TJ AF : WSIP-AF-W-PMU/006 1. The Project Management Unit for the Municipal Infrastructure Development Project in the Republic of Tajikistan, acting on behalf of the SUE “Khodjagii Manziliyu Kommunalni,” which serves as the Project Implementation Agency, has received funding from the World Bank to cover the costs of the Water Supply and Sanitation Investment Project (Additional Financing (AF))",
       "probeScore": 0,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -3302,44 +3160,6 @@
       "titleSignalCount": 0,
       "bodySignalCount": 1,
       "excerpt": "virtually visit the site of the above-described subproject at prdp.da.gov.ph where geotagged base photographs are viewable. The DA, however, requires that all potential contractors who will be awarded contract under the project shall have undergone geotagging training provided by the PRDP Project Support Office. The Municipal Government of Lambayong will hold a Pre-Bid Conference on July 1, 2026, 10:00 a.m. at Datu Kusay Hall, 3rd Floor, New Municipal Hall, Lambayong, Sultan Kudarat and through video conferencing via https://meet.google.com/xim-hksq-qau , which shall be open to prospective bidders. Bids must be duly received by the Bids and Awards Committee (BAC) Secretariat through manual submission at the address indicated below on or before July 21, 2026, 10:00AM . Late bids shall not be accepted. BAC Office , New Municipal Hall Lambayong, Sultan Kudarat All Bids must be accompanied b",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00451390",
-      "title": "Rehabilitation/Concreting of Logan - Bacalan-\r\nDomandan - Supit - Culasian - Malagandis -\r\nNew Canaan Farm to Market Road",
-      "country": "Philippines",
-      "projectCountry": "Philippines",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "15-Jun-2026",
-      "deadline": "2026-07-21",
-      "project": "Philippine Rural Development Project Scale-up",
-      "buyer": "PRDP PSO Mindanao, Dept of Agriculture",
-      "contactEmail": "ored@davao.da.gov.ph",
-      "reference": "PRDP-SU-IB-R009-ZAS-001-000-000-2023-FMR",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451390",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [
-        "creative_comm: video"
-      ],
-      "segmentSignals": [
-        "formation: training",
-        "animation: video"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": true,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 1,
-      "excerpt": "virtually visit the site of the above-described subproject at prdp.da.gov.ph where geotagged base photographs are viewable. The DA, however, requires that all potential contractors who will be awarded contract under the project shall have undergone geotagging training provided by the PRDP Project Support Office. 6. The Provincial Government of Zamboanga Sibugay will hold a Pre-Bid Conference on July 1, 2026, at 10:00 a.m. at BAC Conference Room, 3/F, Capitol Building, Ipil Heights, Ipil, Zamboanga Sibugay and through video conferencing via https://us05web.zoom.us/j/85764996985?pwd=tlckbaZ2RPT9e768OIlFJcVVyOkPgA.1 , Meeting ID: 857 6499 6985 , Passcode: qkL87q , which shall be open to prospective bidders. 7. Bids must be duly received by the Bids and Awards Committee (BAC) Secretariat through manual submission at the address indicated below on or before July 21, 2026, at 10:00 a.m . Late",
       "probeScore": 0,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
