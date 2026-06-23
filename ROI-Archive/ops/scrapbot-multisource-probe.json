@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T16:32:41+00:00",
+  "generatedAt": "2026-06-23T18:39:32+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -23,8 +23,10 @@
       "url": "https://api.ted.europa.eu/v3/notices/search",
       "status": "active",
       "mode": "public API expert query with deadline filter",
-      "searchedTerms": 22,
-      "errors": []
+      "searchedTerms": 21,
+      "errors": [
+        "video production: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n"
+      ]
     }
   ],
   "queryTerms": [
@@ -52,10 +54,10 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 100.75,
-  "totalCandidates": 82,
+  "durationSeconds": 110.19,
+  "totalCandidates": 79,
   "summary": {
-    "likely_fit": 12,
+    "likely_fit": 9,
     "review": 9,
     "reject": 61
   },
@@ -289,116 +291,6 @@
       "searchText": "request for proposals – digital heritage & interactive media production for mar mikhael train station – beirut, lebanon  request for proposals – digital heritage & interactive media production for mar mikhael train station – beirut, lebanon 01-jul-2026 18:00 (gmt 3.00) unesco request for proposal rfp no bei-2026-003 lebanon",
       "excerpt": "Request for proposals – Digital Heritage & Interactive Media Production for Mar Mikhael Train Station – Beirut, Lebanon 01-Jul-2026 18:00 (GMT 3.00) UNESCO Request for proposal RFP No BEI-2026-003 Lebanon",
       "probeScore": 63,
-      "probeDecision": "likely_fit"
-    },
-    {
-      "id": "TED-350216-2026",
-      "title": "Ireland – Motion picture and video production services – Provision of TV and Video Production Services",
-      "country": "Ireland",
-      "projectCountry": "Ireland",
-      "noticeType": "cn-standard",
-      "noticeDate": "2026-05-21",
-      "deadline": "2026-06-30",
-      "deadlineTime": "",
-      "project": "",
-      "buyer": "Rásaíocht Con Éireann",
-      "contactEmail": "",
-      "reference": "350216-2026",
-      "method": "cn-standard",
-      "source": "TED EU Tenders",
-      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/350216-2026",
-      "matchedTerms": [
-        "video production"
-      ],
-      "titleSignals": [
-        "creative_comm: video, video production"
-      ],
-      "bodySignals": [
-        "creative_comm: video, video production"
-      ],
-      "segmentSignals": [
-        "animation: video"
-      ],
-      "archiveMatches": [
-        {
-          "capability": "animation_3d",
-          "label": "Animation 3D / personnage",
-          "matchedTerms": [
-            "video production"
-          ],
-          "archiveEvidence": [
-            "Demo Reel Animation 3D",
-            "SP_BINGO",
-            "SP_BabyShark",
-            "Robot Film",
-            "44 signaux cartoon_character_animation"
-          ]
-        }
-      ],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 1,
-      "titleSignalCount": 2,
-      "bodySignalCount": 2,
-      "searchText": "ireland – motion picture and video production services – provision of tv and video production services  ireland – motion picture and video production services – provision of tv and video production services rásaíocht con éireann(rcé) /greyhound racing ireland (gri) invites tender submissions from interested parties for the provision of tv and video production services in the areas listed in paragraph 2 – specification. this invitation to tender (itt) forms part of a tender process. it is advised that you read this document completely and in its entirety before completing your tender submission. 2. specification specification – 3 lots lot 1 outside broadcasting – provision of broadcasting support and av services for rcé key racing and racing associated events at rcé stadia nationwide. events may include, but are not limited to, the irish greyhound derby (shelbourne park), the irish greyhound laurels (curraheen park, cork), the irish st. leger (limerick greyhound stadium), the national greyhound racing awards, and similar fixtures. broadcast coverage of these events may be delivered via linear television, online platforms, or a combination of both, depending on the agreed media strategy. the method of broadcast will be at the discretion of rásaíocht con éireann (rcé) and the relevant event media partners, who may also elect to utilise their own outside broadcasting services where appropriate. lot 2. web packages / online video content: the scope of services shall include the production, recording, editing, and uploading and/or streaming of online video packages for both race meetings at rcé stadia and associated events, as required. it is anticipated that approximately 50 video packages will be produced annually in respect of rcé-owned stadia; however, this volume is indicative only and will be subject to the operational requirements and discretion of rásaíocht con éireann (rcé). completed video content may be distributed across a range of rcé digital channels, including the rcé corporate website, youtube, and relevant social media platforms. additional requirements may include, but are not limited to, the production of event review videos, sponsorship proposal materials, and industry-related informational content. lot 3. video production for industry related content: working with rcé partners such as the irish retired greyhound trust, individual stadia and stakeholders. involves the production, story- story script creation, direction and editing of video packages for use via all platforms. pre-planning will be key in partnership with the rcé head office marketing team and the execution of partner packages for general usage. rásaíocht con éireann ireland",
-      "excerpt": "Ireland – Motion picture and video production services – Provision of TV and Video Production Services Rásaíocht Con Éireann(RCÉ) /Greyhound Racing Ireland (GRI) invites tender submissions from interested parties for the provision of TV and Video Production Services in the areas listed in paragraph 2 – Specification. This Invitation to Tender (ITT) forms part of a tender process. It is advised that you read this document completely and in its entirety before completing your tender submission. 2. SPECIFICATION Specification – 3 Lots Lot 1 Outside broadcasting – provision of broadcasting support and AV services for RCÉ key racing and racing associated events at RCÉ Stadia Nationwide. Events may include, but are not limited to, the Irish Greyhound Derby (Shelbourne Park), the Irish Greyhound Laurels (Curraheen Park, Cork), the Irish St. Leger (Limerick Greyhound Stadium), the National Greyh",
-      "probeScore": 59,
-      "probeDecision": "likely_fit"
-    },
-    {
-      "id": "TED-405939-2026",
-      "title": "North Macedonia – Motion picture and video production services – Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government",
-      "country": "North Macedonia",
-      "projectCountry": "North Macedonia",
-      "noticeType": "cn-standard",
-      "noticeDate": "2026-06-12",
-      "deadline": "2026-07-09",
-      "deadlineTime": "",
-      "project": "",
-      "buyer": "Government of the Republic of North Macedonia - General secretariat",
-      "contactEmail": "",
-      "reference": "405939-2026",
-      "method": "cn-standard",
-      "source": "TED EU Tenders",
-      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/405939-2026",
-      "matchedTerms": [
-        "video production"
-      ],
-      "titleSignals": [
-        "creative_comm: video, video production"
-      ],
-      "bodySignals": [
-        "creative_comm: video, video production"
-      ],
-      "segmentSignals": [
-        "animation: video"
-      ],
-      "archiveMatches": [
-        {
-          "capability": "animation_3d",
-          "label": "Animation 3D / personnage",
-          "matchedTerms": [
-            "video production"
-          ],
-          "archiveEvidence": [
-            "Demo Reel Animation 3D",
-            "SP_BINGO",
-            "SP_BabyShark",
-            "Robot Film",
-            "44 signaux cartoon_character_animation"
-          ]
-        }
-      ],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 1,
-      "titleSignalCount": 2,
-      "bodySignalCount": 2,
-      "searchText": "north macedonia – motion picture and video production services – video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the government  north macedonia – motion picture and video production services – video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the government video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the government government of the republic of north macedonia - general secretariat north macedonia",
-      "excerpt": "North Macedonia – Motion picture and video production services – Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government Government of the Republic of North Macedonia - General secretariat North Macedonia",
-      "probeScore": 59,
       "probeDecision": "likely_fit"
     },
     {
@@ -668,60 +560,6 @@
       "searchText": "france – architectural, engineering and surveying services – le scan to bim correspond au processus de modélisation d’un bâtiment sur la base de son nuage de points : l’empreinte 3d générée suite à un relevé de l’intérieur (etou de l’extérieur) du bâtiment via l’utilisation de technologies de scan 3d (lasergrammétrie etou photogrammétrie). cette méthodologie permet de créer ou de mettre à jour la maquette numérique d’un bâtiment en se basant sur une emprei  france – architectural, engineering and surveying services – le scan to bim correspond au processus de modélisation d’un bâtiment sur la base de son nuage de points : l’empreinte 3d générée suite à un relevé de l’intérieur (etou de l’extérieur) du bâtiment via l’utilisation de technologies de scan 3d (lasergrammétrie etou photogrammétrie). cette méthodologie permet de créer ou de mettre à jour la maquette numérique d’un bâtiment en se basant sur une emprei ce lot consiste à numériser par scanner laser (nuage de point) le site de barbet de jouy ce lot consiste à modéliser numériquement le site de barbet de jouy ministère de l'agriculture, de l'agro-alimentaire et de la souveraineté alimentaire france",
       "excerpt": "France – Architectural, engineering and surveying services – Le Scan to BIM correspond au processus de modélisation d’un bâtiment sur la base de son nuage de points : l’empreinte 3D générée suite à un relevé de l’intérieur (etou de l’extérieur) du bâtiment via l’utilisation de technologies de scan 3D (lasergrammétrie etou photogrammétrie). Cette méthodologie permet de créer ou de mettre à jour la maquette numérique d’un bâtiment en se basant sur une emprei Ce lot consiste à numériser par scanner laser (nuage de point) le site de Barbet de Jouy Ce lot consiste à modéliser numériquement le site de Barbet de Jouy Ministère de l'Agriculture, de l'Agro-alimentaire et de la Souveraineté alimentaire France",
       "probeScore": 42,
-      "probeDecision": "likely_fit"
-    },
-    {
-      "id": "TED-403000-2026",
-      "title": "Netherlands – Audio-visual equipment – Audiovisual Services The Business Booster 2026",
-      "country": "Netherlands",
-      "projectCountry": "Netherlands",
-      "noticeType": "cn-standard",
-      "noticeDate": "2026-06-12",
-      "deadline": "2026-07-11",
-      "deadlineTime": "",
-      "project": "",
-      "buyer": "KIC Innoenergy SE",
-      "contactEmail": "",
-      "reference": "403000-2026",
-      "method": "cn-standard",
-      "source": "TED EU Tenders",
-      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/403000-2026",
-      "matchedTerms": [
-        "video production"
-      ],
-      "titleSignals": [],
-      "bodySignals": [
-        "3d_vr: 3d",
-        "creative_comm: video, video production"
-      ],
-      "segmentSignals": [
-        "animation: 3d, video"
-      ],
-      "archiveMatches": [
-        {
-          "capability": "animation_3d",
-          "label": "Animation 3D / personnage",
-          "matchedTerms": [
-            "video production"
-          ],
-          "archiveEvidence": [
-            "Demo Reel Animation 3D",
-            "SP_BINGO",
-            "SP_BabyShark",
-            "Robot Film",
-            "44 signaux cartoon_character_animation"
-          ]
-        }
-      ],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 1,
-      "titleSignalCount": 0,
-      "bodySignalCount": 3,
-      "searchText": "netherlands – audio-visual equipment – audiovisual services the business booster 2026  netherlands – audio-visual equipment – audiovisual services the business booster 2026 2025 innoenergy carried out the 13th edition of the business booster (tbb), innoenergy's main external event aiming at fostering the link between the industry, investors, start-ups and policy makers. the event took place in lisbon on october 22-23 with more than 1,800 attendants from 46 different countries. there were 117 start-ups exhibiting and pitching and more than 3,000 business meetings organized through our b2b tool. the topic in 2025 was “clean industrial electrification: powering our planet, our economy and our security”. innoenergy is seeking proposals from professional av companies to select a supplier for tbb 2026. we are looking for a provider with a strong background in audiovisuals for international congresses and exhibitions. the purpose of this document is to outline what is required as well as provide a fair evaluation for all candidates and highlight the criteria by which the selection will be made. the event: the business booster by innoenergy • number of attendees: 1800+ people • location: messe munich, germany • event dates: 28 and 29 october 2026 • set-up date: 26-27 october • breakdown: evening of 29 october and 30 october tbb. by innoenergy is an outstanding innovation event, connecting leading industries and bright minds from business start-ups (and smes) as a means of providing tomorrow’s sustainable energy solutions today. the aim of the event: to increase connectivity between ventures/smes and industry, to ensure their commercial success, which will then contribute to kic innoenergy’s own sustainability. tbb. website: https://tbb.innoenergy.com/ videos: 2025: https://www.youtube.com/watch?v=cdyk6_qt8de 2024: https://www.youtube.com/watch?v=tvbtvaceu6k photos: 2025: https://flic.kr/s/ahbqjcygrs 2024: 2024: https://www.flickr.com/gp/innoenergy/98o9esd35r objectives: for the purpose of this tender, we require you to submit a written proposal which responds to the following: • deliver high-quality av production across all spaces • ensure a premium visual and technical experience • provide optimised technical solutions aligned with the 3d design • ensure seamless integration across plenary, track rooms and exhibition areas av requirements: • innoenergy booth: o curved led wall 6.00m x 2.50m o 6 x lcd screens 55\" o speakers and 2 hand microphones • syndication & media rooms: o 2 x lcd screens 55\" • sponsors: o 9 x lcd screens 55\" • investor track room: o 2 x lcd screens 98\" or projector o 1 camera and staff to record the sessions • plenary room: o visual: ▪ main led wall: 14.00m x 4.00m (minimum pixel pitch p2.6 / p2.9) ▪ 2 x side screens: led walls 6.00m x 3.00m or high-lumen projectors (minimum 20,000 ansi lumens) ▪ led processor and content management system ▪ comfort monitors for speakers on stage ▪ speaker timer visible from stage ▪ presentation clicker with backup unit o audio: ▪ professional pa system sized for the venue ▪ digital mixing console ▪ 10 wireless headset microphones ▪ 6 wireless handheld microphones ▪ audio stage monitors for speakers ▪ audio playback system for videos and presentations ▪ silent room equipment for four separate stages – 800 headsets ▪ dedicated audio engineer o stage & control: ▪ 1 digital lectern ▪ stage lighting for presenters and panel discussions ▪ audience lighting for q&a sessions ▪ speaker ready room monitoring feed ▪ full technical rehearsal support o video production: ▪ minimum 2/3 professional cameras: - 1 x manned camera - 1 x roaming camera - 1 x wide/static camera ▪ live vision mixing ▪ camera shading and video control ▪ recording of all sessions (delivered in individual session files) o crew: ▪ technical director ▪ stage manager ▪ video director ▪ vision mixer operator ▪ audio engineer ▪ led technician ▪ lighting technician ▪ camera operators ▪ presentation manager ▪ on-site av support team throughout the event • digital signage: o 8 x digital mupis kic innoenergy se netherlands",
-      "excerpt": "ainable energy solutions today. The aim of the event: to increase connectivity between ventures/SMEs and industry, to ensure their commercial success, which will then contribute to KIC InnoEnergy’s own sustainability. TBB. website: https://tbb.innoenergy.com/ Videos: 2025: https://www.youtube.com/watch?v=CDyk6_qt8dE 2024: https://www.youtube.com/watch?v=tVBTVAcEU6k Photos: 2025: https://flic.kr/s/aHBqjCyGRS 2024: 2024: https://www.flickr.com/gp/innoenergy/98o9esD35R Objectives: For the purpose of this tender, we require you to submit a written proposal which responds to the following: • Deliver high-quality AV production across all spaces • Ensure a premium visual and technical experience • Provide optimised technical solutions aligned with the 3D design • Ensure seamless integration across plenary, track rooms and exhibition areas AV Requirements: • InnoEnergy Booth: o Curved LED wall 6",
-      "probeScore": 40,
       "probeDecision": "likely_fit"
     },
     {

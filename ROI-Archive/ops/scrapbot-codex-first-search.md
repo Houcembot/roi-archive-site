@@ -1,15 +1,15 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-23T16:32:41+00:00
+Genere: 2026-06-23T18:39:32+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 21 requetes, 1 erreur(s)
 
 ## Resultat
-- Candidats lus: 82
-- Likely fit: 12
+- Candidats lus: 79
+- Likely fit: 9
 - A revoir: 9
 - Rejetes: 61
 - Offres publiees dans le HUD: 5
@@ -38,18 +38,6 @@ Genere: 2026-06-23T16:32:41+00:00
 - URL: https://www.ungm.org/Public/Notice/304000
 - Archive: Scan 3D / patrimoine / viewer
 - Extrait: Request for proposals – Digital Heritage & Interactive Media Production for Mar Mikhael Train Station – Beirut, Lebanon 01-Jul-2026 18:00 (GMT 3.00) UNESCO Request for proposal RFP No BEI-2026-003 Lebanon
-
-### Ireland – Motion picture and video production services – Provision of TV and Video Production Services
-- Source: TED EU Tenders | Pays: Ireland | Deadline: 2026-06-30 | Score: 59 | non publiee
-- URL: https://ted.europa.eu/en/notice/-/detail/350216-2026
-- Archive: Animation 3D / personnage
-- Extrait: Ireland – Motion picture and video production services – Provision of TV and Video Production Services Rásaíocht Con Éireann(RCÉ) /Greyhound Racing Ireland (GRI) invites tender submissions from interested parties for the provision of TV and Video Production Services in the areas listed in paragraph 2 – Specification. This Invitation to Tender (ITT) forms part of a tender process. It is advised that you read this docu
-
-### North Macedonia – Motion picture and video production services – Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government
-- Source: TED EU Tenders | Pays: North Macedonia | Deadline: 2026-07-09 | Score: 59 | non publiee
-- URL: https://ted.europa.eu/en/notice/-/detail/405939-2026
-- Archive: Animation 3D / personnage
-- Extrait: North Macedonia – Motion picture and video production services – Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government Government of the Republic of North Macedonia - General secre
 
 ### Two CT simulators, 3D scanning water phantom & dosimetry equipment
 - Source: UNGM Procurement | Pays: Ukraine | Deadline: 2026-07-17 | Score: 53 | non publiee
@@ -80,12 +68,6 @@ Genere: 2026-06-23T16:32:41+00:00
 - URL: https://ted.europa.eu/en/notice/-/detail/406999-2026
 - Archive: Scan 3D / patrimoine / viewer
 - Extrait: France – Architectural, engineering and surveying services – Le Scan to BIM correspond au processus de modélisation d’un bâtiment sur la base de son nuage de points : l’empreinte 3D générée suite à un relevé de l’intérieur (etou de l’extérieur) du bâtiment via l’utilisation de technologies de scan 3D (lasergrammétrie etou photogrammétrie). Cette méthodologie permet de créer ou de mettre à jour la maquette numérique d
-
-### Netherlands – Audio-visual equipment – Audiovisual Services The Business Booster 2026
-- Source: TED EU Tenders | Pays: Netherlands | Deadline: 2026-07-11 | Score: 40 | non publiee
-- URL: https://ted.europa.eu/en/notice/-/detail/403000-2026
-- Archive: Animation 3D / personnage
-- Extrait: ainable energy solutions today. The aim of the event: to increase connectivity between ventures/SMEs and industry, to ensure their commercial success, which will then contribute to KIC InnoEnergy’s own sustainability. TBB. website: https://tbb.innoenergy.com/ Videos: 2025: https://www.youtube.com/watch?v=CDyk6_qt8dE 2024: https://www.youtube.com/watch?v=tVBTVAcEU6k Photos: 2025: https://flic.kr/s/aHBqjCyGRS 2024: 202
 
 ## A revoir
 - Technical Assistance for CSO website upgrade, strategic communications, and outreach to support official statistics | World Bank Procurement Notices | St. Lucia | deadline 2026-07-01 | score 57 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451818
