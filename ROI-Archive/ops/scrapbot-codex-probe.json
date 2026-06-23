@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T17:58:54+00:00",
+  "generatedAt": "2026-06-23T08:05:58+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -23,8 +23,11 @@
       "url": "https://api.ted.europa.eu/v3/notices/search",
       "status": "active",
       "mode": "public API expert query with deadline filter",
-      "searchedTerms": 22,
-      "errors": []
+      "searchedTerms": 20,
+      "errors": [
+        "museum 3D: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n",
+        "avatar: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n"
+      ]
     }
   ],
   "queryTerms": [
@@ -52,12 +55,12 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 85.7,
-  "totalCandidates": 94,
+  "durationSeconds": 118.36,
+  "totalCandidates": 87,
   "summary": {
-    "likely_fit": 13,
+    "likely_fit": 12,
     "review": 9,
-    "reject": 72
+    "reject": 66
   },
   "items": [
     {
@@ -234,61 +237,6 @@
       "searchText": "germany – research and development services and related consultancy services – [found-vr] research platform for investigating disinformation in virtual reality / forschungsplattform zur untersuchung von desinformation in der virtuellen realität  germany – research and development services and related consultancy services – [found-vr] research platform for investigating disinformation in virtual reality / forschungsplattform zur untersuchung von desinformation in der virtuellen realität the research program “research platform for the investigation of disinformation in virtual reality” (found-vr) aims to create a platform (e.g. xr test environment) for researching disinformation in virtual environments. virtual environments are understood as new digital spaces (metaverse, omniverse, citiverse) that can be accessed via extended reality (vr, ar, xr) , in which individuals interact with other people, organizations or institutions. the audiovisual and haptic interaction possibilities inherent in the technology create unique forms of disinformation that have not yet been researched due to the novelty of these virtual spaces. the virtual laboratory environment is therefore intended to enable research into the dissemination of disinformation in new types of virtual spaces for the first time. im projekt soll eine plattform (z.b. xr-testumgebung) zur erforschung von desinformation in virtuellen umgebungen entwickelt und als demonstrator technisch realisiert werden. als virtuelle umgebungen werden neue, über extended reality (vr, ar, xr) begehbare digitale räume verstanden (metaverse, omniverse, citiverse), in denen individuen mit anderen menschen, organisationen oder institutionen in interaktion treten. durch die der technologie innewohnenden audiovisuellen und haptischen interaktionsmöglichkeiten entstehen einzigartige formen der desinformation, zu denen es aufgrund der neuartigkeit dieser virtuellen räume noch keine forschung gibt. die virtuelle laborumgebung soll daher erstmalig die erforschung der verbreitung von desinformation in der virtuellen realität ermöglichen. agentur für innovation in der cybersicherheit gmbh / innovation for cybersecurity germany",
       "excerpt": "Germany – Research and development services and related consultancy services – [FoUnD-VR] Research Platform for Investigating Disinformation in Virtual Reality / Forschungsplattform zur Untersuchung von Desinformation in der virtuellen Realität The research program “Research Platform for the Investigation of Disinformation in Virtual Reality” (FoUnD-VR) aims to create a platform (e.g. XR test environment) for researching disinformation in virtual environments. Virtual environments are understood as new digital spaces (Metaverse, Omniverse, Citiverse) that can be accessed via extended reality (VR, AR, XR) , in which individuals interact with other people, organizations or institutions. The audiovisual and haptic interaction possibilities inherent in the technology create unique forms of disinformation that have not yet been researched due to the novelty of these virtual spaces. The virtua",
       "probeScore": 81,
-      "probeDecision": "likely_fit"
-    },
-    {
-      "id": "UNGM-304331",
-      "title": "Request for Expressions of Interest (EoI) 2026-26 - Brucellosis epidemiology work and video production",
-      "country": "Hungary",
-      "projectCountry": "Hungary",
-      "noticeType": "Request for EOI",
-      "noticeDate": "2026-06-16",
-      "deadline": "2026-06-23",
-      "deadlineTime": "23-Jun-2026 09:00 (GMT 2.00)",
-      "project": "",
-      "buyer": "FAO",
-      "contactEmail": "",
-      "reference": "2026/REUXD/REUTD/137242",
-      "method": "Request for EOI",
-      "source": "UNGM Procurement",
-      "sourceUrl": "https://www.ungm.org/Public/Notice/304331",
-      "matchedTerms": [
-        "video production"
-      ],
-      "titleSignals": [
-        "creative_comm: video, video production"
-      ],
-      "bodySignals": [
-        "creative_comm: video, video production"
-      ],
-      "segmentSignals": [
-        "animation: video"
-      ],
-      "archiveMatches": [
-        {
-          "capability": "animation_3d",
-          "label": "Animation 3D / personnage",
-          "matchedTerms": [
-            "video production"
-          ],
-          "archiveEvidence": [
-            "Demo Reel Animation 3D",
-            "SP_BINGO",
-            "SP_BabyShark",
-            "Robot Film",
-            "44 signaux cartoon_character_animation"
-          ]
-        }
-      ],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 1,
-      "titleSignalCount": 2,
-      "bodySignalCount": 2,
-      "searchText": "request for expressions of interest (eoi) 2026-26 - brucellosis epidemiology work and video production  request for expressions of interest (eoi) 2026-26 - brucellosis epidemiology work and video production 23-jun-2026 09:00 (gmt 2.00) fao request for eoi 2026/reuxd/reutd/137242 hungary",
-      "excerpt": "Request for Expressions of Interest (EoI) 2026-26 - Brucellosis epidemiology work and video production 23-Jun-2026 09:00 (GMT 2.00) FAO Request for EOI 2026/REUXD/REUTD/137242 Hungary",
-      "probeScore": 70,
       "probeDecision": "likely_fit"
     },
     {
@@ -1251,46 +1199,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "UNGM-301969",
-      "title": "Media Production and Communications Services for the Surging Women’s Employment",
-      "country": "Egypt",
-      "projectCountry": "Egypt",
-      "noticeType": "Request for proposal",
-      "noticeDate": "2026-05-24",
-      "deadline": "2026-06-23",
-      "deadlineTime": "23-Jun-2026 07:00 (GMT -4.00)",
-      "project": "",
-      "buyer": "UN-Women",
-      "contactEmail": "",
-      "reference": "UNW-RAS-2026-00008",
-      "method": "Request for proposal",
-      "source": "UNGM Procurement",
-      "sourceUrl": "https://www.ungm.org/Public/Notice/301969",
-      "matchedTerms": [
-        "media production"
-      ],
-      "titleSignals": [
-        "creative_comm: media production"
-      ],
-      "bodySignals": [
-        "creative_comm: media production"
-      ],
-      "segmentSignals": [
-        "animation: media production"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 1,
-      "bodySignalCount": 1,
-      "searchText": "media production and communications services for the surging women’s employment  media production and communications services for the surging women’s employment 23-jun-2026 07:00 (gmt -4.00) un-women request for proposal unw-ras-2026-00008 egypt",
-      "excerpt": "Media Production and Communications Services for the Surging Women’s Employment 23-Jun-2026 07:00 (GMT -4.00) UN-Women Request for proposal UNW-RAS-2026-00008 Egypt",
-      "probeScore": 29,
-      "probeDecision": "reject"
-    },
-    {
       "id": "UNGM-304101",
       "title": "Rehabilitation Works to WASH Facilities and Renovation of Virtual Reality Room at ESF - Jerusalem Area No.2 for Local Contractors only",
       "country": "Palestine, State of",
@@ -1418,46 +1326,6 @@
       "probeScore": 20,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "UNGM-303532",
-      "title": "PROVISION FOR MEDIA PRODUCTION TO DOCUMENT AND SHOWCASE ECO-INDUSTRIAL PARK TRANSFORMATION IN VIET NAM",
-      "country": "Viet Nam",
-      "projectCountry": "Viet Nam",
-      "noticeType": "Request for quotation",
-      "noticeDate": "2026-06-09",
-      "deadline": "2026-06-23",
-      "deadlineTime": "23-Jun-2026 18:00 (GMT 2.00)",
-      "project": "",
-      "buyer": "UNIDO",
-      "contactEmail": "",
-      "reference": "7000008565",
-      "method": "Request for quotation",
-      "source": "UNGM Procurement",
-      "sourceUrl": "https://www.ungm.org/Public/Notice/303532",
-      "matchedTerms": [
-        "media production"
-      ],
-      "titleSignals": [
-        "creative_comm: media production"
-      ],
-      "bodySignals": [
-        "creative_comm: media production"
-      ],
-      "segmentSignals": [
-        "animation: media production"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 1,
-      "bodySignalCount": 1,
-      "searchText": "provision for media production to document and showcase eco-industrial park transformation in viet nam  provision for media production to document and showcase eco-industrial park transformation in viet nam 23-jun-2026 18:00 (gmt 2.00) unido request for quotation 7000008565 viet nam",
-      "excerpt": "PROVISION FOR MEDIA PRODUCTION TO DOCUMENT AND SHOWCASE ECO-INDUSTRIAL PARK TRANSFORMATION IN VIET NAM 23-Jun-2026 18:00 (GMT 2.00) UNIDO Request for quotation 7000008565 Viet Nam",
-      "probeScore": 19,
-      "probeDecision": "reject"
     },
     {
       "id": "OP00449205",
@@ -1646,79 +1514,6 @@
       "bodySignalCount": 1,
       "excerpt": "f tariffs, with suggested options and timelines, and to ensure financial sustainability for the long-term. Support the water utility to develop and implement a GIS-based asset management system Establish an integrated billing, customer database and accounting software, which will allow for full billing of actual water consumption and separation of arrears from actual payment 4. DURATION OF THE ASSIGNMENT The duration of the assignment is 12 calendar months from the date of contract signature. 5. TERMS OF REFERENCE The detailed Terms of Reference (TOR) for the assignment can be obtained at the following links: https://aml.mru.aero/index.php/business/rap and Airport of Rodrigues Ltd. 6. INVITATION TO EXPRESS INTEREST The Airports of Mauritius Co. Ltd now invites eligible consulting firms (“Consultants”) to express their interest in providing the Services. Interested Consultants should prov",
       "probeScore": 18,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "TED-411975-2026",
-      "title": "Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar",
-      "country": "Germany",
-      "projectCountry": "Germany",
-      "noticeType": "cn-standard",
-      "noticeDate": "2026-06-16",
-      "deadline": "2026-07-13",
-      "deadlineTime": "",
-      "project": "",
-      "buyer": "Techniker Krankenkasse",
-      "contactEmail": "",
-      "reference": "411975-2026",
-      "method": "cn-standard",
-      "source": "TED EU Tenders",
-      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/411975-2026",
-      "matchedTerms": [
-        "avatar"
-      ],
-      "titleSignals": [
-        "software_data: software"
-      ],
-      "bodySignals": [
-        "software_data: software"
-      ],
-      "segmentSignals": [
-        "rnd: software"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "software"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 1,
-      "bodySignalCount": 1,
-      "searchText": "germany – it services: consulting, software development, internet and support – fotorealistischer beratungsavatar  germany – it services: consulting, software development, internet and support – fotorealistischer beratungsavatar die techniker krankenkasse (tk) ist seit vielen jahren im bereich der internationalen beschäftigung aktiv und unterstützt unternehmen beim onboarding internationaler mitarbeitender - insbesondere bei fragen zur sozialversicherung. expatriates, die zum arbeiten nach deutschland kommen, können sich zudem bei der tk zu vielfältigen fragestellungen rund um ihre migration nach deutschland informieren, darunter insbesondere: - gesetzliche krankenversicherung und sozialversicherung in deutschland, - grundlegende abläufe im deutschen gesundheitswesen, - sozialversicherungsrechtliche besonderheiten bei internationalen beschäftigungsverhältnissen. - ergänzende informationen rund um den erwerbsmigrationsprozess . seit dem jahr 2025 können fragen an nicht-generative avatare gerichtet werden. alle einzelheiten ergeben sich aus den vergabeunterlagen. techniker krankenkasse germany",
-      "excerpt": "Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar Die Techniker Krankenkasse (TK) ist seit vielen Jahren im Bereich der internationalen Beschäftigung aktiv und unterstützt Unternehmen beim Onboarding internationaler Mitarbeitender - insbesondere bei Fragen zur Sozialversicherung. Expatriates, die zum Arbeiten nach Deutschland kommen, können sich zudem bei der TK zu vielfältigen Fragestellungen rund um ihre Migration nach Deutschland informieren, darunter insbesondere: - gesetzliche Krankenversicherung und Sozialversicherung in Deutschland, - grundlegende Abläufe im deutschen Gesundheitswesen, - sozialversicherungsrechtliche Besonderheiten bei internationalen Beschäftigungsverhältnissen. - ergänzende Informationen rund um den Erwerbsmigrationsprozess . Seit dem Jahr 2025 können Fragen an nicht-generative Avatare gerichtet wer",
-      "probeScore": 18,
-      "probeDecision": "reject"
-    },
-    {
-      "id": "OP00448356",
-      "title": "Supply of Laboratory equipment and Consumables - TARAWA",
-      "country": "Kiribati",
-      "projectCountry": "Kiribati",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "02-Jun-2026",
-      "deadline": "2026-06-23",
-      "project": "Kiribati: Pacific Islands Regional Oceanscape Program",
-      "buyer": "Ministry of Fisheries and Marine Resource Development",
-      "contactEmail": "teueb@mfor.gov.ki",
-      "reference": "KI-MFMRD-551167-GO-RFQ",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00448356",
-      "matchedTerms": [
-        "media production"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "INVITATION TO QUOTE (Advertisement) GOODS INVITATION TO QUOTE Date: 1st June 2026 Project Title: Kiribati Pacific Regional Oceanscape Program Source of Funding (grant no.): P165821 Contract Name: Seafood Toxicology Laboratory Equipment and Consumables Contract Ref: KI-MFMRD-551167-GO-RFQ You are invited to submit your price quotation for the supply of the following items grouped by LOT. LOT 1: Water Microbiology Testing System (Equipment, Reagents, Consumables and Reference materials) Items SKU Quantity UV Viewer Plus, WUVPLUS, 115-230V 99-0020290-00 1 Sealer Plus 98-0002570-01 1 99-19152 Colilert-18/Quanti-Tray2k Combo 20PK 99-19152 10 120ml Vessel w/ 100ml line & Shrink Band 200pk 98-09222-00 1 Colilert/Colilert-18 Comparator in a Quanti-Tray2k 98-09227-00 1 Enterolert/Quanti-Tray2K Combo 20PK 99-19156 10 Quanti-Tray2K 97-well rubber insert for the Quanti-Tray PLUS 98-9011770-00 2 Ster",
-      "probeScore": 15,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
     },
@@ -2662,95 +2457,6 @@
       "excerpt": "Multimedia Production Services for ZACH- UNDP Field Documentation Mission 29-Jun-2026 03:00 (GMT -4.00) UNDP Call for individual consultants UNDP-ZWE-01837 Zimbabwe",
       "probeScore": 2,
       "probeDecision": "reject"
-    },
-    {
-      "id": "OP00448165",
-      "title": "Individual Consultant for Development of Hospice and Home-Based Palliative Care Services and Staff Training",
-      "country": "Uzbekistan",
-      "projectCountry": "Uzbekistan",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "15-Jun-2026",
-      "deadline": "2026-06-23",
-      "project": "INnovative SOcial Protection System for inclusiON of Vulnerable People Project",
-      "buyer": "NATIONAL AGENCY FOR SOCIAL PROTECTION UNDER THE PRESIDENT OF THE REPUBLIC OF UZBEKISTAN",
-      "contactEmail": "piuinsonprocurement@gmail.com",
-      "reference": "UZ-INSON-CS-IC-2.1.10.1.",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00448165",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: capacity building, education, training",
-        "medical: medical, patient"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "capacity building",
-        "training"
-      ],
-      "offDomain": true,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "vative Social Protection System for Inclusion of Vulnerable Populations” (INSON) Financing Agreement No. 75550-UZ / Grant Agreement No. TF C4589-UZ Assignment : Individual Consultant for Development of Hospice and Home-Based Palliative Care Services and Staff Training Package No. (according to the Procurement Plan): UZ-INSON-CS-IC-2.1.10.1. The Republic of Uzbekistan has received financing from the World Bank for the implementation of the project “Innovative Social Protection System for Inclusion of Vulnerable Populations” (INSON) and intends to apply part of the proceeds for consulting services. The consulting services (“Services”) include the provision of expert support to the National Agency for Social Protection under the President of the Republic of Uzbekistan in the development, standardization and piloting of a package of social services within the NASP system for the provision of",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00450783",
-      "title": "PMU Administrative and Communication Consultant",
-      "country": "Viet Nam",
-      "projectCountry": "Viet Nam",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "15-Jun-2026",
-      "deadline": "2026-06-23",
-      "project": "Sustainable Management of Substances Controlled by the Montreal Protocol",
-      "buyer": "PMU of Department of Climate Change under Ministry of Agriculture and Environment",
-      "contactEmail": "bdkh_vietnamozone@mae.gov.vn",
-      "reference": "C3-IC6",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450783",
-      "matchedTerms": [
-        "media production",
-        "video production"
-      ],
-      "titleSignals": [],
-      "bodySignals": [
-        "creative_comm: video, video production"
-      ],
-      "segmentSignals": [
-        "formation: skills",
-        "animation: video"
-      ],
-      "archiveMatches": [
-        {
-          "capability": "animation_3d",
-          "label": "Animation 3D / personnage",
-          "matchedTerms": [
-            "video production"
-          ],
-          "archiveEvidence": [
-            "Demo Reel Animation 3D",
-            "SP_BINGO",
-            "SP_BabyShark",
-            "Robot Film",
-            "44 signaux cartoon_character_animation"
-          ]
-        }
-      ],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": true,
-      "archiveCapabilityCount": 1,
-      "titleSignalCount": 0,
-      "bodySignalCount": 2,
-      "excerpt": "ar roles; - Good command of English; - Ability to work under pressure, multitask, and meet deadlines; - Strong understanding of social media platforms and their application for project; - Strong photography skills with experience in fieldwork; - Experience in video production and editing; - In good health. The PMU will select consultant through an individual consultant selection process in accordance with the World Bank's procurement regulations. Qualified candidates will be invited for an interview at the Project Office. The TOR for the job can be downloaded at this link: https://drive.google.com/drive/u/1/folders/1BfXXLm6KnbB3UeNiMM27uCEMgSKpg8pJ or via email bdkh_vietnamozone@mae.gov.vn starting from 12 June 2026. Interested candidates are requested to send their CV describing similar tasks and relevant experience to the email address or address below before 12:00 PM on 23 June 2026.",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
     },
     {
       "id": "OP00447844",

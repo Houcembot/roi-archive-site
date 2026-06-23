@@ -1,18 +1,18 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-22T17:58:54+00:00
+Genere: 2026-06-23T08:05:58+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 20 requetes, 2 erreur(s)
 
 ## Resultat
-- Candidats lus: 94
-- Likely fit: 13
+- Candidats lus: 87
+- Likely fit: 12
 - A revoir: 9
-- Rejetes: 72
-- Offres publiees dans le HUD: 6
+- Rejetes: 66
+- Offres publiees dans le HUD: 5
 
 ## Top offres publiees / compatibles
 ### Training Equipment to Support Skills Testing & Certification
@@ -32,12 +32,6 @@ Genere: 2026-06-22T17:58:54+00:00
 - URL: https://ted.europa.eu/en/notice/-/detail/298854-2026
 - Archive: VR / simulation / laboratoire virtuel
 - Extrait: Germany – Research and development services and related consultancy services – [FoUnD-VR] Research Platform for Investigating Disinformation in Virtual Reality / Forschungsplattform zur Untersuchung von Desinformation in der virtuellen Realität The research program “Research Platform for the Investigation of Disinformation in Virtual Reality” (FoUnD-VR) aims to create a platform (e.g. XR test environment) for researc
-
-### Request for Expressions of Interest (EoI) 2026-26 - Brucellosis epidemiology work and video production
-- Source: UNGM Procurement | Pays: Hungary | Deadline: 2026-06-23 | Score: 70 | publiee
-- URL: https://www.ungm.org/Public/Notice/304331
-- Archive: Animation 3D / personnage
-- Extrait: Request for Expressions of Interest (EoI) 2026-26 - Brucellosis epidemiology work and video production 23-Jun-2026 09:00 (GMT 2.00) FAO Request for EOI 2026/REUXD/REUTD/137242 Hungary
 
 ### Request for proposals – Digital Heritage & Interactive Media Production for Mar Mikhael Train Station – Beirut, Lebanon
 - Source: UNGM Procurement | Pays: Lebanon | Deadline: 2026-07-01 | Score: 63 | publiee
@@ -87,6 +81,12 @@ Genere: 2026-06-22T17:58:54+00:00
 - Archive: Scan 3D / patrimoine / viewer
 - Extrait: France – Architectural, engineering and surveying services – Le Scan to BIM correspond au processus de modélisation d’un bâtiment sur la base de son nuage de points : l’empreinte 3D générée suite à un relevé de l’intérieur (etou de l’extérieur) du bâtiment via l’utilisation de technologies de scan 3D (lasergrammétrie etou photogrammétrie). Cette méthodologie permet de créer ou de mettre à jour la maquette numérique d
 
+### Netherlands – Audio-visual equipment – Audiovisual Services The Business Booster 2026
+- Source: TED EU Tenders | Pays: Netherlands | Deadline: 2026-07-11 | Score: 40 | non publiee
+- URL: https://ted.europa.eu/en/notice/-/detail/403000-2026
+- Archive: Animation 3D / personnage
+- Extrait: ainable energy solutions today. The aim of the event: to increase connectivity between ventures/SMEs and industry, to ensure their commercial success, which will then contribute to KIC InnoEnergy’s own sustainability. TBB. website: https://tbb.innoenergy.com/ Videos: 2025: https://www.youtube.com/watch?v=CDyk6_qt8dE 2024: https://www.youtube.com/watch?v=tVBTVAcEU6k Photos: 2025: https://flic.kr/s/aHBqjCyGRS 2024: 202
+
 ## A revoir
 - Technical Assistance for CSO website upgrade, strategic communications, and outreach to support official statistics | World Bank Procurement Notices | St. Lucia | deadline 2026-07-01 | score 57 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451818
 - HEMIS Higher Education Information Management System | World Bank Procurement Notices | Gambia, The | deadline 2026-07-24 | score 42 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451910
@@ -100,16 +100,16 @@ Genere: 2026-06-22T17:58:54+00:00
 
 ## Rejets utiles pour audit
 - off-domain: PR and Strategic Communications Support for the INSON Project | World Bank Procurement Notices | Uzbekistan | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446445
-- no-archive-match: Media Production and Communications Services for the Surging Women’s Employment | UNGM Procurement | Egypt | https://www.ungm.org/Public/Notice/301969
 - off-domain: Rehabilitation Works to WASH Facilities and Renovation of Virtual Reality Room at ESF - Jerusalem Area No.2 for Local Contractors only | UNGM Procurement | Palestine, State of | https://www.ungm.org/Public/Notice/304101
 - no-archive-match: procrument of Training Equipments and accessories of  Electrical Technology, Autotronics and EV and Hybrid  for various PTCs(Debremarkos  ,Ethio Itally,W/o Sihin,Harar and other collages) | World Bank Procurement Notices | Ethiopia | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450900
 - no-archive-match: Procrument of Training Equipments and accessories of Manufacturing and Industrial Automation, ICT and Welding PTCs(Entoto,Axum ,,Harar and other collages) | World Bank Procurement Notices | Ethiopia | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451715
-- no-archive-match: PROVISION FOR MEDIA PRODUCTION TO DOCUMENT AND SHOWCASE ECO-INDUSTRIAL PARK TRANSFORMATION IN VIET NAM | UNGM Procurement | Viet Nam | https://www.ungm.org/Public/Notice/303532
 - no-archive-match: Development of Technical Documentation for the Public Key Infrastructure (PKI) | World Bank Procurement Notices | Jamaica | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00449205
 - no-archive-match: Consultancy to Prepare the Comparative Assessment Report on the Impact of the New Labour Force Survey Instrument on Key Labour Market Indicators | World Bank Procurement Notices | Grenada | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451894
 - no-archive-match: Public Expenditure and Institutional Reviews | World Bank Procurement Notices | South Africa | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450547
 - no-archive-match: Cybersecurity Specialist | World Bank Procurement Notices | Philippines | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452355
 - no-archive-match: Technical Assistance for Institutional Development Support for the RPUC to Strengthen Key Utility Functions | World Bank Procurement Notices | Mauritius | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451739
-- no-archive-match: Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar | TED EU Tenders | Germany | https://ted.europa.eu/en/notice/-/detail/411975-2026
+- no-archive-match: Supply and Delivery of Printed Learning Materials for ECCDE | World Bank Procurement Notices | Eswatini | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451132
+- no-archive-match: Supply and Delivery of Indoor Materials for Additional ECCDE Grade Zero Classrooms | World Bank Procurement Notices | Eswatini | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451134
+- no-archive-match: Supply, Delivery and Installation of Desktops and Printers for Phase 2 | World Bank Procurement Notices | Eswatini | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451136
 
 Fichier brut: `ops/scrapbot-codex-probe.json`
