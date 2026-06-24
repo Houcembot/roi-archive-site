@@ -1,17 +1,17 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-23T18:39:32+00:00
+Genere: 2026-06-24T08:46:03+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 21 requetes, 1 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
 
 ## Resultat
-- Candidats lus: 79
-- Likely fit: 9
+- Candidats lus: 82
+- Likely fit: 13
 - A revoir: 9
-- Rejetes: 61
+- Rejetes: 60
 - Offres publiees dans le HUD: 5
 
 ## Top offres publiees / compatibles
@@ -27,17 +27,29 @@ Genere: 2026-06-23T18:39:32+00:00
 - Archive: VR / simulation / laboratoire virtuel
 - Extrait: Specific Procurement Notice Request for Bids Goods (One-Envelope Bidding Process) Country: Kenya Name of Project: Kenya Digital Economy Acceleration Project Contract Title: Supply, Delivery, Installation and Commissioning of Virtual Laboratory (VR) Equipment for Simulation-Based Training in TVETs Institutions Loan No./Credit No./ Grant No.: 7289-KE and 7290-KE RFB Reference No.: KE-ICTA-553315-GO-RFB 1. The Governmen
 
-### Germany – Research and development services and related consultancy services – [FoUnD-VR] Research Platform for Investigating Disinformation in Virtual Reality / Forschungsplattform zur Untersuchung von Desinformation in der virtuellen Realität
-- Source: TED EU Tenders | Pays: Germany | Deadline: 2026-06-24 | Score: 81 | publiee
-- URL: https://ted.europa.eu/en/notice/-/detail/298854-2026
-- Archive: VR / simulation / laboratoire virtuel
-- Extrait: Germany – Research and development services and related consultancy services – [FoUnD-VR] Research Platform for Investigating Disinformation in Virtual Reality / Forschungsplattform zur Untersuchung von Desinformation in der virtuellen Realität The research program “Research Platform for the Investigation of Disinformation in Virtual Reality” (FoUnD-VR) aims to create a platform (e.g. XR test environment) for researc
-
 ### Request for proposals – Digital Heritage & Interactive Media Production for Mar Mikhael Train Station – Beirut, Lebanon
 - Source: UNGM Procurement | Pays: Lebanon | Deadline: 2026-07-01 | Score: 63 | publiee
 - URL: https://www.ungm.org/Public/Notice/304000
 - Archive: Scan 3D / patrimoine / viewer
 - Extrait: Request for proposals – Digital Heritage & Interactive Media Production for Mar Mikhael Train Station – Beirut, Lebanon 01-Jul-2026 18:00 (GMT 3.00) UNESCO Request for proposal RFP No BEI-2026-003 Lebanon
+
+### Photography and video production company/team to produce photos and video footage for the International Labour Organization
+- Source: UNGM Procurement | Pays: Japan | Deadline: 2026-07-08 | Score: 60 | publiee
+- URL: https://www.ungm.org/Public/Notice/305111
+- Archive: Animation 3D / personnage
+- Extrait: Photography and video production company/team to produce photos and video footage for the International Labour Organization 08-Jul-2026 10:30 (GMT 2.00) ILO Request for quotation rfx_7370_ROAP Japan
+
+### Ireland – Motion picture and video production services – Provision of TV and Video Production Services
+- Source: TED EU Tenders | Pays: Ireland | Deadline: 2026-06-30 | Score: 59 | non publiee
+- URL: https://ted.europa.eu/en/notice/-/detail/350216-2026
+- Archive: Animation 3D / personnage
+- Extrait: Ireland – Motion picture and video production services – Provision of TV and Video Production Services Rásaíocht Con Éireann(RCÉ) /Greyhound Racing Ireland (GRI) invites tender submissions from interested parties for the provision of TV and Video Production Services in the areas listed in paragraph 2 – Specification. This Invitation to Tender (ITT) forms part of a tender process. It is advised that you read this docu
+
+### North Macedonia – Motion picture and video production services – Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government
+- Source: TED EU Tenders | Pays: North Macedonia | Deadline: 2026-07-09 | Score: 59 | non publiee
+- URL: https://ted.europa.eu/en/notice/-/detail/405939-2026
+- Archive: Animation 3D / personnage
+- Extrait: North Macedonia – Motion picture and video production services – Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government Government of the Republic of North Macedonia - General secre
 
 ### Two CT simulators, 3D scanning water phantom & dosimetry equipment
 - Source: UNGM Procurement | Pays: Ukraine | Deadline: 2026-07-17 | Score: 53 | non publiee
@@ -56,6 +68,12 @@ Genere: 2026-06-23T18:39:32+00:00
 - URL: https://ted.europa.eu/en/notice/-/detail/397749-2026
 - Archive: VR / simulation / laboratoire virtuel
 - Extrait: Germany – Environmental engineering consultancy services – Rahmenvertrag Visualisierung 2027-2030 Die Bundesgesellschaft für Endlagerung mbH (BGE) nutzt zunehmend digitale 3D Modelle von bestehenden technischen Anlagen, Bauwerken und Infrastruktur (Verkehrswege, Medienleitungen) ihrer Betriebsstätten und Tageanlagen zu unterschiedlichen Zwecken. Zu diesen Anwendungsfällen zählen: Visualisierung in frühen Bauphasen zu
+
+### Hungary – Computer equipment and supplies – Relaunch: VR Laboratory for Moldova
+- Source: TED EU Tenders | Pays: Hungary | Deadline: 2026-07-31 | Score: 45 | non publiee
+- URL: https://ted.europa.eu/en/notice/-/detail/431682-2026
+- Archive: VR / simulation / laboratoire virtuel
+- Extrait: Hungary – Computer equipment and supplies – Relaunch: VR Laboratory for Moldova The EU4Security Moldova project aims to enhance law‑enforcement capabilities by providing hardware and software to establish a virtual reality laboratory at the police academy in the Republic of Moldova. This procedure is a relaunch of the previous procedure CEPOL/2025/OP/0018, because the contract implementation failed. European Union Ag
 
 ### Germany – Video equipment – Medientechnik & Systemintegration für Neugestaltung Bundesliga-Bereich
 - Source: TED EU Tenders | Pays: Germany | Deadline: 2026-07-08 | Score: 42 | non publiee
