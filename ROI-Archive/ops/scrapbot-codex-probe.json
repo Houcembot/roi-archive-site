@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T09:20:05+00:00",
+  "generatedAt": "2026-06-25T11:27:08+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -52,11 +52,11 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 84.6,
-  "totalCandidates": 78,
+  "durationSeconds": 97.26,
+  "totalCandidates": 77,
   "summary": {
     "likely_fit": 13,
-    "review": 9,
+    "review": 8,
     "reject": 56
   },
   "items": [
@@ -136,7 +136,6 @@
       "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451397",
       "matchedTerms": [
         "simulation",
-        "training",
         "virtual reality"
       ],
       "titleSignals": [
@@ -824,49 +823,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00451910",
-      "title": "HEMIS Higher Education Information Management System",
-      "country": "Gambia, The",
-      "projectCountry": "Gambia, The",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "17-Jun-2026",
-      "deadline": "2026-07-24",
-      "project": "The Gambia Resilience, Inclusion, Skills, and Equity Project",
-      "buyer": "Central Project Coordinating Unit",
-      "contactEmail": "ataal@cpcumof.gm",
-      "reference": "GM-CPCU - MOFEA-547147-NC-RFP",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451910",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [
-        "software_data: information management system"
-      ],
-      "bodySignals": [
-        "software_data: information management system, information system, management information system"
-      ],
-      "segmentSignals": [
-        "formation: education, skills, training",
-        "rnd: information management system, information system"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "information management system",
-        "information system",
-        "management information system",
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 1,
-      "bodySignalCount": 3,
-      "excerpt": "Specific Procurement Notice – Request for Proposals without Prequalification Request for Proposal Information Systems (Design, Supply and Installation) (Without Prequalification) Purchaser : Government of The Gambia Project : The Gambia, Resilience, Inclusive, Skills and Equity Project (RISE) Contract title : Procurement of Higher Education Management Information System (HEMIS) Country : The Gambia RFP No: GM-CPCU - MOFEA-547147-NC-RFP Issued on: 17th June 2026 1. The Government of The Gambia has received financing from the World Bank toward the cost of The Gambia Resilience, Inclusive, Skills and Equity Project (P179233) and intends to apply part of the proceeds toward payments under the contract [1]for Comprehensive Higher Education Management Information System (HEMIS). This system will serve as a comprehensive digital transformation platform and turnkey solution to modernize all MoHE",
-      "probeScore": 42,
-      "probeDecision": "review",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "TED-406080-2026",
       "title": "Ireland – Miscellaneous evaluation or testing instruments – UL1066 Lot 1 Mobile Robot Motion Capture System, Lot 2 Compact Autonomous Surface Vehicle (ASV) for Hydrographic Survey Unmanned Surface Vehicle (ASV) to the University of Limerick",
       "country": "Ireland",
@@ -1210,6 +1166,46 @@
       "probeDecision": "review"
     },
     {
+      "id": "OP00453514",
+      "title": "Aquisição de uma Plataforma de Ensino a Distância",
+      "country": "Angola",
+      "projectCountry": "Angola",
+      "noticeType": "Invitation for Bids",
+      "noticeDate": "24-Jun-2026",
+      "deadline": "2026-07-23",
+      "project": "Human Resources capacity for Universal Health Coverage in Angola",
+      "buyer": "Ministry of Health, National Directorate of Public Health, Municipal Health Service Strengthening",
+      "contactEmail": "procurement@pfrhs.minsa.gov.ao",
+      "reference": "PFRHS-AO/S-012",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453514",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [
+        "digital_learning: e-learning, learning platform",
+        "software_data: software"
+      ],
+      "segmentSignals": [
+        "formation: e-learning",
+        "rnd: software"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "e-learning",
+        "software"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 3,
+      "excerpt": "REQUEST FOR BIDS - NON-CONSULTING SERVICES PUBLIC INTERNATIONAL PROCUREMENT RFB - PFRHS-AO/S-012 Procurement of an E-learning Platform (Two envelope process) Employer: The Government of Angola through the Ministry of Health Name of Project: Human Resource Capacity for Universal Health Coverage in Angola Contract title: Procurement of an E-learning Platform Country: Angola Loan No.: 9562 -AO RFB No: PFRHS-AO/S-012 Issued on: June 3rd of 2026 1. The Government of Angola through the Ministry of Health has received financing from the World Bank toward the cost of the Human Resource Capacity for Universal Health Coverage in Angola and intends to apply part of the proceeds toward payments under the contract [1]for Procurement of an E-learning Platform. 2. The Ministry of Health now invites sealed Bids from eligible Bidders for the procurement of specialized services for the implementation of a",
+      "probeScore": 30,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
       "id": "OP00453235",
       "title": "Consultancy Services for the improvement of teacher deployments",
       "country": "Malawi",
@@ -1461,45 +1457,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00451894",
-      "title": "Consultancy to Prepare the Comparative Assessment Report on the Impact of the New Labour Force Survey Instrument on Key Labour Market Indicators",
-      "country": "Grenada",
-      "projectCountry": "OECS Countries",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "17-Jun-2026",
-      "deadline": "2026-07-03",
-      "project": "OECS Data for Decision Making (DDM) Project",
-      "buyer": "Project Coordination Unit - Ministry of Finance",
-      "contactEmail": "tiffany.charles@cso.gov.gd",
-      "reference": "GD-PCU - GRENADA-555350-CS-INDV",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451894",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [
-        "software_data: software"
-      ],
-      "segmentSignals": [
-        "formation: curriculum, training",
-        "rnd: software"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "software",
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 1,
-      "excerpt": "ing and application of the assessment findings. 4. Deliverables The Consultant will be required to deliver: Inception Note; Draft Comparative Assessment Report; Presentation of Draft Findings; Final Comparative Assessment Report; Knowledge-Sharing Session and Training Materials. 5. Qualifications and Experience Interested Consultants should possess: • Master’s degree in statistics, economics, demography, labour economics, survey methodology, or a related field; • At least seven (7) years of relevant professional experience in labour force statistics, household surveys, official statistics, or related analytical work; including demonstrated experience in the analysis and interpretation of labour force survey data and familiarity with ILO concepts and labour market indicators. • Proven experience in preparing analytical or assessment reports of a similar nature and complexity; • Demonstrat",
-      "probeScore": 18,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "OP00450547",
       "title": "Public Expenditure and Institutional Reviews",
       "country": "South Africa",
@@ -1574,46 +1531,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00451739",
-      "title": "Technical Assistance for Institutional Development Support for the RPUC to Strengthen Key Utility Functions",
-      "country": "Mauritius",
-      "projectCountry": "Mauritius",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "17-Jun-2026",
-      "deadline": "2026-07-06",
-      "project": "Rodrigues Airport Project",
-      "buyer": "Airports of Mauritius Ltd",
-      "contactEmail": "gail.leongkye@arl.aero",
-      "reference": "MU-AML-544172-CS-QCBS",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451739",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [
-        "software_data: software"
-      ],
-      "segmentSignals": [
-        "formation: capacity building, training",
-        "rnd: software"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "capacity building",
-        "software",
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 1,
-      "excerpt": "f tariffs, with suggested options and timelines, and to ensure financial sustainability for the long-term. Support the water utility to develop and implement a GIS-based asset management system Establish an integrated billing, customer database and accounting software, which will allow for full billing of actual water consumption and separation of arrears from actual payment 4. DURATION OF THE ASSIGNMENT The duration of the assignment is 12 calendar months from the date of contract signature. 5. TERMS OF REFERENCE The detailed Terms of Reference (TOR) for the assignment can be obtained at the following links: https://aml.mru.aero/index.php/business/rap and Airport of Rodrigues Ltd. 6. INVITATION TO EXPRESS INTEREST The Airports of Mauritius Co. Ltd now invites eligible consulting firms (“Consultants”) to express their interest in providing the Services. Interested Consultants should prov",
-      "probeScore": 18,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "OP00453241",
       "title": "Consultancy Services for TA for Improved Teaching Content, Practices and Supervision System",
       "country": "Malawi",
@@ -1647,6 +1564,77 @@
       "titleSignalCount": 0,
       "bodySignalCount": 1,
       "excerpt": "services for Improved Teaching Content, Practices and Supervision System. The consulting services (“the Services”) will provide technical assistance (TA) to strengthen Continuous Professional Development (CPD), teacher supervision systems, pre-service teacher training, and quality assurance of literacy and numeracy curricula and Teaching and Learning Materials (TLMs) for P-Class and Standards 1–3. The assignment will involve: The consulting firm of education specialists with a team leader will undertake the following key tasks: Review and strengthen the CPD framework, content, procedures, and training materials for national, district, zonal, and school-level implementation. Develop innovative CPD approaches including e-CPD content and tracking system for teachers and teacher educators. Develop a comprehensive supervision system and school support tools including Teacher Observation Tool;",
+      "probeScore": 18,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00453521",
+      "title": "Conduct Market Analysis and Develop TOR to Propose Reforms to Improve DFS Accessibility",
+      "country": "Jamaica",
+      "projectCountry": "Jamaica",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "24-Jun-2026",
+      "deadline": "2026-07-08",
+      "project": "Digital Government Transformation for Jamaica",
+      "buyer": "Office of the Prime Minister - Information Communications Technology Authority",
+      "contactEmail": "peuprocurement@icta.gov.jm",
+      "reference": "FDGT/PG/CON/1.2",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453521",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [
+        "software_data: digital service"
+      ],
+      "segmentSignals": [
+        "formation: certification, skills",
+        "medical: diagnostic"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 1,
+      "excerpt": "(GOJ) recognizes that a prosperous Jamaican economy (Pillar 3) with empowered citizens (Pillar 1) requires a resilient, robust and efficient digital infrastructure, serving as the foundation for modern, digital government services. The build-out of a national digital service framework is essential to reposition government services around citizens’ needs - shifting from a model that requires citizens to come to government to one where government is digitally available anywhere, in a simplified, secured and accessible manner. In April 2024 the World Bank Group (WBG) conducted a Digital Economy Assessment (DEA) of Jamaica’s digital landscape. The purpose of the DEA was to identify gaps and make recommendations on policy, strategic and operational issues across Six (6) pillars; digital infrastructure, digital public platforms, digital financial services, digital businesses, digital skills an",
+      "probeScore": 18,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00453516",
+      "title": "Feasibility Study on Government Digital Payment Services",
+      "country": "Jamaica",
+      "projectCountry": "Jamaica",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "24-Jun-2026",
+      "deadline": "2026-07-08",
+      "project": "Digital Government Transformation for Jamaica",
+      "buyer": "Office of the Prime Minister - Information Communications Technology Authority",
+      "contactEmail": "peuprocurement@icta.gov.jm",
+      "reference": "FDGT/PG/CON/1.4",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453516",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [
+        "software_data: digital service"
+      ],
+      "segmentSignals": [
+        "formation: skills"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 1,
+      "excerpt": "(GOJ) recognizes that a prosperous Jamaican economy (Pillar 3) with empowered citizens (Pillar 1) requires a resilient, robust and efficient digital infrastructure, serving as the foundation for modern, digital government services. The build-out of a national digital service framework is essential to reposition government services around citizens’ needs - shifting from a model that requires citizens to come to government to one where government is digitally available anywhere, in a simplified, secured and accessible manner. In April 2024 the World Bank Group (WBG) conducted a Digital Economy Assessment (DEA) of Jamaica’s digital landscape. The purpose of the DEA was to identify gaps and make recommendations on policy, strategic and operational issues across Six (6) pillars; digital infrastructure, digital public platforms, digital financial services, digital businesses, digital skills an",
       "probeScore": 18,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -1692,6 +1680,41 @@
       "excerpt": "Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar Die Techniker Krankenkasse (TK) ist seit vielen Jahren im Bereich der internationalen Beschäftigung aktiv und unterstützt Unternehmen beim Onboarding internationaler Mitarbeitender - insbesondere bei Fragen zur Sozialversicherung. Expatriates, die zum Arbeiten nach Deutschland kommen, können sich zudem bei der TK zu vielfältigen Fragestellungen rund um ihre Migration nach Deutschland informieren, darunter insbesondere: - gesetzliche Krankenversicherung und Sozialversicherung in Deutschland, - grundlegende Abläufe im deutschen Gesundheitswesen, - sozialversicherungsrechtliche Besonderheiten bei internationalen Beschäftigungsverhältnissen. - ergänzende Informationen rund um den Erwerbsmigrationsprozess . Seit dem Jahr 2025 können Fragen an nicht-generative Avatare gerichtet wer",
       "probeScore": 18,
       "probeDecision": "reject"
+    },
+    {
+      "id": "OP00453358",
+      "title": "Organization and Delivery of I_CAN Training Program Sessions No. 1–6 in Odesa",
+      "country": "Ukraine",
+      "projectCountry": "Ukraine",
+      "noticeType": "Invitation for Bids",
+      "noticeDate": "24-Jun-2026",
+      "deadline": "2026-07-03",
+      "project": "Center for Advancement in Restoration and Modernization Capacity",
+      "buyer": "Kyiv School of Economics Institute",
+      "contactEmail": "procurements.kse@gmail.com",
+      "reference": "NCS-RFQ-2.5-7",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453358",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: training"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "SPECIFIC PROCUREMENT NOTICE Request for Quotations Country: Ukraine Name of Project: Center for Advancement in Restoration and Modernization Capacity Project Contract Title: Organization and Delivery of I_CAN Training Program Sessions No. 1–6 in Odesa Grant No.: TF0C4831 RFB Reference No.: NCS-RFQ-2.5-7 1. The International Bank for Reconstruction and Development, the International Development Association (the World Bank) and Kyiv School of Economics Institute (KSEI) have signed the Grant Agreement No. TF0C4831 dated May 7, 2024, in an amount not to exceed three million two hundred twelve thousand United States Dollars (USD 3,212,000) for the Project ‘Center for Advancement in Restoration and Modernization Capacity (CARMC)’ (hereinafter referred to as the I_CAN Project). The KSEI is the implementing entity for the Project. A portion of these funds is intended to cover expenditures under",
+      "probeScore": 15,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
     },
     {
       "id": "OP00452909",
@@ -2023,41 +2046,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00451706",
-      "title": "FAD Development and Management Plans",
-      "country": "Micronesia, Federated States of",
-      "projectCountry": "Micronesia, Federated States of",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "16-Jun-2026",
-      "deadline": "2026-07-03",
-      "project": "Pacific Islands Regional Oceanscape Program - Second Phase for Economic Resilience: Federated States",
-      "buyer": "National Oceanic Resource Management Authority",
-      "contactEmail": "camille.inatio@norma.fm",
-      "reference": "FM-NORMA-539886-CS-INDV",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451706",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: curriculum, training"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "ement plans, each accompanied by a detailed implementation plan inclusive of budgets and capacity-building needs; facilitation of state-level and national validation workshops to review and finalize draft plans based on stakeholder feedback; identification of training needs, development of training materials, and conduct of initial training sessions for fisheries agency staff and community stakeholders; and cross-state coordination to ensure consistency and harmonization across all four plans. Key deliverable include an Inception Report; a Comparative Situational Analysis Report; Stakeholder Consultation Reports; four Draft aFAD Development and Management Plans; four Training Reports; a Coordination and Harmonization Note; and a Final Report. The estimated level of effort is approximately 145-150 working days, including two mandatory in-country visits to the Federated States of Micronesi",
-      "probeScore": 13,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "OP00452982",
       "title": "consultancy services for Development and implementation of a capacity building program on the data protection and privacy act, cap.97.",
       "country": "Uganda",
@@ -2223,6 +2211,41 @@
       "titleSignalCount": 0,
       "bodySignalCount": 0,
       "excerpt": "subject to performance appraisal, under a Lump Sum Contract with payments linked to deliverables. The Consultant will commence in Q3 2026 and will work on a hybrid basis (remotely and in South Tarawa). QUALIFICATIONS a) Essential A recognized qualification in Training and Assessment, Vocational Education and Training (VET/TVET), Adult Education, Instructional Design, or a related field. Demonstrated experience in curriculum development and the design of competency-based teaching, learning, and assessment resources. Minimum 5–7 years of relevant professional experience in vocational education, workforce capability development, or technical training delivery. Demonstrated experience developing practical and industry-relevant training materials, including session plans, assessment tools, participant resources, and PowerPoint presentations. Experience mentoring trainers and supporting traini",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00453424",
+      "title": "International Consultancy' Company for Designing , Implementing and Organizing Teacher’s Training Program",
+      "country": "North Macedonia",
+      "projectCountry": "North Macedonia",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "24-Jun-2026",
+      "deadline": "2026-07-08",
+      "project": "Second Social Services Improvement Project",
+      "buyer": "Ministry of Labor and Social Policy",
+      "contactEmail": "sanja.andovska@mtsp.gov.mk",
+      "reference": "MK-MLSP-444003-CS-QCBS-2.2.1",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453424",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: education, skills, training"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "Request for Expressions of Interest for Design, Delivery and Implementation of a Modular Training for Preschool Teachers on Early Reading and Numeracy Skills Development Ref.no. MK/SSIP II # 2.2.1 Republic of North Macedonia Second Social Services Improvement Project (SSIP II) IBRD Loan No. 96330-MK Project ID No. P180350 Consulting Services: Design, Delivery and Implementation of a Modular Training for Preschool Teachers on Early Reading and Numeracy Skills Development Expressions of Interest The Government of the Republic of North Macedonia (GOM) and the International Bank for Reconstruction and Development (IBRD) have signed a Loan Agreement for the implementation of the Second Social Services Improvement Project (SSIP II). The development objective of the SSIP II Project is to expand access to and improve the quality of Early Childhood Education and Care (ECEC) services through inves",
       "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -2828,82 +2851,6 @@
       "titleSignalCount": 1,
       "bodySignalCount": 1,
       "excerpt": "REQUEST FOR EXPRESSIONS OF INTEREST Country: Republic of Tajikistan Project: One Health for Pandemic Prevention Food Systems Resilience and Ecosystem Health in Central Asia Grant No.: E452-TJ Assignment Title: Consultant for the assessment in supporting the digitalization of the data and information management systems of CFS (including LIMS, surveillance systems) Reference No. (as per Procurement Plan): OHP/CS/ICS-2026/02 1. The Republic of Tajikistan has received financing from the International Development Association and International Bank for Reconstruction and Development toward the cost of the One Health for Pandemic Prevention Food Systems Resilience and Ecosystem Health in Central Asia and intends to apply part of the proceeds for consulting services. 2. The detailed Terms of Reference (TOR) for the assignment can be found at the following website: https://edavlat.tj/uploads/2026",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00451939",
-      "title": "Social Safeguards Officer",
-      "country": "St. Lucia",
-      "projectCountry": "Caribbean",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "17-Jun-2026",
-      "deadline": "2026-07-06",
-      "project": "Caribbean Resilient  Renewable Energy Infrastructure Investment Facility",
-      "buyer": "Ministry of Physical Development and Public utilities",
-      "contactEmail": "kurt.inglis@govt.lc",
-      "reference": "LC-MIPPDUR-542528-CS-INDV",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451939",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [
-        "software_data: software"
-      ],
-      "segmentSignals": [
-        "formation: capacity building, curriculum, skills, training",
-        "rnd: software"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "capacity building",
-        "software",
-        "training"
-      ],
-      "offDomain": true,
-      "noiseTitle": true,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 1,
-      "excerpt": "ruments like those required under the ESSs. At least 5 years of experience in working with different stakeholders to lead in the preparation and participation in intersectoral consultations and systematization of information facilitation of workshops and ESSs training Ability to work in teams and communicate effectively; and demonstrated resourcefulness and initiative. Demonstrate relevant experience addressing social issues and responding to grievances; Knowledge and capacity in outreach and awareness/capacity building programs for governmental organizations, NGOs and/or local communities. Capacity to work simultaneously on a variety of issues and tasks, independently adjusting to priorities and achieving agreed objectives and deadlines. Demonstrate outstanding ability to communicate in written and spoken English and Kwéyòl; Be competent in the use of word processing software packages,",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00451742",
-      "title": "Technical Assistance for the Design and Supervision of Installation of Water Supply Telemetry Monitoring System at RPUC",
-      "country": "Mauritius",
-      "projectCountry": "Mauritius",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "17-Jun-2026",
-      "deadline": "2026-07-06",
-      "project": "Rodrigues Airport Project",
-      "buyer": "Airports of Mauritius Ltd",
-      "contactEmail": "gail.leongkye@arl.aero",
-      "reference": "MU-AML-532993-CS-INDV",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451742",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: training",
-        "rnd: automation"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": true,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "o ensure it complies with the technical specifications. The Consultant shall oversee the installation and assembly of the telemetry system and the set-up of the remote-control room at the location provided by the Client. The Contractor will provide on-the-job training to RPUC’s technical staffs during the supply, installation, testing, commissioning and operation of the new telemetry system. Document the full as-built system configuration, communication architecture, and equipment specifications. 4.0 TERMS OF REFERENCE The detailed Terms of Reference (TOR) for the assignment can be obtained from the websites of Airports of Mauritius Co. Ltd and Airports of Rodrigues Ltd at the following link: https://aml.mru.aero/index.php/business/rap and Airport of Rodrigues Ltd. 5.0 INVITATION TO EXPRESS INTEREST The Airports of Mauritius Co. Ltd now invites eligible candidates (“Consultants”) to indi",
       "probeScore": 0,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"

@@ -1,6 +1,6 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-25T09:20:05+00:00
+Genere: 2026-06-25T11:27:08+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
@@ -8,9 +8,9 @@ Genere: 2026-06-25T09:20:05+00:00
 - TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
 
 ## Resultat
-- Candidats lus: 78
+- Candidats lus: 77
 - Likely fit: 13
-- A revoir: 9
+- A revoir: 8
 - Rejetes: 56
 - Offres publiees dans le HUD: 5
 
@@ -89,7 +89,6 @@ Genere: 2026-06-25T09:20:05+00:00
 
 ## A revoir
 - Technical Assistance for CSO website upgrade, strategic communications, and outreach to support official statistics | World Bank Procurement Notices | St. Lucia | deadline 2026-07-01 | score 57 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451818
-- HEMIS Higher Education Information Management System | World Bank Procurement Notices | Gambia, The | deadline 2026-07-24 | score 42 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451910
 - Ireland – Miscellaneous evaluation or testing instruments – UL1066 Lot 1 Mobile Robot Motion Capture System, Lot 2 Compact Autonomous Surface Vehicle (ASV) for Hydrographic Survey Unmanned Surface Vehicle (ASV) to the University of Limerick | TED EU Tenders | Ireland | deadline 2026-07-02 | score 40 | https://ted.europa.eu/en/notice/-/detail/406080-2026
 - Austria – Photogrammetry services – Luftbildbefliegung Wien Nadir/Oblique 2026 | TED EU Tenders | Austria | deadline 2026-06-26 | score 35 | https://ted.europa.eu/en/notice/-/detail/408941-2026
 - Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF. | TED EU Tenders | Spain | deadline 2026-07-03 | score 35 | https://ted.europa.eu/en/notice/-/detail/379732-2026
@@ -99,17 +98,17 @@ Genere: 2026-06-25T09:20:05+00:00
 - Norway – Software package and information systems – Software licences and accompanying services. | TED EU Tenders | Norway | deadline 2026-08-10 | score 28 | https://ted.europa.eu/en/notice/-/detail/424712-2026
 
 ## Rejets utiles pour audit
+- no-archive-match: Aquisição de uma Plataforma de Ensino a Distância | World Bank Procurement Notices | Angola | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453514
 - no-archive-match: Consultancy Services for the improvement of teacher deployments | World Bank Procurement Notices | Malawi | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453235
 - no-archive-match: Consultancy Services for the measurement of improved foundational learning | World Bank Procurement Notices | Malawi | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453238
 - off-domain: Rehabilitation Works to WASH Facilities and Renovation of Virtual Reality Room at ESF - Jerusalem Area No.2 for Local Contractors only | UNGM Procurement | Palestine, State of | https://www.ungm.org/Public/Notice/304101
 - no-archive-match: Consultancy Services for Indipendent Vrification of DLIs | World Bank Procurement Notices | Malawi | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453222
 - no-archive-match: procrument of Training Equipments and accessories of  Electrical Technology, Autotronics and EV and Hybrid  for various PTCs(Debremarkos  ,Ethio Itally,W/o Sihin,Harar and other collages) | World Bank Procurement Notices | Ethiopia | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450900
 - no-archive-match: Procrument of Training Equipments and accessories of Manufacturing and Industrial Automation, ICT and Welding PTCs(Entoto,Axum ,,Harar and other collages) | World Bank Procurement Notices | Ethiopia | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451715
-- no-archive-match: Consultancy to Prepare the Comparative Assessment Report on the Impact of the New Labour Force Survey Instrument on Key Labour Market Indicators | World Bank Procurement Notices | Grenada | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451894
 - no-archive-match: Public Expenditure and Institutional Reviews | World Bank Procurement Notices | South Africa | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450547
 - no-archive-match: Cybersecurity Specialist | World Bank Procurement Notices | Philippines | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452355
-- no-archive-match: Technical Assistance for Institutional Development Support for the RPUC to Strengthen Key Utility Functions | World Bank Procurement Notices | Mauritius | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451739
 - no-archive-match: Consultancy Services for TA for Improved Teaching Content, Practices and Supervision System | World Bank Procurement Notices | Malawi | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453241
-- no-archive-match: Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar | TED EU Tenders | Germany | https://ted.europa.eu/en/notice/-/detail/411975-2026
+- no-archive-match: Conduct Market Analysis and Develop TOR to Propose Reforms to Improve DFS Accessibility | World Bank Procurement Notices | Jamaica | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453521
+- no-archive-match: Feasibility Study on Government Digital Payment Services | World Bank Procurement Notices | Jamaica | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453516
 
 Fichier brut: `ops/scrapbot-codex-probe.json`
