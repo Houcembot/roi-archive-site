@@ -1,16 +1,16 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-25T15:42:00+00:00
+Genere: 2026-06-25T17:49:22+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 21 requetes, 1 erreur(s)
 
 ## Resultat
-- Candidats lus: 77
+- Candidats lus: 76
 - Likely fit: 13
-- A revoir: 8
+- A revoir: 7
 - Rejetes: 56
 - Offres publiees dans le HUD: 5
 
@@ -95,7 +95,6 @@ Genere: 2026-06-25T15:42:00+00:00
 - Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF. | TED EU Tenders | Spain | deadline 2026-07-20 | score 35 | https://ted.europa.eu/en/notice/-/detail/422270-2026
 - Netherlands – Photogrammetry services – Geografisch beeldmateriaal en bijbehorende dienstverlening | TED EU Tenders | Netherlands | deadline 2026-08-28 | score 35 | https://ted.europa.eu/en/notice/-/detail/357749-2026
 - Norway – Boats – P1223 - Navigation training vessels - Pre-Qualification Phase | TED EU Tenders | Norway | deadline 2026-07-06 | score 30 | https://ted.europa.eu/en/notice/-/detail/375497-2026
-- Norway – Software package and information systems – Software licences and accompanying services. | TED EU Tenders | Norway | deadline 2026-08-10 | score 28 | https://ted.europa.eu/en/notice/-/detail/424712-2026
 
 ## Rejets utiles pour audit
 - no-archive-match: Aquisição de uma Plataforma de Ensino a Distância | World Bank Procurement Notices | Angola | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453514
