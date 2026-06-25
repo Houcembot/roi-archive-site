@@ -1,6 +1,6 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-24T08:46:03+00:00
+Genere: 2026-06-25T09:20:05+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
@@ -8,10 +8,10 @@ Genere: 2026-06-24T08:46:03+00:00
 - TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
 
 ## Resultat
-- Candidats lus: 82
+- Candidats lus: 78
 - Likely fit: 13
 - A revoir: 9
-- Rejetes: 60
+- Rejetes: 56
 - Offres publiees dans le HUD: 5
 
 ## Top offres publiees / compatibles
@@ -99,17 +99,17 @@ Genere: 2026-06-24T08:46:03+00:00
 - Norway – Software package and information systems – Software licences and accompanying services. | TED EU Tenders | Norway | deadline 2026-08-10 | score 28 | https://ted.europa.eu/en/notice/-/detail/424712-2026
 
 ## Rejets utiles pour audit
-- off-domain: PR and Strategic Communications Support for the INSON Project | World Bank Procurement Notices | Uzbekistan | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446445
+- no-archive-match: Consultancy Services for the improvement of teacher deployments | World Bank Procurement Notices | Malawi | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453235
+- no-archive-match: Consultancy Services for the measurement of improved foundational learning | World Bank Procurement Notices | Malawi | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453238
 - off-domain: Rehabilitation Works to WASH Facilities and Renovation of Virtual Reality Room at ESF - Jerusalem Area No.2 for Local Contractors only | UNGM Procurement | Palestine, State of | https://www.ungm.org/Public/Notice/304101
+- no-archive-match: Consultancy Services for Indipendent Vrification of DLIs | World Bank Procurement Notices | Malawi | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453222
 - no-archive-match: procrument of Training Equipments and accessories of  Electrical Technology, Autotronics and EV and Hybrid  for various PTCs(Debremarkos  ,Ethio Itally,W/o Sihin,Harar and other collages) | World Bank Procurement Notices | Ethiopia | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450900
 - no-archive-match: Procrument of Training Equipments and accessories of Manufacturing and Industrial Automation, ICT and Welding PTCs(Entoto,Axum ,,Harar and other collages) | World Bank Procurement Notices | Ethiopia | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451715
-- no-archive-match: Development of Technical Documentation for the Public Key Infrastructure (PKI) | World Bank Procurement Notices | Jamaica | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00449205
 - no-archive-match: Consultancy to Prepare the Comparative Assessment Report on the Impact of the New Labour Force Survey Instrument on Key Labour Market Indicators | World Bank Procurement Notices | Grenada | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451894
 - no-archive-match: Public Expenditure and Institutional Reviews | World Bank Procurement Notices | South Africa | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450547
 - no-archive-match: Cybersecurity Specialist | World Bank Procurement Notices | Philippines | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452355
 - no-archive-match: Technical Assistance for Institutional Development Support for the RPUC to Strengthen Key Utility Functions | World Bank Procurement Notices | Mauritius | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451739
+- no-archive-match: Consultancy Services for TA for Improved Teaching Content, Practices and Supervision System | World Bank Procurement Notices | Malawi | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453241
 - no-archive-match: Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar | TED EU Tenders | Germany | https://ted.europa.eu/en/notice/-/detail/411975-2026
-- no-archive-match: Procurement of Training Bag | World Bank Procurement Notices | Bangladesh | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452909
-- no-archive-match: Procurement of Ultrasound Doppler - 4788 units (Batch 2) | World Bank Procurement Notices | Indonesia | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452677
 
 Fichier brut: `ops/scrapbot-codex-probe.json`
