@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T07:56:32+00:00",
+  "generatedAt": "2026-06-26T10:04:02+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -52,12 +52,12 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 99.16,
-  "totalCandidates": 78,
+  "durationSeconds": 118.57,
+  "totalCandidates": 75,
   "summary": {
     "likely_fit": 14,
-    "review": 7,
-    "reject": 57
+    "review": 8,
+    "reject": 53
   },
   "items": [
     {
@@ -75,8 +75,7 @@
       "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452214",
       "matchedTerms": [
         "AR VR",
-        "simulation",
-        "training"
+        "simulation"
       ],
       "titleSignals": [
         "digital_learning: training equipment"
@@ -838,49 +837,6 @@
       "probeDecision": "likely_fit"
     },
     {
-      "id": "OP00451818",
-      "title": "Technical Assistance for CSO website upgrade, strategic communications, and outreach to support official statistics",
-      "country": "St. Lucia",
-      "projectCountry": "OECS Countries",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "17-Jun-2026",
-      "deadline": "2026-07-01",
-      "project": "OECS Data for Decision Making (DDM) Project",
-      "buyer": "Ministry of Finance, Economic Development and Youth Economy",
-      "contactEmail": "sean.mathurin@govt.lc",
-      "reference": "SLU-DDM-TACOMM-CQS-26",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451818",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [
-        "creative_comm: strategic communications, website upgrade"
-      ],
-      "bodySignals": [
-        "creative_comm: communication strategy, strategic communication, strategic communications, website upgrade"
-      ],
-      "segmentSignals": [
-        "formation: training",
-        "rnd: research"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "communication strategy",
-        "strategic communication",
-        "training",
-        "website upgrade"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 2,
-      "bodySignalCount": 4,
-      "excerpt": "REQUEST FOR EXPRESSIONS OF INTEREST SAINT LUCIA Assignment Title: Consultancy to Support the Central Statistics Office to Institutionalise Strategic Communication of Official Statistics (Technical Assistance for CSO website upgrade, strategic communications, and outreach to support official statistics) Reference No.: SLU-DDM-TACOMM-CQS-26 The Government of Saint Lucia has received financing from the World Bank toward the cost of the OECS Data for Decision Making Project and intends to apply part of the proceeds for consulting services. The consulting services (“the Services”) are intended to support the Central Statistics Office (CSO) to institutionalise strategic communication of official statistics and to modernise the CSO website. The assignment will support the CSO’s strategic advocacy and communication endeavour to promote the availability of and access to its statistical products a",
-      "probeScore": 57,
-      "probeDecision": "review",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "TED-406080-2026",
       "title": "Ireland – Miscellaneous evaluation or testing instruments – UL1066 Lot 1 Mobile Robot Motion Capture System, Lot 2 Compact Autonomous Surface Vehicle (ASV) for Hydrographic Survey Unmanned Surface Vehicle (ASV) to the University of Limerick",
       "country": "Ireland",
@@ -935,6 +891,50 @@
       "probeDecision": "review"
     },
     {
+      "id": "OP00453808",
+      "title": "Consultancy on Climate Change Simulation Models development to assess impacts on Crop Productivity, Pasture Conditions, and Transboundary Pest Outbreaks",
+      "country": "Djibouti",
+      "projectCountry": "Eastern and Southern Africa",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "25-Jun-2026",
+      "deadline": "2026-07-10",
+      "project": "Food Systems Resilience Program for Eastern and Southern Africa",
+      "buyer": "Intergovernmental Authority on Development",
+      "contactEmail": "senait.regassa@igad.int",
+      "reference": "DJ-IGAD-556148-CS-INDV",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453808",
+      "matchedTerms": [
+        "simulation",
+        "training"
+      ],
+      "titleSignals": [
+        "3d_vr: simulation"
+      ],
+      "bodySignals": [
+        "3d_vr: simulation",
+        "software_data: geospatial",
+        "creative_comm: documentary"
+      ],
+      "segmentSignals": [
+        "formation: capacity building, curriculum, skills, training",
+        "animation: simulation"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "capacity building",
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 1,
+      "bodySignalCount": 3,
+      "excerpt": "t (Consulting Services – Individual Consultant Selection) Name of project: FOOD SYSTEMS RESILIENCE PROGRAM FOR EASTERN AND SOUTHERN AFRICA-Additional Financing (FSRP-AF) Project No.: (P178566) Grant No: TF-D0339 Assignment Title: Consultancy on Climate Change Simulation Models development to assess impacts on Crop Productivity, Pasture Conditions, and Transboundary Pest Outbreaks Contract No.: DJ-IGAD-556148-CS-INDV The Intergovernmental Authority on Development (IGAD) has received additional financing from International Development Agency (IDA) the Food systems resilience program for Eastern and Southern Africa Phase 1 to scale-up Digital Agro-Climate Advisory Services and intends to apply part of the proceeds of this Grant to payments under this contract: Consultancy on Climate Change Simulation Models development to assess impacts on Crop Productivity, Pasture Conditions, and Transbou",
+      "probeScore": 40,
+      "probeDecision": "review",
+      "source": "World Bank Procurement Notices"
+    },
+    {
       "id": "TED-379732-2026",
       "title": "Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF.",
       "country": "Spain",
@@ -981,6 +981,49 @@
       "excerpt": "Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF. El fondo histórico de fotografía aérea del CETFA está integrado por aproximadamente 28.000 imágenes, entre negativos, contactos y copias en positivo, que cubren un amplio periodo temporal comprendido entre las décadas de 1940 y 1990. Este conjunto documental constituye un activo patrimonial de extraordinario valor, cuya adecuada conservación, digitalización, ortorrectificación y puesta a disposición de la ciudadanía y del tejido empresarial resulta prioritaria y urgente. Estas imágenes representan una memoria territorial única e irreemplazable, y aportan una evidencia esencial para múltiples ámbitos de interés público, como el urbanismo, el catastr",
       "probeScore": 35,
       "probeDecision": "review"
+    },
+    {
+      "id": "OP00447675",
+      "title": "Consulting services for the development of teaching and learning materials (TLM)  for the first cycle of study at the level of upper secondary education (10th grade)",
+      "country": "Ukraine",
+      "projectCountry": "Ukraine",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "25-Jun-2026",
+      "deadline": "2026-07-10",
+      "project": "Lifting Education Access and Resilience in times of Need in Ukraine Program",
+      "buyer": "Ministry of Education and Science of Ukraine",
+      "contactEmail": "kateryna.kovtun@mon.gov.ua",
+      "reference": "LEARN-1.1-TLM10",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00447675",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [
+        "digital_learning: teaching and learning materials"
+      ],
+      "bodySignals": [
+        "digital_learning: teaching and learning materials",
+        "software_data: software"
+      ],
+      "segmentSignals": [
+        "formation: curriculum, education, teaching and learning materials, training",
+        "rnd: software"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "software",
+        "teaching and learning materials",
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 1,
+      "bodySignalCount": 2,
+      "excerpt": "FOR EXPRESSIONS OF INTEREST (CONSULTING SERVICES - FIRMS SELECTION) Country: Ukraine Name of Project: Lifting Education Access and Resilience in Times of Need in Ukraine Program Grant No.: TF0C5794 Assignment Title: Consulting services for the development of teaching and learning materials (TLM) for the first cycle of study at the level of upper secondary education (10th grade) Reference No . (as per Procurement Plan): LEARN-1.1-TLM 10 The objectives of the LEARN are: to (i) improve teaching and learning conditions; and (ii) to strengthen the management capacity of the education system. The total financing for the Operation is US$451 million using a combination of the World Bank's financial instruments: Program-for-Results (PforR) complemented by Investment Project Financing (IPF). The MoES intends to apply part of the grant proceeds to eligible payments for consulting services for whic",
+      "probeScore": 35,
+      "probeDecision": "review",
+      "source": "World Bank Procurement Notices"
     },
     {
       "id": "TED-422270-2026",
@@ -1391,27 +1434,69 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00450900",
-      "title": "procrument of Training Equipments and accessories of  Electrical Technology, Autotronics and EV and Hybrid  for various PTCs(Debremarkos  ,Ethio Itally,W/o Sihin,Harar and other collages)",
-      "country": "Ethiopia",
-      "projectCountry": "Ethiopia",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "17-Jun-2026",
+      "id": "OP00453898",
+      "title": "Hiring of an Individual Consultant to Evaluate the Installed Continuously Operating Reference Station (CORS) for the Sierra Leone Land Administration Project (SLLAP).",
+      "country": "Sierra Leone",
+      "projectCountry": "Sierra Leone",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "25-Jun-2026",
       "deadline": "2026-07-27",
-      "project": "Ethiopia Education and Skills for Employability Project",
-      "buyer": "Ministry of Labor and Skill",
-      "contactEmail": "haftomease@gmail.com",
-      "reference": "ET-MOLS-556238-GO-RFB",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450900",
+      "project": "Sierra Leone Land Administration Project",
+      "buyer": "Ministry of Lands Housing and Country Planning",
+      "contactEmail": "alphajohcham@yahoo.com",
+      "reference": "SL-MLHCP-557138-CS-INDV",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453898",
       "matchedTerms": [
         "training"
       ],
       "titleSignals": [],
       "bodySignals": [
-        "digital_learning: training equipment"
+        "software_data: information system, management information system"
       ],
       "segmentSignals": [
-        "formation: education, skills, training, training equipment"
+        "formation: capacity building",
+        "rnd: information system"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "capacity building",
+        "information system",
+        "management information system"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 2,
+      "excerpt": "Commission and District Land Commissions. The project will finance the required buildings, equipment, operational support, and capacity building. Further, the project supports legal land sector reforms. Component 2 finances the establishment of a digital Land Management Information System (LMIS), including the design of the system and ICT infrastructure and digitization of paper-based land records. Component 3 finances the demarcation and recording of customary land rights in rural areas and supports the land title transaction system in the Western Area, including Freetown. The project will also finance a modern geodetic network to facilitate surveying work. Component 4 finances all project management-related aspects, and Component 5 is a Contingency Emergency Response Component. The Ministry of Lands, Housing and Country Planning and the National Land Commission through SLLAP has instal",
+      "probeScore": 23,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00446595",
+      "title": "Procurement of autoclaves for medical waste treatment to replace outdated equipment",
+      "country": "Kosovo",
+      "projectCountry": "Kosovo",
+      "noticeType": "Invitation for Bids",
+      "noticeDate": "25-Jun-2026",
+      "deadline": "2026-06-30",
+      "project": "KOMPAS - Kosovo Comprehensive Approach to Health System Strengthening",
+      "buyer": "Ministry of Health",
+      "contactEmail": "fanol.duli@rks-gov.net",
+      "reference": "XK-MOH-1.3.3D-GO-RFB",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00446595",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [
+        "3d_vr: 3d"
+      ],
+      "segmentSignals": [
+        "formation: training",
+        "animation: 3d",
+        "medical: medical"
       ],
       "archiveMatches": [],
       "genericOnlyHits": [
@@ -1422,7 +1507,7 @@
       "archiveCapabilityCount": 0,
       "titleSignalCount": 0,
       "bodySignalCount": 1,
-      "excerpt": "Specific Procurement Notice Request for Bids Goods (Two-Envelope Bidding Process) Country: Ethiopia Name of Project: Education and Skills for Employment Project (EASE) Contract Title: Procurement of Training Equipment’s and accessories of Electrical Technology, Autotronics and EV and Hybrid for various PTCs (Debre Markos, Ethio Itally,W/ro Sihin, Harar and other collages) Loan No./Credit No./ Grant No.: IDA-74200 RFB Reference No.: ET-MOLS-556238-GO-RFB Issue date: June 18 The Federal Democratic Republic of Ethiopia has received financing from the World Bank toward the cost of the Education for Skills and Employment (EASE), and intends to apply part of the proceeds toward payments under the contract for procurement of Procurement of Training Equipment’s and accessories of Electrical Technology, Autotronics and EV and Hybrid for various PTCs( Debre Markos ,Ethio Itally,W/ro Sihin, Harar a",
+      "excerpt": "Project: Kosovo Comprehensive Approach to Health System Strengthening Project (KOMPAS) Contract Title: Procurement of Autoclaves for Medical Waste Treatment to Replace Outdated Equipment Loan No./Credit No./ Grant No.: _IDA 75410 RFB Reference No.: XK-MoH-1.3.3d-GO-RFB Issued on: 22 May 2026 The Republic of Kosovo has received financing from the World Bank toward the cost of the Kosovo Comprehensive Approach to Health System Strengthening Project (KOMPAS) and intends to apply part of the proceeds toward payments under the contract for Procurement of Autoclaves for Medical Waste Treatment to Replace Outdated . The autoclaves are intended for safe treatment of infectious healthcare waste using high-temperature steam sterilization technology at 130–140°C, in compliance with EN 285 or equivalent international standards, including integrated or externally coupled shredding systems and fully a",
       "probeScore": 20,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -1441,7 +1526,6 @@
       "reference": "ET-MOLS-556244-GO-RFB",
       "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451715",
       "matchedTerms": [
-        "training",
         "video production"
       ],
       "titleSignals": [],
@@ -1463,6 +1547,83 @@
       "bodySignalCount": 1,
       "excerpt": "Specific Procurement Notice Request for Bids Goods (Two-Envelope Bidding Process) Country: Ethiopia Name of Project: Education and Skills for Employment Project (EASE) Contract Title: Procurement of Training Equipment’s and accessories of Manufacturing and Industrial Automation, ICT and Welding PTCs (Entoto, Axum, Harar and Akaki colleges) Loan No./Credit No./ Grant No.: IDA-74200 RFB Reference No.: ET-MOLS-556244-GO-RFB Issue date: June 18 The Federal Democratic Republic of Ethiopia has received financing from the World Bank toward the cost of the Education for Skills and Employment (EASE), and intends to apply part of the proceeds toward payments under the contract for procurement of Procurement of Training Equipment’s and accessories of Manufacturing and Industrial Automation, ICT and Welding PTCs (Entoto, Axum, Harar and other collages) The Ministry of Labor and Skills now invites se",
       "probeScore": 20,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00453626",
+      "title": "Monitoring & Evaluation Specialist",
+      "country": "Pakistan",
+      "projectCountry": "Pakistan",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "25-Jun-2026",
+      "deadline": "2026-06-30",
+      "project": "Sindh Early Learning Enhancement through Classroom Transformation",
+      "buyer": "Reform Support Unit, Education & Literacy Dept., Govt. of Sindh",
+      "contactEmail": "junaidcpmrsu@gmail.com",
+      "reference": "PK-RSU-SINDH-550135-CS-INDV",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453626",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [
+        "creative_comm: documentary"
+      ],
+      "segmentSignals": [
+        "formation: certification, curriculum, education, skills"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 1,
+      "excerpt": "local university, duly recognized by the Higher Education Commission (HEC) of Pakistan. · Certification/Diploma in Educational Leadership and Management or any other relevant discipline shall be accorded due weightage. Experience · At least five (05) years of documentary verifiable experience, after acquiring stipulated qualifications, in monitoring/evaluation of education sector/ human development programmes/projects. · Demonstrated experience in: o developing logical framework, o sampling design, o conducting assessments and surveys, o data quality assessments and oversight, o managing and providing training to partners if required, o facilitating and serving as the project liaison for externally managed evaluations. · Preferred: eight (08) or more years of relevant experience in the afore-mentioned areas. Skills · Ability to apply good judgement in the context of given assignments. ·",
+      "probeScore": 18,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00453622",
+      "title": "Assessment Specialist Consultant - C1",
+      "country": "Pakistan",
+      "projectCountry": "Pakistan",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "25-Jun-2026",
+      "deadline": "2026-06-30",
+      "project": "Sindh Early Learning Enhancement through Classroom Transformation",
+      "buyer": "Reform Support Unit, Education & Literacy Dept., Govt. of Sindh",
+      "contactEmail": "junaidcpmrsu@gmail.com",
+      "reference": "PK-RSU-SINDH-549934-CS-INDV",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453622",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [
+        "software_data: software"
+      ],
+      "segmentSignals": [
+        "formation: curriculum, education, skills, training",
+        "rnd: research, software"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "data analytics",
+        "software",
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 1,
+      "excerpt": "cational Assessment, Measurement and Evaluation, Statistics, Social Sciences, Public Policy, Development Studies, or other related disciplines from a foreign or local university duly recognized by the Higher Education Commission (HEC) of Pakistan. Specialized training, certifications, or advanced academic qualifications in educational assessment, learning measurement, monitoring and evaluation, data analytics, or related fields will be considered an added advantage. Minimum ten (10) years of relevant professional experience in education assessment, learning measurement, large-scale surveys, or related educational research and evaluation assignments. The candidate should possess demonstrated experience in the design, implementation, supervision, and quality assurance of Early Grade Reading Assessments (EGRA) or similar learning assessment programs, with strong expertise in sampling method",
+      "probeScore": 18,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
     },
@@ -1499,43 +1660,6 @@
       "titleSignalCount": 0,
       "bodySignalCount": 1,
       "excerpt": "ning access, capital and O&M costs, and financing requirements.. Climate resilience costs explicitly incorporated. Financing scenarios matching public and private sources to coverage scenarios. Government consensus workshop for preferred scenario selection. A simulation tool (WSS- SSST) developed by the World Bank can be utilized for this component; National WASH Investment Programme (NWIP): Costed, time-bound NWIP based on the preferred scenario. Covers 0-5, 5-10, and long-term phases. Integrates gender equity, social inclusion, and climate resilience. Includes public expenditure, financing scenarios to bridge the financing gap, institutional, regulatory, and private sector reform recommendations. The plan must be aligned with the Presidential Compact and existing sector investment frameworks to ensure consistency and avoid duplication of efforts. Formal presentation to the ministry req",
-      "probeScore": 18,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00452355",
-      "title": "Cybersecurity Specialist",
-      "country": "Philippines",
-      "projectCountry": "Philippines",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "19-Jun-2026",
-      "deadline": "2026-07-06",
-      "project": "Philippines Digital Infrastructure Project",
-      "buyer": "Department of Information and Communications Technology",
-      "contactEmail": "bac.secretariat@dict.gov.ph",
-      "reference": "PH-DICT-557476-CS-INDV",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452355",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [
-        "software_data: data visualization"
-      ],
-      "segmentSignals": [
-        "formation: curriculum, education, skills, training"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 1,
-      "excerpt": "experience in developing and implementing cybersecurity policies, frameworks, and technical solutions. Proficient in conducting cybersecurity assessments and designing strategies to mitigate risks. Proven track record in designing and delivering cybersecurity training programs. Experience in promoting gender inclusivity in technical fields, particularly in cybersecurity. Strong ability to analyze complex cybersecurity challenges and develop innovative solutions. Proficient in data analysis, data visualization, and the use of cybersecurity tools and technologies. Strong interpersonal skills with the ability to work collaboratively with diverse stakeholders. Excellent communication skills in English, both written and spoken. ACADEMIC QUALIFICATIONS AND EXPERIENCE University and/or master’s degree in cybersecurity, computer science, information technology, or a related field. A minimum of t",
       "probeScore": 18,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -1692,6 +1816,46 @@
       "probeDecision": "reject"
     },
     {
+      "id": "OP00451739",
+      "title": "Technical Assistance for Institutional Development Support for the RPUC to Strengthen Key Utility Functions",
+      "country": "Mauritius",
+      "projectCountry": "Mauritius",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "25-Jun-2026",
+      "deadline": "2026-07-14",
+      "project": "Rodrigues Airport Project",
+      "buyer": "Airports of Mauritius Ltd",
+      "contactEmail": "gail.leongkye@arl.aero",
+      "reference": "MU-AML-544172-CS-QCBS",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451739",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [
+        "software_data: software"
+      ],
+      "segmentSignals": [
+        "formation: capacity building, training",
+        "rnd: software"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "capacity building",
+        "software",
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 1,
+      "excerpt": "f tariffs, with suggested options and timelines, and to ensure financial sustainability for the long-term. Support the water utility to develop and implement a GIS-based asset management system Establish an integrated billing, customer database and accounting software, which will allow for full billing of actual water consumption and separation of arrears from actual payment 4. DURATION OF THE ASSIGNMENT The duration of the assignment is 12 calendar months from the date of contract signature. 5. TERMS OF REFERENCE The detailed Terms of Reference (TOR) for the assignment can be obtained at the following links: https://aml.mru.aero/index.php/business/rap and Airport of Rodrigues Ltd. 6. INVITATION TO EXPRESS INTEREST The Airports of Mauritius Co. Ltd now invites eligible consulting firms (“Consultants”) to express their interest in providing the Services. Interested Consultants should prov",
+      "probeScore": 18,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
       "id": "OP00453358",
       "title": "Organization and Delivery of I_CAN Training Program Sessions No. 1–6 in Odesa",
       "country": "Ukraine",
@@ -1797,42 +1961,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00450598",
-      "title": "Consultancy Service for Basin level study for strategic study basins to identify and prioritise physical flood risk reduction investments, and feasibility study for prioritized investments (2 basins-Abay and Baro-Akobo)",
-      "country": "Ethiopia",
-      "projectCountry": "Ethiopia",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "17-Jun-2026",
-      "deadline": "2026-06-29",
-      "project": "Ethiopia Flood Management Project",
-      "buyer": "Ministry of Water and Energy",
-      "contactEmail": "mamushketema9200@gmail.com",
-      "reference": "ET-MOWE-411804-CS-QCBS",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450598",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: capacity building, training"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "capacity building",
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "ments and a roadmap for advancing prioritized flood risk reduction investments. KEY DELIVERABLES AND INDICATIVE TIMING: The key deliverables include the Final Inception Report including methodology, work plan, stakeholder engagement plan, data assessment, and training plan (1.5 months); Draft Interim Package covering Data Audit, Analysis and Survey, and Hydrological and Hydraulic Modeling and Hazard Mapping Reports (4–5.5 months); Options Identification and Selection Report including recommended concept design (7.75 months); and Investment Framework Application Report together with Draft Feasibility Study and Concept Design Report, Final Feasibility and Design Package, Final Training and Capacity Building Report, and Providing all data, models, GIS layers, and related outputs (10–13 months). SCOPE OF SERVICES: The scope of the service is to conduct a comprehensive basin-level study, with",
-      "probeScore": 13,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "OP00451640",
       "title": "DGB/Recrutement d’un(e) consultant(e) pour l’élaboration de la stratégie sectorielle et du Cadre de Dépenses à Moyen Terme (CDMT) pour le secteur de l'Environnement",
       "country": "Haiti",
@@ -1890,6 +2018,42 @@
       "titleSignalCount": 0,
       "bodySignalCount": 0,
       "excerpt": "hes de gestion axée sur les résultats et de la budgétisation par programme ; - Expérience dans l’élaboration de stratégies sectorielles et/ou de CDMT sectoriels ; - Bonne connaissance du contexte institutionnel et administratif haïtien ; - Capacités avérées d’animation d’ateliers et de travail participatif. 7. Modalités de soumission Les candidats intéressés devront soumettre : - Un CV détaillé et actualisé ; - Une note méthodologique présentant la compréhension de la mission, l’approche proposée et le calendrier indicatif ; - Une offre financière ; - Des références professionnelles pertinentes et exemples de travaux similaires.",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00453616",
+      "title": "Training Specialist- C3",
+      "country": "Pakistan",
+      "projectCountry": "Pakistan",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "25-Jun-2026",
+      "deadline": "2026-06-30",
+      "project": "Sindh Early Learning Enhancement through Classroom Transformation",
+      "buyer": "Reform Support Unit, Education & Literacy Dept., Govt. of Sindh",
+      "contactEmail": "junaidcpmrsu@gmail.com",
+      "reference": "PK-RSU-SINDH-550133-CS-INDV",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453616",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: capacity building, curriculum, education, skills"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "capacity building",
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "Education & Literacy Department (SE&LD), Government of Sindh now invites eligible individuals to express their interest in providing the aforementioned services. Interested individual consultants must provide: Position Qualification Experience No. of Post (s) Training Specialist- C3 At least a Bachelor’s degree (Graduation) from a foreign or local university duly recognized by the Higher Education Commission (HEC) of Pakistan. Preference will be given to candidates possessing relevant experience in the education sector and/or public sector projects, which will be considered an added advantage. Minimum three (03) years of relevant professional experience in system implementation and operational support, training planning, coordination and field execution, capacity building, and stakeholder engagement. Experience in education sector initiatives and/or public sector projects will be conside",
       "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -2092,39 +2256,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00451931",
-      "title": "Recrutement d'un cabinet pour la formation des cadres du MASSAH sur le management et la gestion.",
-      "country": "Congo, Republic of",
-      "projectCountry": "Congo, Republic of",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "17-Jun-2026",
-      "deadline": "2026-07-06",
-      "project": "Social Protection and Youth Productive Inclusion Project",
-      "buyer": "CG - LISUNGI - Safety Nets Projects",
-      "contactEmail": "angakegni@yahoo.fr",
-      "reference": "CG-PSIPJ-234-SC-SFQC-2026",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451931",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: formation"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "République du Congo Projet de Protection Sociale, d’Inclusion Productive Des Jeunes (PSIPJ) Numéro du Crédit : IDA N° 71140 Intitulé de la Mission : Recrutement d’un cabinet de formation des cadres du Ministère en charge des affaires sociales sur le management et la gestion 1- La République du Congo a bénéficié d’un crédit IDA/Banque Mondiale pour financer le Projet de Protection Sociale et d’Inclusion Productive des Jeunes, PSIPJ en sigle. L’objectif de développement du PSIPJ est de fournir une aide d’urgence aux ménages touchés par la crise sanitaire et économique provoquée par la COVID-19 et d’accroître l’accès des ménages et des jeunes pauvres et vulnérables aux filets sociaux dans les zones d’intervention du projet. Le projet comprend quatre (4) composantes actives : (i) expansion du programme Lisungi pour le relèvement (composante 2) ; (ii) renforcement du système de protection soc",
-      "probeScore": 13,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "OP00452930",
       "title": "Assistance Technique pour l'élaboration du Plan de Gestion des Déchets des équipements Electriques et Electroniques du Projet de Transformation Numérique (PTN)",
       "country": "Congo, Democratic Republic of",
@@ -2261,72 +2392,67 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00452269",
-      "title": "Individual consultancy to design the curriculum of the regional women's leadership institute and the Regional STEM skills Accelerator Institute",
-      "country": "Zambia",
-      "projectCountry": "Eastern and Southern Africa",
+      "id": "OP00453150",
+      "title": "CONSULTANCY SERVICES FOR THE RECRUITMENT OF  A GENDER-BASED VIOLENCE SPECIALIST FOR GALOP/STARR-J",
+      "country": "Ghana",
+      "projectCountry": "Ghana",
       "noticeType": "Request for Expression of Interest",
-      "noticeDate": "19-Jun-2026",
-      "deadline": "2026-07-08",
-      "project": "Accelerating Sustainable & Clean Energy Access Transformation Program Using the Multiphase Programma",
-      "buyer": "COMESA",
-      "contactEmail": "S.Mwesigwa@comesa.int",
-      "reference": "ZM-COMESA -555290-CS-INDV",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452269",
+      "noticeDate": "25-Jun-2026",
+      "deadline": "2026-07-09",
+      "project": "Ghana Accountability for Learning Outcomes Project",
+      "buyer": "Ghana Accountability for Learning Outcomes Project",
+      "contactEmail": "arshad6115@gmail.com",
+      "reference": "MOE/GALOP/CS/5/2026",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453150",
       "matchedTerms": [
         "training"
       ],
       "titleSignals": [],
       "bodySignals": [],
       "segmentSignals": [
-        "formation: curriculum, education, skills, training"
+        "formation: curriculum, education"
       ],
       "archiveMatches": [],
-      "genericOnlyHits": [
-        "training"
-      ],
+      "genericOnlyHits": [],
       "offDomain": false,
       "noiseTitle": false,
       "archiveCapabilityCount": 0,
       "titleSignalCount": 0,
       "bodySignalCount": 0,
-      "excerpt": "years of demonstrated experience in promoting women in leadership roles, particularly in male-dominated sectors such as energy, engineering, or STEM fields. 10 5 Proven track record in successfully designing and implementing impactful and trackable leadership training programs and technical education initiatives that prepare women for senior management or decision-making roles. 15 6 Experience with the development of leadership institutes and STEM related institutes in Eastern and Southern Africa region 15 7 Experience working on energy projects, including renewable energy (solar, wind), energy distribution networks, or hybrid systems, with a focus on project design, implementation, and management 10 8 Experience integrating gender perspectives into technical solutions or collaborating with gender experts on engineering projects 10 Total 100 Note: The minimum technical score (St) require",
+      "excerpt": "MINISTRY OF EDUCATION REQUEST FOR EXPRESSIONS OF INTEREST (REOI) GHANA ACCOUNTABILITY FOR LEARNING OUTCOMES PROJECT (GALOP) PROJECT ID: 165557 PROCUREMENT OF CONSULTANCY SERVICES - INDIVIDUAL CONSULTANTS BACKGROUND The Government of Ghana, under World Bank and Global Partnership for Education (GPE) funding, is supporting the government’s education strategic plan to improve equitable access to quality basic education in Ghana. The Ghana Accountability for Learning Outcomes Project (GALOP), approved for an amount of USD 218.7 million, has the Project Development Objective (PDO) to improve the quality of education in low-performing basic education schools and to strengthen education sector equity and accountability in Ghana. The GALOP was originally implemented over a five-year period from Jan 2020 to Dec 2024. However, the parent project has been extended to close by 31st December 2026 and",
       "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00451356",
-      "title": "Recruitment of a Contract Manager for the Technical Implementation Unit",
-      "country": "Sao Tome and Principe",
-      "projectCountry": "Sao Tome and Principe",
+      "id": "OP00453143",
+      "title": "CONSULTANCY SERVICES FOR THE RECRUITMENT OF A SOCIAL DEVELOPMENT SPECIALIST FOR GALOP/STARR-J",
+      "country": "Ghana",
+      "projectCountry": "Ghana",
       "noticeType": "Request for Expression of Interest",
-      "noticeDate": "18-Jun-2026",
+      "noticeDate": "25-Jun-2026",
       "deadline": "2026-07-09",
-      "project": "Access to Clean Resilient Electricity under the ASCENT Regional Program - Multi Programmatic Approac",
-      "buyer": "Project Fiduciary and Administrative Agency",
-      "contactEmail": "helio.almeida@afap.st",
-      "reference": "53/C/ACRE/2026",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451356",
+      "project": "Ghana Accountability for Learning Outcomes Project",
+      "buyer": "Ghana Accountability for Learning Outcomes Project",
+      "contactEmail": "arshad6115@gmail.com",
+      "reference": "MOE/GALOP/CS/6/2026",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453143",
       "matchedTerms": [
         "training"
       ],
       "titleSignals": [],
       "bodySignals": [],
       "segmentSignals": [
-        "formation: capacity building, skills, training"
+        "formation: curriculum, education"
       ],
       "archiveMatches": [],
-      "genericOnlyHits": [
-        "capacity building",
-        "training"
-      ],
+      "genericOnlyHits": [],
       "offDomain": false,
       "noiseTitle": false,
       "archiveCapabilityCount": 0,
       "titleSignalCount": 0,
       "bodySignalCount": 0,
-      "excerpt": "in Sub-Saharan African countries 5 Technical Experience Demonstrated experience in procurement or management of works and supply contracts, with knowledge of FIDIC standards 20 Experience in power sector projects 5 Capacity Building Demonstrated experience in training, mentoring, or knowledge transfer in a project or institutional context 10 Interpersonal Skills Strong interpersonal and communication skills, and ability to work in a multinational and multidisciplinary environment 5 Digital Skills Proficiency in MS Office, Teams, Zoom, and related tools 5 Language Skills Fluency in Portuguese; basic English and/or French is an advantage 5 TOTAL 100 Candidates must achieve a minimum score of 75 points to proceed to the interview stage. Note: AFAP reserves it’s right to verify submitted references and use obtained information for evaluation purposes. The attention of interested Consultants",
+      "excerpt": "MINISTRY OF EDUCATION REQUEST FOR EXPRESSIONS OF INTEREST (REOI) GHANA ACCOUNTABILITY FOR LEARNING OUTCOMES PROJECT (GALOP) PROJECT ID: 165557 PROCUREMENT OF CONSULTANCY SERVICES - INDIVIDUAL CONSULTANTS BACKGROUND The Government of Ghana, under World Bank and Global Partnership for Education (GPE) funding, is supporting the government’s education strategic plan to improve equitable access to quality basic education in Ghana. The Ghana Accountability for Learning Outcomes Project (GALOP), approved for an amount of USD 218.7 million, has the Project Development Objective (PDO) to improve the quality of education in low-performing basic education schools and to strengthen education sector equity and accountability in Ghana. The GALOP was originally implemented over a five-year period from Jan 2020 to Dec 2024. However, the parent project has been extended to close by 31st December 2026 and",
       "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -2363,6 +2489,39 @@
       "titleSignalCount": 0,
       "bodySignalCount": 0,
       "excerpt": "egrate and visualize outputs from WRF, HYPE, and impact-based forecasting systems. Establish GIS-based dashboards and visualization tools for decision-makers and stakeholders. Ensure role-based access control, sustainability, and national scalability. Provide training, capacity building, and two-year post-deployment technical support. KEY DELIVERABLES AND INDICATIVE TIMING: The key deliverables include an Inception Report and prototype (Week 2), Needs Assessment Report (Month 2), FRS, SRS, and data integration protocols (Month 4), Draft GIS-enabled Web Portal (Month 6), and a fully tested and deployed Web Portal with training, manuals, national rollout roadmap, and Final Consultancy Report (Month 12). Post-deployment, the Consultant shall provide two (2) years of maintenance and technical support. SCOPE OF SERVICES: The scope of the services is to assess institutional & technical require",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00453591",
+      "title": "Mapping and Diagnostic Study of Medical Services as a potential export sector of the Republic of Moldova",
+      "country": "Moldova",
+      "projectCountry": "Moldova",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "25-Jun-2026",
+      "deadline": "2026-07-10",
+      "project": "MSME Competitiveness Project",
+      "buyer": "Project Implementation Unit of the Competitiveness Enhancement Project",
+      "contactEmail": "piu@mded.gov.md",
+      "reference": "MD-CEP-542547-CS-CQS",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453591",
+      "matchedTerms": [
+        "video production"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "medical: diagnostic, medical, patient"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "REQUEST FOR EXPRESSIONS OF INTEREST CONSULTING SERVICES - Mapping and Diagnostic Study of Medical Services as a Potential Export Sector of the Republic of Moldova REPUBLIC OF MOLDOVA MICRO, SMALL AND MEDIUM-SIZED ENTERPRISES COMPETITIVENESS PROJECT Sector: General industry and trade sector IDA Credit No. 71740 IBRD Loan No. 94230 Project ID No. P177895 Reference No. MD-CEP-542547-CS-CQS The Republic of Moldova has received financing from the World Bank toward the cost of the Micro, Small and Medium-Sized Enterprise Competitiveness Project (MSME) and intends to apply part of the proceeds for consulting services. The consulting services (“the Services”) include the delivery a comprehensive, credible, and evidence-based mapping and diagnostic assessment of the export of medical services from the Republic of Moldova. The assignment will be performed in a period of four (4) months from contra",
       "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -2431,42 +2590,6 @@
       "excerpt": "Multimedia Production Services for ZACH- UNDP Field Documentation Mission 29-Jun-2026 03:00 (GMT -4.00) UNDP Call for individual consultants UNDP-ZWE-01837 Zimbabwe",
       "probeScore": 2,
       "probeDecision": "reject"
-    },
-    {
-      "id": "OP00436650",
-      "title": "Consultancy Service for Basin level study for strategic study basins to identify and prioritize physical flood risk reduction investments, feasibility study, and detailed design for prioritized investments (2 basins-Genalle-Dawa and Wabishebele)",
-      "country": "Ethiopia",
-      "projectCountry": "Ethiopia",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "18-Jun-2026",
-      "deadline": "2026-06-29",
-      "project": "Ethiopia Flood Management Project",
-      "buyer": "Ministry of Water and Energy",
-      "contactEmail": "mamushketema9200@gmail.com",
-      "reference": "ET-MOWE-522455-CS-QCBS",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00436650",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: capacity building, training"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "capacity building",
-        "training"
-      ],
-      "offDomain": true,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "lood Risk Reduction Options Assessment, Conceptual Design, Hydraulic Modeling and Hazard Mapping Reports (Month 10); Feasibility Study and Draft Detailed Design Reports (Month 12); Final Detailed Design Package, Environmental and Social Safeguard Instruments, Training and Capacity Building Outputs, and Final Consolidated Report (Month 15); and final handover of all data, models, and quality-assured outputs upon completion. SCOPE OF SERVICES: The scope of the service is to conduct the Feasibility Study and prepare the Detailed Design for flood risk reduction and related infrastructure in the Wabisheble and Genale Dawa Basins, in accordance with national and international standards, including those of the World Bank, while integrating environmental and social considerations such as ecological impacts, community livelihoods, resettlement, and gender and social inclusion. ESTIMATED PERSON MO",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
     },
     {
       "id": "TED-359639-2026",
@@ -2608,59 +2731,26 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00452155",
-      "title": "Consulting Services to Develop the Liberia National Industrial Policy (LNIP) 2026-2036.",
-      "country": "Liberia",
-      "projectCountry": "Liberia",
+      "id": "OP00453659",
+      "title": "New Investment and Business Development Specialist",
+      "country": "West Bank and Gaza",
+      "projectCountry": "West Bank and Gaza",
       "noticeType": "Request for Expression of Interest",
-      "noticeDate": "18-Jun-2026",
-      "deadline": "2026-07-03",
-      "project": "Liberia Investment, Finance and Trade Project",
-      "buyer": "Ministry of Commerce and Industry",
-      "contactEmail": "jsayekehnel-lift@moci.gov.lr",
-      "reference": "LR-MOCI-549141-CS-CQS",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452155",
+      "noticeDate": "25-Jun-2026",
+      "deadline": "2026-07-05",
+      "project": "Finance for Jobs III",
+      "buyer": "DAI Global, LLC",
+      "contactEmail": "Sanaa_Shawer@dai.com",
+      "reference": "GZ-DAI GLOBAL-557826-CS-INDV",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453659",
       "matchedTerms": [
         "training"
       ],
       "titleSignals": [],
       "bodySignals": [],
       "segmentSignals": [
-        "medical: diagnostic"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": true,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "oughout the policy implementation process. 6. Capacity Building and Technical Assistance: Institutional Strengthening: Recommend strategies for strengthening the capacity of industrial-related institutions to manage and facilitate Industries effectively. Such training should include education or vocational programs that equip the workforce with the needed skills that align with specific industry needs. Training Programs: Develop training programs and knowledge transfer session for implementing ministries and agencies, including local industries on new industrial practices, digital industrial platform/ tools, and compliance with international industrial regulations. 7. Final Reporting and Policy Handover: Comprehensive Final Report: Deliver a comprehensive final report that includes the developed national Industrial Policy, implementation action plan, monitoring and evaluation framework,",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00451837",
-      "title": "Consulting Services for establishing a cross-sectoral data exchange on outbreaks and climate-related risks for inclusion in the online platform being developed for the National One Health Coordination Structure",
-      "country": "Tajikistan",
-      "projectCountry": "Central Asia",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "17-Jun-2026",
-      "deadline": "2026-07-03",
-      "project": "One Health for Pandemic Prevention, Food Systems Resilience, and Ecosystem Health in Central Asia",
-      "buyer": "State Institution “Agriculture Entrepreneurship Development” Project Management Unit",
-      "contactEmail": "procurement.ohp@gmail.com",
-      "reference": "OHP/CS/CQS-2026/09",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451837",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: training",
-        "medical: veterinary"
+        "formation: skills, training",
+        "rnd: research"
       ],
       "archiveMatches": [],
       "genericOnlyHits": [
@@ -2671,46 +2761,7 @@
       "archiveCapabilityCount": 0,
       "titleSignalCount": 0,
       "bodySignalCount": 0,
-      "excerpt": "ide information demonstrating that they have the required qualifications and relevant experience to perform the Services. The criteria for selecting the Consultant are: - The consulting firm shall be legally registered and authorized to provide consulting and training services in the Republic of Tajikistan; - The consulting firm shall have at least five (5) years of experience in providing consulting services related to digital health surveillance, public health, veterinary services, food safety, or environmental management; - Successfully completed at least one (1) similar assignment during the last five (5) years involving the data-sharing mechanisms, and/or institutional, regulatory, or governance frameworks, including the preparation of technical concepts, SOPs, or operational guidelines; - Familiarity with the regulatory and institutional framework of the Republic of Tajikistan rele",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00451843",
-      "title": "Consulting Services for development of Infection Preventation and Control Standard Operating Procedures (SOPs) for priority pathogens and conducting cascade training for the One Health Workforce",
-      "country": "Tajikistan",
-      "projectCountry": "Central Asia",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "17-Jun-2026",
-      "deadline": "2026-07-03",
-      "project": "One Health for Pandemic Prevention, Food Systems Resilience, and Ecosystem Health in Central Asia",
-      "buyer": "State Institution “Agriculture Entrepreneurship Development” Project Management Unit",
-      "contactEmail": "procurement.ohp@gmail.com",
-      "reference": "OHP/CS/CQS-2026/10",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451843",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [
-        "creative_comm: documentary"
-      ],
-      "segmentSignals": [
-        "formation: capacity building, training",
-        "medical: veterinary"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "capacity building",
-        "training"
-      ],
-      "offDomain": true,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 1,
-      "excerpt": "ention Food Systems Resilience and Ecosystem Health in Central Asia Grant No.: E452-TJ Assignment Title: Consulting Services for development of Infection Prevention and Control Standard Operating Procedures (SOPs) for priority pathogens and conducting cascade training for the One Health Workforce Reference No. (as per Procurement Plan): OHP/CS/CQS-2026/10 1. The Republic of Tajikistan has received financing from the International Development Association and International Bank for Reconstruction and Development toward the cost of the One Health for Pandemic Prevention Food Systems Resilience and Ecosystem Health in Central Asia and intends to apply part of the proceeds for consulting services. 2. The detailed Terms of Reference (TOR) for the assignment can be found at the following website: https://edavlat.tj//uploads/2026/6/17/b5a864eeef46566d2a7932382c935d8b_original.216547.pdf 3. The S",
+      "excerpt": "k affected by the current crisis, particularly in agribusiness, food processing, agriculture, input supply, import substitution, and light manufacturing. It aims to sustain businesses and protect jobs, with 40 SMEs supported so far. The DIB component includes training activities that require enhanced monitoring of social safeguards to ensure compliance with World Bank environmental and social standards. Objectives The Investment and Business Development Specialist will work with the F4J team to build a pipeline of sound investment projects and SMEs (under ICF &ERP) that have substantial economic and social impact on society and follow up on their implementation and performance. Main Tasks & Responsibilities Follow up with ongoing beneficiary SMEs to collect required supporting documents and data. Conduct site visits to beneficiary SMEs to verify implementation progress and ensure proper",
       "probeScore": 0,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -2787,85 +2838,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00451995",
-      "title": "Consulting services for the capacity building of veterinary personnel on prevention, detection, and response to priority zoonotic diseases",
-      "country": "Tajikistan",
-      "projectCountry": "Central Asia",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "18-Jun-2026",
-      "deadline": "2026-07-06",
-      "project": "One Health for Pandemic Prevention, Food Systems Resilience, and Ecosystem Health in Central Asia",
-      "buyer": "State Institution “Agriculture Entrepreneurship Development” Project Management Unit",
-      "contactEmail": "aedpmu@gmail.com",
-      "reference": "OHP/CS/CQS-2026/07",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451995",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: capacity building, training",
-        "medical: veterinary"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "capacity building",
-        "training"
-      ],
-      "offDomain": true,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "ide information demonstrating that they have the required qualifications and relevant experience to perform the Services. The criteria for selecting the Consultant are: - The consulting firm shall be legally registered and authorized to provide consulting and training services in the Republic of Tajikistan; - The consulting firm should have at least five (5) years of proven experience in delivering training and capacity-building activities, as well as providing monitoring and assessment services in the fields of public health, veterinary health or agriculture; - The consulting firm must successful completed at least two (2) similar contracts within the past five (5) years, preferably in the fields of public health, veterinary health or agriculture; - Demonstrated experience working with government institutions of the Republic of Tajikistan is required. Previous experience with projects f",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00452008",
-      "title": "Consultant for the assessment in supporting the digitalization of the data and information management systems of the Committee for food security including laboratory information management and surveillance systems",
-      "country": "Tajikistan",
-      "projectCountry": "Central Asia",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "18-Jun-2026",
-      "deadline": "2026-07-06",
-      "project": "One Health for Pandemic Prevention, Food Systems Resilience, and Ecosystem Health in Central Asia",
-      "buyer": "State Institution “Agriculture Entrepreneurship Development” Project Management Unit",
-      "contactEmail": "aedpmu@gmail.com",
-      "reference": "OHP/CS/ICS-2026/02",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452008",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [
-        "software_data: digitalization"
-      ],
-      "bodySignals": [
-        "software_data: digitalization"
-      ],
-      "segmentSignals": [
-        "formation: capacity building, skills, training",
-        "rnd: digitalization"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "capacity building",
-        "digitalization",
-        "training"
-      ],
-      "offDomain": true,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 1,
-      "bodySignalCount": 1,
-      "excerpt": "REQUEST FOR EXPRESSIONS OF INTEREST Country: Republic of Tajikistan Project: One Health for Pandemic Prevention Food Systems Resilience and Ecosystem Health in Central Asia Grant No.: E452-TJ Assignment Title: Consultant for the assessment in supporting the digitalization of the data and information management systems of CFS (including LIMS, surveillance systems) Reference No. (as per Procurement Plan): OHP/CS/ICS-2026/02 1. The Republic of Tajikistan has received financing from the International Development Association and International Bank for Reconstruction and Development toward the cost of the One Health for Pandemic Prevention Food Systems Resilience and Ecosystem Health in Central Asia and intends to apply part of the proceeds for consulting services. 2. The detailed Terms of Reference (TOR) for the assignment can be found at the following website: https://edavlat.tj/uploads/2026",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "TED-377046-2026",
       "title": "Czechia – Furniture – Zavedení virtuální reality do odborných učeben základních škol",
       "country": "Czechia",
@@ -2934,41 +2906,34 @@
       "probeDecision": "reject"
     },
     {
-      "id": "OP00452493",
-      "title": "Social Safeguards officer",
-      "country": "St. Lucia",
-      "projectCountry": "Caribbean",
+      "id": "OP00453139",
+      "title": "CONSULTANCY SERVICES FOR THE RECRUITMENT OF AN ENVIRONMENTAL SAFEGUARDS SPECIALIST FOR GALOP/STARR-J",
+      "country": "Ghana",
+      "projectCountry": "Ghana",
       "noticeType": "Request for Expression of Interest",
-      "noticeDate": "19-Jun-2026",
-      "deadline": "2026-07-10",
-      "project": "Caribbean Efficient and Green-Energy Buildings Project (CEGEB)",
-      "buyer": "Ministry of Infrastructure Ports Physical Development and Urban Renewal",
-      "contactEmail": "shurman.francis@govt.lc",
-      "reference": "LC-SLU MIPPDUR-556791-CS-INDV",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452493",
+      "noticeDate": "25-Jun-2026",
+      "deadline": "2026-07-09",
+      "project": "Ghana Accountability for Learning Outcomes Project",
+      "buyer": "Ghana Accountability for Learning Outcomes Project",
+      "contactEmail": "arshad6115@gmail.com",
+      "reference": "MOE/GALOP/CS/7/2026",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453139",
       "matchedTerms": [
         "training"
       ],
       "titleSignals": [],
-      "bodySignals": [
-        "software_data: software"
-      ],
+      "bodySignals": [],
       "segmentSignals": [
-        "formation: capacity building, curriculum, skills, training",
-        "rnd: software"
+        "formation: curriculum, education"
       ],
       "archiveMatches": [],
-      "genericOnlyHits": [
-        "capacity building",
-        "software",
-        "training"
-      ],
+      "genericOnlyHits": [],
       "offDomain": true,
       "noiseTitle": true,
       "archiveCapabilityCount": 0,
       "titleSignalCount": 0,
-      "bodySignalCount": 1,
-      "excerpt": "equired under the ESSs. At least three to five (3 - 5) years of experience in working with different stakeholders to lead in the preparation and participation in intersectoral consultations and systematization of information facilitation of workshops and ESSs training Ability to work in teams and communicate effectively; and demonstrated resourcefulness and initiative. Demonstrate relevant experience addressing social issues and responding to grievances; Experience of working in the Caribbean. Knowledge and capacity in outreach and awareness/capacity building programs for governmental organizations, NGOs and/or local communities. Capacity to work simultaneously on a variety of issues and tasks, independently adjusting to priorities and achieving agreed objectives and deadlines. Demonstrate outstanding ability to communicate in written and spoken English and preferably Kwéyòl; Be competen",
+      "bodySignalCount": 0,
+      "excerpt": "MINISTRY OF EDUCATION REQUEST FOR EXPRESSIONS OF INTEREST (REOI) GHANA ACCOUNTABILITY FOR LEARNING OUTCOMES PROJECT (GALOP) PROJECT ID: 165557 PROCUREMENT OF CONSULTANCY SERVICES - INDIVIDUAL CONSULTANTS BACKGROUND The Government of Ghana, under World Bank and Global Partnership for Education (GPE) funding, is supporting the government’s education strategic plan to improve equitable access to quality basic education in Ghana. The Ghana Accountability for Learning Outcomes Project (GALOP), approved for an amount of USD 218.7 million, has the Project Development Objective (PDO) to improve the quality of education in low-performing basic education schools and to strengthen education sector equity and accountability in Ghana. The GALOP was originally implemented over a five-year period from Jan 2020 to Dec 2024. However, the parent project has been extended to close by 31st December 2026 and",
       "probeScore": 0,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -3122,110 +3087,36 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00452073",
-      "title": "Occupational Health and Safety Specialist",
-      "country": "Mozambique",
-      "projectCountry": "Mozambique",
+      "id": "OP00453900",
+      "title": "Hiring of an Individual Consultant for the Development of a Business and Sustainability Plan for the National GNSS CORS Network of Sierra Leone for the Sierra Leone Land Administration Project (SLLAP).",
+      "country": "Sierra Leone",
+      "projectCountry": "Sierra Leone",
       "noticeType": "Request for Expression of Interest",
-      "noticeDate": "18-Jun-2026",
-      "deadline": "2026-07-24",
-      "project": "Sustainable Energy and Broadband Access in Rural Mozambique Project",
-      "buyer": "Electricity of Mozambique",
-      "contactEmail": "saturnino.alfredo@edm.co.mz",
-      "reference": "MZ-EDM-528476-CS-INDV",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452073",
+      "noticeDate": "25-Jun-2026",
+      "deadline": "2026-07-27",
+      "project": "Sierra Leone Land Administration Project",
+      "buyer": "Ministry of Lands Housing and Country Planning",
+      "contactEmail": "alphajohcham@yahoo.com",
+      "reference": "SL-MLHCP-557139-CS-INDV",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453900",
       "matchedTerms": [
         "training"
       ],
       "titleSignals": [],
-      "bodySignals": [
-        "software_data: software"
-      ],
+      "bodySignals": [],
       "segmentSignals": [
-        "formation: skills, training",
-        "rnd: software"
+        "formation: capacity building"
       ],
       "archiveMatches": [],
       "genericOnlyHits": [
-        "software",
-        "training"
+        "capacity building"
       ],
       "offDomain": true,
       "noiseTitle": false,
       "archiveCapabilityCount": 0,
       "titleSignalCount": 0,
-      "bodySignalCount": 1,
-      "excerpt": "pational health and safety in civil/electrical works; experience in conducting OHS inspections, audits, risk assessments, incident investigations and implementation of corrective actions; excellent communication skills, with the ability to effectively deliver training programs and communicate OHS information to diverse audiences; strong analytical and problem-solving skills, with the ability to develop innovative OHS solutions; strong written and oral Portuguese and English language skills; ability to work independently, prioritize tasks and manage multiple work aspects simultaneously and Proficiency in using safety management software, databases and Microsoft Office Suite. The detailed Terms of Reference (TOR) for the assignment can be found at the following link: https://drive.google.com/drive/folders/175CZmR-FCSCHpFLhCUmoBoa53_8uCrf2?usp=drive_link The attention of interested Consulta",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00450266",
-      "title": "Supervision of the Construction works of the Infrastructure of ISCED Huila",
-      "country": "Angola",
-      "projectCountry": "Angola",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "18-Jun-2026",
-      "deadline": "2026-08-05",
-      "project": "Tertiary Education, Science, and Technology Project (TEST)",
-      "buyer": "Ministry of Higher Education, Science, Technology, and Innovation",
-      "contactEmail": "ndilu.nkula@mescti.gov.ao",
-      "reference": "30B/CS/C1SC1.A03.3/26",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450266",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: education, training"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": true,
-      "noiseTitle": true,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
       "bodySignalCount": 0,
-      "excerpt": "la. The TEST Project aims to: (i) improve the quality of student preparation to increase total enrolment and expand opportunities for more equitable access; (ii) improve the quality and alignment of curricula with the labour market and instruction in priority training areas; and (iii) improve the governance and management of the education sector. The consultancy services (“the Services”) comprise the assessment, monitoring, and verification of the full compliance of the Executive Project and any amendments to the Contract entered between the Owner and the Contractor. They further include the supervision of execution in accordance with the contractual Specifications and the respective Work Plan, ensuring the effective coordination of the Health and Safety Plan on site, in alignment with the quality standards, environmental and social requirements established by the World Bank and the appl",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00450273",
-      "title": "Supervision of the construction works of the infrastructure of ISCED Uíge",
-      "country": "Angola",
-      "projectCountry": "Angola",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "18-Jun-2026",
-      "deadline": "2026-08-06",
-      "project": "Tertiary Education, Science, and Technology Project (TEST)",
-      "buyer": "Ministry of Higher Education, Science, Technology, and Innovation",
-      "contactEmail": "ndilu.nkula@mescti.gov.ao",
-      "reference": "31B/CS/C1SC1.A04.3/26",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450273",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: education, training"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": true,
-      "noiseTitle": true,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "GE. The TEST Project aims to: (i) improve the quality of student preparation to increase total enrolment and expand opportunities for more equitable access; (ii) improve the quality and alignment of curricula with the labour market and instruction in priority training areas; and (iii) improve the governance and management of the education sector. The consultancy services (“the Services”) comprise the assessment, monitoring, and verification of the full compliance of the Executive Project and any amendments to the Contract entered between the Owner and the Contractor. They further include the supervision of execution in accordance with the contractual Specifications and the respective Work Plan, ensuring the effective coordination of the Health and Safety Plan on site, in alignment with the quality standards, environmental and social requirements established by the World Bank and the appl",
+      "excerpt": "chnical capacity, cost, accessibility) and strategies to overcome them Benchmark against CORS pricing models in comparable countries and regional contexts Develop marketing and outreach strategy, including awareness campaigns, demonstration projects, and user training programs Recommend strategies to grow the user base and revenue potential before the end of Year 3 Identify potential anchor clients and partnership opportunities Technical Operations and Maintenance Strategy Define a long-term technical operations and maintenance strategy that ensures continuity of high-quality GNSS services beyond the contractor O&M period, informed by the findings of the Technical Assessment. The strategy shall: Adopt the technical standards, protocols, and service level requirements documented in the Technical Assessment Assess options for post-Year 3 technical support, including: continued contractor e",
       "probeScore": 0,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
