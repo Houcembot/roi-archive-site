@@ -770,6 +770,7 @@
     </div>
     <div class="source-pill"><i></i><span id="sourceName">Source officielle</span></div>
     <div class="source-pill"><span id="policy">verified-only</span></div>
+    <div class="source-pill freshness-pill"><span data-freshness>—</span></div>
     <div class="spacer"></div>
     <div class="timebox">
       <span>Dernière collecte</span>
@@ -1312,8 +1313,9 @@
   function safeUrl(u){ try{ const x=new URL(String(u||""), location.href); return (x.protocol==="http:"||x.protocol==="https:")?x.href:""; }catch(e){ return ""; } }
 
   function setLink(el, href){
-    if(href){
-      el.href = href;
+    const safe = safeUrl(href);
+    if(safe){
+      el.href = safe;
       el.removeAttribute("aria-disabled");
       el.style.pointerEvents = "";
       el.style.opacity = "";
@@ -1675,7 +1677,7 @@
     const srcHtml = sources.map(s => {
       const u = safeUrl(s.url);
       const name = escHtml(s.name||'source');
-      const badge = `<span class="src-badge">${escHtml(s.status||'')} · ${s.searchedTerms||0} termes</span>`;
+      const badge = `<span class="src-badge">${escHtml(s.status||'')} · ${Number(s.searchedTerms)||0} termes</span>`;
       return u ? `<li><a href="${u}" target="_blank" rel="noopener noreferrer">${name}</a> ${badge}</li>`
                : `<li>${name} ${badge}</li>`;
     }).join('');
@@ -1725,10 +1727,10 @@
       renderAll();
       loadSearchControl();
     }catch(error){
-      const box = document.createElement("div");
-      box.className = "error";
+      const center = document.querySelector(".center");
+      let box = center.querySelector(":scope > .error");
+      if(!box){ box = document.createElement("div"); box.className = "error"; center.prepend(box); }
       box.textContent = `Impossible de charger ${DATA_URL}: ${error.message}`;
-      document.querySelector(".center").prepend(box);
       fillText(els.generatedAt, "erreur");
       fillText(els.detailTitle, "Données vérifiées indisponibles");
       fillText(els.detailSub, "Le fichier local verified-opportunities.json n'a pas été chargé.");
@@ -1820,6 +1822,7 @@
     const items = (state.liveDay && state.liveDay.searches) || [];
     if(!items.length) return;
     replay.replaying = true;
+    if(els.searchPlay) els.searchPlay.textContent = "Replay en cours";
     if(__refreshTimer){ clearInterval(__refreshTimer); __refreshTimer = null; replay.refreshSuspended = true; }
     if(replay.timer) clearInterval(replay.timer);
     replay.timer = setInterval(() => {
@@ -1839,6 +1842,7 @@
   }
   function replayPause(){
     replay.replaying = false;
+    if(els.searchPlay) els.searchPlay.textContent = "Play (replay)";
     if(replay.timer){ clearInterval(replay.timer); replay.timer = null; }
     if(replay.refreshSuspended){ __refreshTimer = setInterval(loadState, REFRESH_MS); replay.refreshSuspended = false; }
   }
