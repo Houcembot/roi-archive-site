@@ -120,6 +120,11 @@
     padding:16px;
     border-bottom:1px solid var(--line);
   }
+  #search-links .src-list{ list-style:none; padding:0; margin:0 0 8px; font-size:13px; }
+  #search-links .src-list li{ padding:3px 0; display:flex; gap:6px; align-items:baseline; flex-wrap:wrap; }
+  .src-badge{ font-size:11px; color:#8b9689; }
+  .query-chips{ display:flex; flex-wrap:wrap; gap:4px; }
+  .query-chip{ display:inline-block; padding:2px 8px; border-radius:10px; background:#1f2a3a; font-size:11px; color:#cdd6c8; }
   .metrics{
     display:grid;
     grid-template-columns:1fr 1fr;
@@ -371,9 +376,23 @@
 
   .center{
     display:grid;
-    grid-template-rows:minmax(360px,52vh) 1fr;
+    grid-template-rows:auto minmax(360px,52vh) 1fr;
     overflow:hidden;
   }
+  .bot-pipeline{ margin:0 0 12px; padding:10px 12px; border:1px solid var(--line,#243029); border-radius:10px; background:var(--panel-2,#0d1411); }
+  .bp-head{ display:flex; justify-content:space-between; align-items:center; margin-bottom:8px; }
+  .bp-title{ font-weight:600; letter-spacing:.02em; }
+  .bp-live{ font-size:12px; color:#586357; } .bp-live.on{ color:#39d98a; animation:bpPulse 1.6s infinite; }
+  @keyframes bpPulse{ 0%,100%{opacity:1} 50%{opacity:.45} }
+  .bp-flow{ list-style:none; display:flex; gap:8px; padding:0; margin:0 0 8px; flex-wrap:wrap; }
+  .bp-flow li{ flex:1; min-width:120px; padding:6px 8px; border:1px solid var(--line-soft,#18211c); border-radius:8px; display:flex; flex-direction:column; gap:2px; }
+  .bp-flow li[data-bot]+li[data-bot]{ position:relative; }
+  .bp-meta{ font-size:12px; color:#8b9689; }
+  .bp-progressbar{ height:4px; background:#1f2a3a; border-radius:2px; margin-bottom:8px; }
+  #bp-progress{ display:block; height:100%; width:0; background:#39d98a; transition:width .2s; }
+  .bp-exchanges{ max-height:150px; overflow:auto; font-size:12px; }
+  .exchange-item{ padding:4px 0; border-top:1px solid var(--line-soft,#18211c); }
+  .ex-time{ color:#586357; } .ex-status{ color:#37d6c0; }
   .map-panel{
     position:relative;
     overflow:hidden;
@@ -520,6 +539,7 @@
     overflow:auto;
     padding:8px;
   }
+  .offer-row{ display:flex; flex-direction:column; }
   .offer{
     width:100%;
     display:grid;
@@ -538,6 +558,9 @@
     background:rgba(55,214,192,.065);
     border-color:rgba(55,214,192,.32);
   }
+  .opp-source{ align-self:flex-start; margin:2px 0 8px; font-size:12px; color:#7fd3ff; text-decoration:none; }
+  .opp-source:hover{ text-decoration:underline; }
+  .opp-source.disabled{ color:#6b7280; pointer-events:none; }
   .offer-title{
     display:-webkit-box;
     -webkit-line-clamp:2;
@@ -778,6 +801,7 @@
         </div>
         <a id="codexReportLink" class="codex-report" href="ops/scrapbot-codex-first-search.md" target="_blank" rel="noreferrer noopener">Rapport multi-source</a>
       </section>
+      <section class="side-section" id="search-links"></section>
       <section class="side-section">
         <p class="label">Filtres</p>
         <div id="segmentControl" class="segment-control" aria-label="Segments métier">
@@ -876,6 +900,18 @@
     </aside>
 
     <section class="panel center">
+      <section id="bot-pipeline" class="bot-pipeline" aria-label="Participation des bots">
+        <header class="bp-head"><span class="bp-title">Participation des bots</span>
+          <span id="bp-live" class="bp-live">○</span></header>
+        <ol class="bp-flow">
+          <li data-bot="ScrapBot"><b>ScrapBot</b><span class="bp-meta" id="bp-scrap"></span></li>
+          <li data-bot="ComBot"><b>ComBot</b><span class="bp-meta" id="bp-com"></span></li>
+          <li data-bot="InfoBot"><b>InfoBot</b><span class="bp-meta" id="bp-info"></span></li>
+          <li data-bot="CloBot"><b>CloBot</b><span class="bp-meta" id="bp-clo"></span></li>
+        </ol>
+        <div class="bp-progressbar"><i id="bp-progress"></i></div>
+        <div id="bot-exchanges" class="bp-exchanges"></div>
+      </section>
       <div class="map-panel">
         <div class="map-head">
           <div class="map-title">
@@ -924,7 +960,10 @@
 (() => {
   const DATA_URL = "ops/verified-opportunities.json";
   const CODEX_PROBE_URL = "ops/scrapbot-codex-probe.json";
+  const LIVE_STATE_URL = "ops/live-day-state.json";
   const LAND_URL = "ops/world-land-110m.geojson";
+  const REFRESH_MS = 60000;
+  let __refreshTimer = null;
   const state = {
     payload: null,
     codexProbe: null,
@@ -937,6 +976,7 @@
     subject: "",
     sort: "priority",
     searchControl: null,
+    liveDay: null,
     controlBusy: false
   };
 
@@ -990,7 +1030,8 @@
     detailBody: $("detailBody")
   };
   const searchDayInputs = Array.from(document.querySelectorAll("[data-search-day]"));
-  const CONTROL_API_ENABLED = ["127.0.0.1", "localhost", "::1"].includes(location.hostname);
+  const READ_ONLY = /[?&]ro=1/.test(location.search);
+  const CONTROL_API_ENABLED = !READ_ONLY && ["127.0.0.1", "localhost", "::1"].includes(location.hostname);
   const DEFAULT_SEARCH_CONTROL = {
     status: "running",
     activeDays: ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday"],
@@ -1158,6 +1199,12 @@
     }
     els.searchPlay.textContent = running ? "Recherche en cours" : "Play";
     els.searchPause.disabled = !available || state.controlBusy || config.status === "paused";
+    if(!CONTROL_API_ENABLED){
+      // Mode lecture seule : Play/Pause pilotent le replay visuel, pas l'API.
+      els.searchPlay.disabled = false;
+      els.searchPause.disabled = false;
+      els.searchPlay.textContent = replay.replaying ? "Replay en cours" : "Play (replay)";
+    }
     const note = state.searchControl?.message || (
       available
         ? `Cycle ${config.cycleHours}h · fenêtre ${config.startTime} + ${config.runDurationMinutes} min · pause ${config.queryDelaySeconds}s entre requêtes.`
@@ -1252,6 +1299,17 @@
   function fillText(el, text){
     el.textContent = text == null || text === "" ? "non publié" : String(text);
   }
+
+  function freshness(iso){
+    if(!iso) return {label:"—", live:false};
+    const t = Date.parse(iso);
+    if(Number.isNaN(t)) return {label:"—", live:false};
+    const min = Math.max(0, Math.round((Date.now()-t)/60000));
+    return { label: min<1 ? "à l'instant" : `il y a ${min} min`, live: min < 10 };
+  }
+
+  function escHtml(s){ return String(s==null?"":s).replace(/[&<>"']/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+  function safeUrl(u){ try{ const x=new URL(String(u||""), location.href); return (x.protocol==="http:"||x.protocol==="https:")?x.href:""; }catch(e){ return ""; } }
 
   function setLink(el, href){
     if(href){
@@ -1505,7 +1563,17 @@
       score.append(scoreValue, scoreLabel);
 
       item.append(main, score);
-      return item;
+      const wrap = document.createElement("div");
+      wrap.className = "offer-row";
+      const href = safeUrl(offer.sourceUrl);
+      const src = document.createElement(href ? "a" : "span");
+      src.className = "opp-source" + (href ? "" : " disabled");
+      if(href){ src.href = href; src.target = "_blank"; src.rel = "noopener noreferrer";
+        src.textContent = "↗ Voir l'annonce";
+        src.addEventListener("click", (e) => e.stopPropagation()); }
+      else { src.textContent = "source indisponible"; }
+      wrap.append(item, src);
+      return wrap;
     });
     els.offerList.replaceChildren(...nodes);
   }
@@ -1600,6 +1668,22 @@
     els.detailBody.replaceChildren(factGrid, evidence);
   }
 
+  function renderSearchLinks(){
+    const el = document.getElementById('search-links'); if(!el) return;
+    const sources = (state.payload && state.payload.sources) || [];
+    const terms = (state.payload && state.payload.queryTerms) || [];
+    const srcHtml = sources.map(s => {
+      const u = safeUrl(s.url);
+      const name = escHtml(s.name||'source');
+      const badge = `<span class="src-badge">${escHtml(s.status||'')} · ${s.searchedTerms||0} termes</span>`;
+      return u ? `<li><a href="${u}" target="_blank" rel="noopener noreferrer">${name}</a> ${badge}</li>`
+               : `<li>${name} ${badge}</li>`;
+    }).join('');
+    const chips = terms.map(t => `<span class="query-chip">${escHtml(t)}</span>`).join('');
+    el.innerHTML = `<p class="label">Sources & requêtes</p><ul class="src-list">${srcHtml}</ul>`+
+                   `<div class="query-chips">${chips}</div>`;
+  }
+
   function renderAll(){
     applyFilters();
     renderMetrics();
@@ -1609,6 +1693,7 @@
     renderMarkers();
     renderResults();
     renderDetail();
+    renderSearchLinks();
   }
 
   function selectCountry(country){
@@ -1662,6 +1747,52 @@
     renderCodexProbe();
   }
 
+  function setText(id, t){ const el=document.getElementById(id); if(el) el.textContent=t; }
+  function stageFor(bot, d, owners){
+    const act = (d.exchanges||[]).some(e => (e.from===bot||e.to===bot) && e.status==='en_cours');
+    return act ? 'actif' : (owners[bot] ? `${owners[bot]} décision(s)` : 'en attente');
+  }
+  function renderBotPipeline(){
+    const d = state.liveDay; if(!d) return;
+    const f = freshness(d.updatedAt);
+    const live = document.getElementById('bp-live');
+    if(live){ live.textContent = f.live ? '● live' : '○ inactif'; live.classList.toggle('on', f.live); }
+    setText('bp-scrap', `${d.completedSearches||0}/100 · ${d.sourceCount||0} sources · ${d.queryCount||0} requêtes`);
+    const owners = {};
+    (d.decisions||[]).forEach(x => { owners[x.owner] = (owners[x.owner]||0)+1; });
+    setText('bp-com', stageFor('ComBot', d, owners));
+    setText('bp-info', (d.infobotReport && d.infobotReport.title) ? 'rapport prêt' : '—');
+    setText('bp-clo', `${(d.discordTrace||[]).length} msg Discord`);
+    const ex = document.getElementById('bot-exchanges');
+    if(ex) ex.innerHTML = (d.exchanges||[]).slice().reverse().map(e =>
+      `<div class="exchange-item"><span class="ex-time">${escHtml(e.time||'')}</span> `+
+      `<b>${escHtml(e.from||'')}</b> ▶ <b>${escHtml(e.to||'')}</b> — ${escHtml(e.summary||e.topic||'')} `+
+      `<em class="ex-status">${escHtml(e.status||'')}</em></div>`).join('');
+  }
+
+  async function loadLiveDay(){
+    try{
+      const r = await fetch(`${LIVE_STATE_URL}?ts=${Date.now()}`, {cache:"no-store"});
+      if(!r.ok) throw new Error(`HTTP ${r.status}`);
+      state.liveDay = await r.json();
+    }catch(e){ /* keep previous state.liveDay */ }
+    renderBotPipeline();
+  }
+
+  async function loadState(){
+    await loadData();
+    await loadCodexProbe();
+    await loadLiveDay();
+    updateFreshnessBanner();
+  }
+
+  function updateFreshnessBanner(){
+    const ts = (state.liveDay && state.liveDay.updatedAt) || (state.payload && state.payload.generatedAt);
+    const f = freshness(ts);
+    const el = document.querySelector('[data-freshness]') || els.sourceName;
+    if(el){ el.setAttribute('data-freshness',''); el.textContent = f.live ? `● live · ${f.label}` : `○ ${f.label}`; }
+  }
+
   els.searchBox.addEventListener("input", () => {
     state.search = els.searchBox.value;
     renderAll();
@@ -1683,10 +1814,40 @@
     state.sort = els.sortSelect.value;
     renderAll();
   });
+  const replay = { replaying:false, refreshSuspended:false, i:0, timer:null };
+  window.__hudState = replay;
+  function replayPlay(){
+    const items = (state.liveDay && state.liveDay.searches) || [];
+    if(!items.length) return;
+    replay.replaying = true;
+    if(__refreshTimer){ clearInterval(__refreshTimer); __refreshTimer = null; replay.refreshSuspended = true; }
+    if(replay.timer) clearInterval(replay.timer);
+    replay.timer = setInterval(() => {
+      if(replay.i >= items.length){ replayPause(); replay.i = 0; return; }
+      const s = items[replay.i++];
+      const feed = document.getElementById('bot-exchanges');
+      if(feed){
+        const div = document.createElement('div'); div.className = 'exchange-item replayed';
+        div.innerHTML = `<span class="ex-time">#${escHtml(String(s.index||replay.i))}</span> `+
+          `<b>ScrapBot</b> — ${escHtml(s.source||'')} · fit ${escHtml(String(s.fit||''))} `+
+          `<em>${escHtml(s.query||'')}</em>`;
+        feed.prepend(div);
+      }
+      const bar = document.getElementById('bp-progress');
+      if(bar) bar.style.width = Math.round(100*replay.i/items.length) + '%';
+    }, 250);
+  }
+  function replayPause(){
+    replay.replaying = false;
+    if(replay.timer){ clearInterval(replay.timer); replay.timer = null; }
+    if(replay.refreshSuspended){ __refreshTimer = setInterval(loadState, REFRESH_MS); replay.refreshSuspended = false; }
+  }
   els.searchPlay.addEventListener("click", () => {
+    if(!CONTROL_API_ENABLED){ replayPlay(); return; }
     sendSearchControl("/api/search/start", {...readSearchControlInputs(), status: "running"});
   });
   els.searchPause.addEventListener("click", () => {
+    if(!CONTROL_API_ENABLED){ replayPause(); return; }
     sendSearchControl("/api/search/stop", {});
   });
   els.saveSearchControl.addEventListener("click", () => {
@@ -1722,8 +1883,9 @@
 
   renderSearchControl();
   loadLand();
-  loadCodexProbe();
-  loadData();
+  loadState();
+  __refreshTimer = setInterval(loadState, REFRESH_MS);
+  window.__hudRefreshNow = loadState;
 })();
 </script>
 </body>

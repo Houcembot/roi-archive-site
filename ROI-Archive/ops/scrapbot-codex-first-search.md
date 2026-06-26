@@ -1,18 +1,18 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-25T17:49:22+00:00
+Genere: 2026-06-26T07:56:32+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 21 requetes, 1 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
 
 ## Resultat
-- Candidats lus: 76
-- Likely fit: 13
+- Candidats lus: 78
+- Likely fit: 14
 - A revoir: 7
-- Rejetes: 56
-- Offres publiees dans le HUD: 5
+- Rejetes: 57
+- Offres publiees dans le HUD: 6
 
 ## Top offres publiees / compatibles
 ### Training Equipment to Support Skills Testing & Certification
@@ -26,6 +26,12 @@ Genere: 2026-06-25T17:49:22+00:00
 - URL: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451397
 - Archive: VR / simulation / laboratoire virtuel
 - Extrait: Specific Procurement Notice Request for Bids Goods (One-Envelope Bidding Process) Country: Kenya Name of Project: Kenya Digital Economy Acceleration Project Contract Title: Supply, Delivery, Installation and Commissioning of Virtual Laboratory (VR) Equipment for Simulation-Based Training in TVETs Institutions Loan No./Credit No./ Grant No.: 7289-KE and 7290-KE RFB Reference No.: KE-ICTA-553315-GO-RFB 1. The Governmen
+
+### Germany – Multimedia software development services – Entwicklung von Augmented Reality-Szenarien für vorhandene Spielplätze
+- Source: TED EU Tenders | Pays: Germany | Deadline: 2026-07-31 | Score: 69 | publiee
+- URL: https://ted.europa.eu/en/notice/-/detail/439773-2026
+- Archive: VR / simulation / laboratoire virtuel
+- Extrait: Germany – Multimedia software development services – Entwicklung von Augmented Reality-Szenarien für vorhandene Spielplätze Entwicklung von 7 voneinander unabhängigen Augmented-Reality-Szenarien für vorhandene Spielplätze an 7 Standorten im Landkreis St. Wendel. Diese sollen in ein extra dafür gefertigtes Modul der "meinWND-APP" integriert werden. Der Leistungsumfang umfasst die Konzeption, die Umsetzung, die Inbetri
 
 ### Request for proposals – Digital Heritage & Interactive Media Production for Mar Mikhael Train Station – Beirut, Lebanon
 - Source: UNGM Procurement | Pays: Lebanon | Deadline: 2026-07-01 | Score: 63 | publiee
@@ -81,20 +87,14 @@ Genere: 2026-06-25T17:49:22+00:00
 - Archive: VR / simulation / laboratoire virtuel
 - Extrait: Germany – Video equipment – Medientechnik & Systemintegration für Neugestaltung Bundesliga-Bereich Im Zuge der Teilüberarbeitung der Dauerausstellung im Deutschen Fußballmuseum wird der Inszenierungsbereich „Bundesliga“ gestalterisch und technisch komplett neu aufgestellt. Das Kernstück bildet eine immersive AV-Installation, bestehend aus einer mehrkanaligen Videoprojektion und einer raumgreifenden Beschallungsanlage
 
-### France – Architectural, engineering and surveying services – Le Scan to BIM correspond au processus de modélisation d’un bâtiment sur la base de son nuage de points : l’empreinte 3D générée suite à un relevé de l’intérieur (etou de l’extérieur) du bâtiment via l’utilisation de technologies de scan 3D (lasergrammétrie etou photogrammétrie). Cette méthodologie permet de créer ou de mettre à jour la maquette numérique d’un bâtiment en se basant sur une emprei
-- Source: TED EU Tenders | Pays: France | Deadline: 2026-07-15 | Score: 42 | non publiee
-- URL: https://ted.europa.eu/en/notice/-/detail/406999-2026
-- Archive: Scan 3D / patrimoine / viewer
-- Extrait: France – Architectural, engineering and surveying services – Le Scan to BIM correspond au processus de modélisation d’un bâtiment sur la base de son nuage de points : l’empreinte 3D générée suite à un relevé de l’intérieur (etou de l’extérieur) du bâtiment via l’utilisation de technologies de scan 3D (lasergrammétrie etou photogrammétrie). Cette méthodologie permet de créer ou de mettre à jour la maquette numérique d
-
 ## A revoir
 - Technical Assistance for CSO website upgrade, strategic communications, and outreach to support official statistics | World Bank Procurement Notices | St. Lucia | deadline 2026-07-01 | score 57 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451818
 - Ireland – Miscellaneous evaluation or testing instruments – UL1066 Lot 1 Mobile Robot Motion Capture System, Lot 2 Compact Autonomous Surface Vehicle (ASV) for Hydrographic Survey Unmanned Surface Vehicle (ASV) to the University of Limerick | TED EU Tenders | Ireland | deadline 2026-07-02 | score 40 | https://ted.europa.eu/en/notice/-/detail/406080-2026
-- Austria – Photogrammetry services – Luftbildbefliegung Wien Nadir/Oblique 2026 | TED EU Tenders | Austria | deadline 2026-06-26 | score 35 | https://ted.europa.eu/en/notice/-/detail/408941-2026
 - Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF. | TED EU Tenders | Spain | deadline 2026-07-03 | score 35 | https://ted.europa.eu/en/notice/-/detail/379732-2026
 - Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF. | TED EU Tenders | Spain | deadline 2026-07-20 | score 35 | https://ted.europa.eu/en/notice/-/detail/422270-2026
 - Netherlands – Photogrammetry services – Geografisch beeldmateriaal en bijbehorende dienstverlening | TED EU Tenders | Netherlands | deadline 2026-08-28 | score 35 | https://ted.europa.eu/en/notice/-/detail/357749-2026
 - Norway – Boats – P1223 - Navigation training vessels - Pre-Qualification Phase | TED EU Tenders | Norway | deadline 2026-07-06 | score 30 | https://ted.europa.eu/en/notice/-/detail/375497-2026
+- Norway – Software package and information systems – Software licences and accompanying services. | TED EU Tenders | Norway | deadline 2026-08-10 | score 28 | https://ted.europa.eu/en/notice/-/detail/424712-2026
 
 ## Rejets utiles pour audit
 - no-archive-match: Aquisição de uma Plataforma de Ensino a Distância | World Bank Procurement Notices | Angola | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453514

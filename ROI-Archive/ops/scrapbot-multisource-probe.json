@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T17:49:22+00:00",
+  "generatedAt": "2026-06-26T07:56:32+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -23,10 +23,8 @@
       "url": "https://api.ted.europa.eu/v3/notices/search",
       "status": "active",
       "mode": "public API expert query with deadline filter",
-      "searchedTerms": 21,
-      "errors": [
-        "media production: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n"
-      ]
+      "searchedTerms": 22,
+      "errors": []
     }
   ],
   "queryTerms": [
@@ -54,12 +52,12 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 115.06,
-  "totalCandidates": 76,
+  "durationSeconds": 99.16,
+  "totalCandidates": 78,
   "summary": {
-    "likely_fit": 13,
+    "likely_fit": 14,
     "review": 7,
-    "reject": 56
+    "reject": 57
   },
   "items": [
     {
@@ -180,6 +178,64 @@
       "probeScore": 100,
       "probeDecision": "likely_fit",
       "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "TED-439773-2026",
+      "title": "Germany – Multimedia software development services – Entwicklung von Augmented Reality-Szenarien für vorhandene Spielplätze",
+      "country": "Germany",
+      "projectCountry": "Germany",
+      "noticeType": "cn-standard",
+      "noticeDate": "2026-06-26",
+      "deadline": "2026-07-31",
+      "deadlineTime": "",
+      "project": "",
+      "buyer": "Landkreis St. Wendel Dezernat 4 Vergabestelle",
+      "contactEmail": "",
+      "reference": "439773-2026",
+      "method": "cn-standard",
+      "source": "TED EU Tenders",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/439773-2026",
+      "matchedTerms": [
+        "augmented reality"
+      ],
+      "titleSignals": [
+        "3d_vr: augmented reality",
+        "software_data: software"
+      ],
+      "bodySignals": [
+        "3d_vr: augmented reality",
+        "software_data: software"
+      ],
+      "segmentSignals": [
+        "animation: augmented reality",
+        "rnd: software"
+      ],
+      "archiveMatches": [
+        {
+          "capability": "vr_simulation",
+          "label": "VR / simulation / laboratoire virtuel",
+          "matchedTerms": [
+            "augmented reality"
+          ],
+          "archiveEvidence": [
+            "Unreal / MetaHumans / facial tracking",
+            "Projet Deformations",
+            "Pipeline temps réel"
+          ]
+        }
+      ],
+      "genericOnlyHits": [
+        "software"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 1,
+      "titleSignalCount": 2,
+      "bodySignalCount": 2,
+      "searchText": "germany – multimedia software development services – entwicklung von augmented reality-szenarien für vorhandene spielplätze  germany – multimedia software development services – entwicklung von augmented reality-szenarien für vorhandene spielplätze entwicklung von 7 voneinander unabhängigen augmented-reality-szenarien für vorhandene spielplätze an 7 standorten im landkreis st. wendel. diese sollen in ein extra dafür gefertigtes modul der \"meinwnd-app\" integriert werden. der leistungsumfang umfasst die konzeption, die umsetzung, die inbetriebnahme incl. test vor ort sowie die dokumentation für 4-8 stationen pro standort. landkreis st. wendel dezernat 4 vergabestelle germany",
+      "excerpt": "Germany – Multimedia software development services – Entwicklung von Augmented Reality-Szenarien für vorhandene Spielplätze Entwicklung von 7 voneinander unabhängigen Augmented-Reality-Szenarien für vorhandene Spielplätze an 7 Standorten im Landkreis St. Wendel. Diese sollen in ein extra dafür gefertigtes Modul der \"meinWND-APP\" integriert werden. Der Leistungsumfang umfasst die Konzeption, die Umsetzung, die Inbetriebnahme incl. Test vor Ort sowie die Dokumentation für 4-8 Stationen pro Standort. Landkreis St. Wendel Dezernat 4 Vergabestelle Germany",
+      "probeScore": 69,
+      "probeDecision": "likely_fit"
     },
     {
       "id": "UNGM-304000",
@@ -879,54 +935,6 @@
       "probeDecision": "review"
     },
     {
-      "id": "TED-408941-2026",
-      "title": "Austria – Photogrammetry services – Luftbildbefliegung Wien Nadir/Oblique 2026",
-      "country": "Austria",
-      "projectCountry": "Austria",
-      "noticeType": "cn-standard",
-      "noticeDate": "2026-06-15",
-      "deadline": "2026-06-26",
-      "deadlineTime": "",
-      "project": "",
-      "buyer": "Magistrat der Stadt Wien - Magistratsabteilung 41",
-      "contactEmail": "",
-      "reference": "408941-2026",
-      "method": "cn-standard",
-      "source": "TED EU Tenders",
-      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/408941-2026",
-      "matchedTerms": [
-        "photogrammetry"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [],
-      "archiveMatches": [
-        {
-          "capability": "scan_heritage",
-          "label": "Scan 3D / patrimoine / viewer",
-          "matchedTerms": [
-            "photogrammetry"
-          ],
-          "archiveEvidence": [
-            "Cuirasse de Carthage",
-            "Mesh WebGL",
-            "Map 3D Haram",
-            "55 signaux scan_heritage_photogrammetry"
-          ]
-        }
-      ],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 1,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "searchText": "austria – photogrammetry services – luftbildbefliegung wien nadir/oblique 2026  austria – photogrammetry services – luftbildbefliegung wien nadir/oblique 2026 ~586 km², senkrecht- und schrägluftbilder, aerotriangulation, punktwolke und oberflächenmodell aus bildmatching sowie true-orthofoto magistrat der stadt wien - magistratsabteilung 41 austria",
-      "excerpt": "Austria – Photogrammetry services – Luftbildbefliegung Wien Nadir/Oblique 2026 ~586 km², Senkrecht- und Schrägluftbilder, Aerotriangulation, Punktwolke und Oberflächenmodell aus Bildmatching sowie True-Orthofoto Magistrat der Stadt Wien - Magistratsabteilung 41 Austria",
-      "probeScore": 35,
-      "probeDecision": "review"
-    },
-    {
       "id": "TED-379732-2026",
       "title": "Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF.",
       "country": "Spain",
@@ -1121,6 +1129,50 @@
       "searchText": "norway – boats – p1223 - navigation training vessels - pre-qualification phase  norway – boats – p1223 - navigation training vessels - pre-qualification phase this procurement covers the design, construction and delivery of two identical training vessels, with an option for two additional vessels (1+1) , to the norwegian armed forces. the vessels shall be used for education and training in military practical navigation, in order to ensure that the required competence of future navigators in the royal norwegian navy is maintained and further developed. the training concept is based on a recurring cycle of theoretical instruction, simulator training and practical navigation. the main teaching platform is the navigation system, which must be as close to identical as possible in the simulator and on board the vessels. in this context, the training vessels serve as a platform for bringing the navigation system to sea. the vessels shall be modern, reliable and representative of current standards, with primary emphasis on safe navigation, energy-efficient operation and pedagogical suitability. the vessels shall be built in accordance with civil (dnv) class. they shall be serially built, with a high degree of standardised civil components and subsystems, in order to ensure effective competition and keep operating costs at a low level. each vessel shall have a length of less than 24 metres, be capable of achieving a minimum speed of 18 knobs, and have a total installed engine power of less than 750 kw. the vessels shall be delivered fully equipped, including navigation systems and sensors, as well as the necessary support and documentation package for operation and maintenance. forsvarsmateriell forsvarsmateriell forsvarsmateriell norway",
       "excerpt": "and training in military practical navigation, in order to ensure that the required competence of future navigators in the Royal Norwegian Navy is maintained and further developed. The training concept is based on a recurring cycle of theoretical instruction, simulator training and practical navigation. The main teaching platform is the navigation system, which must be as close to identical as possible in the simulator and on board the vessels. In this context, the training vessels serve as a platform for bringing the navigation system to sea. The vessels shall be modern, reliable and representative of current standards, with primary emphasis on safe navigation, energy-efficient operation and pedagogical suitability. The vessels shall be built in accordance with civil (DNV) class. They shall be serially built, with a high degree of standardised civil components and subsystems, in order t",
       "probeScore": 30,
+      "probeDecision": "review"
+    },
+    {
+      "id": "TED-424712-2026",
+      "title": "Norway – Software package and information systems – Software licences and accompanying services.",
+      "country": "Norway",
+      "projectCountry": "Norway",
+      "noticeType": "cn-standard",
+      "noticeDate": "2026-06-22",
+      "deadline": "2026-08-10",
+      "deadlineTime": "",
+      "project": "",
+      "buyer": "DEPARTEMENTENES DIGITALISERINGSORGANISASJON (DIO)",
+      "contactEmail": "",
+      "reference": "424712-2026",
+      "method": "cn-standard",
+      "source": "TED EU Tenders",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/424712-2026",
+      "matchedTerms": [
+        "media production"
+      ],
+      "titleSignals": [
+        "software_data: software"
+      ],
+      "bodySignals": [
+        "software_data: software",
+        "creative_comm: media production, video"
+      ],
+      "segmentSignals": [
+        "animation: media production, video",
+        "rnd: software"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "software"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 1,
+      "bodySignalCount": 3,
+      "searchText": "norway – software package and information systems – software licences and accompanying services.  norway – software package and information systems – software licences and accompanying services. licences not included in other sub-contracts are included in this, which we have called other software. see the detailed description under sub-contract 1 - other software. the contracting authority and the entities require good tools for editing pictures, video and audio. the current supplier mainly consists of adobe licences. see further description under sub-contract 2 - media production. dio uses a system from commvault in disciplines for back-up and local storage of e-mail boxes. there will be a need for the system going forward as well, but there will be changes on the licence model based on the manufacturer making changes here. see the detailed description under sub-contract 3 back-up system. see the approaching description under sub-contract 4 virtualisation. dio is in the process of constructing a new infrastructure platform. in anticipation of this being completed, there may be a need for interim systems in the cloud. the sub-contract shall therefore ensure the necessary flexibility so that dio can procure cloud licences and additional modules that support both temporary and long-term needs. see the detailed description under sub-contract 5 it service manager (itsm/esm). the contracting authority needs pexip licences for video conferencing services and accompanying software to ensure efficient interaction, meeting and collaboration across the organisation. see the detailed description under sub-contract 6 video conference. departementenes digitaliseringsorganisasjon (dio) norway",
+      "excerpt": "Norway – Software package and information systems – Software licences and accompanying services. Licences not included in other sub-contracts are included in this, which we have called other software. See the detailed description under Sub-Contract 1 - Other Software. The contracting authority and the entities require good tools for editing pictures, video and audio. The current supplier mainly consists of Adobe licences. See further description under Sub-Contract 2 - Media Production. DIO uses a system from Commvault in disciplines for back-up and local storage of e-mail boxes. There will be a need for the system going forward as well, but there will be changes on the licence model based on the manufacturer making changes here. See the detailed description under sub-contract 3 Back-up system. See the approaching description under Sub-Contract 4 Virtualisation. DIO is in the process of c",
+      "probeScore": 28,
       "probeDecision": "review"
     },
     {
@@ -2829,6 +2881,40 @@
       "method": "cn-standard",
       "source": "TED EU Tenders",
       "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/377046-2026",
+      "matchedTerms": [
+        "virtual reality"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": true,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "searchText": "czechia – furniture – zavedení virtuální reality do odborných učeben základních škol  czechia – furniture – zavedení virtuální reality do odborných učeben základních škol předmětem plnění je dodávka a instalace nové a nepoužité it techniky. předmětem plnění je dodávka a instalace nových a nepoužitých výukových pomůcek. předmětem plnění je dodávka a instalace nového a nepoužitého nábytku. statutární město havířov czechia",
+      "excerpt": "Czechia – Furniture – Zavedení virtuální reality do odborných učeben základních škol Předmětem plnění je dodávka a instalace nové a nepoužité IT techniky. Předmětem plnění je dodávka a instalace nových a nepoužitých výukových pomůcek. Předmětem plnění je dodávka a instalace nového a nepoužitého nábytku. Statutární město Havířov Czechia",
+      "probeScore": 0,
+      "probeDecision": "reject"
+    },
+    {
+      "id": "TED-440225-2026",
+      "title": "Czechia – Furniture – Zavedení virtuální reality do odborných učeben základních škol",
+      "country": "Czechia",
+      "projectCountry": "Czechia",
+      "noticeType": "cn-standard",
+      "noticeDate": "2026-06-26",
+      "deadline": "2026-07-07",
+      "deadlineTime": "",
+      "project": "",
+      "buyer": "Statutární město Havířov",
+      "contactEmail": "",
+      "reference": "440225-2026",
+      "method": "cn-standard",
+      "source": "TED EU Tenders",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/440225-2026",
       "matchedTerms": [
         "virtual reality"
       ],
