@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T10:04:02+00:00",
+  "generatedAt": "2026-06-26T12:12:15+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -52,7 +52,7 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 118.57,
+  "durationSeconds": 142.09,
   "totalCandidates": 75,
   "summary": {
     "likely_fit": 14,
