@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T16:26:53+00:00",
+  "generatedAt": "2026-06-26T18:33:50+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -23,9 +23,10 @@
       "url": "https://api.ted.europa.eu/v3/notices/search",
       "status": "active",
       "mode": "public API expert query with deadline filter",
-      "searchedTerms": 21,
+      "searchedTerms": 20,
       "errors": [
-        "Unreal Engine: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n"
+        "motion capture: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n",
+        "simulation training: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n"
       ]
     }
   ],
@@ -54,12 +55,12 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 121.34,
-  "totalCandidates": 75,
+  "durationSeconds": 103.75,
+  "totalCandidates": 72,
   "summary": {
     "likely_fit": 14,
-    "review": 8,
-    "reject": 53
+    "review": 6,
+    "reject": 52
   },
   "items": [
     {
@@ -839,60 +840,6 @@
       "probeDecision": "likely_fit"
     },
     {
-      "id": "TED-406080-2026",
-      "title": "Ireland – Miscellaneous evaluation or testing instruments – UL1066 Lot 1 Mobile Robot Motion Capture System, Lot 2 Compact Autonomous Surface Vehicle (ASV) for Hydrographic Survey Unmanned Surface Vehicle (ASV) to the University of Limerick",
-      "country": "Ireland",
-      "projectCountry": "Ireland",
-      "noticeType": "cn-standard",
-      "noticeDate": "2026-06-12",
-      "deadline": "2026-07-02",
-      "deadlineTime": "",
-      "project": "",
-      "buyer": "University of Limerick_1124",
-      "contactEmail": "",
-      "reference": "406080-2026",
-      "method": "cn-standard",
-      "source": "TED EU Tenders",
-      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/406080-2026",
-      "matchedTerms": [
-        "motion capture"
-      ],
-      "titleSignals": [],
-      "bodySignals": [
-        "3d_vr: 3d"
-      ],
-      "segmentSignals": [
-        "animation: 3d",
-        "rnd: research"
-      ],
-      "archiveMatches": [
-        {
-          "capability": "rnd_ia_visual",
-          "label": "R&D IA visuelle / temps réel",
-          "matchedTerms": [
-            "real-time 3d"
-          ],
-          "archiveEvidence": [
-            "ComfyUI + n8n",
-            "Avatar IRIS",
-            "IASOBOT",
-            "Unreal / MetaHumans / facial tracking",
-            "34 signaux avatar_robot_unreal"
-          ]
-        }
-      ],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 1,
-      "titleSignalCount": 0,
-      "bodySignalCount": 1,
-      "searchText": "ireland – miscellaneous evaluation or testing instruments – ul1066 lot 1 mobile robot motion capture system, lot 2 compact autonomous surface vehicle (asv) for hydrographic survey unmanned surface vehicle (asv) to the university of limerick  ireland – miscellaneous evaluation or testing instruments – ul1066 lot 1 mobile robot motion capture system, lot 2 compact autonomous surface vehicle (asv) for hydrographic survey unmanned surface vehicle (asv) to the university of limerick university of limerick request the supply of a mobile robot motion capture system for the localisation and tracking of mobile robotic platforms within an indoor laboratory environment. the purpose of the instrument is to provide high-accuracy, low-latency, real-time 3d positional and orientation data for multiple aerial, ground and surface robotic vehicles operating simultaneously within a defined capture volume. the system will support research, teaching and industrial collaboration in autonomous systems, multi-agent robotics, navigation and human–robot interaction. the supply of a compact autonomous surface vehicle (asv) for hydrographic survey for inshore hydrographic and bathymetric survey applications. the purpose of the instrument is to enable autonomous and remote-controlled survey operations in shallow inshore waters, rivers and lakes, supporting multibeam sonar bathymetric mapping, water-quality profiling, and environmental data collection. the system will support research and teaching at ul cris and provide a versatile, compact, easily transportable survey platform for use across coastal, estuarine and inland waterbody applications. university of limerick request the supply of a mobile robot motion capture system for the localisation and tracking of mobile robotic platforms within an indoor laboratory environment. the purpose of the instrument is to provide high-accuracy, low-latency, real-time 3d positional and orientation data for multiple aerial, ground and surface robotic vehicles operating simultaneously within a defined capture volume. the system will support research, teaching and industrial collaboration in autonomous systems, multi-agent robotics, navigation and human–robot interaction. the supply of a compact autonomous surface vehicle (asv) for hydrographic survey for inshore hydrographic and bathymetric survey applications. the purpose of the instrument is to enable autonomous and remote-controlled survey operations in shallow inshore waters, rivers and lakes, supporting multibeam sonar bathymetric mapping, water-quality profiling, and environmental data collection. the system will support research and teaching at ul cris and provide a versatile, compact, easily transportable survey platform for use across coastal, estuarine and inland waterbody applications. university of limerick_1124 ireland",
-      "excerpt": "Ireland – Miscellaneous evaluation or testing instruments – UL1066 Lot 1 Mobile Robot Motion Capture System, Lot 2 Compact Autonomous Surface Vehicle (ASV) for Hydrographic Survey Unmanned Surface Vehicle (ASV) to the University of Limerick University of Limerick request the supply of a Mobile Robot Motion Capture System for the localisation and tracking of mobile robotic platforms within an indoor laboratory environment. The purpose of the instrument is to provide high-accuracy, low-latency, real-time 3D positional and orientation data for multiple aerial, ground and surface robotic vehicles operating simultaneously within a defined capture volume. The system will support research, teaching and industrial collaboration in autonomous systems, multi-agent robotics, navigation and human–robot interaction. The supply of a Compact Autonomous Surface Vehicle (ASV) for Hydrographic Survey for",
-      "probeScore": 40,
-      "probeDecision": "review"
-    },
-    {
       "id": "OP00453808",
       "title": "Consultancy on Climate Change Simulation Models development to assess impacts on Crop Productivity, Pasture Conditions, and Transboundary Pest Outbreaks",
       "country": "Djibouti",
@@ -1121,59 +1068,6 @@
       "searchText": "netherlands – photogrammetry services – geografisch beeldmateriaal en bijbehorende dienstverlening  netherlands – photogrammetry services – geografisch beeldmateriaal en bijbehorende dienstverlening zie aanbestedingsleidraad wmd drinkwater n.v. netherlands",
       "excerpt": "Netherlands – Photogrammetry services – Geografisch beeldmateriaal en bijbehorende dienstverlening Zie Aanbestedingsleidraad WMD Drinkwater N.V. Netherlands",
       "probeScore": 35,
-      "probeDecision": "review"
-    },
-    {
-      "id": "TED-375497-2026",
-      "title": "Norway – Boats – P1223 - Navigation training vessels - Pre-Qualification Phase",
-      "country": "Norway",
-      "projectCountry": "Norway",
-      "noticeType": "cn-standard",
-      "noticeDate": "2026-06-02",
-      "deadline": "2026-07-06",
-      "deadlineTime": "",
-      "project": "",
-      "buyer": "FORSVARSMATERIELL FORSVARSMATERIELL FORSVARSMATERIELL",
-      "contactEmail": "",
-      "reference": "375497-2026",
-      "method": "cn-standard",
-      "source": "TED EU Tenders",
-      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/375497-2026",
-      "matchedTerms": [
-        "simulation training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [
-        "3d_vr: simulator"
-      ],
-      "segmentSignals": [
-        "formation: education, training"
-      ],
-      "archiveMatches": [
-        {
-          "capability": "vr_simulation",
-          "label": "VR / simulation / laboratoire virtuel",
-          "matchedTerms": [
-            "simulator"
-          ],
-          "archiveEvidence": [
-            "Unreal / MetaHumans / facial tracking",
-            "Projet Deformations",
-            "Pipeline temps réel"
-          ]
-        }
-      ],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 1,
-      "titleSignalCount": 0,
-      "bodySignalCount": 1,
-      "searchText": "norway – boats – p1223 - navigation training vessels - pre-qualification phase  norway – boats – p1223 - navigation training vessels - pre-qualification phase this procurement covers the design, construction and delivery of two identical training vessels, with an option for two additional vessels (1+1) , to the norwegian armed forces. the vessels shall be used for education and training in military practical navigation, in order to ensure that the required competence of future navigators in the royal norwegian navy is maintained and further developed. the training concept is based on a recurring cycle of theoretical instruction, simulator training and practical navigation. the main teaching platform is the navigation system, which must be as close to identical as possible in the simulator and on board the vessels. in this context, the training vessels serve as a platform for bringing the navigation system to sea. the vessels shall be modern, reliable and representative of current standards, with primary emphasis on safe navigation, energy-efficient operation and pedagogical suitability. the vessels shall be built in accordance with civil (dnv) class. they shall be serially built, with a high degree of standardised civil components and subsystems, in order to ensure effective competition and keep operating costs at a low level. each vessel shall have a length of less than 24 metres, be capable of achieving a minimum speed of 18 knobs, and have a total installed engine power of less than 750 kw. the vessels shall be delivered fully equipped, including navigation systems and sensors, as well as the necessary support and documentation package for operation and maintenance. forsvarsmateriell forsvarsmateriell forsvarsmateriell norway",
-      "excerpt": "and training in military practical navigation, in order to ensure that the required competence of future navigators in the Royal Norwegian Navy is maintained and further developed. The training concept is based on a recurring cycle of theoretical instruction, simulator training and practical navigation. The main teaching platform is the navigation system, which must be as close to identical as possible in the simulator and on board the vessels. In this context, the training vessels serve as a platform for bringing the navigation system to sea. The vessels shall be modern, reliable and representative of current standards, with primary emphasis on safe navigation, energy-efficient operation and pedagogical suitability. The vessels shall be built in accordance with civil (DNV) class. They shall be serially built, with a high degree of standardised civil components and subsystems, in order t",
-      "probeScore": 30,
       "probeDecision": "review"
     },
     {
@@ -2939,44 +2833,6 @@
       "probeScore": 0,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "TED-384126-2026",
-      "title": "Greece – Office machinery, equipment and supplies except computers, printers and furniture – 5/2026/21500 - Προμήθεια εξοπλισμού για το Τμήμα Ψηφιακών Τεχνών και Κινηματογράφου",
-      "country": "Greece",
-      "projectCountry": "Greece",
-      "noticeType": "cn-standard",
-      "noticeDate": "2026-06-04",
-      "deadline": "2026-07-10",
-      "deadlineTime": "",
-      "project": "",
-      "buyer": "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών / Ειδικός Λογαριασμός Κονδυλίων Έρευνας",
-      "contactEmail": "",
-      "reference": "384126-2026",
-      "method": "cn-standard",
-      "source": "TED EU Tenders",
-      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/384126-2026",
-      "matchedTerms": [
-        "motion capture"
-      ],
-      "titleSignals": [],
-      "bodySignals": [
-        "3d_vr: 3d"
-      ],
-      "segmentSignals": [
-        "animation: 3d"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": true,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 1,
-      "searchText": "greece – office machinery, equipment and supplies except computers, printers and furniture – 5/2026/21500 - προμήθεια εξοπλισμού για το τμήμα ψηφιακών τεχνών και κινηματογράφου  greece – office machinery, equipment and supplies except computers, printers and furniture – 5/2026/21500 - προμήθεια εξοπλισμού για το τμήμα ψηφιακών τεχνών και κινηματογράφου α/α περιγραφη ποσοτητα (τμχ) τμημα 1: arduino και εξαρτηματα 1.1 σταθμος κολλησης και θερμου αερα 15 1.2 αrduino plc opta lite 20 1.3 τροφοδοτικα plc 20 1.4 arduino uno r3 40 1.5 arduino uno r4 wifi 40 1.6 μοτοr driver l298n 30 1.7 πακέτο arduino science kit r3 17 τμημα 2: επεξεργαστες [cpus] + συστημα ψυξης 2.1 επεξεργαστες [cpus] + συστημα ψυξης 4 τμημα 3: μνήμη ram 64gb (2 x 32) 3.1 μνήμη ram 64gb (2 x 32) 6 τμημα 4: τροφοδοτικό υπολογιστή 4.1 τροφοδοτικό υπολογιστή 4 τμημα 5: κρανος vr 5.1 αυτόνομο κράνος εικονικής πραγματικότητας ι 2 5.2 αυτόνομο κράνος εικονικής πραγματικότητας ιι 5 5.3 κράνος εικονικής και επαυξημένης πραγματικότητας 2 5.4 trackers για κράνος εικονικής πραγματικότητας 4 τμημα 6: κάρτα γραφικών 6.1 κάρτα γραφικών 4 τμημα 7: υπολογιστής υψηλών προδιαγραφών για ανάπτυξη εφαρμογών εικονικής / εκτεταμένης πραγματικότη-τας 7.1 υπολογιστής υψηλών προδιαγραφών για ανάπτυξη εφαρμογών εικονικής / εκτεταμένης πραγματικότητας 2 τμημα 8: laptop για χρήση σε αλληλεπιδραστικές εγκαταστάσεις 8.1 laptop για χρήση σε αλληλεπιδραστικές εγκαταστάσεις 3 τμημα 9: στολές για motion capture 9.1 στολές για motion capture 2 τμημα 10: τηλεοπτικες οθονες και προβολικα συστηματα 10.1 τηλεοπτική συσκευή 50'' 4κ ultrahd 6 10.2 τηλεοπτική συσκευή 65'' 4κ ultrahd 3 10.3 τηλεοπτική συσκευή 85'' 4κ ultrahd 3 10.4 bασεις τηλεόρασης μεγάλες κυλιόμενες 2 10.5 προβολικά συστήματα laser 3lcd 1000 ansi lumen 1920x1080 5 10.6 προβολικά συστήματα 3000 ansi lumen 3840x2160 3 τμημα 11: λογισμικό emotiv pro για συσκευή bci emotiv epoc x 11.1 λογισμικό emotiv pro για συσκευή bci emotiv epoc x 1 τμημα 12: λογισμικό max/msp & jitter 12.1 λογισμικό max/msp & jitter 2 τμημα 13: λογισμικό touchdesigner της derivative 13.1 λογισμικό touchdesigner της derivative 2 τμημα 14: web camera 14.1 web camera 12 τμημα 15: tablet 10-12.5'' με wifi, υποδοχή sim, gps και υποστήριξη 5g 15.1 tablet 10-12.5'' με wifi υποδοχή sim gps και υποστήριξη 5g 3 τμημα 16: φωτιστικα σωματα 16.1 προβολέας white dmx τύπου par 3 16.2 προβολέας rgbw dmx τύπου spot 3 16.3 προβολέας rgbwa dmx 3 16.4 προβολέας flat rgbwauv dmx 3 τμημα 17: εξαρτηματα φυσικης υπολογιστικης ι 17.1 dmx shield for arduino 5 17.2 mp3 shield for arduino 5 17.3 infrared proximity sensors 20 17.4 dual motor driver module l298n 20 17.5 relay module - 4 channel 5v 20 17.6 καλώδιο πολύκλωνο 20 17.7 καλώδιο πολύκλωνο χρωματιστό 3 17.8 led strip white (με το μέτρο) 50 17.9 led strip rgb 5m 3 τμημα 18: cnc router 18.1 cnc router 1 τμημα 19: laser cutter 19.1 laser cutter 1 τμημα 20: 3d printer 20.1 3d printer 1 τμημα 21: εξαρτηματα φυσικης υπολογιστικης ιι 21.1 πλακέτα μικροελεγκτή με wifi για εφαρμογές internet of things 10 21.2 powerbank 10 21.3 πλακέτα μικροελεγκτή για wearable ηλεκτρονικά κυκλώματα 10 21.4 pressure-sensitive αγώγιμο φύλλο (pressure-sensitive conductive sheet) 10 21.5 ανοξείδωτο αγώγιμο νήμα (stainless conductive thread) 10 21.6 αισθητήρας καρδιακών παλμών και οξύμετρο 3 21.7 θερμικός εκτυπωτής (mini thermal printer) 2 21.8 γραμμικός ενεργοποιητής (linear actuator) 6 21.9 βάση στήριξης γραμμικού ενεργοποιητή 12 21.10 ηλεκτρομαγνήτης 10 21.11 ταινία led (addressable) 20 τμημα 22: ηχεια και καλωδια 22.1 studio ακουστικα κλειστου τυπου 2 22.2 πυκνωτικο μικροφωνο μικρου διαφραγματος 2 22.3 anαλογικος stereo master processor 1 22.4 anαλογικος στερεοφωνικος / διπλος μονοφωνικος / ms συμπιεστης 1 22.5 αυτοενισχυομενο hxeio monitor ι 6 22.6 αυτοενισχυομενο hxeio monitor ιι 1 22.7 βαση ηχειων 8 22.8 kαρτα ηχου με συνδεση usb type c 1 22.9 διπλος προενισχυτης μικροφωνου με ξεχωριστο d.i. 1 22.10 rack 19 1 22.11 stage box 12 εισοδων 4 εξοδων 1 22.12 patchbay 16 καναλιων 1 22.13 μικροφωνικο καλωδιο ι 2 22.14 μικροφωνικο καλωδιο ιι 10 22.15 καλωδιο 4 22.16 μικροφωνικο καλωδιο ιιι 8 22.17 επιδαπεδια βαση μικροφωνου 4 22.18 πυκνωτικο μικροφωνο μεγαλου διαφραγματος 2 22.19 nylon pop φιλτρο 2 22.20 stereo bar 1 22.21 tetραπλος ενισχυτης ακουστικων 1 22.22 υψηλης ποιοτητας 24-bit/192khz usb (type c) audio interface 1 22.23 stereo ακουστικο κλειστου τυπου 4 22.24 δυναμικο μικροφωνο φωνης υπερκαρδιοειδες 2 22.25 προσαρμοσιμος διανομεας ρευματος 1 22.26 αυτοενισχυόμενα ηχεία bluetooth (ζευγάρι) 30 22.27 εξωτερική καρτα ήχου με έξοδο 10 καναλιών 10 22.28 καλώδιο σύνδεσης ηχείων με κάρτα ήχου 5m 60 22.29 αναλογική κονσόλα ήχου 2 22.30 active di box 2 τμημα 23: φωτογραφικες καμερες και αξεσουαρ 23.1 κιτ κάμερα φωτογραφική s35 με φακό zoom και servoμηχανισμό και δυνα-τότητες βίντεο και ηχοληψίας 10 23.2 κάμερα βίντεο 4κ ποιότητας σήματος ως 10 bit εσωτερικής εγγραφής χωρίς εναλλάξιμο φακό με κιτ ήχου κα μικρού μεγέθους 3 23.3 μονόποδο με ακτινωτή βάση τριπόδου και υδραυλική κεφαλή βιντεο για κά-μερα ως 4 κιλά 10 23.4 μπαταρία για κάμερα φωτογραφική /βιντεο 30 23.5 τσάντα αποθήκευσης και μεταφοράς 13 τμημα 24: drone βάρους μικρότερο από 250 γρ σε συσκευασία combo 24.1 drone βάρους μικρότερο από 250 γρ σε συσκευασία combo 3 τμημα 25: καμερες vr και αξεσουαρ 25.1 καμερα vr 360 8k 5 25.2 μινι τριποδο για καμερα vr 360 8k 5 25.3 selfie stick για μινι τριποδο για κάμερα vr360 5 25.4 κάρτες μνήμης microsd 5 τμημα 26: air condition μονάδα φορητή 26.1 aircondition μονάδες φορητές 3 τμημα 27: ηλεκτρονικός υπολογιστής επιτραπέζιος 27.1 ηλεκτρονικός υπολογιστής επιτραπέζιος 3 τμημα 28: usb-c digital av multiport adapter 28.1 usb-c digital av multiport adapter 2 τμημα 29: επεξεργαστες [cpus] + συστημα ψυξης 29.1 επεξεργαστες [cpus] + συστημα ψυξης 40 τμημα 30: μνήμη ram 64gb (2 x 32) 30.1 μνήμη ram 64gb (2 x 32) 6 τμημα 31: μνήμη ram 32gb (2 x 16) 31.1 μνήμη ram 32gb (2 x 16) 14 τμημα 32: τροφοδοτικό υπολογιστή 32.1 τροφοδοτικό υπολογιστή 4 τμημα 33: air condition μονάδες τύπου οροφής 33.1 aircondition μοναδες τύπου οροφής 5 τμημα 34: λογισμικό επεξεργασίας βίντεο, διόρθωσης χρωμάτων, παραγωγής οπτικών εφέ και ήχου 34.1 λογισμικό επεξεργασίας βίντεο διόρθωσης χρωμάτων παραγωγής οπτικών εφέ και ήχο 3 [παραρτημα ι της διακήρυξης] εθνικό και καποδιστριακό πανεπιστήμιο αθηνών / ειδικός λογαριασμός κονδυλίων έρευνας greece",
-      "excerpt": "ης πραγματικότη-τας 7.1 Υπολογιστής υψηλών προδιαγραφών για ανάπτυξη εφαρμογών εικονικής / εκτεταμένης πραγματικότητας 2 ΤΜΗΜΑ 8: Laptop για χρήση σε αλληλεπιδραστικές εγκαταστάσεις 8.1 Laptop για χρήση σε αλληλεπιδραστικές εγκαταστάσεις 3 ΤΜΗΜΑ 9: Στολές για Motion Capture 9.1 Στολές για Motion Capture 2 ΤΜΗΜΑ 10: ΤΗΛΕΟΠΤΙΚΕΣ ΟΘΟΝΕΣ ΚΑΙ ΠΡΟΒΟΛΙΚΑ ΣΥΣΤΗΜΑΤΑ 10.1 Τηλεοπτική συσκευή 50'' 4Κ UltraHD 6 10.2 Τηλεοπτική συσκευή 65'' 4Κ UltraHD 3 10.3 Τηλεοπτική συσκευή 85'' 4Κ UltraHD 3 10.4 Bασεις τηλεόρασης μεγάλες κυλιόμενες 2 10.5 Προβολικά συστήματα Laser 3LCD 1000 Ansi Lumen 1920x1080 5 10.6 Προβολικά συστήματα 3000 Ansi Lumen 3840x2160 3 ΤΜΗΜΑ 11: Λογισμικό Emotiv PRO για συσκευή BCI Emotiv EPOC X 11.1 Λογισμικό Emotiv PRO για συσκευή BCI Emotiv EPOC X 1 ΤΜΗΜΑ 12: Λογισμικό Max/MSP & Jitter 12.1 Λογισμικό Max/MSP & Jitter 2 ΤΜΗΜΑ 13: Λογισμικό TouchDesigner της Derivative 13.1 Λογισμικό",
-      "probeScore": 0,
-      "probeDecision": "reject"
     },
     {
       "id": "OP00449109",
