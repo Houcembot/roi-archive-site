@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T18:33:50+00:00",
+  "generatedAt": "2026-06-27T08:40:58+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -25,8 +25,8 @@
       "mode": "public API expert query with deadline filter",
       "searchedTerms": 20,
       "errors": [
-        "motion capture: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n",
-        "simulation training: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n"
+        "avatar: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n",
+        "motion capture: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n"
       ]
     }
   ],
@@ -55,12 +55,12 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 103.75,
+  "durationSeconds": 96.08,
   "totalCandidates": 72,
   "summary": {
     "likely_fit": 14,
-    "review": 6,
-    "reject": 52
+    "review": 7,
+    "reject": 51
   },
   "items": [
     {
@@ -1071,6 +1071,59 @@
       "probeDecision": "review"
     },
     {
+      "id": "TED-375497-2026",
+      "title": "Norway – Boats – P1223 - Navigation training vessels - Pre-Qualification Phase",
+      "country": "Norway",
+      "projectCountry": "Norway",
+      "noticeType": "cn-standard",
+      "noticeDate": "2026-06-02",
+      "deadline": "2026-07-06",
+      "deadlineTime": "",
+      "project": "",
+      "buyer": "FORSVARSMATERIELL FORSVARSMATERIELL FORSVARSMATERIELL",
+      "contactEmail": "",
+      "reference": "375497-2026",
+      "method": "cn-standard",
+      "source": "TED EU Tenders",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/375497-2026",
+      "matchedTerms": [
+        "simulation training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [
+        "3d_vr: simulator"
+      ],
+      "segmentSignals": [
+        "formation: education, training"
+      ],
+      "archiveMatches": [
+        {
+          "capability": "vr_simulation",
+          "label": "VR / simulation / laboratoire virtuel",
+          "matchedTerms": [
+            "simulator"
+          ],
+          "archiveEvidence": [
+            "Unreal / MetaHumans / facial tracking",
+            "Projet Deformations",
+            "Pipeline temps réel"
+          ]
+        }
+      ],
+      "genericOnlyHits": [
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 1,
+      "titleSignalCount": 0,
+      "bodySignalCount": 1,
+      "searchText": "norway – boats – p1223 - navigation training vessels - pre-qualification phase  norway – boats – p1223 - navigation training vessels - pre-qualification phase this procurement covers the design, construction and delivery of two identical training vessels, with an option for two additional vessels (1+1) , to the norwegian armed forces. the vessels shall be used for education and training in military practical navigation, in order to ensure that the required competence of future navigators in the royal norwegian navy is maintained and further developed. the training concept is based on a recurring cycle of theoretical instruction, simulator training and practical navigation. the main teaching platform is the navigation system, which must be as close to identical as possible in the simulator and on board the vessels. in this context, the training vessels serve as a platform for bringing the navigation system to sea. the vessels shall be modern, reliable and representative of current standards, with primary emphasis on safe navigation, energy-efficient operation and pedagogical suitability. the vessels shall be built in accordance with civil (dnv) class. they shall be serially built, with a high degree of standardised civil components and subsystems, in order to ensure effective competition and keep operating costs at a low level. each vessel shall have a length of less than 24 metres, be capable of achieving a minimum speed of 18 knobs, and have a total installed engine power of less than 750 kw. the vessels shall be delivered fully equipped, including navigation systems and sensors, as well as the necessary support and documentation package for operation and maintenance. forsvarsmateriell forsvarsmateriell forsvarsmateriell norway",
+      "excerpt": "and training in military practical navigation, in order to ensure that the required competence of future navigators in the Royal Norwegian Navy is maintained and further developed. The training concept is based on a recurring cycle of theoretical instruction, simulator training and practical navigation. The main teaching platform is the navigation system, which must be as close to identical as possible in the simulator and on board the vessels. In this context, the training vessels serve as a platform for bringing the navigation system to sea. The vessels shall be modern, reliable and representative of current standards, with primary emphasis on safe navigation, energy-efficient operation and pedagogical suitability. The vessels shall be built in accordance with civil (DNV) class. They shall be serially built, with a high degree of standardised civil components and subsystems, in order t",
+      "probeScore": 30,
+      "probeDecision": "review"
+    },
+    {
       "id": "TED-424712-2026",
       "title": "Norway – Software package and information systems – Software licences and accompanying services.",
       "country": "Norway",
@@ -1668,48 +1721,6 @@
       "probeScore": 18,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "TED-411975-2026",
-      "title": "Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar",
-      "country": "Germany",
-      "projectCountry": "Germany",
-      "noticeType": "cn-standard",
-      "noticeDate": "2026-06-16",
-      "deadline": "2026-07-13",
-      "deadlineTime": "",
-      "project": "",
-      "buyer": "Techniker Krankenkasse",
-      "contactEmail": "",
-      "reference": "411975-2026",
-      "method": "cn-standard",
-      "source": "TED EU Tenders",
-      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/411975-2026",
-      "matchedTerms": [
-        "avatar"
-      ],
-      "titleSignals": [
-        "software_data: software"
-      ],
-      "bodySignals": [
-        "software_data: software"
-      ],
-      "segmentSignals": [
-        "rnd: software"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "software"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 1,
-      "bodySignalCount": 1,
-      "searchText": "germany – it services: consulting, software development, internet and support – fotorealistischer beratungsavatar  germany – it services: consulting, software development, internet and support – fotorealistischer beratungsavatar die techniker krankenkasse (tk) ist seit vielen jahren im bereich der internationalen beschäftigung aktiv und unterstützt unternehmen beim onboarding internationaler mitarbeitender - insbesondere bei fragen zur sozialversicherung. expatriates, die zum arbeiten nach deutschland kommen, können sich zudem bei der tk zu vielfältigen fragestellungen rund um ihre migration nach deutschland informieren, darunter insbesondere: - gesetzliche krankenversicherung und sozialversicherung in deutschland, - grundlegende abläufe im deutschen gesundheitswesen, - sozialversicherungsrechtliche besonderheiten bei internationalen beschäftigungsverhältnissen. - ergänzende informationen rund um den erwerbsmigrationsprozess . seit dem jahr 2025 können fragen an nicht-generative avatare gerichtet werden. alle einzelheiten ergeben sich aus den vergabeunterlagen. techniker krankenkasse germany",
-      "excerpt": "Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar Die Techniker Krankenkasse (TK) ist seit vielen Jahren im Bereich der internationalen Beschäftigung aktiv und unterstützt Unternehmen beim Onboarding internationaler Mitarbeitender - insbesondere bei Fragen zur Sozialversicherung. Expatriates, die zum Arbeiten nach Deutschland kommen, können sich zudem bei der TK zu vielfältigen Fragestellungen rund um ihre Migration nach Deutschland informieren, darunter insbesondere: - gesetzliche Krankenversicherung und Sozialversicherung in Deutschland, - grundlegende Abläufe im deutschen Gesundheitswesen, - sozialversicherungsrechtliche Besonderheiten bei internationalen Beschäftigungsverhältnissen. - ergänzende Informationen rund um den Erwerbsmigrationsprozess . Seit dem Jahr 2025 können Fragen an nicht-generative Avatare gerichtet wer",
-      "probeScore": 18,
-      "probeDecision": "reject"
     },
     {
       "id": "OP00451739",

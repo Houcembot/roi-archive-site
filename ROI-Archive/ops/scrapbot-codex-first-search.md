@@ -1,6 +1,6 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-26T18:33:50+00:00
+Genere: 2026-06-27T08:40:58+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
@@ -10,8 +10,8 @@ Genere: 2026-06-26T18:33:50+00:00
 ## Resultat
 - Candidats lus: 72
 - Likely fit: 14
-- A revoir: 6
-- Rejetes: 52
+- A revoir: 7
+- Rejetes: 51
 - Offres publiees dans le HUD: 6
 
 ## Top offres publiees / compatibles
@@ -93,6 +93,7 @@ Genere: 2026-06-26T18:33:50+00:00
 - Consulting services for the development of teaching and learning materials (TLM)  for the first cycle of study at the level of upper secondary education (10th grade) | World Bank Procurement Notices | Ukraine | deadline 2026-07-10 | score 35 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00447675
 - Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF. | TED EU Tenders | Spain | deadline 2026-07-20 | score 35 | https://ted.europa.eu/en/notice/-/detail/422270-2026
 - Netherlands – Photogrammetry services – Geografisch beeldmateriaal en bijbehorende dienstverlening | TED EU Tenders | Netherlands | deadline 2026-08-28 | score 35 | https://ted.europa.eu/en/notice/-/detail/357749-2026
+- Norway – Boats – P1223 - Navigation training vessels - Pre-Qualification Phase | TED EU Tenders | Norway | deadline 2026-07-06 | score 30 | https://ted.europa.eu/en/notice/-/detail/375497-2026
 - Norway – Software package and information systems – Software licences and accompanying services. | TED EU Tenders | Norway | deadline 2026-08-10 | score 28 | https://ted.europa.eu/en/notice/-/detail/424712-2026
 
 ## Rejets utiles pour audit

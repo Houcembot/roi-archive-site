@@ -1,7 +1,7 @@
 {
   "status": "termine",
   "stageNote": "ComBot prend la releve avec le document de synthese et les pistes retenues fit>=80.",
-  "updatedAt": "2026-06-26T08:10:00+01:00",
+  "updatedAt": "2026-06-27T08:10:03+01:00",
   "completedSearches": 100,
   "searches": [
     {
@@ -1474,45 +1474,45 @@
     {
       "status": "envoye",
       "channel": "#roi-archive",
-      "message": "Milestone 1/100 1519975774294114325"
+      "message": "Milestone 1/100 1520338182284251217"
     },
     {
       "status": "envoye",
       "channel": "#roi-archive",
-      "message": "Milestone 20/100 1519976254986518530"
+      "message": "Milestone 20/100 1520338663500808295"
     },
     {
       "status": "envoye",
       "channel": "#roi-archive",
-      "message": "Milestone 40/100 1519976761025106056"
+      "message": "Milestone 40/100 1520339169786855474"
     },
     {
       "status": "envoye",
       "channel": "#roi-archive",
-      "message": "ComBot preselection 1519977014612721837 / retenus=10"
+      "message": "ComBot preselection 1520339424666189954 / retenus=10"
     },
     {
       "status": "envoye",
       "channel": "#roi-archive",
-      "message": "Milestone 60/100 1519977269156778106"
+      "message": "Milestone 60/100 1520339678283432007"
     },
     {
       "status": "envoye",
       "channel": "#roi-archive",
-      "message": "Milestone 80/100 1519977775333638166"
+      "message": "Milestone 80/100 1520340184569217257"
     },
     {
       "status": "envoye",
       "channel": "#roi-archive",
-      "message": "Milestone 100/100 1519978281137344525"
+      "message": "Milestone 100/100 1520340690641354812"
     },
     {
       "status": "envoye",
       "channel": "#roi-archive / DM",
-      "message": "DM final 1519978285012881490 / channel 1515406640998907964"
+      "message": "DM final 1520340694420557884 / channel 1515406640998907964"
     }
   ],
   "sourceCount": 5,
   "queryCount": 20,
-  "firstRun": "2026-06-26T08:00:00+01:00"
+  "firstRun": "2026-06-27T08:00:03+01:00"
 }
