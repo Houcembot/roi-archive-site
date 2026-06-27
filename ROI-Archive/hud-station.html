@@ -305,6 +305,7 @@
     border-color:var(--line-soft);
     background:#060907;
   }
+  .trigger-status{ display:block; margin-top:6px; font-size:12px; color:#8b9689; }
   .control-grid{
     display:grid;
     grid-template-columns:1fr 1fr;
@@ -892,6 +893,8 @@
           <label class="day-toggle"><input type="checkbox" data-search-day="saturday"><span>Sam</span></label>
         </div>
         <button id="saveSearchControl" class="control-button" type="button">Appliquer le planning</button>
+        <button id="forceSearch" class="control-button" type="button">⟳ Forcer une recherche</button>
+        <span id="trigger-status" class="trigger-status"></span>
         <p id="searchControlNote" class="control-note">Connexion au contrôle local.</p>
       </section>
       <section class="side-section" style="padding-bottom:8px">
@@ -964,6 +967,7 @@
   const LIVE_STATE_URL = "ops/live-day-state.json";
   const LAND_URL = "ops/world-land-110m.geojson";
   const REFRESH_MS = 60000;
+  const WORKER_URL = "https://roi-archive-trigger.houcemben.workers.dev"; // remplacé par l'URL réelle (Task 2)
   let __refreshTimer = null;
   const state = {
     payload: null,
@@ -1857,6 +1861,52 @@
   els.saveSearchControl.addEventListener("click", () => {
     sendSearchControl("/api/search/config", readSearchControlInputs());
   });
+  let __triggerPoll = null;
+  function setTriggerStatus(t){ const el = document.getElementById('trigger-status'); if(el) el.textContent = t; }
+  async function forceSearch(){
+    let pass = localStorage.getItem('roiTriggerPass');
+    if(!pass){ pass = prompt('Passphrase de recherche :') || ''; if(!pass) return; localStorage.setItem('roiTriggerPass', pass); }
+    // generatedAt courant : on attendra qu'il CHANGE (sinon on lit l'ancien JSON pas encore rebuildé par Pages)
+    const baseGen = (state.payload && state.payload.generatedAt) || "";
+    setTriggerStatus('Lancement…');
+    try{
+      const r = await fetch(`${WORKER_URL}/request`, { method:'POST', headers:{ 'x-roi-pass': pass } });
+      if(r.status === 401){ localStorage.removeItem('roiTriggerPass'); setTriggerStatus('Passphrase invalide.'); return; }
+      if(r.status === 429){ const b = await r.json().catch(()=>({})); setTriggerStatus(`Trop tôt — réessaie dans ${Math.ceil((b.retryInSec||0)/60)} min.`); return; }
+      if(r.status === 409){ setTriggerStatus('Une recherche est déjà en cours.'); pollTrigger(baseGen); return; }
+      if(!r.ok){ setTriggerStatus('Service indisponible.'); return; }
+      setTriggerStatus('Recherche lancée…'); pollTrigger(baseGen);
+    }catch(e){ setTriggerStatus('Service injoignable.'); }
+  }
+  function pollTrigger(baseGen){
+    const started = Date.now();
+    let publishedSeen = false;             // phase 1 = sonde /status ; phase 2 = attend que Pages serve le nouveau JSON
+    if(__triggerPoll) clearInterval(__triggerPoll);
+    __triggerPoll = setInterval(async () => {
+      if(Date.now() - started > 15*60*1000){ clearInterval(__triggerPoll); setTriggerStatus('Délai dépassé — réessaie plus tard.'); return; }
+      try{
+        if(!publishedSeen){
+          const s = await (await fetch(`${WORKER_URL}/status?ts=${Date.now()}`, {cache:'no-store'})).json();
+          const st = s.state || {};
+          if(st.status === 'running'){ setTriggerStatus('Recherche en cours…'); }
+          else if(st.status === 'queued'){ setTriggerStatus('En file…'); }
+          else if(st.status === 'error'){ clearInterval(__triggerPoll); setTriggerStatus(`Erreur : ${st.message||'inconnue'}`); }
+          else if(st.status === 'published'){ publishedSeen = true; setTriggerStatus(`Publié (${st.offers||0}) — mise en ligne…`); }
+        } else {
+          // GitHub Pages met quelques minutes à servir le nouveau verified-opportunities.json
+          const d = await (await fetch(`${DATA_URL}?ts=${Date.now()}`, {cache:'no-store'})).json();
+          if(d && d.generatedAt && d.generatedAt !== baseGen){
+            clearInterval(__triggerPoll);
+            setTriggerStatus(`À jour — ${d.total||0} offres.`);
+            loadState();                    // re-render complet avec les données fraîches
+          } else {
+            setTriggerStatus('Mise en ligne en cours…');
+          }
+        }
+      }catch(e){ /* transitoire, on continue */ }
+    }, 5000);
+  }
+  document.getElementById('forceSearch').addEventListener('click', forceSearch);
   els.countryList.addEventListener("click", (event) => {
     const button = event.target.closest("[data-country]");
     if(button) selectCountry(button.dataset.country);
