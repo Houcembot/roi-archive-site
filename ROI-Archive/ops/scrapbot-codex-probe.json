@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T15:01:14+00:00",
+  "generatedAt": "2026-06-27T17:08:08+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -52,7 +52,7 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 97.42,
+  "durationSeconds": 88.46,
   "totalCandidates": 83,
   "summary": {
     "likely_fit": 14,
@@ -2173,37 +2173,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00450655",
-      "title": "“CIERRE DE BRECHAS Y ESTUDIOS COMPLEMENTARIOS PARA LOS PROYECTOS SELECCIONADOS BAJO EL PROGRAMA MULTISECTORIAL DEL BDE B.P.”",
-      "country": "Ecuador",
-      "projectCountry": "Ecuador",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "24-Jun-2026",
-      "deadline": "2026-07-01",
-      "project": "Ecuador Green and Resilient Infrastructure Project",
-      "buyer": "Banco de Desarrollo del Ecuador",
-      "contactEmail": "Gary.Coronel@bde.fin.ec",
-      "reference": "EC-BDE-548807-CS-FBS",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450655",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "AMPLIACIÓN DE PLAZO INVITACIÓN PARA LA PRESENTACIÓN DE EXPRESIONES DE INTERÉS SERVICIOS DE CONSULTORÍA “CIERRE DE BRECHAS Y ESTUDIOS COMPLEMENTARIOS PARA LOS PROYECTOS SELECCIONADOS BAJO EL PROGRAMA MULTISECTORIAL DEL BDE B.P.” REFERENCIA: EC-BDE-548807-CS-FBS El Banco de Desarrollo del Ecuador B.P. (BDE B.P.) y el Banco Mundial (BM) suscribieron un Acuerdo de Donación el 30 de junio de 2025, con el objetivo de apoyar la preparación del “Proyecto de Infraestructura Verde y Resiliente del Ecuador”, mediante la validación y mejora de la calidad técnica del portafolio de subproyectos, el desarrollo de instrumentos clave para su implementación y el fortalecimiento de las capacidades institucionales del BDE B.P. en materia fiduciaria, ambiental y social. Parte de los recursos de esta donación serán destinados a la contratación de servicios de consultoría. Para el efecto, se deberá contar con",
-      "probeScore": 13,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "OP00445744",
       "title": "Recrutement d'une firme/bureau d'études pour une mission de maitrise d’œuvre complète des travaux de reboisement/végétalisation et d’aménagement urbain y compris la sensibilisation et la formation dans les villes de Bangui et Berberati.",
       "country": "Central African Republic",
@@ -2232,6 +2201,37 @@
       "titleSignalCount": 0,
       "bodySignalCount": 0,
       "excerpt": "REPUBLIQUE CENTRAFRICAINE Unité – Dignité – Travail ******* MINISTERE CHARGE DE L’URBANISME, DE LA REFORME FONCIERE, DE LA VILLE ET DE L’HABITAT ******* Projet des Villes Inclusives et Résilientes (PROVIR) ADDENDUM N°1 Réf. : Projet des Villes Inclusives et Résilientes en RCA (PROVIR ). Sollicitation de Manifestation d’Intérêt - sélection/ r ecrutement d’une firme (bureau d’études) pour la mise en œuvre complète incluant : études techniques de reboisement/végétalisation et d’aménagement urbain, assistance à la passation des marchés, supervision des travaux ainsi que les activités de sensibilisation et de formation dans les villes de Bangui et Berberati. Financement : Banque mondiale - IDA P 178774 V4960 – CF Objet : Report de la date et l’heure de dépôt des manifestations d’intérêt. À la suite d'observations formulées par un candidat potentiel concernant les modalités de soumission, il a",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00450655",
+      "title": "“CIERRE DE BRECHAS Y ESTUDIOS COMPLEMENTARIOS PARA LOS PROYECTOS SELECCIONADOS BAJO EL PROGRAMA MULTISECTORIAL DEL BDE B.P.”",
+      "country": "Ecuador",
+      "projectCountry": "Ecuador",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "24-Jun-2026",
+      "deadline": "2026-07-01",
+      "project": "Ecuador Green and Resilient Infrastructure Project",
+      "buyer": "Banco de Desarrollo del Ecuador",
+      "contactEmail": "Gary.Coronel@bde.fin.ec",
+      "reference": "EC-BDE-548807-CS-FBS",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450655",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "AMPLIACIÓN DE PLAZO INVITACIÓN PARA LA PRESENTACIÓN DE EXPRESIONES DE INTERÉS SERVICIOS DE CONSULTORÍA “CIERRE DE BRECHAS Y ESTUDIOS COMPLEMENTARIOS PARA LOS PROYECTOS SELECCIONADOS BAJO EL PROGRAMA MULTISECTORIAL DEL BDE B.P.” REFERENCIA: EC-BDE-548807-CS-FBS El Banco de Desarrollo del Ecuador B.P. (BDE B.P.) y el Banco Mundial (BM) suscribieron un Acuerdo de Donación el 30 de junio de 2025, con el objetivo de apoyar la preparación del “Proyecto de Infraestructura Verde y Resiliente del Ecuador”, mediante la validación y mejora de la calidad técnica del portafolio de subproyectos, el desarrollo de instrumentos clave para su implementación y el fortalecimiento de las capacidades institucionales del BDE B.P. en materia fiduciaria, ambiental y social. Parte de los recursos de esta donación serán destinados a la contratación de servicios de consultoría. Para el efecto, se deberá contar con",
       "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
