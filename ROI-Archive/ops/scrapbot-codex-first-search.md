@@ -1,17 +1,17 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-27T08:40:58+00:00
+Genere: 2026-06-27T10:47:09+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 20 requetes, 2 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
 
 ## Resultat
-- Candidats lus: 72
+- Candidats lus: 83
 - Likely fit: 14
-- A revoir: 7
-- Rejetes: 51
+- A revoir: 9
+- Rejetes: 60
 - Offres publiees dans le HUD: 6
 
 ## Top offres publiees / compatibles
@@ -88,15 +88,18 @@ Genere: 2026-06-27T08:40:58+00:00
 - Extrait: Germany – Video equipment – Medientechnik & Systemintegration für Neugestaltung Bundesliga-Bereich Im Zuge der Teilüberarbeitung der Dauerausstellung im Deutschen Fußballmuseum wird der Inszenierungsbereich „Bundesliga“ gestalterisch und technisch komplett neu aufgestellt. Das Kernstück bildet eine immersive AV-Installation, bestehend aus einer mehrkanaligen Videoprojektion und einer raumgreifenden Beschallungsanlage
 
 ## A revoir
+- Ireland – Miscellaneous evaluation or testing instruments – UL1066 Lot 1 Mobile Robot Motion Capture System, Lot 2 Compact Autonomous Surface Vehicle (ASV) for Hydrographic Survey Unmanned Surface Vehicle (ASV) to the University of Limerick | TED EU Tenders | Ireland | deadline 2026-07-02 | score 40 | https://ted.europa.eu/en/notice/-/detail/406080-2026
 - Consultancy on Climate Change Simulation Models development to assess impacts on Crop Productivity, Pasture Conditions, and Transboundary Pest Outbreaks | World Bank Procurement Notices | Djibouti | deadline 2026-07-10 | score 40 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453808
 - Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF. | TED EU Tenders | Spain | deadline 2026-07-03 | score 35 | https://ted.europa.eu/en/notice/-/detail/379732-2026
 - Consulting services for the development of teaching and learning materials (TLM)  for the first cycle of study at the level of upper secondary education (10th grade) | World Bank Procurement Notices | Ukraine | deadline 2026-07-10 | score 35 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00447675
+- Consultancy on Identification, Gathering, Organizing, and digitizing agro climatic Datasets for Integration into the IGAD Ground Water Information System | World Bank Procurement Notices | Djibouti | deadline 2026-07-10 | score 35 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454125
 - Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF. | TED EU Tenders | Spain | deadline 2026-07-20 | score 35 | https://ted.europa.eu/en/notice/-/detail/422270-2026
 - Netherlands – Photogrammetry services – Geografisch beeldmateriaal en bijbehorende dienstverlening | TED EU Tenders | Netherlands | deadline 2026-08-28 | score 35 | https://ted.europa.eu/en/notice/-/detail/357749-2026
 - Norway – Boats – P1223 - Navigation training vessels - Pre-Qualification Phase | TED EU Tenders | Norway | deadline 2026-07-06 | score 30 | https://ted.europa.eu/en/notice/-/detail/375497-2026
 - Norway – Software package and information systems – Software licences and accompanying services. | TED EU Tenders | Norway | deadline 2026-08-10 | score 28 | https://ted.europa.eu/en/notice/-/detail/424712-2026
 
 ## Rejets utiles pour audit
+- no-archive-match: Consultancy on Development of a Spatial Decision Support System for Real-Time Monitoring and Analysis of Crop, Rangeland, and Pest Conditions | World Bank Procurement Notices | Djibouti | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454117
 - no-archive-match: Aquisição de uma Plataforma de Ensino a Distância | World Bank Procurement Notices | Angola | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453514
 - no-archive-match: Consultancy Services for the improvement of teacher deployments | World Bank Procurement Notices | Malawi | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453235
 - no-archive-match: Consultancy Services for the measurement of improved foundational learning | World Bank Procurement Notices | Malawi | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453238
@@ -108,6 +111,5 @@ Genere: 2026-06-27T08:40:58+00:00
 - no-archive-match: Monitoring & Evaluation Specialist | World Bank Procurement Notices | Pakistan | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453626
 - no-archive-match: Assessment Specialist Consultant - C1 | World Bank Procurement Notices | Pakistan | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453622
 - no-archive-match: Public Expenditure and Institutional Reviews | World Bank Procurement Notices | South Africa | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450547
-- no-archive-match: Consultancy Services for TA for Improved Teaching Content, Practices and Supervision System | World Bank Procurement Notices | Malawi | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453241
 
 Fichier brut: `ops/scrapbot-codex-probe.json`

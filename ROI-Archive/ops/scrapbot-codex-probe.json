@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T08:40:58+00:00",
+  "generatedAt": "2026-06-27T10:47:09+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -23,11 +23,8 @@
       "url": "https://api.ted.europa.eu/v3/notices/search",
       "status": "active",
       "mode": "public API expert query with deadline filter",
-      "searchedTerms": 20,
-      "errors": [
-        "avatar: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n",
-        "motion capture: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n"
-      ]
+      "searchedTerms": 22,
+      "errors": []
     }
   ],
   "queryTerms": [
@@ -55,12 +52,12 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 96.08,
-  "totalCandidates": 72,
+  "durationSeconds": 106.94,
+  "totalCandidates": 83,
   "summary": {
     "likely_fit": 14,
-    "review": 7,
-    "reject": 51
+    "review": 9,
+    "reject": 60
   },
   "items": [
     {
@@ -840,6 +837,60 @@
       "probeDecision": "likely_fit"
     },
     {
+      "id": "TED-406080-2026",
+      "title": "Ireland – Miscellaneous evaluation or testing instruments – UL1066 Lot 1 Mobile Robot Motion Capture System, Lot 2 Compact Autonomous Surface Vehicle (ASV) for Hydrographic Survey Unmanned Surface Vehicle (ASV) to the University of Limerick",
+      "country": "Ireland",
+      "projectCountry": "Ireland",
+      "noticeType": "cn-standard",
+      "noticeDate": "2026-06-12",
+      "deadline": "2026-07-02",
+      "deadlineTime": "",
+      "project": "",
+      "buyer": "University of Limerick_1124",
+      "contactEmail": "",
+      "reference": "406080-2026",
+      "method": "cn-standard",
+      "source": "TED EU Tenders",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/406080-2026",
+      "matchedTerms": [
+        "motion capture"
+      ],
+      "titleSignals": [],
+      "bodySignals": [
+        "3d_vr: 3d"
+      ],
+      "segmentSignals": [
+        "animation: 3d",
+        "rnd: research"
+      ],
+      "archiveMatches": [
+        {
+          "capability": "rnd_ia_visual",
+          "label": "R&D IA visuelle / temps réel",
+          "matchedTerms": [
+            "real-time 3d"
+          ],
+          "archiveEvidence": [
+            "ComfyUI + n8n",
+            "Avatar IRIS",
+            "IASOBOT",
+            "Unreal / MetaHumans / facial tracking",
+            "34 signaux avatar_robot_unreal"
+          ]
+        }
+      ],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 1,
+      "titleSignalCount": 0,
+      "bodySignalCount": 1,
+      "searchText": "ireland – miscellaneous evaluation or testing instruments – ul1066 lot 1 mobile robot motion capture system, lot 2 compact autonomous surface vehicle (asv) for hydrographic survey unmanned surface vehicle (asv) to the university of limerick  ireland – miscellaneous evaluation or testing instruments – ul1066 lot 1 mobile robot motion capture system, lot 2 compact autonomous surface vehicle (asv) for hydrographic survey unmanned surface vehicle (asv) to the university of limerick university of limerick request the supply of a mobile robot motion capture system for the localisation and tracking of mobile robotic platforms within an indoor laboratory environment. the purpose of the instrument is to provide high-accuracy, low-latency, real-time 3d positional and orientation data for multiple aerial, ground and surface robotic vehicles operating simultaneously within a defined capture volume. the system will support research, teaching and industrial collaboration in autonomous systems, multi-agent robotics, navigation and human–robot interaction. the supply of a compact autonomous surface vehicle (asv) for hydrographic survey for inshore hydrographic and bathymetric survey applications. the purpose of the instrument is to enable autonomous and remote-controlled survey operations in shallow inshore waters, rivers and lakes, supporting multibeam sonar bathymetric mapping, water-quality profiling, and environmental data collection. the system will support research and teaching at ul cris and provide a versatile, compact, easily transportable survey platform for use across coastal, estuarine and inland waterbody applications. university of limerick request the supply of a mobile robot motion capture system for the localisation and tracking of mobile robotic platforms within an indoor laboratory environment. the purpose of the instrument is to provide high-accuracy, low-latency, real-time 3d positional and orientation data for multiple aerial, ground and surface robotic vehicles operating simultaneously within a defined capture volume. the system will support research, teaching and industrial collaboration in autonomous systems, multi-agent robotics, navigation and human–robot interaction. the supply of a compact autonomous surface vehicle (asv) for hydrographic survey for inshore hydrographic and bathymetric survey applications. the purpose of the instrument is to enable autonomous and remote-controlled survey operations in shallow inshore waters, rivers and lakes, supporting multibeam sonar bathymetric mapping, water-quality profiling, and environmental data collection. the system will support research and teaching at ul cris and provide a versatile, compact, easily transportable survey platform for use across coastal, estuarine and inland waterbody applications. university of limerick_1124 ireland",
+      "excerpt": "Ireland – Miscellaneous evaluation or testing instruments – UL1066 Lot 1 Mobile Robot Motion Capture System, Lot 2 Compact Autonomous Surface Vehicle (ASV) for Hydrographic Survey Unmanned Surface Vehicle (ASV) to the University of Limerick University of Limerick request the supply of a Mobile Robot Motion Capture System for the localisation and tracking of mobile robotic platforms within an indoor laboratory environment. The purpose of the instrument is to provide high-accuracy, low-latency, real-time 3D positional and orientation data for multiple aerial, ground and surface robotic vehicles operating simultaneously within a defined capture volume. The system will support research, teaching and industrial collaboration in autonomous systems, multi-agent robotics, navigation and human–robot interaction. The supply of a Compact Autonomous Surface Vehicle (ASV) for Hydrographic Survey for",
+      "probeScore": 40,
+      "probeDecision": "review"
+    },
+    {
       "id": "OP00453808",
       "title": "Consultancy on Climate Change Simulation Models development to assess impacts on Crop Productivity, Pasture Conditions, and Transboundary Pest Outbreaks",
       "country": "Djibouti",
@@ -937,7 +988,7 @@
       "country": "Ukraine",
       "projectCountry": "Ukraine",
       "noticeType": "Request for Expression of Interest",
-      "noticeDate": "25-Jun-2026",
+      "noticeDate": "26-Jun-2026",
       "deadline": "2026-07-10",
       "project": "Lifting Education Access and Resilience in times of Need in Ukraine Program",
       "buyer": "Ministry of Education and Science of Ukraine",
@@ -970,6 +1021,48 @@
       "titleSignalCount": 1,
       "bodySignalCount": 2,
       "excerpt": "FOR EXPRESSIONS OF INTEREST (CONSULTING SERVICES - FIRMS SELECTION) Country: Ukraine Name of Project: Lifting Education Access and Resilience in Times of Need in Ukraine Program Grant No.: TF0C5794 Assignment Title: Consulting services for the development of teaching and learning materials (TLM) for the first cycle of study at the level of upper secondary education (10th grade) Reference No . (as per Procurement Plan): LEARN-1.1-TLM 10 The objectives of the LEARN are: to (i) improve teaching and learning conditions; and (ii) to strengthen the management capacity of the education system. The total financing for the Operation is US$451 million using a combination of the World Bank's financial instruments: Program-for-Results (PforR) complemented by Investment Project Financing (IPF). The MoES intends to apply part of the grant proceeds to eligible payments for consulting services for whic",
+      "probeScore": 35,
+      "probeDecision": "review",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00454125",
+      "title": "Consultancy on Identification, Gathering, Organizing, and digitizing agro climatic Datasets for Integration into the IGAD Ground Water Information System",
+      "country": "Djibouti",
+      "projectCountry": "Eastern and Southern Africa",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "26-Jun-2026",
+      "deadline": "2026-07-10",
+      "project": "Food Systems Resilience Program for Eastern and Southern Africa",
+      "buyer": "Intergovernmental Authority on Development",
+      "contactEmail": "senait.regassa@igad.int",
+      "reference": "DJ-IGAD-555870-CS-INDV",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454125",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [
+        "software_data: information system"
+      ],
+      "bodySignals": [
+        "software_data: information system",
+        "creative_comm: documentary"
+      ],
+      "segmentSignals": [
+        "formation: curriculum, skills, training",
+        "rnd: information system"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "information system",
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 1,
+      "bodySignalCount": 2,
+      "excerpt": "OOD SYSTEMS RESILIENCE PROGRAM FOR EASTERN AND SOUTHERN AFRICA Project No.: (P178566) Grant No: IDA-E 0820 Assignment Title: Consultancy on Identification, Gathering, Organising, and digitising Agro-climatic Datasets for Integration into the IGAD Ground Water Information System Contract No.: DJ-IGAD-555870-CS-INDV The Intergovernmental Authority on Development (IGAD) has received financing from International Development Agency (IDA) towards the cost of the Food systems resilience program for Eastern and Southern Africa and intends to apply part of the proceeds of this Grant to payments under this contract: Consultancy on Identification, Gathering, Organising, and digitising agro climatic Datasets for Integration into the IGAD Ground Water Information System The objective of the assignment: The purpose of this consultancy is to identify, collect, and prepare relevant agroclimatic datasets",
       "probeScore": 35,
       "probeDecision": "review",
       "source": "World Bank Procurement Notices"
@@ -1166,6 +1259,47 @@
       "excerpt": "Norway – Software package and information systems – Software licences and accompanying services. Licences not included in other sub-contracts are included in this, which we have called other software. See the detailed description under Sub-Contract 1 - Other Software. The contracting authority and the entities require good tools for editing pictures, video and audio. The current supplier mainly consists of Adobe licences. See further description under Sub-Contract 2 - Media Production. DIO uses a system from Commvault in disciplines for back-up and local storage of e-mail boxes. There will be a need for the system going forward as well, but there will be changes on the licence model based on the manufacturer making changes here. See the detailed description under sub-contract 3 Back-up system. See the approaching description under Sub-Contract 4 Virtualisation. DIO is in the process of c",
       "probeScore": 28,
       "probeDecision": "review"
+    },
+    {
+      "id": "OP00454117",
+      "title": "Consultancy on Development of a Spatial Decision Support System for Real-Time Monitoring and Analysis of Crop, Rangeland, and Pest Conditions",
+      "country": "Djibouti",
+      "projectCountry": "Eastern and Southern Africa",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "26-Jun-2026",
+      "deadline": "2026-07-10",
+      "project": "Food Systems Resilience Program for Eastern and Southern Africa",
+      "buyer": "Intergovernmental Authority on Development",
+      "contactEmail": "senait.regassa@igad.int",
+      "reference": "DJ-IGAD-556167-CS-INDV",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454117",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [
+        "digital_learning: digital platform",
+        "software_data: api development, data visualization, geospatial, software"
+      ],
+      "segmentSignals": [
+        "formation: skills, training",
+        "rnd: api development, software"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "digital platform",
+        "software",
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 5,
+      "excerpt": "stem for Monitoring Crop Conditions, Pasture and Rangeland Dynamics, and Transboundary Pest Risks in the IGAD Region 1.The objective of the assignment: The purpose of the consultancy is to develop a secure, scalable, interoperable, and user-friendly GIS-based digital platform that integrates and visualizes analytical products generated by crop, pasture, rangeland, and pest modellers. The platform will support the routine monitoring of agricultural and environmental conditions and improve access to actionable early warning information for regional and national decision-makers. More information is provided in the ToRS attached/ available upon request. 2.Expected Outputs and Deliverables The following deliverables are expected from this consultancy: Inception Report and System Requirements Specification: Detailed methodology, work plan, stakeholder requirements, functional and non-functiona",
+      "probeScore": 38,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
     },
     {
       "id": "OP00453514",
@@ -1723,6 +1857,48 @@
       "source": "World Bank Procurement Notices"
     },
     {
+      "id": "TED-411975-2026",
+      "title": "Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar",
+      "country": "Germany",
+      "projectCountry": "Germany",
+      "noticeType": "cn-standard",
+      "noticeDate": "2026-06-16",
+      "deadline": "2026-07-13",
+      "deadlineTime": "",
+      "project": "",
+      "buyer": "Techniker Krankenkasse",
+      "contactEmail": "",
+      "reference": "411975-2026",
+      "method": "cn-standard",
+      "source": "TED EU Tenders",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/411975-2026",
+      "matchedTerms": [
+        "avatar"
+      ],
+      "titleSignals": [
+        "software_data: software"
+      ],
+      "bodySignals": [
+        "software_data: software"
+      ],
+      "segmentSignals": [
+        "rnd: software"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "software"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 1,
+      "bodySignalCount": 1,
+      "searchText": "germany – it services: consulting, software development, internet and support – fotorealistischer beratungsavatar  germany – it services: consulting, software development, internet and support – fotorealistischer beratungsavatar die techniker krankenkasse (tk) ist seit vielen jahren im bereich der internationalen beschäftigung aktiv und unterstützt unternehmen beim onboarding internationaler mitarbeitender - insbesondere bei fragen zur sozialversicherung. expatriates, die zum arbeiten nach deutschland kommen, können sich zudem bei der tk zu vielfältigen fragestellungen rund um ihre migration nach deutschland informieren, darunter insbesondere: - gesetzliche krankenversicherung und sozialversicherung in deutschland, - grundlegende abläufe im deutschen gesundheitswesen, - sozialversicherungsrechtliche besonderheiten bei internationalen beschäftigungsverhältnissen. - ergänzende informationen rund um den erwerbsmigrationsprozess . seit dem jahr 2025 können fragen an nicht-generative avatare gerichtet werden. alle einzelheiten ergeben sich aus den vergabeunterlagen. techniker krankenkasse germany",
+      "excerpt": "Germany – IT services: consulting, software development, Internet and support – Fotorealistischer Beratungsavatar Die Techniker Krankenkasse (TK) ist seit vielen Jahren im Bereich der internationalen Beschäftigung aktiv und unterstützt Unternehmen beim Onboarding internationaler Mitarbeitender - insbesondere bei Fragen zur Sozialversicherung. Expatriates, die zum Arbeiten nach Deutschland kommen, können sich zudem bei der TK zu vielfältigen Fragestellungen rund um ihre Migration nach Deutschland informieren, darunter insbesondere: - gesetzliche Krankenversicherung und Sozialversicherung in Deutschland, - grundlegende Abläufe im deutschen Gesundheitswesen, - sozialversicherungsrechtliche Besonderheiten bei internationalen Beschäftigungsverhältnissen. - ergänzende Informationen rund um den Erwerbsmigrationsprozess . Seit dem Jahr 2025 können Fragen an nicht-generative Avatare gerichtet wer",
+      "probeScore": 18,
+      "probeDecision": "reject"
+    },
+    {
       "id": "OP00451739",
       "title": "Technical Assistance for Institutional Development Support for the RPUC to Strengthen Key Utility Functions",
       "country": "Mauritius",
@@ -1997,39 +2173,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00445744",
-      "title": "Recrutement d'une firme/bureau d'études pour une mission de maitrise d’œuvre complète des travaux de reboisement/végétalisation et d’aménagement urbain y compris la sensibilisation et la formation dans les villes de Bangui et Berberati.",
-      "country": "Central African Republic",
-      "projectCountry": "Central African Republic",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "24-Jun-2026",
-      "deadline": "2026-07-01",
-      "project": "CAR Inclusive and Resilient Cities Project",
-      "buyer": "Project Implementation Unit- PROVIR",
-      "contactEmail": "bellet.23ap81@gmail.com",
-      "reference": "CF-PIU-PROVIR-529189-CS-QCBS",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445744",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: formation"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "REPUBLIQUE CENTRAFRICAINE Unité – Dignité – Travail ******* MINISTERE CHARGE DE L’URBANISME, DE LA REFORME FONCIERE, DE LA VILLE ET DE L’HABITAT ******* Projet des Villes Inclusives et Résilientes (PROVIR) ADDENDUM N°1 Réf. : Projet des Villes Inclusives et Résilientes en RCA (PROVIR ). Sollicitation de Manifestation d’Intérêt - sélection/ r ecrutement d’une firme (bureau d’études) pour la mise en œuvre complète incluant : études techniques de reboisement/végétalisation et d’aménagement urbain, assistance à la passation des marchés, supervision des travaux ainsi que les activités de sensibilisation et de formation dans les villes de Bangui et Berberati. Financement : Banque mondiale - IDA P 178774 V4960 – CF Objet : Report de la date et l’heure de dépôt des manifestations d’intérêt. À la suite d'observations formulées par un candidat potentiel concernant les modalités de soumission, il a",
-      "probeScore": 13,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "OP00450655",
       "title": "“CIERRE DE BRECHAS Y ESTUDIOS COMPLEMENTARIOS PARA LOS PROYECTOS SELECCIONADOS BAJO EL PROGRAMA MULTISECTORIAL DEL BDE B.P.”",
       "country": "Ecuador",
@@ -2061,18 +2204,18 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00451442",
-      "title": "Recrutement d'un Consultant International pour la  mise en place d’une base de données et la formation sur le suivi de l’Evolution des couvertures forestières et des dégradations aux Comores",
-      "country": "Comoros",
-      "projectCountry": "Eastern and Southern Africa",
+      "id": "OP00445744",
+      "title": "Recrutement d'une firme/bureau d'études pour une mission de maitrise d’œuvre complète des travaux de reboisement/végétalisation et d’aménagement urbain y compris la sensibilisation et la formation dans les villes de Bangui et Berberati.",
+      "country": "Central African Republic",
+      "projectCountry": "Central African Republic",
       "noticeType": "Request for Expression of Interest",
-      "noticeDate": "19-Jun-2026",
-      "deadline": "2026-07-02",
-      "project": "Food Systems Resilience Program for Eastern and Southern Africa (Phase 3) FSRP",
-      "buyer": "FSRP KM Management Unit",
-      "contactEmail": "alimgomri26@gmail.com",
-      "reference": "KM-FSRP KM-431270-CS-INDV",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451442",
+      "noticeDate": "24-Jun-2026",
+      "deadline": "2026-07-01",
+      "project": "CAR Inclusive and Resilient Cities Project",
+      "buyer": "Project Implementation Unit- PROVIR",
+      "contactEmail": "bellet.23ap81@gmail.com",
+      "reference": "CF-PIU-PROVIR-529189-CS-QCBS",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00445744",
       "matchedTerms": [
         "training"
       ],
@@ -2088,7 +2231,7 @@
       "archiveCapabilityCount": 0,
       "titleSignalCount": 0,
       "bodySignalCount": 0,
-      "excerpt": "AVIS D’APPEL A MANIFESTATION D’INTERETS Objet : Recrutement d’un(e) Consultant(e) International(e) pour la mise en place et formation sur une base des données de la couverture forestière en Union des Comores. Le Gouvernement de l’Union des Comores, à travers le Ministère de l’Agriculture, de la Pêche et de l’Artisanat, met en œuvre le Projet de Résilience des Systèmes Alimentaires aux Comores (FSRP-KM) financé par la Banque mondiale. Dans le cadre de la gestion résiliente des paysages et des bassins versants du projet, la Coordination Nationale lance un Appel à manifestation d’intérêts pour le recrutement d’un(e) Consultant(e) International(e) pour la mise en place et formation sur une base des données de la couverture forestière en Union des Comores Pour avoir plus d’informations sur l’Appel à Manifestations d’intérêts ou pour télécharger les Termes de Références, veuillez consulter not",
+      "excerpt": "REPUBLIQUE CENTRAFRICAINE Unité – Dignité – Travail ******* MINISTERE CHARGE DE L’URBANISME, DE LA REFORME FONCIERE, DE LA VILLE ET DE L’HABITAT ******* Projet des Villes Inclusives et Résilientes (PROVIR) ADDENDUM N°1 Réf. : Projet des Villes Inclusives et Résilientes en RCA (PROVIR ). Sollicitation de Manifestation d’Intérêt - sélection/ r ecrutement d’une firme (bureau d’études) pour la mise en œuvre complète incluant : études techniques de reboisement/végétalisation et d’aménagement urbain, assistance à la passation des marchés, supervision des travaux ainsi que les activités de sensibilisation et de formation dans les villes de Bangui et Berberati. Financement : Banque mondiale - IDA P 178774 V4960 – CF Objet : Report de la date et l’heure de dépôt des manifestations d’intérêt. À la suite d'observations formulées par un candidat potentiel concernant les modalités de soumission, il a",
       "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -2299,39 +2442,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00453150",
-      "title": "CONSULTANCY SERVICES FOR THE RECRUITMENT OF  A GENDER-BASED VIOLENCE SPECIALIST FOR GALOP/STARR-J",
-      "country": "Ghana",
-      "projectCountry": "Ghana",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "25-Jun-2026",
-      "deadline": "2026-07-09",
-      "project": "Ghana Accountability for Learning Outcomes Project",
-      "buyer": "Ghana Accountability for Learning Outcomes Project",
-      "contactEmail": "arshad6115@gmail.com",
-      "reference": "MOE/GALOP/CS/5/2026",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453150",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: curriculum, education"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "MINISTRY OF EDUCATION REQUEST FOR EXPRESSIONS OF INTEREST (REOI) GHANA ACCOUNTABILITY FOR LEARNING OUTCOMES PROJECT (GALOP) PROJECT ID: 165557 PROCUREMENT OF CONSULTANCY SERVICES - INDIVIDUAL CONSULTANTS BACKGROUND The Government of Ghana, under World Bank and Global Partnership for Education (GPE) funding, is supporting the government’s education strategic plan to improve equitable access to quality basic education in Ghana. The Ghana Accountability for Learning Outcomes Project (GALOP), approved for an amount of USD 218.7 million, has the Project Development Objective (PDO) to improve the quality of education in low-performing basic education schools and to strengthen education sector equity and accountability in Ghana. The GALOP was originally implemented over a five-year period from Jan 2020 to Dec 2024. However, the parent project has been extended to close by 31st December 2026 and",
-      "probeScore": 13,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "OP00453143",
       "title": "CONSULTANCY SERVICES FOR THE RECRUITMENT OF A SOCIAL DEVELOPMENT SPECIALIST FOR GALOP/STARR-J",
       "country": "Ghana",
@@ -2365,37 +2475,65 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00450959",
-      "title": "Consultancy services for establishment of integrated hydrology early warning data sharing, development of  of pilot models & information products for selected top priority hydrological services(Omo-Gibe, Awash & rift valley) and development of web portal",
-      "country": "Ethiopia",
-      "projectCountry": "Ethiopia",
+      "id": "OP00453150",
+      "title": "CONSULTANCY SERVICES FOR THE RECRUITMENT OF  A GENDER-BASED VIOLENCE SPECIALIST FOR GALOP/STARR-J",
+      "country": "Ghana",
+      "projectCountry": "Ghana",
       "noticeType": "Request for Expression of Interest",
-      "noticeDate": "20-Jun-2026",
-      "deadline": "2026-07-10",
-      "project": "Ethiopia Flood Management Project",
-      "buyer": "Ministry of Water and Energy",
-      "contactEmail": "mamushketema9200@gmail.com",
-      "reference": "ET-MOWE-441375-CS-QCBS",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00450959",
+      "noticeDate": "25-Jun-2026",
+      "deadline": "2026-07-09",
+      "project": "Ghana Accountability for Learning Outcomes Project",
+      "buyer": "Ghana Accountability for Learning Outcomes Project",
+      "contactEmail": "arshad6115@gmail.com",
+      "reference": "MOE/GALOP/CS/5/2026",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453150",
       "matchedTerms": [
         "training"
       ],
       "titleSignals": [],
       "bodySignals": [],
       "segmentSignals": [
-        "formation: capacity building, training"
+        "formation: curriculum, education"
       ],
       "archiveMatches": [],
-      "genericOnlyHits": [
-        "capacity building",
-        "training"
-      ],
+      "genericOnlyHits": [],
       "offDomain": false,
       "noiseTitle": false,
       "archiveCapabilityCount": 0,
       "titleSignalCount": 0,
       "bodySignalCount": 0,
-      "excerpt": "egrate and visualize outputs from WRF, HYPE, and impact-based forecasting systems. Establish GIS-based dashboards and visualization tools for decision-makers and stakeholders. Ensure role-based access control, sustainability, and national scalability. Provide training, capacity building, and two-year post-deployment technical support. KEY DELIVERABLES AND INDICATIVE TIMING: The key deliverables include an Inception Report and prototype (Week 2), Needs Assessment Report (Month 2), FRS, SRS, and data integration protocols (Month 4), Draft GIS-enabled Web Portal (Month 6), and a fully tested and deployed Web Portal with training, manuals, national rollout roadmap, and Final Consultancy Report (Month 12). Post-deployment, the Consultant shall provide two (2) years of maintenance and technical support. SCOPE OF SERVICES: The scope of the services is to assess institutional & technical require",
+      "excerpt": "MINISTRY OF EDUCATION REQUEST FOR EXPRESSIONS OF INTEREST (REOI) GHANA ACCOUNTABILITY FOR LEARNING OUTCOMES PROJECT (GALOP) PROJECT ID: 165557 PROCUREMENT OF CONSULTANCY SERVICES - INDIVIDUAL CONSULTANTS BACKGROUND The Government of Ghana, under World Bank and Global Partnership for Education (GPE) funding, is supporting the government’s education strategic plan to improve equitable access to quality basic education in Ghana. The Ghana Accountability for Learning Outcomes Project (GALOP), approved for an amount of USD 218.7 million, has the Project Development Objective (PDO) to improve the quality of education in low-performing basic education schools and to strengthen education sector equity and accountability in Ghana. The GALOP was originally implemented over a five-year period from Jan 2020 to Dec 2024. However, the parent project has been extended to close by 31st December 2026 and",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00453984",
+      "title": "Mission d’assistance à la Direction Générale du Trésor et de la Comptabilité Publique (DGTCP) pour l’élaboration du Rapport annuel sur les finances locales et de la Note de conjoncture",
+      "country": "Mauritania",
+      "projectCountry": "Mauritania",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "26-Jun-2026",
+      "deadline": "2026-07-09",
+      "project": "Decentralization and Productive Intermediate Cities Support Project",
+      "buyer": "Local Government Development Program",
+      "contactEmail": "khayarahmed155@moudoun.mr",
+      "reference": "MOUDOUN 08/C/2026",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453984",
+      "matchedTerms": [
+        "animation"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "’indicateurs et d’informations à rajouter et en termes de contenu du rapport général annuel ; Production d’un rapport de cadrage faisant mention du plan proposé pour le rapport annuel et des recommandations d’améliorations retenues de la note de conjoncture ; Animation d’une réunion d’échanges au niveau de la DGTCP pour validation du rapport de cadrage ; Appui pour le traitement des données et la production du rapport annuel sur un exercice de référence et sa note de conjoncture correspondante ; et Animation d’un atelier de restitution à organiser par la DGTCP. Les termes de référence (TDR) détaillés de la mission sont joints au présent appel à manifestation d’intérêt. 3. Profil et qualifications requis Qualifications académiques : Diplôme minimum Bac +4 en gestion, économie, administration , ou disciplines liées. Expérience professionnelle : ; Avoir au moins 10 ans d'expérience professi",
       "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -2460,6 +2598,209 @@
       "titleSignalCount": 0,
       "bodySignalCount": 0,
       "excerpt": "aí-Navegantes Immersed Tunnel and the development of the modeling of the Regional Public Transport System (STCR), including, among other activities: Demand studies and transport modeling, including field surveys, an Origin-Destination survey, macro- and micro-simulation, and operational and financial modeling of toll systems under a Free-Flow (Open Road Tolling) regime; Engineering technical studies for the immersed tunnel (topographic, bathymetric and geotechnical surveys, preliminary design, Geotechnical Baseline Report – GBR, CAPEX/OPEX estimates and risk matrix); Social and environmental studies for the prior environmental licensing and for the assessment of social and environmental impacts; Technical, operational, economic-financial and legal-institutional modeling, on an integrated and consistent basis; Support to public consultations, public hearings and the roadshow, and technica",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00453458",
+      "title": "Assistance technique pour le conseil agricole du périmètre irrigué de Loukkous",
+      "country": "Morocco",
+      "projectCountry": "Morocco",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "26-Jun-2026",
+      "deadline": "2026-07-15",
+      "project": "Resilient and Sustainable Water in Agriculture",
+      "buyer": "National Agricultural Extension Agency",
+      "contactEmail": "lemtouni.douha@gmail.com",
+      "reference": "MA-ONCA-494944-CS-QCBS",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453458",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: formation"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "Demande De Manifestation D'intérêt N° 01/2026/ONCA/REDI Projet : Résilience et de Durabilité de l’Irrigation (REDI) (P175747) Référence : MA-ONCA-494944-CS-QCBS Langue de l'avis : Français Date limite pour la soumission de manifestations d’intérêt : 15/07/2026 Heure locale : 16 : 30 Texte officiel complet de l'avis DEMANDE DE MANIFESTATIONS D’INTERET SELECTION DE CONSULTANTS – SELECTION DE FIRMES Maroc PROJET RESILIENCE ET DURABILITE DE L’IRRIGATION (REDI) No de Prêt : P175747 Assistance technique pour le conseil agricole du périmètre irrigué de Loukkos No. de référence : MA-ONCA-494944-CS-QCBS Le Gouvernement du Maroc, à travers le Ministère de l’Agriculture, de la Pêche Maritime, du Développement Rural et des Eaux et Forêts (MAPMDREF) s’est engagé, avec l’appui de la Banque mondiale, dans la mise en œuvre du projet REDI « Résilience et de Durabilité de l’Irrigation » ( P175747 ), pour",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00453893",
+      "title": "Assistance technique pour le conseil agricole dans le périmètre irrigué de Moulouya",
+      "country": "Morocco",
+      "projectCountry": "Morocco",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "26-Jun-2026",
+      "deadline": "2026-07-15",
+      "project": "Resilient and Sustainable Water in Agriculture",
+      "buyer": "National Agricultural Extension Agency",
+      "contactEmail": "lemtouni.douha@gmail.com",
+      "reference": "MA-ONCA-494947-CS-QCBS",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453893",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: formation"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "Demande De Manifestation D'intérêt N° 02/2026/ONCA/REDI Projet : Résilience et de Durabilité de l’Irrigation (REDI) (P175747) Référence : MA-ONCA-494947-CS-QCBS Langue de l'avis : Français Date limite pour la soumission de manifestations d’intérêt : 15/07/2026 Heure locale : 16 : 30 Texte officiel complet de l'avis DEMANDE DE MANIFESTATIONS D’INTERET SELECTION DE CONSULTANTS – SELECTION DE FIRMES Maroc PROJET RESILIENCE ET DURABILITE DE L’IRRIGATION (REDI) No de Prêt : P175747 Assistance Technique pour le conseil agricole dans le périmètre irrigué de Moulouya No. de référence : MA-ONCA-494947-CS-QCBS Le Gouvernement du Maroc, à travers le Ministère de l’Agriculture, de la Pêche Maritime, du Développement Rural et des Eaux et Forêts (MAPMDREF) s’est engagé, avec l’appui de la Banque mondiale, dans la mise en œuvre du projet REDI « Résilience et de Durabilité de l’Irrigation » ( P175747 ),",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00453960",
+      "title": "Quality Assurance Expert",
+      "country": "Ukraine",
+      "projectCountry": "Ukraine",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "26-Jun-2026",
+      "deadline": "2026-07-16",
+      "project": "Lifting Education Access and Resilience in times of Need in Ukraine Program",
+      "buyer": "Ministry of Education and Science of Ukraine",
+      "contactEmail": "oleksandr.radchenko@uiherp.org",
+      "reference": "LEARN-IC-ECEDO-16",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453960",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: education"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "REQUEST FOR EXPRESSIONS OF INTEREST (LEARN-IC-ECEDO-16 – Quality Assurance Expert) Market Approach - Open, National UKRAINE Lifting Education Access and Resilience in Times of Need in Ukraine Program Grant No. TF0D0612 Assignment Title: Quality Assurance Expert Reference No. LEARN-IC-ECEDO-16 Ukraine with the International Bank for Reconstruction and Development and the International Development Association (hereinafter referred to as the World Bank) have signed the agreements for the Program “Lifting Education Access and Resilience in times of Need in Ukraine” (hereinafter referred to as the LEARN or Operation). LEARN was developed to address critical challenges and provide essential support to the education sector, aligning with the Ministry of Education and Science’s (MoES) Strategic Action Plan. The objectives of the Operation are to (i) improve teaching and learning conditions; and",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00447794",
+      "title": "Social and Behavior Change (SBC) Expert",
+      "country": "Ukraine",
+      "projectCountry": "Ukraine",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "26-Jun-2026",
+      "deadline": "2026-07-16",
+      "project": "Lifting Education Access and Resilience in times of Need in Ukraine Program",
+      "buyer": "Ministry of Education and Science of Ukraine",
+      "contactEmail": "oleksandr.radchenko@uiherp.org",
+      "reference": "LEARN-IC-ECEDO-14",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00447794",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: education"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "REQUEST FOR EXPRESSIONS OF INTEREST (LEARN-IC-ECEDO-14 – Social and Behavior Change (SBC) Expert) Market Approach - Open, National UKRAINE Lifting Education Access and Resilience in Times of Need in Ukraine Program Grant No. TF0D0612 Assignment Title: Social and Behavior Change (SBC) Expert Reference No. LEARN-IC-ECEDO-14 Ukraine with the International Bank for Reconstruction and Development and the International Development Association (hereinafter referred to as the World Bank) have signed the agreements for the Program “Lifting Education Access and Resilience in times of Need in Ukraine” (hereinafter referred to as the LEARN or Operation). LEARN was developed to address critical challenges and provide essential support to the education sector, aligning with the Ministry of Education and Science’s (MoES) Strategic Action Plan. The objectives of the Operation are to (i) improve teaching",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00453881",
+      "title": "Consultancy Services for Service Improvement Plans for Municipal Infrastructure and Public Facilities in Dar es Salaam under the DMDP 2",
+      "country": "Tanzania",
+      "projectCountry": "Tanzania",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "26-Jun-2026",
+      "deadline": "2026-07-21",
+      "project": "DAR ES SALAAM METROPOLITAN DEVELOPMENT PROJECT PHASE 2",
+      "buyer": "President's Office - Regional Administration and Local Government",
+      "contactEmail": "kanyenyehn@gmail.com",
+      "reference": "TZ-PO-RALG-553949-CS-QCBS",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453881",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: training"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "ing programs, performance monitoring systems, and institutional change management processes as well as monitor and assess the effectiveness of capacity-building interventions and recommend corrective measures during implementation; (viii) Develop a structured Training and Capacity Development Framework, including modular training materials and a potential Training-of-Trainers approach in collaboration with national institutions such as the Local Government Training Institute (LGTI), to ensure sustainability beyond the assignment period; and (ix) Work jointly with the DLAs to achieve the targets defined by performance indicators. 5. The assignment will be implemented in two phases: Phase 1 will comprise inception, baseline data collection, assessment of current service delivery and O&M systems, preparation of the updated Services Frameworks, options and feasibility analysis, detailed SIPs",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00454141",
+      "title": "Consultancy Services for the Review and Update of Local Government Authorities' Revenue Enhancement Strategy for the Dar es Salaam City Council and Kinondoni, Temeke, Ubungo & Kigamboni Municipal Councils under the DMDP 2",
+      "country": "Tanzania",
+      "projectCountry": "Tanzania",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "26-Jun-2026",
+      "deadline": "2026-07-21",
+      "project": "DAR ES SALAAM METROPOLITAN DEVELOPMENT PROJECT PHASE 2",
+      "buyer": "President's Office - Regional Administration and Local Government",
+      "contactEmail": "kanyenyehn@gmail.com",
+      "reference": "TZ-PO-RALG-553942-CS-CQS",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454141",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: training",
+        "medical: diagnostic"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "ange and Results Framework by articulating a clear causal pathway from interventions to revenue growth and improved service delivery, including key assumptions and risks; and (x) Build Capacity for Sustainable Implementation through preparation and conducting training for LGA officials to ensure effective implementation and periodic updating of the RES. 5. The scope of services will include, but not be limited to: (i) Preparing an inception report with methodology, work plan, stakeholder engagement strategy, data collection tools, analytical framework, validation approach, data access protocols, and conducting an inception meeting with PMO - RALG/PCT and the 5 DLAs to mutually agree on the understanding of the assignment, validate the approach, and receive feedback on expectations; (ii) Review Existing Documentation and Alignment with Revenue Enhancement Strategy Framework (RESF) 2026/27",
       "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -2531,77 +2872,6 @@
       "excerpt": "Czechia – Furniture – Zavedení virtuální reality do odborných učeben základních škol Předmětem plnění je dodávka a instalace nové a nepoužité IT techniky. Předmětem plnění je dodávka a instalace nových a nepoužitých výukových pomůcek. Předmětem plnění je dodávka a instalace nového a nepoužitého nábytku. Statutární město Havířov Czechia",
       "probeScore": 0,
       "probeDecision": "reject"
-    },
-    {
-      "id": "OP00448787",
-      "title": "Expert on improving the system for identifying homeless persons and organizing social services (resources) for them",
-      "country": "Uzbekistan",
-      "projectCountry": "Uzbekistan",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "19-Jun-2026",
-      "deadline": "2026-06-30",
-      "project": "INnovative SOcial Protection System for inclusiON of Vulnerable People Project",
-      "buyer": "NATIONAL AGENCY FOR SOCIAL PROTECTION UNDER THE PRESIDENT OF THE REPUBLIC OF UZBEKISTAN",
-      "contactEmail": "piuinsonprocurement@gmail.com",
-      "reference": "UZ-INSON-CS-IC-2.1.10.4.",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00448787",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: education, skills, training"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": true,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "izations; preparation of proposals on the organization of social services and mechanisms for inter-agency cooperation; development of functional and operational recommendations on data collection, monitoring, and the use of information systems; preparation of training and methodological materials; conducting training activities for staff of INSON Centers and other stakeholders; and preparation of the final package of documents under the assignment. The estimated level of effort is up to 110 working days over 6 months. The expected start date of the assignment is July, 2026. The detailed Terms of Reference (TOR) can be found at the following link: https://docs.google.com/document/d/1awLogJ4tnxnY9TRJtHL4tuegz93aE0A5/edit?usp=sharing&ouid=104755491226149341341&rtpof=true&sd=true The National Agency for Social Protection (NASP) under the President of the Republic of Uzbekistan invites qualif",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00448769",
-      "title": "Expert on establishment of small-scale family homes for persons in need of care",
-      "country": "Uzbekistan",
-      "projectCountry": "Uzbekistan",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "19-Jun-2026",
-      "deadline": "2026-06-30",
-      "project": "INnovative SOcial Protection System for inclusiON of Vulnerable People Project",
-      "buyer": "NATIONAL AGENCY FOR SOCIAL PROTECTION UNDER THE PRESIDENT OF THE REPUBLIC OF UZBEKISTAN",
-      "contactEmail": "piuinsonprocurement@gmail.com",
-      "reference": "UZ-INSON-CS-IC-2.1.10.2.",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00448769",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: education, skills, training",
-        "medical: medical"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": true,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "f assessment criteria and placement mechanisms; development of service delivery standards and operational procedures; preparation of methodological materials, allocation of roles and responsibilities, checklists and referral algorithms; development of a staff training program; support for pilot implementation of the model in Tashkent, Andijan and Fergana regions; development of a monitoring system, quality assessment and key performance indicators; preparation of proposals and materials for the development of regulatory documents. The estimated level of effort is up to 60 working days over a period of 6 months. Of these, 5 working days are envisaged for conducting online training for 300-400 staff members, while the remaining days are for supporting the practical implementation of pilot projects in the selected regions. The expected date of commencement of the assignment is July, 2026. T",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
     },
     {
       "id": "OP00451225",
@@ -2709,42 +2979,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00452535",
-      "title": "Provision of Consulting Services for the Development, Implementation, Capacity Building, and Performance Evaluation of a Quality Management System in Compliance with ISO 9001:2015",
-      "country": "Uzbekistan",
-      "projectCountry": "Uzbekistan",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "20-Jun-2026",
-      "deadline": "2026-07-06",
-      "project": "INnovative SOcial Protection System for inclusiON of Vulnerable People Project",
-      "buyer": "NATIONAL AGENCY FOR SOCIAL PROTECTION UNDER THE PRESIDENT OF THE REPUBLIC OF UZBEKISTAN",
-      "contactEmail": "d.gafarov@ihma.uz",
-      "reference": "UZ-INSON-CS-CQS-2.1.3.3.",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452535",
-      "matchedTerms": [
-        "training"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: capacity building, certification, training"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [
-        "capacity building",
-        "training"
-      ],
-      "offDomain": true,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "ervice Centers of Denov and Yunusabad districts. The assignment includes, but is not limited to, assessment and gap analysis against ISO 9001:2015 requirements, development of the QMS structure and documentation, process standardization, capacity building and training (including general awareness, practical training for process owners, and internal auditor training), implementation support, internal audit and certification preparation, and monitoring and continuous improvement. The duration of the assignment is up to 12 months from the date of contract signing, including up to 9 months for QMS development and implementation and up to 3 months for support during the certification audit. The detailed Terms of Reference (TOR) for the assignment can be found at the following link: https://docs.google.com/document/d/10EbQD8z7dJjTyXL12HwR2KLJFgryZZnv/edit?usp=sharing&ouid=104755491226149341341",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "TED-377046-2026",
       "title": "Czechia – Furniture – Zavedení virtuální reality do odborných učeben základních škol",
       "country": "Czechia",
@@ -2813,6 +3047,37 @@
       "probeDecision": "reject"
     },
     {
+      "id": "OP00454144",
+      "title": "Provision of Consulting Services as Procurement Specialist under RESTORE PIU (replacement)",
+      "country": "Malawi",
+      "projectCountry": "Malawi",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "26-Jun-2026",
+      "deadline": "2026-07-08",
+      "project": "Resilient and Strategic Transport Operational Enhancement Project in Malawi",
+      "buyer": "The Roads Authority",
+      "contactEmail": "ckauma@ra.org.mw",
+      "reference": "MW-RA-558289-CS-INDV",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454144",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": true,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "rs’ work experience in a donor funded-project such as those funded by the World Bank or African Development Bank or other international donors; Working knowledge of the Government of Malawi’s Public Procurement law and procedures; Prior participation in short training courses on the World Bank and familiarity with procurement policies, evaluation procedures and reporting, as well as preparation of specific documents based on World Bank standards and models will be an advantage; Good computer skills and proficient in the use of Microsoft Office (Excel, Word and PowerPoint, etc.); Proven analytical skills, including the ability to provide insightful analysis on hiring; Ability to work in teams and articulation with public and private entities; Highly motivated with excellent planning, analytical, communications and interpersonal skills as well as a high level of diplomacy; Upholding of ant",
+      "probeScore": 0,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
       "id": "OP00453139",
       "title": "CONSULTANCY SERVICES FOR THE RECRUITMENT OF AN ENVIRONMENTAL SAFEGUARDS SPECIALIST FOR GALOP/STARR-J",
       "country": "Ghana",
@@ -2844,6 +3109,44 @@
       "probeScore": 0,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "TED-384126-2026",
+      "title": "Greece – Office machinery, equipment and supplies except computers, printers and furniture – 5/2026/21500 - Προμήθεια εξοπλισμού για το Τμήμα Ψηφιακών Τεχνών και Κινηματογράφου",
+      "country": "Greece",
+      "projectCountry": "Greece",
+      "noticeType": "cn-standard",
+      "noticeDate": "2026-06-04",
+      "deadline": "2026-07-10",
+      "deadlineTime": "",
+      "project": "",
+      "buyer": "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών / Ειδικός Λογαριασμός Κονδυλίων Έρευνας",
+      "contactEmail": "",
+      "reference": "384126-2026",
+      "method": "cn-standard",
+      "source": "TED EU Tenders",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/384126-2026",
+      "matchedTerms": [
+        "motion capture"
+      ],
+      "titleSignals": [],
+      "bodySignals": [
+        "3d_vr: 3d"
+      ],
+      "segmentSignals": [
+        "animation: 3d"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": true,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 1,
+      "searchText": "greece – office machinery, equipment and supplies except computers, printers and furniture – 5/2026/21500 - προμήθεια εξοπλισμού για το τμήμα ψηφιακών τεχνών και κινηματογράφου  greece – office machinery, equipment and supplies except computers, printers and furniture – 5/2026/21500 - προμήθεια εξοπλισμού για το τμήμα ψηφιακών τεχνών και κινηματογράφου α/α περιγραφη ποσοτητα (τμχ) τμημα 1: arduino και εξαρτηματα 1.1 σταθμος κολλησης και θερμου αερα 15 1.2 αrduino plc opta lite 20 1.3 τροφοδοτικα plc 20 1.4 arduino uno r3 40 1.5 arduino uno r4 wifi 40 1.6 μοτοr driver l298n 30 1.7 πακέτο arduino science kit r3 17 τμημα 2: επεξεργαστες [cpus] + συστημα ψυξης 2.1 επεξεργαστες [cpus] + συστημα ψυξης 4 τμημα 3: μνήμη ram 64gb (2 x 32) 3.1 μνήμη ram 64gb (2 x 32) 6 τμημα 4: τροφοδοτικό υπολογιστή 4.1 τροφοδοτικό υπολογιστή 4 τμημα 5: κρανος vr 5.1 αυτόνομο κράνος εικονικής πραγματικότητας ι 2 5.2 αυτόνομο κράνος εικονικής πραγματικότητας ιι 5 5.3 κράνος εικονικής και επαυξημένης πραγματικότητας 2 5.4 trackers για κράνος εικονικής πραγματικότητας 4 τμημα 6: κάρτα γραφικών 6.1 κάρτα γραφικών 4 τμημα 7: υπολογιστής υψηλών προδιαγραφών για ανάπτυξη εφαρμογών εικονικής / εκτεταμένης πραγματικότη-τας 7.1 υπολογιστής υψηλών προδιαγραφών για ανάπτυξη εφαρμογών εικονικής / εκτεταμένης πραγματικότητας 2 τμημα 8: laptop για χρήση σε αλληλεπιδραστικές εγκαταστάσεις 8.1 laptop για χρήση σε αλληλεπιδραστικές εγκαταστάσεις 3 τμημα 9: στολές για motion capture 9.1 στολές για motion capture 2 τμημα 10: τηλεοπτικες οθονες και προβολικα συστηματα 10.1 τηλεοπτική συσκευή 50'' 4κ ultrahd 6 10.2 τηλεοπτική συσκευή 65'' 4κ ultrahd 3 10.3 τηλεοπτική συσκευή 85'' 4κ ultrahd 3 10.4 bασεις τηλεόρασης μεγάλες κυλιόμενες 2 10.5 προβολικά συστήματα laser 3lcd 1000 ansi lumen 1920x1080 5 10.6 προβολικά συστήματα 3000 ansi lumen 3840x2160 3 τμημα 11: λογισμικό emotiv pro για συσκευή bci emotiv epoc x 11.1 λογισμικό emotiv pro για συσκευή bci emotiv epoc x 1 τμημα 12: λογισμικό max/msp & jitter 12.1 λογισμικό max/msp & jitter 2 τμημα 13: λογισμικό touchdesigner της derivative 13.1 λογισμικό touchdesigner της derivative 2 τμημα 14: web camera 14.1 web camera 12 τμημα 15: tablet 10-12.5'' με wifi, υποδοχή sim, gps και υποστήριξη 5g 15.1 tablet 10-12.5'' με wifi υποδοχή sim gps και υποστήριξη 5g 3 τμημα 16: φωτιστικα σωματα 16.1 προβολέας white dmx τύπου par 3 16.2 προβολέας rgbw dmx τύπου spot 3 16.3 προβολέας rgbwa dmx 3 16.4 προβολέας flat rgbwauv dmx 3 τμημα 17: εξαρτηματα φυσικης υπολογιστικης ι 17.1 dmx shield for arduino 5 17.2 mp3 shield for arduino 5 17.3 infrared proximity sensors 20 17.4 dual motor driver module l298n 20 17.5 relay module - 4 channel 5v 20 17.6 καλώδιο πολύκλωνο 20 17.7 καλώδιο πολύκλωνο χρωματιστό 3 17.8 led strip white (με το μέτρο) 50 17.9 led strip rgb 5m 3 τμημα 18: cnc router 18.1 cnc router 1 τμημα 19: laser cutter 19.1 laser cutter 1 τμημα 20: 3d printer 20.1 3d printer 1 τμημα 21: εξαρτηματα φυσικης υπολογιστικης ιι 21.1 πλακέτα μικροελεγκτή με wifi για εφαρμογές internet of things 10 21.2 powerbank 10 21.3 πλακέτα μικροελεγκτή για wearable ηλεκτρονικά κυκλώματα 10 21.4 pressure-sensitive αγώγιμο φύλλο (pressure-sensitive conductive sheet) 10 21.5 ανοξείδωτο αγώγιμο νήμα (stainless conductive thread) 10 21.6 αισθητήρας καρδιακών παλμών και οξύμετρο 3 21.7 θερμικός εκτυπωτής (mini thermal printer) 2 21.8 γραμμικός ενεργοποιητής (linear actuator) 6 21.9 βάση στήριξης γραμμικού ενεργοποιητή 12 21.10 ηλεκτρομαγνήτης 10 21.11 ταινία led (addressable) 20 τμημα 22: ηχεια και καλωδια 22.1 studio ακουστικα κλειστου τυπου 2 22.2 πυκνωτικο μικροφωνο μικρου διαφραγματος 2 22.3 anαλογικος stereo master processor 1 22.4 anαλογικος στερεοφωνικος / διπλος μονοφωνικος / ms συμπιεστης 1 22.5 αυτοενισχυομενο hxeio monitor ι 6 22.6 αυτοενισχυομενο hxeio monitor ιι 1 22.7 βαση ηχειων 8 22.8 kαρτα ηχου με συνδεση usb type c 1 22.9 διπλος προενισχυτης μικροφωνου με ξεχωριστο d.i. 1 22.10 rack 19 1 22.11 stage box 12 εισοδων 4 εξοδων 1 22.12 patchbay 16 καναλιων 1 22.13 μικροφωνικο καλωδιο ι 2 22.14 μικροφωνικο καλωδιο ιι 10 22.15 καλωδιο 4 22.16 μικροφωνικο καλωδιο ιιι 8 22.17 επιδαπεδια βαση μικροφωνου 4 22.18 πυκνωτικο μικροφωνο μεγαλου διαφραγματος 2 22.19 nylon pop φιλτρο 2 22.20 stereo bar 1 22.21 tetραπλος ενισχυτης ακουστικων 1 22.22 υψηλης ποιοτητας 24-bit/192khz usb (type c) audio interface 1 22.23 stereo ακουστικο κλειστου τυπου 4 22.24 δυναμικο μικροφωνο φωνης υπερκαρδιοειδες 2 22.25 προσαρμοσιμος διανομεας ρευματος 1 22.26 αυτοενισχυόμενα ηχεία bluetooth (ζευγάρι) 30 22.27 εξωτερική καρτα ήχου με έξοδο 10 καναλιών 10 22.28 καλώδιο σύνδεσης ηχείων με κάρτα ήχου 5m 60 22.29 αναλογική κονσόλα ήχου 2 22.30 active di box 2 τμημα 23: φωτογραφικες καμερες και αξεσουαρ 23.1 κιτ κάμερα φωτογραφική s35 με φακό zoom και servoμηχανισμό και δυνα-τότητες βίντεο και ηχοληψίας 10 23.2 κάμερα βίντεο 4κ ποιότητας σήματος ως 10 bit εσωτερικής εγγραφής χωρίς εναλλάξιμο φακό με κιτ ήχου κα μικρού μεγέθους 3 23.3 μονόποδο με ακτινωτή βάση τριπόδου και υδραυλική κεφαλή βιντεο για κά-μερα ως 4 κιλά 10 23.4 μπαταρία για κάμερα φωτογραφική /βιντεο 30 23.5 τσάντα αποθήκευσης και μεταφοράς 13 τμημα 24: drone βάρους μικρότερο από 250 γρ σε συσκευασία combo 24.1 drone βάρους μικρότερο από 250 γρ σε συσκευασία combo 3 τμημα 25: καμερες vr και αξεσουαρ 25.1 καμερα vr 360 8k 5 25.2 μινι τριποδο για καμερα vr 360 8k 5 25.3 selfie stick για μινι τριποδο για κάμερα vr360 5 25.4 κάρτες μνήμης microsd 5 τμημα 26: air condition μονάδα φορητή 26.1 aircondition μονάδες φορητές 3 τμημα 27: ηλεκτρονικός υπολογιστής επιτραπέζιος 27.1 ηλεκτρονικός υπολογιστής επιτραπέζιος 3 τμημα 28: usb-c digital av multiport adapter 28.1 usb-c digital av multiport adapter 2 τμημα 29: επεξεργαστες [cpus] + συστημα ψυξης 29.1 επεξεργαστες [cpus] + συστημα ψυξης 40 τμημα 30: μνήμη ram 64gb (2 x 32) 30.1 μνήμη ram 64gb (2 x 32) 6 τμημα 31: μνήμη ram 32gb (2 x 16) 31.1 μνήμη ram 32gb (2 x 16) 14 τμημα 32: τροφοδοτικό υπολογιστή 32.1 τροφοδοτικό υπολογιστή 4 τμημα 33: air condition μονάδες τύπου οροφής 33.1 aircondition μοναδες τύπου οροφής 5 τμημα 34: λογισμικό επεξεργασίας βίντεο, διόρθωσης χρωμάτων, παραγωγής οπτικών εφέ και ήχου 34.1 λογισμικό επεξεργασίας βίντεο διόρθωσης χρωμάτων παραγωγής οπτικών εφέ και ήχο 3 [παραρτημα ι της διακήρυξης] εθνικό και καποδιστριακό πανεπιστήμιο αθηνών / ειδικός λογαριασμός κονδυλίων έρευνας greece",
+      "excerpt": "ης πραγματικότη-τας 7.1 Υπολογιστής υψηλών προδιαγραφών για ανάπτυξη εφαρμογών εικονικής / εκτεταμένης πραγματικότητας 2 ΤΜΗΜΑ 8: Laptop για χρήση σε αλληλεπιδραστικές εγκαταστάσεις 8.1 Laptop για χρήση σε αλληλεπιδραστικές εγκαταστάσεις 3 ΤΜΗΜΑ 9: Στολές για Motion Capture 9.1 Στολές για Motion Capture 2 ΤΜΗΜΑ 10: ΤΗΛΕΟΠΤΙΚΕΣ ΟΘΟΝΕΣ ΚΑΙ ΠΡΟΒΟΛΙΚΑ ΣΥΣΤΗΜΑΤΑ 10.1 Τηλεοπτική συσκευή 50'' 4Κ UltraHD 6 10.2 Τηλεοπτική συσκευή 65'' 4Κ UltraHD 3 10.3 Τηλεοπτική συσκευή 85'' 4Κ UltraHD 3 10.4 Bασεις τηλεόρασης μεγάλες κυλιόμενες 2 10.5 Προβολικά συστήματα Laser 3LCD 1000 Ansi Lumen 1920x1080 5 10.6 Προβολικά συστήματα 3000 Ansi Lumen 3840x2160 3 ΤΜΗΜΑ 11: Λογισμικό Emotiv PRO για συσκευή BCI Emotiv EPOC X 11.1 Λογισμικό Emotiv PRO για συσκευή BCI Emotiv EPOC X 1 ΤΜΗΜΑ 12: Λογισμικό Max/MSP & Jitter 12.1 Λογισμικό Max/MSP & Jitter 2 ΤΜΗΜΑ 13: Λογισμικό TouchDesigner της Derivative 13.1 Λογισμικό",
+      "probeScore": 0,
+      "probeDecision": "reject"
     },
     {
       "id": "OP00449109",
@@ -2885,6 +3188,39 @@
       "source": "World Bank Procurement Notices"
     },
     {
+      "id": "OP00453964",
+      "title": "Administrative Assistant",
+      "country": "Ukraine",
+      "projectCountry": "Ukraine",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "26-Jun-2026",
+      "deadline": "2026-07-16",
+      "project": "Lifting Education Access and Resilience in times of Need in Ukraine Program",
+      "buyer": "Ministry of Education and Science of Ukraine",
+      "contactEmail": "oleksandr.radchenko@uiherp.org",
+      "reference": "LEARN-IC-ECEDO-03",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453964",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: education"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": true,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "REQUEST FOR EXPRESSIONS OF INTEREST (LEARN-IC-ECEDO-03 – Administrative Assistant) Market Approach - Open, National UKRAINE Lifting Education Access and Resilience in Times of Need in Ukraine Program Grant No. TF0D0612 Assignment Title: Administrative Assistant Reference No. LEARN-IC-ECEDO-03 Ukraine with the International Bank for Reconstruction and Development and the International Development Association (hereinafter referred to as the World Bank) have signed the agreements for the Program “Lifting Education Access and Resilience in times of Need in Ukraine” (hereinafter referred to as the LEARN or Operation). LEARN was developed to address critical challenges and provide essential support to the education sector, aligning with the Ministry of Education and Science’s (MoES) Strategic Action Plan. The objectives of the Operation are to (i) improve teaching and learning conditions; and",
+      "probeScore": 0,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
       "id": "OP00452444",
       "title": "Construction of a water supply pipeline and water meter boxes to connect 48,917 households in the Balkh, Dusti, Vakhsh, and Vose districts (Lots 1 and 2)",
       "country": "Tajikistan",
@@ -2915,6 +3251,76 @@
       "titleSignalCount": 0,
       "bodySignalCount": 1,
       "excerpt": "kh, Dusti, Vakhsh, and Vose districts (Lots 1 and 2) Lot 1: Construction of a water supply pipeline and water meter boxes to connect 26,247 households in villages in the Balkh District (Zones 2D and 2E), the Dusti District (Zone 2F), the Vakhsh District (Zone 3D), and the Vose District (the village of Kaduchi) Lot 2: Construction of a water supply pipeline and water meter boxes to connect 22,670 households in villages in the Balkh District (Zone 2D) and the Dusti District (Zone 2G) : IDA E 0950-001-TJ AF : WSIP-AF-W-PMU/006 1. The Project Management Unit for the Municipal Infrastructure Development Project in the Republic of Tajikistan, acting on behalf of the SUE “Khodjagii Manziliyu Kommunalni,” which serves as the Project Implementation Agency, has received funding from the World Bank to cover the costs of the Water Supply and Sanitation Investment Project (Additional Financing (AF))",
+      "probeScore": 0,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00453873",
+      "title": "Consultancy Services for Design and Construction Supervision of Area-based Investments and Urban Infrastructure in Dar es Salaam City, Temeke Municipality and Kigamboni Municipality under the DMDP 2",
+      "country": "Tanzania",
+      "projectCountry": "Tanzania",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "26-Jun-2026",
+      "deadline": "2026-07-21",
+      "project": "DAR ES SALAAM METROPOLITAN DEVELOPMENT PROJECT PHASE 2",
+      "buyer": "President's Office - Regional Administration and Local Government",
+      "contactEmail": "kanyenyehn@gmail.com",
+      "reference": "TZ-PO-RALG-553963-CS-QCBS",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453873",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: training"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "training"
+      ],
+      "offDomain": true,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "/Contract Administrator during construction supervision, certify works, monitor quality, manage contract administration matters and support handover; and (vi) monitor environmental, social and occupational health and safety compliance, prepare O&M systems and training, monitor the defects liability period and support final inspection and contract completion. 5. The assignment will be implemented in two phases, the first phase being the design phase, followed by a brief period to allow for procurement of works contractors and the second phase being for construction supervision, contract management, defects liability period monitoring and contract completion. The Consultant will be responsible for, but not limited to, the following tasks: (i) inception and mobilization; (ii) technical review, site validation, feasibility studies and prioritization of investments; (iii) stakeholder planning",
+      "probeScore": 0,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00453877",
+      "title": "Consultancy Services for Design and Construction Supervision of Area-based Investments and Urban Infrastructure in Kinondoni and Ubungo Municipalities under the DMDP 2",
+      "country": "Tanzania",
+      "projectCountry": "Tanzania",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "26-Jun-2026",
+      "deadline": "2026-07-21",
+      "project": "DAR ES SALAAM METROPOLITAN DEVELOPMENT PROJECT PHASE 2",
+      "buyer": "President's Office - Regional Administration and Local Government",
+      "contactEmail": "kanyenyehn@gmail.com",
+      "reference": "TZ-PO-RALG-553962-CS-QCBS",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453877",
+      "matchedTerms": [
+        "training"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: training"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "training"
+      ],
+      "offDomain": true,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "/Contract Administrator during construction supervision, certify works, monitor quality, manage contract administration matters and support handover; and (vi) monitor environmental, social and occupational health and safety compliance, prepare O&M systems and training, monitor the defects liability period and support final inspection and contract completion. 5. The assignment will be implemented in two phases, the first phase being the design phase, followed by a brief period to allow for procurement of works contractors and the second phase being for construction supervision, contract management, defects liability period monitoring and contract completion. The Consultant will be responsible for, but not limited to, the following tasks: (i) inception and mobilization; (ii) technical review, site validation, feasibility studies and prioritization of investments; (iii) stakeholder planning",
       "probeScore": 0,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
