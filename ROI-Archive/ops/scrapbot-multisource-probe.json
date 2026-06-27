@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T17:08:08+00:00",
+  "generatedAt": "2026-06-27T20:50:47+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -52,7 +52,7 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 88.46,
+  "durationSeconds": 102.23,
   "totalCandidates": 83,
   "summary": {
     "likely_fit": 14,
@@ -2442,8 +2442,8 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00453143",
-      "title": "CONSULTANCY SERVICES FOR THE RECRUITMENT OF A SOCIAL DEVELOPMENT SPECIALIST FOR GALOP/STARR-J",
+      "id": "OP00453150",
+      "title": "CONSULTANCY SERVICES FOR THE RECRUITMENT OF  A GENDER-BASED VIOLENCE SPECIALIST FOR GALOP/STARR-J",
       "country": "Ghana",
       "projectCountry": "Ghana",
       "noticeType": "Request for Expression of Interest",
@@ -2452,8 +2452,8 @@
       "project": "Ghana Accountability for Learning Outcomes Project",
       "buyer": "Ghana Accountability for Learning Outcomes Project",
       "contactEmail": "arshad6115@gmail.com",
-      "reference": "MOE/GALOP/CS/6/2026",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453143",
+      "reference": "MOE/GALOP/CS/5/2026",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453150",
       "matchedTerms": [
         "training"
       ],
@@ -2475,8 +2475,8 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00453150",
-      "title": "CONSULTANCY SERVICES FOR THE RECRUITMENT OF  A GENDER-BASED VIOLENCE SPECIALIST FOR GALOP/STARR-J",
+      "id": "OP00453143",
+      "title": "CONSULTANCY SERVICES FOR THE RECRUITMENT OF A SOCIAL DEVELOPMENT SPECIALIST FOR GALOP/STARR-J",
       "country": "Ghana",
       "projectCountry": "Ghana",
       "noticeType": "Request for Expression of Interest",
@@ -2485,8 +2485,8 @@
       "project": "Ghana Accountability for Learning Outcomes Project",
       "buyer": "Ghana Accountability for Learning Outcomes Project",
       "contactEmail": "arshad6115@gmail.com",
-      "reference": "MOE/GALOP/CS/5/2026",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453150",
+      "reference": "MOE/GALOP/CS/6/2026",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453143",
       "matchedTerms": [
         "training"
       ],
