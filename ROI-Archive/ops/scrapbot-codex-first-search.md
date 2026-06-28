@@ -1,18 +1,18 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-27T20:50:47+00:00
+Genere: 2026-06-28T09:29:26+00:00
 
 ## Sources executees
-- World Bank Procurement Notices: active (public API) - 17 requetes, 0 erreur(s)
+- World Bank Procurement Notices: active (public API) - 28 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 21 requetes, 1 erreur(s)
 
 ## Resultat
-- Candidats lus: 83
+- Candidats lus: 91
 - Likely fit: 14
 - A revoir: 9
-- Rejetes: 60
-- Offres publiees dans le HUD: 6
+- Rejetes: 68
+- Offres publiees dans le HUD: 7
 
 ## Top offres publiees / compatibles
 ### Training Equipment to Support Skills Testing & Certification
@@ -58,7 +58,7 @@ Genere: 2026-06-27T20:50:47+00:00
 - Extrait: North Macedonia – Motion picture and video production services – Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government Government of the Republic of North Macedonia - General secre
 
 ### Two CT simulators, 3D scanning water phantom & dosimetry equipment
-- Source: UNGM Procurement | Pays: Ukraine | Deadline: 2026-07-17 | Score: 53 | non publiee
+- Source: UNGM Procurement | Pays: Ukraine | Deadline: 2026-07-17 | Score: 53 | publiee
 - URL: https://www.ungm.org/Public/Notice/303942
 - Archive: Scan 3D / patrimoine / viewer
 - Extrait: Two CT simulators, 3D scanning water phantom & dosimetry equipment 17-Jul-2026 17:00 (GMT 2.00) IAEA Request for proposal 673814-AM Ukraine

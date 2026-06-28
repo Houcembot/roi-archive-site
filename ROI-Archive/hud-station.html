@@ -306,6 +306,9 @@
     background:#060907;
   }
   .trigger-status{ display:block; margin-top:6px; font-size:12px; color:#8b9689; }
+  .funnel{ margin:6px 0 4px; font-size:12px; color:#8b9689; }
+  .funnel b{ color:#e4e8dc; }
+  .funnel .fn-arrow{ color:#37d6c0; margin:0 2px; }
   .control-grid{
     display:grid;
     grid-template-columns:1fr 1fr;
@@ -801,6 +804,7 @@
           <div class="codex-cell"><span>Retenus</span><b id="codexKeep">0</b></div>
           <div class="codex-cell"><span>Rejetés</span><b id="codexReject">0</b></div>
         </div>
+        <div id="funnel" class="funnel" aria-label="Entonnoir de recherche"></div>
         <a id="codexReportLink" class="codex-report" href="ops/scrapbot-codex-first-search.md" target="_blank" rel="noreferrer noopener">Rapport multi-source</a>
       </section>
       <section class="side-section" id="search-links"></section>
@@ -1448,6 +1452,13 @@
     fillText(els.codexRead, fmtInt.format(total));
     fillText(els.codexKeep, fmtInt.format(kept));
     fillText(els.codexReject, fmtInt.format(rejected));
+    const verified = Number(state.payload?.total || state.offers.length || 0);
+    const funnel = document.getElementById('funnel');
+    if(funnel){
+      funnel.innerHTML = `<b>${fmtInt.format(total)}</b> trouvées <span class="fn-arrow">→</span> `+
+        `<b>${fmtInt.format(kept)}</b> pertinentes <span class="fn-arrow">→</span> `+
+        `<b>${fmtInt.format(verified)}</b> vérifiées actives`;
+    }
     if(state.codexProbe?.generatedAt){
       els.codexReportLink.textContent = `Rapport Codex · ${fmtDateTime.format(new Date(state.codexProbe.generatedAt))}`;
     }

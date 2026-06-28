@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T20:50:47+00:00",
+  "generatedAt": "2026-06-28T09:29:26+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "url": "https://search.worldbank.org/api/v2/procnotices",
       "status": "active",
       "mode": "public API",
-      "searchedTerms": 17,
+      "searchedTerms": 28,
       "errors": []
     },
     {
@@ -23,8 +23,10 @@
       "url": "https://api.ted.europa.eu/v3/notices/search",
       "status": "active",
       "mode": "public API expert query with deadline filter",
-      "searchedTerms": 22,
-      "errors": []
+      "searchedTerms": 21,
+      "errors": [
+        "research platform virtual reality: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n"
+      ]
     }
   ],
   "queryTerms": [
@@ -52,12 +54,12 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 102.23,
-  "totalCandidates": 83,
+  "durationSeconds": 157.57,
+  "totalCandidates": 91,
   "summary": {
     "likely_fit": 14,
     "review": 9,
-    "reject": 60
+    "reject": 68
   },
   "items": [
     {
@@ -75,6 +77,8 @@
       "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452214",
       "matchedTerms": [
         "AR VR",
+        "VR simulation",
+        "VR training",
         "simulation"
       ],
       "titleSignals": [
@@ -134,7 +138,10 @@
       "reference": "KE-ICTA-553315-GO-RFB",
       "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451397",
       "matchedTerms": [
+        "VR simulation",
+        "VR training",
         "simulation",
+        "virtual laboratory",
         "virtual reality"
       ],
       "titleSignals": [
@@ -1748,6 +1755,43 @@
       "source": "World Bank Procurement Notices"
     },
     {
+      "id": "OP00452355",
+      "title": "Cybersecurity Specialist",
+      "country": "Philippines",
+      "projectCountry": "Philippines",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "19-Jun-2026",
+      "deadline": "2026-07-06",
+      "project": "Philippines Digital Infrastructure Project",
+      "buyer": "Department of Information and Communications Technology",
+      "contactEmail": "bac.secretariat@dict.gov.ph",
+      "reference": "PH-DICT-557476-CS-INDV",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452355",
+      "matchedTerms": [
+        "digital human"
+      ],
+      "titleSignals": [],
+      "bodySignals": [
+        "software_data: data visualization"
+      ],
+      "segmentSignals": [
+        "formation: curriculum, education, skills, training"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 1,
+      "excerpt": "elivering cybersecurity training programs. Experience in promoting gender inclusivity in technical fields, particularly in cybersecurity. Strong ability to analyze complex cybersecurity challenges and develop innovative solutions. Proficient in data analysis, data visualization, and the use of cybersecurity tools and technologies. Strong interpersonal skills with the ability to work collaboratively with diverse stakeholders. Excellent communication skills in English, both written and spoken. ACADEMIC QUALIFICATIONS AND EXPERIENCE University and/or master’s degree in cybersecurity, computer science, information technology, or a related field. A minimum of ten (10) years of professional experience in cybersecurity, with at least five (5) years of direct involvement in the design, implementation, and oversight of cybersecurity initiatives. Extensive exposure to cybersecurity projects and pr",
+      "probeScore": 18,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
       "id": "OP00453241",
       "title": "Consultancy Services for TA for Improved Teaching Content, Practices and Supervision System",
       "country": "Malawi",
@@ -1939,6 +1983,39 @@
       "source": "World Bank Procurement Notices"
     },
     {
+      "id": "OP00452250",
+      "title": "Designing & Printing MHH learning material and guidebook, Graphic designing for MHH learning materials, MHH Kit learning materials/toolkit and Printing of GBV, VAC, SH/SE-A set of 4 books",
+      "country": "Pakistan",
+      "projectCountry": "Pakistan",
+      "noticeType": "Invitation for Bids",
+      "noticeDate": "19-Jun-2026",
+      "deadline": "2026-06-29",
+      "project": "Khyber Pakhtunkhwa Human Capital Investment Project",
+      "buyer": "Project Management Unit of Education Department",
+      "contactEmail": "khalidpms10@gmail.com",
+      "reference": "PK-EDUPMU-557198-GO-RFQ",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452250",
+      "matchedTerms": [
+        "digital human"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: education"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "REQUEST FOR QUOTATION IDA Credit No. / Grant No. and Title: 67140/PK:/ D6800-Pk Khyber Pakhtunkhwa Human Capital Investment Project (Elementary & Secondary Education Department) Bid Security 250,000 /- Contract Title: Designing & Printing MHH learning material and guidebook, Graphic designing for MHH learning materials, MHH Kit learning materials/toolkit and Printing of GBV, VAC, SH/SE-A set of 4 books Ref No: PMU-EDUPMU-557198-GO-RFQ Deadline for Submission of Quotations Submission Date & Time 29th June, 2026 at 11.00 AM (Local Pakistan Standard Time) Opening of Quotation Date & Time 29th June 2026 at 11:15 AM The Government Khyber Pakhtunkhwa Human Capital Investment (HCIP) Project has received a credit /grant form World Bank under (IDA NO: 67140/ D6800-Pk) for improvement of education sector in four districts (Nowshera, Peshawar, Swabi and Haripur of Khyber Pakhtunkhwa. The project is",
+      "probeScore": 15,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
       "id": "OP00453358",
       "title": "Organization and Delivery of I_CAN Training Program Sessions No. 1–6 in Odesa",
       "country": "Ukraine",
@@ -2044,6 +2121,37 @@
       "source": "World Bank Procurement Notices"
     },
     {
+      "id": "OP00452488",
+      "title": "Digitizing Human Resources Personnel Records through Metadata Indexing, Scanning and Digital Storage",
+      "country": "Lesotho",
+      "projectCountry": "Lesotho",
+      "noticeType": "Invitation for Bids",
+      "noticeDate": "20-Jun-2026",
+      "deadline": "2026-08-03",
+      "project": "Lesotho Public Sector Foundations for Service Delivery Project",
+      "buyer": "Ministry of Finance and Development Planning",
+      "contactEmail": "motselisi.matsela@gov.ls",
+      "reference": "LS-MOFDP-533658-NC-RFB",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452488",
+      "matchedTerms": [
+        "digital human"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "Specific Procurement Notice Request for Bids Non-Consulting Services (One-Envelope Bidding Process) Employer : Ministry of Finance and Development Planning Project: Public Sector Foundations for Service Delivery Project Contract title : Non-Consulting Service for Digitizing Human Resources Personnel Records through Metadata Indexing, Scanning and Digital Storage Country: Lesotho Loan No.: 07492-LS RFB No: LS-MOFDP-533658-GO-RFB Issued on: June 19, 2026 The Kingdom of Lesotho has received financing from the World Bank toward the cost of the Lesotho Public Sector Foundations for Service Delivery Project and intends to apply part of the proceeds toward payments under the contract for Non-Consulting Service for Digitizing Human Resources Personnel Records through Metadata Indexing, Scanning and Dital Storage. The Ministry of Finance and Development Planning now invites sealed Bids from eligi",
+      "probeScore": 15,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
       "id": "OP00451640",
       "title": "DGB/Recrutement d’un(e) consultant(e) pour l’élaboration de la stratégie sectorielle et du Cadre de Dépenses à Moyen Terme (CDMT) pour le secteur de l'Environnement",
       "country": "Haiti",
@@ -2106,6 +2214,39 @@
       "source": "World Bank Procurement Notices"
     },
     {
+      "id": "OP00451173",
+      "title": "Consultant to Review the Project Safety Plan and Develop the Corresponding Action Plan",
+      "country": "Mozambique",
+      "projectCountry": "Mozambique",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "15-Jun-2026",
+      "deadline": "2026-06-29",
+      "project": "Mozambique Digital Acceleration Project",
+      "buyer": "Ministry of Transport and Communication",
+      "contactEmail": "asilva@padim.gov.mz",
+      "reference": "160/MCTD-PADIM/CS-IC/2026",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451173",
+      "matchedTerms": [
+        "digital human"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: curriculum"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "REPÚBLICA DE MOÇAMBIQUE MINISTÉRIO DAS COMUNICAÇÕES E TRANSFORMAÇÃO DIGITAL Projecto de Aceleração Digital de Moçambique SOLICITAÇÃO DE MANIFESTAÇÃO DE INTERESSE (CONSULTOR INDIVIDUAL) Contratação de Serviço de Consultoria Individual para Revisão do Plano de Segurança e Elaboração do Plano de Acção de Segurança do PADIM PROJECTO ID: P176459 Ref.: 160/MCTD-PADIM/CS-IC/2026 O Ministério das Comunicações e Transformação Digital (MCTD) recebeu um financiamento do Banco Mundial para implementação de um Projecto denominado Aceleração Digital de Moçambique e, pretende aplicar parte dos fundos para a Contratação de Consultor Individual para Revisão do Plano de Segurança e Elaboração do Plano de Acção de Segurança do PADIM. A presente consultoria tem como objetivo principal apoiar na actualização da análise de risco de segurança, na revisão e operacionalização do Plano de Gestão de Segurança (PGS",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
       "id": "OP00453616",
       "title": "Training Specialist- C3",
       "country": "Pakistan",
@@ -2119,6 +2260,7 @@
       "reference": "PK-RSU-SINDH-550133-CS-INDV",
       "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453616",
       "matchedTerms": [
+        "digital human",
         "training"
       ],
       "titleSignals": [],
@@ -2168,6 +2310,37 @@
       "titleSignalCount": 0,
       "bodySignalCount": 0,
       "excerpt": "n identifying potential areas for improvement by identifying gaps in the design of the dam and appurtenant structures Update the hydrological studies to the current year by acquiring recent flow records and climatological data. Review and update the reservoir simulation (water balance) considering the possible changes in the demand and water supply delivery horizon with the consultation of different stakeholders like WASAC and downstream irrigators. No major design validation and revision will be made on the hydropower component of the project. If deemed necessary, it should be subject to conditional and prior Client approval. The bill of quantity should be reviewed to match the current market condition. Review and update the standard design flood and safety check flood by considering the ICOLD and other relevant guidelines. Presence of a small town (Nyagahanga) downstream of the dam sho",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00451036",
+      "title": "SERVICIO DE CONSULTORÍA INDIVIDUAL DE ASISTENTE ADMINISTRATIVO",
+      "country": "El Salvador",
+      "projectCountry": "El Salvador",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "13-Jun-2026",
+      "deadline": "2026-06-30",
+      "project": "El Salvador Transport and Resilient Infrastructure Project",
+      "buyer": "Ministry of Public Works and Transport",
+      "contactEmail": "rene.garcia@mop.gob.sv",
+      "reference": "SV-MOPT-456191-CS-INDV-2",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451036",
+      "matchedTerms": [
+        "digital human"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "Invitación a presentar Propuesta CI-16/2026 (SV-MOPT-456191-CS-INDV-2) Fecha: 15 de junio de 2026 Estimados Señores: De nuestra consideración: El Gobierno de la República de El Salvador ha recibido financiamiento del Banco Mundial (el “Banco”) para financiar parcialmente el costo del Proyecto de Transporte e Infraestructura Resiliente de El Salvador, bajo el contrato de prestamo No.9602-SV y pretende utilizar los recursos para realizar pagos bajo el contrato Proyecto de Transporte e Infraestructura Resiliente de El Salvador El Ministerio de Obras Públicas y de Transporte invita a presentar su propuesta para proveer los siguientes Servicios de Consultoría (en adelante, los “Servicios”): “SERVICIO DE CONSULTORÍA INDIVIDUAL DE ASISTENTE ADMINISTRATIVO”. En los términos de referencia se brindan en el Anexo 1. Términos de Referencia. Fraude y Corrupción El Banco exige el cumplimiento de las D",
       "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -2319,7 +2492,8 @@
       "reference": "ZR-UGP - PTN-531243-CS-INDV",
       "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452930",
       "matchedTerms": [
-        "animation"
+        "animation",
+        "digital human"
       ],
       "titleSignals": [],
       "bodySignals": [],
@@ -2442,8 +2616,8 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00453150",
-      "title": "CONSULTANCY SERVICES FOR THE RECRUITMENT OF  A GENDER-BASED VIOLENCE SPECIALIST FOR GALOP/STARR-J",
+      "id": "OP00453143",
+      "title": "CONSULTANCY SERVICES FOR THE RECRUITMENT OF A SOCIAL DEVELOPMENT SPECIALIST FOR GALOP/STARR-J",
       "country": "Ghana",
       "projectCountry": "Ghana",
       "noticeType": "Request for Expression of Interest",
@@ -2452,8 +2626,8 @@
       "project": "Ghana Accountability for Learning Outcomes Project",
       "buyer": "Ghana Accountability for Learning Outcomes Project",
       "contactEmail": "arshad6115@gmail.com",
-      "reference": "MOE/GALOP/CS/5/2026",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453150",
+      "reference": "MOE/GALOP/CS/6/2026",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453143",
       "matchedTerms": [
         "training"
       ],
@@ -2475,8 +2649,8 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00453143",
-      "title": "CONSULTANCY SERVICES FOR THE RECRUITMENT OF A SOCIAL DEVELOPMENT SPECIALIST FOR GALOP/STARR-J",
+      "id": "OP00453150",
+      "title": "CONSULTANCY SERVICES FOR THE RECRUITMENT OF  A GENDER-BASED VIOLENCE SPECIALIST FOR GALOP/STARR-J",
       "country": "Ghana",
       "projectCountry": "Ghana",
       "noticeType": "Request for Expression of Interest",
@@ -2485,8 +2659,8 @@
       "project": "Ghana Accountability for Learning Outcomes Project",
       "buyer": "Ghana Accountability for Learning Outcomes Project",
       "contactEmail": "arshad6115@gmail.com",
-      "reference": "MOE/GALOP/CS/6/2026",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453143",
+      "reference": "MOE/GALOP/CS/5/2026",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453150",
       "matchedTerms": [
         "training"
       ],
@@ -2534,6 +2708,42 @@
       "titleSignalCount": 0,
       "bodySignalCount": 0,
       "excerpt": "’indicateurs et d’informations à rajouter et en termes de contenu du rapport général annuel ; Production d’un rapport de cadrage faisant mention du plan proposé pour le rapport annuel et des recommandations d’améliorations retenues de la note de conjoncture ; Animation d’une réunion d’échanges au niveau de la DGTCP pour validation du rapport de cadrage ; Appui pour le traitement des données et la production du rapport annuel sur un exercice de référence et sa note de conjoncture correspondante ; et Animation d’un atelier de restitution à organiser par la DGTCP. Les termes de référence (TDR) détaillés de la mission sont joints au présent appel à manifestation d’intérêt. 3. Profil et qualifications requis Qualifications académiques : Diplôme minimum Bac +4 en gestion, économie, administration , ou disciplines liées. Expérience professionnelle : ; Avoir au moins 10 ans d'expérience professi",
+      "probeScore": 13,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00451356",
+      "title": "Recruitment of a Contract Manager for the Technical Implementation Unit",
+      "country": "Sao Tome and Principe",
+      "projectCountry": "Sao Tome and Principe",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "18-Jun-2026",
+      "deadline": "2026-07-09",
+      "project": "Access to Clean Resilient Electricity under the ASCENT Regional Program - Multi Programmatic Approac",
+      "buyer": "Project Fiduciary and Administrative Agency",
+      "contactEmail": "helio.almeida@afap.st",
+      "reference": "53/C/ACRE/2026",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451356",
+      "matchedTerms": [
+        "digital human"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: capacity building, skills, training"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "capacity building",
+        "training"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "REQUEST FOR EXPRESSIONS OF INTEREST (CONSULTING SERVICES) Country : São Tomé and Principe Project : ACCESS TO CLEAN RESILIENT ELECTRICITY PROJECT (ACRE) Loan No./Credit No./ Grant No. : E259-ST Assignment Title: Recruitment of a Contract Manager for the Technical Implementation Unit REFERENCE NO .: 53/C/ACRE/2026 The Government of the Republic of Sao Tome and Principe (GoSTP) has received grant financing from the World Bank toward the cost of the Access to Clean Resilient Electricity Project (ACRE) whose objective is to increase access to sustainable and clean energy in Sao Tome e Principe. This is aligned with the ASCENT MPA Program Development Objective (PrDO) of accelerating access to sustainable and clean energy and intends to apply part of the proceeds for consulting services. The consulting services (“the Services”) is to recruit a Contract Manager for the Technical Implementation",
       "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -2903,6 +3113,75 @@
       "titleSignalCount": 0,
       "bodySignalCount": 0,
       "excerpt": "gnations (CDC), en sa qualité d’agence d’exécution du Projet d’Appui des Startups et des PME Innovantes en Tunisie financé par la Banque mondiale, lance un appel à manifestation d’intérêt pour la sélection d’un cabinet national chargé de l’élaboration et de l’animation de sessions de formation sur les exigences et aspects environnementaux et sociaux (E&S) conformément au Cadre Environnemental et Social de la Banque mondiale . La mission consiste à préparer les modules de formation, élaborer les supports pédagogiques, animer les sessions de formation, conduire des ateliers pratiques et élaborer les rapports de formation au profit des bénéficiaires du projet. 2. Objectifs de la formation Les formations seront destinées aux représentants de la CDC, de Smart Capital, aux startups, aux PME innovantes ainsi qu’aux fonds bénéficiaires du projet. Elles porteront notamment sur les Normes Environn",
+      "probeScore": 0,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00452155",
+      "title": "Consulting Services to Develop the Liberia National Industrial Policy (LNIP) 2026-2036.",
+      "country": "Liberia",
+      "projectCountry": "Liberia",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "18-Jun-2026",
+      "deadline": "2026-07-03",
+      "project": "Liberia Investment, Finance and Trade Project",
+      "buyer": "Ministry of Commerce and Industry",
+      "contactEmail": "jsayekehnel-lift@moci.gov.lr",
+      "reference": "LR-MOCI-549141-CS-CQS",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452155",
+      "matchedTerms": [
+        "digital human"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "medical: diagnostic"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": true,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "REPUBLIC OF LIBERIA MINISTRY OF COMMERCE & INDUSTRY (MoCI Liberia Investment, Finance & Trade Project (LIFT-P) Insurance Bjilding, 5th Street -Sinkor, Opposite Conex Gas Station Monrovia, Liberia P.O. Box 9041, 1000 Monrovia, 10 Liberia Email: info-lift@moci.gov.lr /www.moci.gov.lr REQUEST FOR EXPRESSION OF INTEREST (REOI) (CONSULTING SERVICES – FIRM SELECTION) Liberia Investment, Finance and Trade Project (LIFT-P) Project ID: P171997 Credit Number 7037-LR Grant Number D9690-LR June 18, 2026 Description of Assignment and Reference Number Procurement Method Assignment Duration Consulting Services to Develop the Liberia National Industrial Policy (LNIP) 2026-2036. ( LR-MOCI-549141-CS-CQS ) Consultant Qualification Selection (CQS) Seven (7) Months The Government of Liberia, through the Ministry of Commerce and Industry is seeking to develop a comprehensive Industrial Policy to guide sustain",
+      "probeScore": 0,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00451837",
+      "title": "Consulting Services for establishing a cross-sectoral data exchange on outbreaks and climate-related risks for inclusion in the online platform being developed for the National One Health Coordination Structure",
+      "country": "Tajikistan",
+      "projectCountry": "Central Asia",
+      "noticeType": "Request for Expression of Interest",
+      "noticeDate": "17-Jun-2026",
+      "deadline": "2026-07-03",
+      "project": "One Health for Pandemic Prevention, Food Systems Resilience, and Ecosystem Health in Central Asia",
+      "buyer": "State Institution “Agriculture Entrepreneurship Development” Project Management Unit",
+      "contactEmail": "procurement.ohp@gmail.com",
+      "reference": "OHP/CS/CQS-2026/09",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451837",
+      "matchedTerms": [
+        "digital human"
+      ],
+      "titleSignals": [],
+      "bodySignals": [],
+      "segmentSignals": [
+        "formation: training",
+        "medical: veterinary"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "training"
+      ],
+      "offDomain": true,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 0,
+      "excerpt": "REQUEST FOR EXPRESSIONS OF INTEREST Country: Republic of Tajikistan Project: One Health for Pandemic Prevention Food Systems Resilience and Ecosystem Health in Central Asia Grant No.: E452-TJ Assignment Title: Consulting services for establishing a cross-sectoral data exchange on outbreaks and climate-related risks for inclusion in the online platform being developed for the NOHCS Reference No. (as per Procurement Plan): OHP/CS/CQS-2026/09 1. The Republic of Tajikistan has received financing from the International Development Association and International Bank for Reconstruction and Development toward the cost of the One Health for Pandemic Prevention Food Systems Resilience and Ecosystem Health in Central Asia and intends to apply part of the proceeds for consulting services. 2. The detailed Terms of Reference (TOR) for the assignment can be found at the following website: https://edavl",
       "probeScore": 0,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
@@ -3375,6 +3654,7 @@
       "reference": "SL-MLHCP-557139-CS-INDV",
       "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453900",
       "matchedTerms": [
+        "digital human",
         "training"
       ],
       "titleSignals": [],
