@@ -306,6 +306,11 @@
     background:#060907;
   }
   .trigger-status{ display:block; margin-top:6px; font-size:12px; color:#8b9689; }
+  .trigger-status .spinner{ display:inline-block; width:11px; height:11px; vertical-align:-1px;
+    border:2px solid rgba(55,214,192,.25); border-top-color:#37d6c0; border-radius:50%;
+    animation:roiSpin .8s linear infinite; }
+  .trigger-status .elapsed{ color:#586357; }
+  @keyframes roiSpin{ to{ transform:rotate(360deg); } }
   .funnel{ margin:6px 0 4px; font-size:12px; color:#8b9689; }
   .funnel b{ color:#e4e8dc; }
   .funnel .fn-arrow{ color:#37d6c0; margin:0 2px; }
@@ -1872,21 +1877,31 @@
   els.saveSearchControl.addEventListener("click", () => {
     sendSearchControl("/api/search/config", readSearchControlInputs());
   });
-  let __triggerPoll = null;
-  function setTriggerStatus(t){ const el = document.getElementById('trigger-status'); if(el) el.textContent = t; }
+  let __triggerPoll = null, __triggerTick = null, __triggerStart = 0;
+  function fmtElapsed(){ const s = Math.max(0, Math.floor((Date.now()-__triggerStart)/1000)); const m = Math.floor(s/60); return m ? `${m} min ${s%60}s` : `${s}s`; }
+  function setTriggerStatus(text, busy=false){
+    const el = document.getElementById('trigger-status'); if(!el) return;
+    if(__triggerTick){ clearInterval(__triggerTick); __triggerTick = null; }
+    const render = () => { el.innerHTML = busy
+      ? `<span class="spinner" aria-hidden="true"></span> ${escHtml(text)} <span class="elapsed">${escHtml(fmtElapsed())}</span>`
+      : escHtml(text); };
+    render();
+    if(busy) __triggerTick = setInterval(render, 1000);
+  }
   async function forceSearch(){
     let pass = localStorage.getItem('roiTriggerPass');
     if(!pass){ pass = prompt('Passphrase de recherche :') || ''; if(!pass) return; localStorage.setItem('roiTriggerPass', pass); }
     // generatedAt courant : on attendra qu'il CHANGE (sinon on lit l'ancien JSON pas encore rebuildé par Pages)
     const baseGen = (state.payload && state.payload.generatedAt) || "";
-    setTriggerStatus('Lancement…');
+    __triggerStart = Date.now();
+    setTriggerStatus('Lancement…', true);
     try{
       const r = await fetch(`${WORKER_URL}/request`, { method:'POST', headers:{ 'x-roi-pass': pass } });
       if(r.status === 401){ localStorage.removeItem('roiTriggerPass'); setTriggerStatus('Passphrase invalide.'); return; }
       if(r.status === 429){ const b = await r.json().catch(()=>({})); setTriggerStatus(`Trop tôt — réessaie dans ${Math.ceil((b.retryInSec||0)/60)} min.`); return; }
       if(r.status === 409){ setTriggerStatus('Une recherche est déjà en cours.'); pollTrigger(baseGen); return; }
       if(!r.ok){ setTriggerStatus('Service indisponible.'); return; }
-      setTriggerStatus('Recherche lancée…'); pollTrigger(baseGen);
+      setTriggerStatus('Recherche lancée…', true); pollTrigger(baseGen);
     }catch(e){ setTriggerStatus('Service injoignable.'); }
   }
   function pollTrigger(baseGen){
@@ -1899,10 +1914,10 @@
         if(!publishedSeen){
           const s = await (await fetch(`${WORKER_URL}/status?ts=${Date.now()}`, {cache:'no-store'})).json();
           const st = s.state || {};
-          if(st.status === 'running'){ setTriggerStatus('Recherche en cours…'); }
-          else if(st.status === 'queued'){ setTriggerStatus('En file…'); }
+          if(st.status === 'running'){ setTriggerStatus('Recherche en cours…', true); }
+          else if(st.status === 'queued'){ setTriggerStatus('En file…', true); }
           else if(st.status === 'error'){ clearInterval(__triggerPoll); setTriggerStatus(`Erreur : ${st.message||'inconnue'}`); }
-          else if(st.status === 'published'){ publishedSeen = true; setTriggerStatus(`Publié (${st.offers||0}) — mise en ligne…`); }
+          else if(st.status === 'published'){ publishedSeen = true; setTriggerStatus(`Publié (${st.offers||0}) — mise en ligne…`, true); }
         } else {
           // GitHub Pages met quelques minutes à servir le nouveau verified-opportunities.json
           const d = await (await fetch(`${DATA_URL}?ts=${Date.now()}`, {cache:'no-store'})).json();
@@ -1911,7 +1926,7 @@
             setTriggerStatus(`À jour — ${d.total||0} offres.`);
             loadState();                    // re-render complet avec les données fraîches
           } else {
-            setTriggerStatus('Mise en ligne en cours…');
+            setTriggerStatus('Mise en ligne en cours…', true);
           }
         }
       }catch(e){ /* transitoire, on continue */ }
