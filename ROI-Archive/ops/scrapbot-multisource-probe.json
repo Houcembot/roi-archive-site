@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T10:37:53+00:00",
+  "generatedAt": "2026-06-28T11:32:02+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -7,8 +7,10 @@
       "url": "https://search.worldbank.org/api/v2/procnotices",
       "status": "active",
       "mode": "public API",
-      "searchedTerms": 28,
-      "errors": []
+      "searchedTerms": 27,
+      "errors": [
+        "3D: curl: (28) Operation timed out after 35000 milliseconds with 3506012 bytes received"
+      ]
     },
     {
       "name": "UNGM Procurement",
@@ -52,12 +54,12 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 124.14,
-  "totalCandidates": 91,
+  "durationSeconds": 345.39,
+  "totalCandidates": 90,
   "summary": {
     "likely_fit": 14,
     "review": 9,
-    "reject": 68
+    "reject": 67
   },
   "items": [
     {
@@ -3493,41 +3495,6 @@
       "titleSignalCount": 0,
       "bodySignalCount": 0,
       "excerpt": "REQUEST FOR EXPRESSIONS OF INTEREST (LEARN-IC-ECEDO-03 – Administrative Assistant) Market Approach - Open, National UKRAINE Lifting Education Access and Resilience in Times of Need in Ukraine Program Grant No. TF0D0612 Assignment Title: Administrative Assistant Reference No. LEARN-IC-ECEDO-03 Ukraine with the International Bank for Reconstruction and Development and the International Development Association (hereinafter referred to as the World Bank) have signed the agreements for the Program “Lifting Education Access and Resilience in times of Need in Ukraine” (hereinafter referred to as the LEARN or Operation). LEARN was developed to address critical challenges and provide essential support to the education sector, aligning with the Ministry of Education and Science’s (MoES) Strategic Action Plan. The objectives of the Operation are to (i) improve teaching and learning conditions; and",
-      "probeScore": 0,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00452444",
-      "title": "Construction of a water supply pipeline and water meter boxes to connect 48,917 households in the Balkh, Dusti, Vakhsh, and Vose districts (Lots 1 and 2)",
-      "country": "Tajikistan",
-      "projectCountry": "Tajikistan",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "22-Jun-2026",
-      "deadline": "2026-07-20",
-      "project": "Tajikistan Water Supply and Sanitation Investment Project",
-      "buyer": "MIDP Project Management Unit",
-      "contactEmail": "rwssp@midp.tj",
-      "reference": "WSIP-AF-W-006",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452444",
-      "matchedTerms": [
-        "3D"
-      ],
-      "titleSignals": [],
-      "bodySignals": [
-        "3d_vr: 3d"
-      ],
-      "segmentSignals": [
-        "animation: 3d"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": true,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 1,
-      "excerpt": "kh, Dusti, Vakhsh, and Vose districts (Lots 1 and 2) Lot 1: Construction of a water supply pipeline and water meter boxes to connect 26,247 households in villages in the Balkh District (Zones 2D and 2E), the Dusti District (Zone 2F), the Vakhsh District (Zone 3D), and the Vose District (the village of Kaduchi) Lot 2: Construction of a water supply pipeline and water meter boxes to connect 22,670 households in villages in the Balkh District (Zone 2D) and the Dusti District (Zone 2G) : IDA E 0950-001-TJ AF : WSIP-AF-W-PMU/006 1. The Project Management Unit for the Municipal Infrastructure Development Project in the Republic of Tajikistan, acting on behalf of the SUE “Khodjagii Manziliyu Kommunalni,” which serves as the Project Implementation Agency, has received funding from the World Bank to cover the costs of the Water Supply and Sanitation Investment Project (Additional Financing (AF))",
       "probeScore": 0,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
