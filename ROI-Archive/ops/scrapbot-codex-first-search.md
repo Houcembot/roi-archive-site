@@ -1,17 +1,17 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-29T11:41:51+00:00
+Genere: 2026-06-29T13:53:18+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 28 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 20 requetes, 2 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
 
 ## Resultat
-- Candidats lus: 82
+- Candidats lus: 85
 - Likely fit: 13
-- A revoir: 9
-- Rejetes: 60
+- A revoir: 10
+- Rejetes: 62
 - Offres publiees dans le HUD: 7
 
 ## Top offres publiees / compatibles
@@ -88,6 +88,7 @@ Genere: 2026-06-29T11:41:51+00:00
 - Extrait: France – Architectural, engineering and surveying services – Le Scan to BIM correspond au processus de modélisation d’un bâtiment sur la base de son nuage de points : l’empreinte 3D générée suite à un relevé de l’intérieur (etou de l’extérieur) du bâtiment via l’utilisation de technologies de scan 3D (lasergrammétrie etou photogrammétrie). Cette méthodologie permet de créer ou de mettre à jour la maquette numérique d
 
 ## A revoir
+- Ireland – Miscellaneous evaluation or testing instruments – UL1066 Lot 1 Mobile Robot Motion Capture System, Lot 2 Compact Autonomous Surface Vehicle (ASV) for Hydrographic Survey Unmanned Surface Vehicle (ASV) to the University of Limerick | TED EU Tenders | Ireland | deadline 2026-07-02 | score 40 | https://ted.europa.eu/en/notice/-/detail/406080-2026
 - Consultancy on Climate Change Simulation Models development to assess impacts on Crop Productivity, Pasture Conditions, and Transboundary Pest Outbreaks | World Bank Procurement Notices | Djibouti | deadline 2026-07-10 | score 40 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453808
 - Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF. | TED EU Tenders | Spain | deadline 2026-07-03 | score 35 | https://ted.europa.eu/en/notice/-/detail/379732-2026
 - Consulting services for the development of teaching and learning materials (TLM)  for the first cycle of study at the level of upper secondary education (10th grade) | World Bank Procurement Notices | Ukraine | deadline 2026-07-10 | score 35 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00447675
