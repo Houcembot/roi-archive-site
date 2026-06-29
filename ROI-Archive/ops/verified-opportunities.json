@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T21:07:43+00:00",
+  "generatedAt": "2026-06-29T21:54:58+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 49,
+  "total": 52,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -315,7 +315,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous savons que l’intro et l’outro de votre podcast doivent capter l’attention dès les premières secondes et laisser une impression mémorable. Notre équipe de motion‑graphics se spécialise dans la création de transitions dynamiques qui renforcent l’identité de votre marque tout en restant parfaitement adaptées à votre format audio‑visuel. Avec **57 productions motion‑graphics produit & publicité** déjà livrées, notre archive témoigne de notre capacité à transformer chaque séquence en un véritable hook visuel. Discutons rapidement de la façon dont nous pouvons donner vie à vos épisodes !"
     },
     {
       "id": "freelancer:40547566",
@@ -392,7 +393,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous comprenons que vous cherchez à dynamiser votre vidéo YouTube de 26 minutes avec des motion graphics percutants, sans perdre l’essence de votre produit. Notre expertise en motion graphics produit & publicité nous permet de créer des animations qui captivent l’audience tout en renforçant votre message. Avec plus de 57 productions réussies dans notre archive, nous savons transformer chaque séquence en un véritable levier de conversion. Discutons rapidement de la façon dont nous pouvons sublimer votre projet !"
     },
     {
       "id": "freelancer:40547911",
@@ -625,7 +627,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi que vous cherchez à booster votre notoriété avec une vidéo d’intelligence artificielle percutante. Notre expertise en motion‑graphics produit & publicité transforme des concepts tech en visuels dynamiques qui captivent l’audience. Avec plus de 57 productions réalisées dans notre archive, nous savons comment allier créativité et performance pour votre marque. Discutons rapidement de la façon dont nous pouvons donner vie à votre vision !"
     },
     {
       "id": "freelancer:40546752",
@@ -884,7 +887,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "We understand you need a punchy, AI‑enhanced 3‑D short that grabs teens in the first five seconds and stays smooth across every platform. At Voxel Studio we specialize in character animation, blending tools like Stable Diffusion and Runway with Blender, Maya or Unreal to keep the workflow fast and the look ultra‑modern. Our archive already counts **44 character‑animation & cartoon projects**, so we know how to deliver the energy and polish your audience expects. Let’s chat about the storyboard and timeline—when would you like to see the first style frames?"
     },
     {
       "id": "freelancer:40544443",
@@ -1003,6 +1007,56 @@
       ],
       "fitReasons": [
         "Rendu 3D produit électronique, besoin visuels marketing"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548843",
+      "title": "Crypto Academy ",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Crypto-Academy",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animations cartoon pour stickers Telegram, motion graphics."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40545626",
+      "title": "Minimalist Surveillance Projection Mapping",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Minimalist-Surveillance-Projection",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo motion graphics pour mapping façade, service créatif requis"
       ],
       "buyer": "freelancer",
       "archiveMatches": [
@@ -1137,7 +1191,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin : transformer votre script détaillé en une vidéo 8 K dynamique où singes et dinosaures prennent vie avec des coupes rythmées et un son parfaitement synchronisé. Notre spécialité, l’**Animation de personnages**, nous permet de sculpter chaque mouvement et expression pour que vos héros captivent les jeunes spectateurs du début à la fin. Avec **44 projets d’animation de personnages & cartoon** à notre actif (archive Voxel), nous maîtrisons les exigences de qualité et de fluidité que vous recherchez. Prêt à voir vos scènes prendre forme ? Envoyez‑nous vos assets et nous vous livrerons le premier draft rapidement."
     },
     {
       "id": "freelancer:40545232",
@@ -1162,7 +1217,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "I see you’ve already got the raw footage and a stylised AI‑generated character, and you just need that hero to move naturally inside the scene.  \nAt Voxel Studio we specialise in character animation, handling everything from fluid rigging to seamless compositing—shadows, lighting tweaks and colour grading included.  \nOur archive boasts 44 completed character‑animation and cartoon projects, so you can trust we’ve mastered the blend of 2D rigs with live‑action footage.  \nLet’s chat quickly about the shots you have, and I’ll send over the most relevant reel so you can see the result before we start."
     },
     {
       "id": "freelancer:40545736",
@@ -1242,6 +1298,32 @@
       ]
     },
     {
+      "id": "freelancer:40548827",
+      "title": "High-Detail 3D Scan & Print",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/High-Detail-Scan-Print",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 93,
+      "subject": "scan_heritage",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Demande de scan 3D haute résolution, service de numérisation"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "scan_heritage",
+          "label": "scan_heritage"
+        }
+      ],
+      "proposalDraft": "Bonjour,\n\nNous comprenons que vous recherchez un scan 3D ultra‑détaillé avec une confidentialité absolue. Chez Voxel Studio, nous maîtrisons la photogrammétrie haute résolution et la préparation de modèles pour l’impression 3D, comme le montrent nos 55 projets archivés dans le domaine du patrimoine.  \n\nNous serions ravis d’échanger rapidement pour voir comment garantir la discrétion et la qualité que vous attendez.  \n\nÀ très vite pour en discuter !"
+    },
+    {
       "id": "freelancer:40548766",
       "title": "3D Model Required for Soft Equipment Bag",
       "sourceUrl": "https://www.freelancer.com/projects/3d-design/Model-Required-for-Soft-Equipment",
@@ -1264,7 +1346,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "We understand you need a clean, low‑poly 3D model of the ClickOn soft‑equipment bag, perfectly scaled and ready in STEP and GLB for both CAD integration and product visualisation.  \nAt Voxel, we turn such precise product assets into compelling motion‑graphics pieces that showcase every colour variant in action.  \nOur archive already holds **57 motion‑graphics productions for products and advertising**, proving we can deliver the visual impact you expect.  \nLet’s bring your bag to life on screen—just say “go” and we’ll start the animation pipeline."
     },
     {
       "id": "freelancer:40545910",
