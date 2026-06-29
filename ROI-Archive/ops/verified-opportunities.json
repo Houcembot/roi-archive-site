@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T21:54:58+00:00",
+  "generatedAt": "2026-06-29T22:40:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 52,
+  "total": 56,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -1014,7 +1014,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Hi — we’ve read that you need ultra‑realistic, minimalist product shots that can carry a premium 3C brand across e‑commerce and ads. At Voxel we specialize in product motion‑graphics and advertising, turning sleek electronics into eye‑catching visual stories. Our archive already holds **57 motion‑graphics productions for product & pub**, many of them for consumer‑electronics very similar to your power‑bank line. We can deliver crisp 4K renders from every angle, plus a clean lifestyle scene, all with the source files you need for fast turn‑arounds. Let’s chat briefly to see how we can bring your next launch to life."
     },
     {
       "id": "freelancer:40548843",
@@ -1065,6 +1066,107 @@
           "label": "product_ad_motion"
         }
       ]
+    },
+    {
+      "id": "freelancer:40548889",
+      "title": "Colorful Hippo Blender Animations",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Colorful-Hippo-Blender-Animations",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animations de personnage 3D stylisé"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40546312",
+      "title": "AI Video Editor for E-commerce Brand",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/Video-Editor-for-commerce-Brand",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo publicitaire avec avatar et animations"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40543533",
+      "title": "DBZ-Style 3D Soccer Video Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-animation/DBZ-Style-Soccer-Video-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation 3D de personnages virale"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40543396",
+      "title": "Email Signature Line Fill Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/svg/Email-Signature-Line-Fill-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation SVG demandée, service créatif de motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "Bonjour,\n\nJe comprends que vous avez besoin d’une animation SVG fluide pour votre signature email, avec une version GIF prête à l’emploi. Chez Voxel, nous transformons ce type de besoin en motion graphics produit & pub percutants, en conservant la netteté du design tout en assurant une compatibilité maximale. Notre archive compte déjà **57 productions motion graphics produit & publicité**, dont plusieurs signatures animées qui ont boosté la visibilité de nos clients.  \n\nDiscutons rapidement de votre fichier AI et de la façon dont nous pouvons le faire vivre !"
     },
     {
       "id": "freelancer:40548317",
@@ -1166,7 +1268,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous comprenons que vous cherchez un artiste 3D capable de donner vie à des personnages au style gacha, avec des mouvements fluides et expressifs. Notre service d’Animation de personnages est spécialement pensé pour transformer vos modèles en héros dynamiques, prêts à captiver votre audience. Avec **44 projets d’animation de personnages & cartoon** déjà réalisés dans notre archive, nous avons l’expertise nécessaire pour répondre à vos exigences créatives. Discutons rapidement de la façon dont nous pouvons animer vos personnages !"
     },
     {
       "id": "freelancer:40546463",
