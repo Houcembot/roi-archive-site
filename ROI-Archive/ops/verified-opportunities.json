@@ -1,50 +1,13 @@
 {
-  "generatedAt": "2026-06-29T16:04:18+00:00",
+  "generatedAt": "2026-06-29T18:15:44+00:00",
   "sourcePolicy": "verified-only-multisource",
-  "verifier": {
-    "bot": "VerifierBot",
-    "model": "archive_profile_rule_v2 + codex_multisource_probe_v1",
-    "minimumDecisionForPublish": "likely_fit",
-    "note": "ScrapBot collecte World Bank, UNGM et TED; VerifierBot publie seulement les offres actives qui matchent une capacite Voxel prouvee par l'archive.",
-    "archiveProfile": {
-      "records": 1047,
-      "families": {
-        "avatar_robot_unreal": {
-          "count": 34,
-          "taille_go": 681.25
-        },
-        "cartoon_character_animation": {
-          "count": 44,
-          "taille_go": 2003.31
-        },
-        "education_research": {
-          "count": 19,
-          "taille_go": 336.23
-        },
-        "medical_scientific_body": {
-          "count": 64,
-          "taille_go": 1014.9
-        },
-        "pipeline_tools": {
-          "count": 195,
-          "taille_go": 4389.97
-        },
-        "product_ad_motion": {
-          "count": 57,
-          "taille_go": 1050.32
-        },
-        "scan_heritage_photogrammetry": {
-          "count": 55,
-          "taille_go": 617.45
-        }
-      },
-      "sources": [
-        "/home/max/.botfleet/shared/projets/ROI-Archive/dataset/archive_summary.json",
-        "/home/max/.botfleet/shared/projets/ROI-Archive/combot/top20_sujets.csv"
-      ]
-    }
-  },
   "sources": [
+    {
+      "name": "Freelancer (marketplaces de projets)",
+      "url": "https://www.freelancer.com",
+      "status": "active",
+      "searchedTerms": 0
+    },
     {
       "name": "World Bank Procurement Notices",
       "url": "https://search.worldbank.org/api/v2/procnotices",
@@ -64,22 +27,15 @@
       "url": "https://api.ted.europa.eu/v3/notices/search",
       "status": "active",
       "mode": "public API expert query with deadline filter",
-      "searchedTerms": 17
+      "searchedTerms": 19
     }
   ],
   "queryTerms": [
-    "3D",
     "3D animation",
     "3D scanning",
-    "AR VR",
-    "Maya",
-    "Substance 3D",
-    "Unreal",
     "Unreal Engine",
     "VR simulation",
     "VR training",
-    "ZBrush",
-    "animation",
     "animation 3D",
     "augmented reality",
     "avatar",
@@ -92,36 +48,17 @@
     "museum 3D",
     "photogrammetry",
     "research platform virtual reality",
-    "scan 3D",
     "scientific visualization",
-    "simulation",
     "simulation training",
-    "training",
     "video production",
     "virtual laboratory",
     "virtual reality"
   ],
-  "schedule": {
-    "status": "running",
-    "activeDays": [
-      "monday",
-      "tuesday",
-      "wednesday",
-      "thursday",
-      "friday",
-      "saturday"
-    ],
-    "startTime": "09:00",
-    "cycleHours": 2.0,
-    "runDurationMinutes": 720.0,
-    "queryDelaySeconds": 15.0
-  },
-  "activeAsOf": "2026-06-29",
-  "minimumDaysLeft": 1,
-  "total": 7,
-  "countryCount": 7,
+  "total": 34,
+  "countryCount": 8,
   "countries": {
     "Kenya": 1,
+    "Remote": 27,
     "Mozambique": 1,
     "Germany": 1,
     "Lebanon": 1,
@@ -130,13 +67,11 @@
     "Poland": 1
   },
   "segments": {
-    "animation": 7
+    "animation": 34
   },
   "errors": [
-    "TED EU Tenders: digital human: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n",
-    "TED EU Tenders: avatar: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n",
-    "TED EU Tenders: motion capture: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n",
-    "TED EU Tenders: video production: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n",
+    "TED EU Tenders: Unreal Engine: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n",
+    "TED EU Tenders: media production: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n",
     "TED EU Tenders: research platform virtual reality: HTTP 429 <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.1</center>\r\n</body>\r\n"
   ],
   "items": [
@@ -215,8 +150,683 @@
         ]
       },
       "evidenceExcerpt": "Specific Procurement Notice Request for Bids Goods (One-Envelope Bidding Process) Country: Kenya Name of Project: Kenya Digital Economy Acceleration Project Contract Title: Supply, Delivery, Installation and Commissioning of Virtual Laboratory (VR) Equipment for Simulation-Based Training in TVETs Institutions Loan No./Credit No./ Grant No.: 7289-KE and 7290-KE RFB Reference No.: KE-ICTA-553315-GO-RFB 1. The Government of Kenya has received financing from the World Bank toward the cost of the Kenya Digital Economy Acceleration Project and intends to apply part of the proceeds toward payments under the contract for Supply, Delivery, Installation and Commissioning of Virtual Laboratory (VR) Equipment for Simulation-Based Training in TVETs Institutions. For this contract, the Borrower shall process the payments using the Direct Payment disbursement method, as defined in the World Bank’s Disb",
-      "collectedAt": "2026-06-29T16:04:18+00:00",
+      "collectedAt": "2026-06-29T18:15:44+00:00",
       "snapshotUrl": "ops/evidence/OP00451397.html"
+    },
+    {
+      "id": "freelancer:40548536",
+      "title": "Realistic Astronaut Ad Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Realistic-Astronaut-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 98,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'une vidéo publicitaire 3D réaliste"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548575",
+      "title": "Professional Landing Page Video Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Professional-Landing-Page-Video-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Montage vidéo avec motion graphics, captions, branding, livrable final."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548533",
+      "title": "Chess Learning Video Animation for REKI Chess",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Chess-Learning-Video-Animation-for",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos motion‑graphics éducatives 2D"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548456",
+      "title": "3D Fantasy Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Fantasy-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation 3D de personnages fantasy éducative"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548237",
+      "title": "4-Screen Minimalist Kebab Menu",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Screen-Minimalist-Kebab-Menu",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation minimaliste pour affichage digital sur quatre écrans"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548152",
+      "title": "First-Person Action Game Development",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/First-Person-Action-Game-Development",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation 3D de pack-opening premium"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548053",
+      "title": "Fintech App Logo Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/logo-animation/Fintech-App-Logo-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation logo mobile, motion graphics produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40547651",
+      "title": "Podcast Intro & Outro Transitions",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Podcast-Intro-Outro-Transitions",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animations d'intro/outro podcast en motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40547566",
+      "title": "Vertical Parking 3D Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Vertical-Parking-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation 3D produit technique, demande de rendu vidéo"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548330",
+      "title": "Rigged Chameleon Mascot Model",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Rigged-Chameleon-Mascot-Model",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création, texturage et rigging de mascotte 3D"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548198",
+      "title": "26-Min Motion Graphics YouTube Video Editing | Budget ₹1,500 | Only Bid If You Accept",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Min-Motion-Graphics-YouTube-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de montage vidéo avec motion graphics, service créatif"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40547911",
+      "title": "Mixed Media Company Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Mixed-Media-Company-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de création vidéo mixte corporate, animation et live‑action"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40547367",
+      "title": "Land and Aquatic exercises animation 2026 -- 3",
+      "sourceUrl": "https://www.freelancer.com/projects/animation/Land-Aquatic-exercises-animation-40547367",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animations de personnages semi-réalistes"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40547336",
+      "title": "Professional HD Video & Lyric Upgrade",
+      "sourceUrl": "https://www.freelancer.com/projects/audio-editing/Professional-Video-Lyric-Upgrade",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Post‑production vidéo avec motion graphics et sous‑titres"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40547187",
+      "title": "3D Kids Cartoon Animator Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/character-design/Kids-Cartoon-Animator-Needed",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création complète d'animations 3D de personnages pour vidéos éducatives."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40547068",
+      "title": "3D AI Animation Branding",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Animation-Branding",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation 3D publicitaire conforme au catalogue"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40547065",
+      "title": "Abstract 3D Brand Intro Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Abstract-Brand-Intro-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'une vidéo 3D motion‑graphics brand intro"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40547061",
+      "title": "3D AI Marketing Animation ",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Marketing-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation 3D marketing pour produit AI"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40547013",
+      "title": "Solana Bidding Teaser Video",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Solana-Bidding-Teaser-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'une vidéo teaser motion‑graphics publicitaire"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40546833",
+      "title": "AI Brand Awareness Video",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Brand-Awareness-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo brand, motion graphics, post‑production"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40546752",
+      "title": "Clinic SaaS Lead-Gen Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Clinic-SaaS-Lead-Gen-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'une vidéo publicitaire motion graphics pour SaaS."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40512541",
+      "title": "3D Puppet Animation Series",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Puppet-Animation-Series",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animations 3D de personnages puppets pour série enfantine"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40546409",
+      "title": "Cinematic 8K Animation of Premium Paint Brush",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Cinematic-Animation-Premium-Paint-Brush",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation produit publicitaire ultra‑réaliste en 8K"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548317",
+      "title": "Inspiring AI Promo Video for Welfare Center",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Inspiring-Promo-Video-for-Welfare",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'une vidéo promotionnelle cinématographique humanitaire"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40547987",
+      "title": "AI-Powered Promotional Video Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Powered-Promotional-Video-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo promotionnelle avec motion graphics 2D/3D"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40547694",
+      "title": "Dynamic Animations For Mobile Game",
+      "sourceUrl": "https://www.freelancer.com/projects/unity/Dynamic-Animations-For-Mobile-Game",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animations et effets visuels pour jeu mobile, service créatif."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40546326",
+      "title": "Gacha-Style 3D Character Artist Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-rigging/Gacha-Style-Character-Artist-Needed",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création, rigging, animation et VFX de personnages 3D stylisés"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
     },
     {
       "id": "UNGM-305524",
@@ -292,7 +902,7 @@
         ]
       },
       "evidenceExcerpt": "GCP/SFS/006/SWE - Video production for project visibility 10-Jul-2026 12:00 (GMT 2.00) FAO Invitation to bid 2026/FRMOZ/FRMOZ/137424 Mozambique",
-      "collectedAt": "2026-06-29T16:04:18+00:00",
+      "collectedAt": "2026-06-29T18:15:44+00:00",
       "snapshotUrl": "ops/evidence/UNGM-305524.html"
     },
     {
@@ -372,7 +982,7 @@
         ]
       },
       "evidenceExcerpt": "Germany – Multimedia software development services – Entwicklung von Augmented Reality-Szenarien für vorhandene Spielplätze Entwicklung von 7 voneinander unabhängigen Augmented-Reality-Szenarien für vorhandene Spielplätze an 7 Standorten im Landkreis St. Wendel. Diese sollen in ein extra dafür gefertigtes Modul der \"meinWND-APP\" integriert werden. Der Leistungsumfang umfasst die Konzeption, die Umsetzung, die Inbetriebnahme incl. Test vor Ort sowie die Dokumentation für 4-8 Stationen pro Standort. Landkreis St. Wendel Dezernat 4 Vergabestelle Germany",
-      "collectedAt": "2026-06-29T16:04:18+00:00",
+      "collectedAt": "2026-06-29T18:15:44+00:00",
       "snapshotUrl": "ops/evidence/TED-439773-2026.html"
     },
     {
@@ -448,7 +1058,7 @@
         ]
       },
       "evidenceExcerpt": "Request for proposals – Digital Heritage & Interactive Media Production for Mar Mikhael Train Station – Beirut, Lebanon 06-Jul-2026 18:00 (GMT 3.00) UNESCO Request for proposal RFP No BEI-2026-003 Lebanon",
-      "collectedAt": "2026-06-29T16:04:18+00:00",
+      "collectedAt": "2026-06-29T18:15:44+00:00",
       "snapshotUrl": "ops/evidence/UNGM-304000.html"
     },
     {
@@ -525,7 +1135,7 @@
         ]
       },
       "evidenceExcerpt": "Photography and video production company/team to produce photos and video footage for the International Labour Organization 08-Jul-2026 10:30 (GMT 2.00) ILO Request for quotation rfx_7370_ROAP Japan",
-      "collectedAt": "2026-06-29T16:04:18+00:00",
+      "collectedAt": "2026-06-29T18:15:44+00:00",
       "snapshotUrl": "ops/evidence/UNGM-305111.html"
     },
     {
@@ -601,7 +1211,7 @@
         ]
       },
       "evidenceExcerpt": "Two CT simulators, 3D scanning water phantom & dosimetry equipment 17-Jul-2026 17:00 (GMT 2.00) IAEA Request for proposal 673814-AM Ukraine",
-      "collectedAt": "2026-06-29T16:04:18+00:00",
+      "collectedAt": "2026-06-29T18:15:44+00:00",
       "snapshotUrl": "ops/evidence/UNGM-303942.html"
     },
     {
@@ -677,8 +1287,16 @@
         ]
       },
       "evidenceExcerpt": "Poland – Photogrammetry services – Wykonanie digitalizacji 900 obiektów muzealnych technikami 3D w ramach projektu pod nazwą „Digitalizacja zbiorów Muzeum Narodowego w Szczecinie technikami 3D wraz z ich udostępnieniem ... \" Przedmiotem zamówienia jest Wykonanie digitalizacji 900 obiektów muzealnych technikami 3 D w ramach projektu pod nazwą „Digitalizacja zbiorów Muzeum Narodowego w Szczecinie technikami 3D wraz z ich udostępnieniem oraz zakup urządzeń do przechowywania i udostępniania zbiorów cyfrowych” Szczegółowy opis przedmiotu zamówienia opisany jest w Załączniku nr 11 do SWZ - Opis przedmiotu zamówienia. Muzeum Narodowe w Szczecinie Poland",
-      "collectedAt": "2026-06-29T16:04:18+00:00",
+      "collectedAt": "2026-06-29T18:15:44+00:00",
       "snapshotUrl": "ops/evidence/TED-411471-2026.html"
     }
-  ]
+  ],
+  "activeAsOf": "2026-06-29",
+  "minimumDaysLeft": 1,
+  "verifier": {
+    "bot": "VerifierBot",
+    "model": "archive_profile_rule_v2 + codex_multisource_probe_v1",
+    "minimumDecisionForPublish": "likely_fit",
+    "note": "ScrapBot collecte World Bank, UNGM et TED; VerifierBot publie seulement les offres actives qui matchent une capacite Voxel prouvee par l'archive."
+  }
 }

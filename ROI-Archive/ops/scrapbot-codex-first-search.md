@@ -1,18 +1,18 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-29T16:04:18+00:00
+Genere: 2026-06-29T18:15:44+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 28 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 17 requetes, 5 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 19 requetes, 3 erreur(s)
 
 ## Resultat
-- Candidats lus: 79
-- Likely fit: 10
-- A revoir: 9
-- Rejetes: 60
-- Offres publiees dans le HUD: 7
+- Candidats lus: 83
+- Likely fit: 13
+- A revoir: 8
+- Rejetes: 62
+- Offres publiees dans le HUD: 34
 
 ## Top offres publiees / compatibles
 ### Supply, Delivery, Installation and Commissioning of Virtual Laboratory (VR) Equipment for Simulation-Based Training in TVETs Institutions
@@ -45,6 +45,18 @@ Genere: 2026-06-29T16:04:18+00:00
 - Archive: Animation 3D / personnage
 - Extrait: Photography and video production company/team to produce photos and video footage for the International Labour Organization 08-Jul-2026 10:30 (GMT 2.00) ILO Request for quotation rfx_7370_ROAP Japan
 
+### Ireland – Motion picture and video production services – Provision of TV and Video Production Services
+- Source: TED EU Tenders | Pays: Ireland | Deadline: 2026-06-30 | Score: 59 | non publiee
+- URL: https://ted.europa.eu/en/notice/-/detail/350216-2026
+- Archive: Animation 3D / personnage
+- Extrait: Ireland – Motion picture and video production services – Provision of TV and Video Production Services Rásaíocht Con Éireann(RCÉ) /Greyhound Racing Ireland (GRI) invites tender submissions from interested parties for the provision of TV and Video Production Services in the areas listed in paragraph 2 – Specification. This Invitation to Tender (ITT) forms part of a tender process. It is advised that you read this docu
+
+### North Macedonia – Motion picture and video production services – Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government
+- Source: TED EU Tenders | Pays: North Macedonia | Deadline: 2026-07-09 | Score: 59 | non publiee
+- URL: https://ted.europa.eu/en/notice/-/detail/405939-2026
+- Archive: Animation 3D / personnage
+- Extrait: North Macedonia – Motion picture and video production services – Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government Video and photo production, monitoring and textual information on the status and phases of the implementation of projects funded by the Government Government of the Republic of North Macedonia - General secre
+
 ### Two CT simulators, 3D scanning water phantom & dosimetry equipment
 - Source: UNGM Procurement | Pays: Ukraine | Deadline: 2026-07-17 | Score: 53 | publiee
 - URL: https://www.ungm.org/Public/Notice/303942
@@ -76,6 +88,7 @@ Genere: 2026-06-29T16:04:18+00:00
 - Extrait: France – Architectural, engineering and surveying services – Le Scan to BIM correspond au processus de modélisation d’un bâtiment sur la base de son nuage de points : l’empreinte 3D générée suite à un relevé de l’intérieur (etou de l’extérieur) du bâtiment via l’utilisation de technologies de scan 3D (lasergrammétrie etou photogrammétrie). Cette méthodologie permet de créer ou de mettre à jour la maquette numérique d
 
 ## A revoir
+- Ireland – Miscellaneous evaluation or testing instruments – UL1066 Lot 1 Mobile Robot Motion Capture System, Lot 2 Compact Autonomous Surface Vehicle (ASV) for Hydrographic Survey Unmanned Surface Vehicle (ASV) to the University of Limerick | TED EU Tenders | Ireland | deadline 2026-07-02 | score 40 | https://ted.europa.eu/en/notice/-/detail/406080-2026
 - Consultancy on Climate Change Simulation Models development to assess impacts on Crop Productivity, Pasture Conditions, and Transboundary Pest Outbreaks | World Bank Procurement Notices | Djibouti | deadline 2026-07-10 | score 40 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453808
 - Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF. | TED EU Tenders | Spain | deadline 2026-07-03 | score 35 | https://ted.europa.eu/en/notice/-/detail/379732-2026
 - Consulting services for the development of teaching and learning materials (TLM)  for the first cycle of study at the level of upper secondary education (10th grade) | World Bank Procurement Notices | Ukraine | deadline 2026-07-10 | score 35 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00447675
@@ -83,8 +96,6 @@ Genere: 2026-06-29T16:04:18+00:00
 - Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF. | TED EU Tenders | Spain | deadline 2026-07-20 | score 35 | https://ted.europa.eu/en/notice/-/detail/422270-2026
 - Netherlands – Photogrammetry services – Geografisch beeldmateriaal en bijbehorende dienstverlening | TED EU Tenders | Netherlands | deadline 2026-08-28 | score 35 | https://ted.europa.eu/en/notice/-/detail/357749-2026
 - Norway – Boats – P1223 - Navigation training vessels - Pre-Qualification Phase | TED EU Tenders | Norway | deadline 2026-07-06 | score 30 | https://ted.europa.eu/en/notice/-/detail/375497-2026
-- Norway – Software package and information systems – Software licences and accompanying services. | TED EU Tenders | Norway | deadline 2026-08-10 | score 28 | https://ted.europa.eu/en/notice/-/detail/424712-2026
-- Norway – Software package and information systems – Software licences and accompanying services. | TED EU Tenders | Norway | deadline 2026-08-17 | score 28 | https://ted.europa.eu/en/notice/-/detail/444686-2026
 
 ## Rejets utiles pour audit
 - no-archive-match: Consultancy on Development of a Spatial Decision Support System for Real-Time Monitoring and Analysis of Crop, Rangeland, and Pest Conditions | World Bank Procurement Notices | Djibouti | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454117
