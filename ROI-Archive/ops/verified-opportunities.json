@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T20:26:42+00:00",
+  "generatedAt": "2026-06-29T21:07:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 45,
+  "total": 49,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -135,7 +135,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "We understand you want a short, stylized 3‑D animation that conveys the perfume’s elegance and magic while staying fully digital and ready for social media. At Voxel we specialize in Motion Graphics Produit & Pub, turning concepts like flowing, colorful forms into polished 10‑15 second loops. Our archive already holds **57 motion‑graphics product & advertising productions**, demonstrating the expertise you need for flawless colour, clean loops and organized layers. Let’s align on the creative direction and set up the first preview — just say “go” and we’ll kick off the workflow."
     },
     {
       "id": "freelancer:40548575",
@@ -185,7 +186,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous savons que votre vidéo d’apprentissage du jeu d’échecs doit captiver, instruire et rester mémorable.  \nNos motion‑graphics sur mesure transforment chaque règle et chaque stratégie en une expérience visuelle dynamique, idéale pour la promotion de REKI Chess.  \nAvec 57 productions motion‑graphics produit & publicité déjà réalisées dans nos archives, nous maîtrisons l’art de rendre le complexe ludique et percutant.  \nDiscutons rapidement de la façon dont nous pouvons donner vie à votre projet !"
     },
     {
       "id": "freelancer:40548456",
@@ -210,7 +212,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel Studio, nous avons bien saisi votre envie de donner vie à un univers fantasy en 3D.  \nNotre équipe se spécialise dans l’animation de personnages, du rigging aux mouvements les plus fluides, pour que chaque créature et héros raconte votre histoire.  \nAvec plus de 44 projets d’animation de personnages et de cartoons déjà livrés (archive Voxel), nous maîtrisons les exigences du style fantasy.  \nDiscutons rapidement de la façon dont nous pouvons transformer vos concepts en scènes mémorables !"
     },
     {
       "id": "freelancer:40548237",
@@ -518,7 +521,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien compris que vous cherchez à dynamiser votre branding grâce à une animation 3D IA percutante. Notre expertise en motion‑graphics produit & publicité transforme vos concepts en expériences visuelles mémorables. Avec plus de 57 productions réalisées dans notre archive, nous savons créer des contenus qui captivent et convertissent. Discutons rapidement de la façon dont nous pouvons donner vie à votre identité !"
     },
     {
       "id": "freelancer:40547065",
@@ -646,7 +650,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi que votre SaaS de clinique a besoin d’une vidéo percutante pour capter des leads qualifiés.  \nNos motion graphics spécialisés produit & pub transforment des concepts complexes en visuels dynamiques qui retiennent l’attention dès les premières secondes.  \nAvec plus de **57 productions** de motion graphics produit & publicité dans notre archive, nous savons comment allier esthétique et efficacité pour votre secteur.  \nDiscutons rapidement de la façon dont nous pouvons faire briller votre offre !"
     },
     {
       "id": "freelancer:40512541",
@@ -671,7 +676,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous comprenons que votre série de marionnettes 3D a besoin d’une animation fluide et expressive pour captiver votre audience.  \nNotre service d’**Animation de personnages** transforme chaque puppet en un acteur numérique, avec des mouvements qui racontent vraiment votre histoire.  \nFort de **44 projets d’animation de personnages & cartoon** déjà livrés dans notre archive, nous savons comment allier créativité et rigueur technique.  \nDiscutons rapidement de la façon dont nous pouvons donner vie à vos marionnettes !"
     },
     {
       "id": "freelancer:40546409",
@@ -722,7 +728,8 @@
           "capability": "web3d_viewer",
           "label": "web3d_viewer"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien compris votre envie de transformer ce petit bureau en une visite immersive qui montre le flux et les proportions avant le chantier. Nous livrons le walkthrough directement via notre Viewer web 3D, un fichier autonome qui tourne sur n’importe quel ordinateur sans plugin. Vous verrez notre savoir‑faire dans le projet Web Viewer Factory (Marmoset, MONSAPO), où nous avons déjà créé des espaces minimalistes ultra‑fluides. Prêt à visualiser votre concept ? Envoyez‑nous vos plans et nous lançons la première maquette."
     },
     {
       "id": "freelancer:40545722",
@@ -981,6 +988,31 @@
       ]
     },
     {
+      "id": "freelancer:40544681",
+      "title": "Minimalist Power Bank 3D Renderings",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Minimalist-Power-Bank-Renderings",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Rendu 3D produit électronique, besoin visuels marketing"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
       "id": "freelancer:40548317",
       "title": "Inspiring AI Promo Video for Welfare Center",
       "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Inspiring-Promo-Video-for-Welfare",
@@ -1108,6 +1140,31 @@
       ]
     },
     {
+      "id": "freelancer:40545232",
+      "title": "AI Character 2D Video Edits",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Character-Video-Edits",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation et composition 2D du personnage dans vidéo"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
+    },
+    {
       "id": "freelancer:40545736",
       "title": "Mobile Game VFX and Animation Designer",
       "sourceUrl": "https://www.freelancer.com/projects/unity/Mobile-Game-VFX-Animation-Designer",
@@ -1130,7 +1187,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Nous avons bien saisi que votre jeu rythmique mobile a besoin d’animations ultra‑dynamiques – des faisceaux de feu et d’électricité aux effets de choc parfaits – pour immerger les joueurs dans une ambiance concert néon. Chez Voxel, nous transformons ce type de besoins en motion‑graphics produit & pub, en créant des boucles vidéo impeccables et des animations codées prêtes à être intégrées. Notre archive compte **57 productions motion graphics produit & publicité**, dont plusieurs projets à forte intensité visuelle similaires aux vôtres. Nous serions ravis de mettre notre expertise au service de votre titre et de lancer les premiers prototypes dès que vous le souhaitez.  \n\n**Discutons‑en ?**"
     },
     {
       "id": "freelancer:40544909",
@@ -1157,6 +1215,56 @@
         }
       ],
       "proposalDraft": "Nous avons bien compris que vous avez besoin d’un partenaire capable de transformer vos scripts et voice‑overs en épisodes stick‑man fluides, synchronisés image‑par‑image, avec un design sonore qui garde le ton ludique et la durée exacte de 8 minutes. Chez Voxel, nous spécialisons notre studio dans le **motion graphics produit & pub**, ce qui nous permet de créer des visuels percutants et cohérents d’un épisode à l’autre, tout en respectant vos repères de temps. Notre archive compte **57 productions motion graphics produit & publicité**, preuve que nous maîtrisons la constance visuelle et la rapidité d’exécution que vous recherchez.  \nPrêt à donner vie à vos histoires financières avec le même style stick‑figure à chaque fois ? Discutons‑en rapidement !"
+    },
+    {
+      "id": "freelancer:40543844",
+      "title": "Modern Metal Lamp 3D Model",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Modern-Metal-Lamp-Model",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 93,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création modèle 3D produit pour visualisation commerciale"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548766",
+      "title": "3D Model Required for Soft Equipment Bag",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Model-Required-for-Soft-Equipment",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 87,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création 3D produit, modèle low‑poly pour visualisation"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
     },
     {
       "id": "freelancer:40545910",
