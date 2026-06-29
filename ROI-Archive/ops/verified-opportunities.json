@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T18:20:27+00:00",
+  "generatedAt": "2026-06-29T19:06:03+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -10,11 +10,12 @@
     }
   ],
   "queryTerms": [],
-  "total": 27,
+  "total": 33,
   "countryCount": 0,
   "countries": [],
   "segments": [
-    "animation"
+    "animation",
+    "rnd"
   ],
   "errors": [],
   "items": [
@@ -34,6 +35,32 @@
       ],
       "fitReasons": [
         "Création d'une vidéo publicitaire 3D réaliste"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "Chez Voxel, nous savons que vous cherchez à donner vie à vos astronautes avec une animation réaliste qui capte l'attention dès la première seconde. Nos motion graphics produit & pub transforment des concepts techniques en expériences visuelles percutantes. Notre archive compte 57 productions motion produit & publicité où chaque détail est mis en mouvement avec précision. Discutons rapidement de la façon dont nous pouvons appliquer ce niveau de réalisme à votre projet. À très vite !"
+    },
+    {
+      "id": "freelancer:40546165",
+      "title": "Animated App Feature Demo",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Animated-App-Feature-Demo",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 98,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande animation motion graphics produit, service créatif Voxel."
       ],
       "buyer": "freelancer",
       "archiveMatches": [
@@ -166,7 +193,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien compris que votre jeu d’action à la première personne a besoin d’animations percutantes pour mettre en valeur ses mécaniques et ses produits dérivés. Notre équipe de motion‑graphics crée des séquences dynamiques qui captent l’attention et boostent l’engagement publicitaire. Avec plus de 57 productions motion graphics produit & pub déjà livrées (archive Voxel), nous savons comment transformer votre univers en un véritable aimant visuel. Discutons rapidement de la façon dont nous pouvons donner vie à votre projet !"
     },
     {
       "id": "freelancer:40548053",
@@ -191,7 +219,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous comprenons que l’identité visuelle de votre application fintech doit captiver dès la première seconde.  \nNos motion graphics sur mesure donnent vie à votre logo, renforçant la confiance et l’engagement de vos utilisateurs.  \nAvec plus de 57 productions réussies dans le domaine du produit et de la publicité (archive Voxel), nous savons comment transformer un simple icône en une expérience mémorable.  \nDiscutons rapidement de la façon dont nous pouvons animer votre marque !"
     },
     {
       "id": "freelancer:40547651",
@@ -266,7 +295,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous comprenons que votre mascotte caméléon doit passer d’une simple modélisation à une présence animée et expressive.  \nNotre service d’animation de personnages donne vie à chaque mouvement, du glissement subtil de la langue aux changements de couleur fluides.  \nAvec plus de 44 projets d’animation de personnages et de cartoons dans notre archive, nous maîtrisons les subtilités qui rendent chaque créature unique.  \nPrêt à voir votre caméléon prendre vie ? Discutons-en rapidement !"
     },
     {
       "id": "freelancer:40548198",
@@ -341,7 +371,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous comprenons que vos exercices terrestres et aquatiques nécessitent des personnages fluides et crédibles.  \nNotre service d’Animation de personnages donne vie à chaque mouvement, qu’il s’agisse de sauts, de glissades ou de nages synchronisées.  \nAvec plus de 44 projets d’animation de personnages et de cartoons dans nos archives, nous avons déjà prouvé notre capacité à rendre chaque séquence captivante.  \nDiscutons rapidement de la façon dont nous pouvons dynamiser vos scènes !"
     },
     {
       "id": "freelancer:40547336",
@@ -391,7 +422,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour, je comprends que vous cherchez un animateur spécialisé pour donner vie à votre cartoon destiné aux enfants. Chez Voxel Studio, nous transformons chaque personnage en une vraie petite star grâce à notre service d’**Animation de personnages**. Avec **44 projets d’animation de personnages & cartoon** déjà réalisés dans notre archive, nous savons comment allier dynamisme, humour et respect du public jeune. Discutons rapidement de votre univers pour le rendre inoubliable !"
     },
     {
       "id": "freelancer:40547068",
@@ -491,7 +523,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi que vous cherchez à dynamiser votre teaser Solana Bidding avec des motion graphics percutants. Notre expertise en motion graphics produit & pub transforme chaque concept en une expérience visuelle qui capte l’attention dès les premières secondes. Avec **57 productions** déjà réalisées dans notre archive, nous savons comment allier esthétique et efficacité pour mettre en valeur votre produit. Prêt à donner vie à votre teaser ? Discutons-en rapidement !"
     },
     {
       "id": "freelancer:40546833",
@@ -591,6 +624,57 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi votre envie de sublimer votre pinceau premium avec une animation cinématographique 8K qui capte l’essence même du produit. Notre expertise en motion‑graphics produit & pub nous permet de transformer chaque détail en une expérience visuelle immersive. Avec plus de 57 productions similaires dans notre archive, nous savons comment mettre en valeur des objets haut de gamme avec élégance et impact. Discutons rapidement de la façon dont nous pouvons donner vie à votre pinceau !"
+    },
+    {
+      "id": "freelancer:40546006",
+      "title": "Minimalist Office 3D Walkthrough",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Minimalist-Office-Walkthrough",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "web3d_viewer",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Création d'une scène 3D interactive et partage en ligne"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "web3d_viewer",
+          "label": "web3d_viewer"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40545722",
+      "title": "High-Contrast ESP32 Weather Icons",
+      "sourceUrl": "https://www.freelancer.com/projects/graphic-design/High-Contrast-ESP-Weather-Icons",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'icônes 2D personnalisées, service créatif graphique"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
       ]
     },
     {
@@ -666,7 +750,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien compris que vous cherchez à dynamiser votre jeu mobile avec des animations percutantes. Notre expertise en motion graphics produit & pub transforme chaque élément de votre jeu en une expérience visuelle captivante. Avec plus de 57 productions réalisées dans ce domaine (archive Voxel), nous savons comment créer des effets qui retiennent l’attention des joueurs. Discutons rapidement de la façon dont nous pouvons donner vie à votre univers ludique !"
     },
     {
       "id": "freelancer:40546326",
@@ -684,6 +769,81 @@
       ],
       "fitReasons": [
         "Création, rigging, animation et VFX de personnages 3D stylisés"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40546463",
+      "title": "8K 3D Kids Video Production",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Kids-Video-Production",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production d'animation 3D complète avec audio"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40545736",
+      "title": "Mobile Game VFX and Animation Designer",
+      "sourceUrl": "https://www.freelancer.com/projects/unity/Mobile-Game-VFX-Animation-Designer",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 93,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animations VFX et loops vidéo pour jeu mobile, service créatif."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40545910",
+      "title": "Realistic VR Toothbrush Character Costume",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-art/Realistic-Toothbrush-Character-Costume",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 85,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création 3D d'un costume de personnage VR réaliste"
       ],
       "buyer": "freelancer",
       "archiveMatches": [

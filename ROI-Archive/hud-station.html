@@ -704,6 +704,26 @@
     line-height:1.5;
     font-size:.86rem;
   }
+  .combot-pitch{
+    margin-top:14px;
+    border-top:1px solid var(--line);
+    padding-top:14px;
+  }
+  .combot-pitch pre{
+    margin:8px 0 10px;
+    color:#dfe8d1;
+    font:inherit;
+    line-height:1.5;
+    white-space:pre-wrap;
+    overflow-wrap:anywhere;
+  }
+  .combot-pitch button{
+    min-height:34px;
+    border:1px solid var(--line);
+    color:var(--ink);
+    background:#07100d;
+    padding:0 12px;
+  }
   .reason-list{
     display:flex;
     flex-wrap:wrap;
@@ -1687,7 +1707,31 @@
     audit.textContent = `Vérification source: ${offer.verification || "verified"}${verifier} · ID ${offer.id} · collecté ${offer.collectedAt ? fmtDateTime.format(new Date(offer.collectedAt)) : "non publié"}.`;
     evidence.appendChild(audit);
 
-    els.detailBody.replaceChildren(factGrid, evidence);
+    const detailNodes = [factGrid, evidence];
+    const pitch = typeof offer.proposalDraft === "string" ? offer.proposalDraft.trim() : "";
+    if(pitch){
+      const combotPitch = document.createElement("div");
+      combotPitch.className = "combot-pitch";
+      const label = document.createElement("p");
+      label.className = "label";
+      label.textContent = "✍️ Accroche ComBot";
+      const body = document.createElement("pre");
+      body.textContent = pitch;
+      const copy = document.createElement("button");
+      copy.type = "button";
+      copy.id = "copyPitch";
+      copy.textContent = "Copier";
+      copy.addEventListener("click", () => {
+        navigator.clipboard.writeText(pitch).then(() => {
+          copy.textContent = "Copié ✓";
+          window.setTimeout(() => { copy.textContent = "Copier"; }, 2000);
+        });
+      });
+      combotPitch.append(label, body, copy);
+      detailNodes.push(combotPitch);
+    }
+
+    els.detailBody.replaceChildren(...detailNodes);
   }
 
   function renderSearchLinks(){
