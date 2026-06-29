@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T19:06:03+00:00",
+  "generatedAt": "2026-06-29T20:26:42+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -9,8 +9,24 @@
       "searchedTerms": 0
     }
   ],
-  "queryTerms": [],
-  "total": 33,
+  "queryTerms": [
+    "3D animation",
+    "character animation",
+    "motion graphics",
+    "3D modeling",
+    "medical animation",
+    "product animation",
+    "3D visualization",
+    "photogrammetry",
+    "architectural visualization",
+    "explainer video",
+    "Unreal Engine",
+    "VFX",
+    "3D rigging",
+    "scientific visualization",
+    "video production 3D"
+  ],
+  "total": 45,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -61,6 +77,57 @@
       ],
       "fitReasons": [
         "Demande animation motion graphics produit, service créatif Voxel."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40546234",
+      "title": "3D Logo Intro Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-logo/Logo-Intro-Animation-40546234",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 98,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation 3D du logo pour diffusion"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "Nous avons bien compris : vous voulez une intro 3‑D ultra‑lisse, avec un éclairage précis, des mouvements de caméra fluides et des reflets subtils, le tout prêt à s’intégrer dans vos vidéos YouTube. Chez Voxel, nous réalisons des **motion graphics produit & pub** qui allient esthétique professionnelle et rendu broadcast‑ready. Notre archive compte **57 productions motion graphics produit & publicité**, preuve que nous maîtrisons chaque étape, du modelage à la livraison en 4K avec alpha.  \nPrêt à transformer votre logo en une intro percutante ? Discutons rapidement de votre workflow."
+    },
+    {
+      "id": "freelancer:40545665",
+      "title": "Stylized 3D Perfume VFX",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Stylized-Perfume-VFX",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 98,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation 3D stylisée pour pub parfum"
       ],
       "buyer": "freelancer",
       "archiveMatches": [
@@ -270,7 +337,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour,  \nJe comprends que vous cherchez à valoriser votre concept de parking vertical avec une animation 3D percutante. Chez Voxel, nous transformons ce type de produit en motion graphics dynamiques qui captivent et expliquent en quelques secondes. Notre archive compte déjà **57 productions** similaires dans le domaine du produit et de la publicité, preuve de notre expertise.  \nPrêt à donner vie à votre projet ? Discutons-en rapidement."
     },
     {
       "id": "freelancer:40548330",
@@ -346,7 +414,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour, j’ai bien compris que vous cherchez à dynamiser vos présentations produit avec des vidéos percutantes et modernes. Chez Voxel Studio, nous transformons chaque concept en motion graphics qui captivent l’audience tout en mettant en valeur les atouts de votre marque. Notre archive compte déjà **57 productions** de motion graphics produit & publicité, preuve de notre expertise et de notre créativité.  \nPrêt à donner vie à votre prochaine vidéo ? Discutons-en rapidement !"
     },
     {
       "id": "freelancer:40547367",
@@ -397,7 +466,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour,  \nJe comprends que vous cherchez à sublimer vos vidéos HD et à ajouter des lyrics dynamiques pour capter davantage votre audience. Chez Voxel, nous transformons chaque produit et chaque campagne publicitaire en une expérience visuelle grâce à nos motion graphics sur‑mesure. Notre archive compte déjà 57 productions motion graphics produit & publicité qui attestent de notre savoir‑faire.  \nDiscutons rapidement de la façon dont nous pouvons donner vie à votre projet !"
     },
     {
       "id": "freelancer:40547187",
@@ -473,7 +543,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous comprenons que votre marque a besoin d’une intro 3D percutante pour capter l’attention dès les premières secondes. Notre expertise en motion graphics produit & publicité transforme vos concepts en animations fluides et mémorables. Avec plus de 57 productions réalisées dans notre archive, nous savons comment sublimer chaque détail pour renforcer votre identité visuelle. Prêt à donner vie à votre vision ? Discutons-en rapidement !"
     },
     {
       "id": "freelancer:40547061",
@@ -498,7 +569,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin d’animer vos produits avec une touche d’IA pour captiver votre audience. Notre expertise en **motion graphics produit & pub** nous permet de transformer vos concepts en vidéos percutantes et ultra‑modernes. Pour vous rassurer, nous comptons déjà **57 productions motion graphics produit & publicité** dans nos archives, toutes réalisées avec succès pour des marques exigeantes. Discutons rapidement de la façon dont nous pouvons donner vie à votre campagne !"
     },
     {
       "id": "freelancer:40547013",
@@ -675,6 +747,237 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
+      ],
+      "proposalDraft": "Bonjour,  \nNous avons bien compris que vous cherchez une suite d’icônes météo ultra‑légères, compatibles avec votre ESP32‑S3 et lisibles même en plein soleil. Chez Voxel, nous transformons ce type de besoin en motion graphics produit & pub, en créant des visuels qui s’affichent instantanément tout en conservant une netteté cristalline. Notre archive compte déjà **57 productions motion graphics produit & publicité** où nous avons appliqué le même style plat, minimaliste et à contraste élevé que vous exigez.  \nSi vous voulez voir comment ces icônes peuvent prendre vie sur votre interface, échangeons rapidement !"
+    },
+    {
+      "id": "freelancer:40545998",
+      "title": "3D Fantasy Story Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Fantasy-Story-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animations 3D de personnages fantasy"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "proposalDraft": "Chez Voxel, nous savons que transformer vos récits fantasy en vidéos 3D percutantes nécessite des personnages qui respirent la magie et l’émotion. Notre service d’**Animation de personnages** se spécialise justement à donner vie à des héros et créatures fantastiques, en alliant storytelling et mouvements fluides. Avec **44 projets d’animation de personnages & cartoon** déjà livrés (archive Voxel), nous avons la preuve que nous maîtrisons ce type de production. Discutons rapidement de votre première scène !"
+    },
+    {
+      "id": "freelancer:40545767",
+      "title": "AI Hindi Fantasy Animation (30s)",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Hindi-Fantasy-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation fantasy 30s avec VO et sous-titres"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin : créer un clip fantasy de 30 secondes en hindi, alliant le pouvoir de l’IA à une finition artisanale, avec voix off naturelle, sous‑titres intégrés et transitions fluides. Notre expertise en **animation de personnages** nous permet de choisir le meilleur rendu — 2D, 3D ou hybride—pour obtenir le style époustouflant que vous recherchez dans un délai serré. Avec **44 projets d’animation de personnages & cartoon** déjà livrés (archive Voxel), nous savons comment concilier rapidité et qualité cinématographique. Prêt à transformer votre script en une aventure visuelle prête à être diffusée ? Échangeons rapidement sur les détails pour lancer la production."
+    },
+    {
+      "id": "freelancer:40542569",
+      "title": "AI Brand Awareness Video",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/Brand-Awareness-Video-40542569",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo brand, motion graphics, post‑production"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "Bonjour, j’ai bien saisi que vous cherchez une vidéo 60‑120 s ultra réaliste, prête à être diffusée sur tous vos canaux, avec votre identité visuelle parfaitement respectée. Chez Voxel, nous transformons ce besoin en motion‑graphics produit & pub haut de gamme, en combinant IA générative, script soigné et mix audio broadcast. Notre archive compte déjà **57 productions motion‑graphics produit & publicité**, preuve que nous maîtrisons chaque étape, du concept à la livraison 4K sans watermark. Vous avez les guidelines, nous nous chargeons du reste : idéation, voix‑off, bande‑son et post‑production.  \nPrêt à lancer le projet ? Échangeons rapidement sur vos objectifs."
+    },
+    {
+      "id": "freelancer:40545696",
+      "title": "Elegant Custom Digital Wedding Invite",
+      "sourceUrl": "https://www.freelancer.com/projects/digital-art/Elegant-Custom-Digital-Wedding-Invite",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'invitation digitale animée, service motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "Bonjour,\n\nNous avons bien saisi votre désir d’une invitation digitale qui marie l’élégance classique à la magie de votre croisière à Ha Long Bay, tout en intégrant les éventails asiatiques et des animations sur‑mesure. Chez Voxel, notre équipe de motion‑graphics excelle à transformer ces éléments uniques en une expérience visuelle fluide et raffinée, exactement comme le style « Majestic » que vous admirez.  \n\nÀ ce jour, nous comptons **57 productions motion‑graphics produit & publicité** dans nos archives, dont plusieurs projets d’invitations haut de gamme qui allient illustration, animation et storytelling personnalisé.  \n\nEnvoyez‑nous vos photos d’inspiration et nous vous proposerons rapidement un concept animé qui fera vibrer vos invités.  \n\nÀ très vite pour donner vie à votre invitation !"
+    },
+    {
+      "id": "freelancer:40545185",
+      "title": "3D AI Animated Short for Teens -- 3",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Animated-Short-for-Teens",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production complète d'animation 3D avec storyboarding et rendu final"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40544443",
+      "title": "Video Ad Showcasing Enhanced AI",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/Video-Showcasing-Enhanced",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo publicitaire produit, service créatif requis"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40544208",
+      "title": "AI-Driven 3D Service Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Driven-Service-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande création d'animation 3D originale, service créatif"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40544203",
+      "title": "3D AI Animated Short for Teens -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Animated-Short-for-Teens",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production complète d'animation 3D avec storyboarding et rendu final"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "proposalDraft": "We understand you need a punchy, AI‑enhanced 3‑D short that grabs teens in the first five seconds and stays vibrant across TikTok, Instagram and YouTube. At Voxel we specialize in character animation, blending tools like Stable Diffusion and Runway with Blender, Maya or Unreal to deliver story‑driven, high‑poly rigs that move flawlessly at 24‑30 fps. Our archive already includes **44 character‑animation and cartoon projects**, proving we can turn fresh concepts into share‑worthy reels. Let’s chat about the storyboard and timeline so we can bring your teen‑focused short to life."
+    },
+    {
+      "id": "freelancer:40543901",
+      "title": "3D Comedy Animation Project",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Comedy-Animation-Project",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation 3D de personnages comiques"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
       ]
     },
     {
@@ -725,7 +1028,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi que vous cherchez à dynamiser vos campagnes avec des vidéos percutantes et intelligentes.  \nNotre expertise en **motion graphics produit & pub** nous permet de transformer vos concepts en animations fluides, modernes et parfaitement alignées avec votre identité de marque.  \nPour vous rassurer, nous comptons déjà **57 productions motion graphics produit & publicité** dans nos archives, preuve concrète de notre savoir‑faire.  \nDiscutons rapidement de la façon dont nous pouvons donner vie à votre prochaine vidéo !"
     },
     {
       "id": "freelancer:40547694",
@@ -829,6 +1133,32 @@
       ]
     },
     {
+      "id": "freelancer:40544909",
+      "title": "Long-Form Video Editor & Animator — Faceless Finance Comedy Channel (Stickman Style, Ongoing)",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Long-Form-Video-Editor-Animator",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 93,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création et montage d'animations 2D style stickman pour vidéos YouTube."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "Nous avons bien compris que vous avez besoin d’un partenaire capable de transformer vos scripts et voice‑overs en épisodes stick‑man fluides, synchronisés image‑par‑image, avec un design sonore qui garde le ton ludique et la durée exacte de 8 minutes. Chez Voxel, nous spécialisons notre studio dans le **motion graphics produit & pub**, ce qui nous permet de créer des visuels percutants et cohérents d’un épisode à l’autre, tout en respectant vos repères de temps. Notre archive compte **57 productions motion graphics produit & publicité**, preuve que nous maîtrisons la constance visuelle et la rapidité d’exécution que vous recherchez.  \nPrêt à donner vie à vos histoires financières avec le même style stick‑figure à chaque fois ? Discutons‑en rapidement !"
+    },
+    {
       "id": "freelancer:40545910",
       "title": "Realistic VR Toothbrush Character Costume",
       "sourceUrl": "https://www.freelancer.com/projects/3d-art/Realistic-Toothbrush-Character-Costume",
@@ -851,7 +1181,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour,  \nJe comprends que vous avez besoin d’un costume VR ultra‑réaliste pour votre personnage brosse à dents verte, avec des poils texturés qui donnent vie à chaque mouvement. Chez Voxel, nous transformons ce type de concept en animations de personnages fluides et crédibles, grâce à notre expertise en modélisation 3D et textures détaillées. À ce jour, nous avons livré **44 projets d’animation de personnages & cartoon** (archive Voxel), dont plusieurs avec des exigences de réalisme similaires.  \nPrêt à donner à votre brosse à dents une présence immersive en VR ? Discutons-en rapidement."
     }
   ]
 }
