@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T11:32:02+00:00",
+  "generatedAt": "2026-06-29T07:19:14+00:00",
   "mode": "scrapbot_multisource_public_probe",
   "sources": [
     {
@@ -7,10 +7,8 @@
       "url": "https://search.worldbank.org/api/v2/procnotices",
       "status": "active",
       "mode": "public API",
-      "searchedTerms": 27,
-      "errors": [
-        "3D: curl: (28) Operation timed out after 35000 milliseconds with 3506012 bytes received"
-      ]
+      "searchedTerms": 28,
+      "errors": []
     },
     {
       "name": "UNGM Procurement",
@@ -25,8 +23,15 @@
       "url": "https://api.ted.europa.eu/v3/notices/search",
       "status": "active",
       "mode": "public API expert query with deadline filter",
-      "searchedTerms": 22,
-      "errors": []
+      "searchedTerms": 16,
+      "errors": [
+        "virtual reality: <urlopen error [Errno 104] Connection reset by peer>",
+        "VR training: <urlopen error [Errno 104] Connection reset by peer>",
+        "animation 3D: <urlopen error [Errno 104] Connection reset by peer>",
+        "museum 3D: <urlopen error [Errno 104] Connection reset by peer>",
+        "Unreal Engine: <urlopen error [Errno 104] Connection reset by peer>",
+        "research platform virtual reality: <urlopen error [Errno 104] Connection reset by peer>"
+      ]
     }
   ],
   "queryTerms": [
@@ -54,76 +59,14 @@
     "research platform virtual reality"
   ],
   "rowsPerTerm": 60,
-  "durationSeconds": 345.39,
-  "totalCandidates": 90,
+  "durationSeconds": 122.73,
+  "totalCandidates": 81,
   "summary": {
-    "likely_fit": 14,
-    "review": 9,
-    "reject": 67
+    "likely_fit": 11,
+    "review": 10,
+    "reject": 60
   },
   "items": [
-    {
-      "id": "OP00452214",
-      "title": "Training Equipment to Support Skills Testing & Certification",
-      "country": "Micronesia, Federated States of",
-      "projectCountry": "Micronesia, Federated States of",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "18-Jun-2026",
-      "deadline": "2026-06-29",
-      "project": "FSM Skills and Employability Enhancement Project",
-      "buyer": "National Department Of Education",
-      "contactEmail": "gardenia.aisek@national.doe.fm",
-      "reference": "FM-NDOE-530804-GO-RFQ",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452214",
-      "matchedTerms": [
-        "AR VR",
-        "VR simulation",
-        "VR training",
-        "simulation"
-      ],
-      "titleSignals": [
-        "digital_learning: training equipment"
-      ],
-      "bodySignals": [
-        "3d_vr: ar/vr, simulation, simulator",
-        "digital_learning: digital content, training equipment",
-        "software_data: software"
-      ],
-      "segmentSignals": [
-        "formation: certification, education, skills, training",
-        "animation: ar/vr, digital content, simulation",
-        "rnd: software"
-      ],
-      "archiveMatches": [
-        {
-          "capability": "vr_simulation",
-          "label": "VR / simulation / laboratoire virtuel",
-          "matchedTerms": [
-            "ar/vr",
-            "simulator",
-            "vr learning"
-          ],
-          "archiveEvidence": [
-            "Unreal / MetaHumans / facial tracking",
-            "Projet Deformations",
-            "Pipeline temps réel"
-          ]
-        }
-      ],
-      "genericOnlyHits": [
-        "software",
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 3,
-      "titleSignalCount": 1,
-      "bodySignalCount": 6,
-      "excerpt": "Employability Enhancement Project (P176965) Source of Funding IDA – D9870 Reference No. FM-NDOE-530804-GO-RFQ Date June 15, 2027 The FSM National Department of Education invites sealed quotations from eligible bidders for: No. Goods Description Qty Location 1 AR/VR learning hardware 10 Pohnpei – location confirmed by FSM National Department of Education 2 Mobile charging cart 1 Same as above 3 External camera and tripod 2 Same as above 4 Automotive technology simulation software 10 Same as above 5 Science inquiry/lab simulation software 10 Same as above 6 Precision measurement software 10 Same as above 7 Electrical fundamentals simulation software 10 Same as above 8 Simulation platform software 10 Same as above 9 Digital content library for career readiness education 10 Same as above 10 Welding simulation software 10 Same as above 11 Welder simulator torch handle 10 Same as above 12 HVAC",
-      "probeScore": 100,
-      "probeDecision": "likely_fit",
-      "source": "World Bank Procurement Notices"
-    },
     {
       "id": "OP00451397",
       "title": "Supply, Delivery, Installation and Commissioning of Virtual Laboratory (VR) Equipment for Simulation-Based Training in TVETs Institutions",
@@ -569,117 +512,6 @@
       "searchText": "poland – photogrammetry services – wykonanie digitalizacji 900 obiektów muzealnych technikami 3d w ramach projektu pod nazwą „digitalizacja zbiorów muzeum narodowego w szczecinie technikami 3d wraz z ich udostępnieniem ... \"  poland – photogrammetry services – wykonanie digitalizacji 900 obiektów muzealnych technikami 3d w ramach projektu pod nazwą „digitalizacja zbiorów muzeum narodowego w szczecinie technikami 3d wraz z ich udostępnieniem ... \" przedmiotem zamówienia jest wykonanie digitalizacji 900 obiektów muzealnych technikami 3 d w ramach projektu pod nazwą „digitalizacja zbiorów muzeum narodowego w szczecinie technikami 3d wraz z ich udostępnieniem oraz zakup urządzeń do przechowywania i udostępniania zbiorów cyfrowych” szczegółowy opis przedmiotu zamówienia opisany jest w załączniku nr 11 do swz - opis przedmiotu zamówienia. muzeum narodowe w szczecinie poland",
       "excerpt": "Poland – Photogrammetry services – Wykonanie digitalizacji 900 obiektów muzealnych technikami 3D w ramach projektu pod nazwą „Digitalizacja zbiorów Muzeum Narodowego w Szczecinie technikami 3D wraz z ich udostępnieniem ... \" Przedmiotem zamówienia jest Wykonanie digitalizacji 900 obiektów muzealnych technikami 3 D w ramach projektu pod nazwą „Digitalizacja zbiorów Muzeum Narodowego w Szczecinie technikami 3D wraz z ich udostępnieniem oraz zakup urządzeń do przechowywania i udostępniania zbiorów cyfrowych” Szczegółowy opis przedmiotu zamówienia opisany jest w Załączniku nr 11 do SWZ - Opis przedmiotu zamówienia. Muzeum Narodowe w Szczecinie Poland",
       "probeScore": 52,
-      "probeDecision": "likely_fit"
-    },
-    {
-      "id": "TED-397749-2026",
-      "title": "Germany – Environmental engineering consultancy services – Rahmenvertrag Visualisierung 2027-2030",
-      "country": "Germany",
-      "projectCountry": "Germany",
-      "noticeType": "cn-standard",
-      "noticeDate": "2026-06-10",
-      "deadline": "2026-06-29",
-      "deadlineTime": "",
-      "project": "",
-      "buyer": "Bundesgesellschaft für Endlagerung mbH (BGE)",
-      "contactEmail": "",
-      "reference": "397749-2026",
-      "method": "cn-standard",
-      "source": "TED EU Tenders",
-      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/397749-2026",
-      "matchedTerms": [
-        "augmented reality"
-      ],
-      "titleSignals": [],
-      "bodySignals": [
-        "3d_vr: 3d, augmented reality"
-      ],
-      "segmentSignals": [
-        "formation: training",
-        "animation: 3d, augmented reality"
-      ],
-      "archiveMatches": [
-        {
-          "capability": "vr_simulation",
-          "label": "VR / simulation / laboratoire virtuel",
-          "matchedTerms": [
-            "augmented reality"
-          ],
-          "archiveEvidence": [
-            "Unreal / MetaHumans / facial tracking",
-            "Projet Deformations",
-            "Pipeline temps réel"
-          ]
-        }
-      ],
-      "genericOnlyHits": [
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 1,
-      "titleSignalCount": 0,
-      "bodySignalCount": 2,
-      "searchText": "germany – environmental engineering consultancy services – rahmenvertrag visualisierung 2027-2030  germany – environmental engineering consultancy services – rahmenvertrag visualisierung 2027-2030 die bundesgesellschaft für endlagerung mbh (bge) nutzt zunehmend digitale 3d modelle von bestehenden technischen anlagen, bauwerken und infrastruktur (verkehrswege, medienleitungen) ihrer betriebsstätten und tageanlagen zu unterschiedlichen zwecken. zu diesen anwendungsfällen zählen: visualisierung in frühen bauphasen zur bewertung von machbarkeitsstudien; information und visualisierung in voll immersiven (vr) oder halb immersiven (ar) technologien für bürgerbeteiligungen und öffentlichkeitsarbeit; szenarien‐planung von logistikvorgängen und anderen abläufen zur prozessoptimierung; training und schulungen im geschützten bereich. für den betrieb von infrastrukturen werden semantisierte 3d modelle zur visualisierung von infrastrukturen und deren assets sowie zur navigation (wo befinden sich assets) genutzt. an den assets können weitergehende informationen (stammdaten, dokumente, instandhaltungsdaten, messwerte) visualisiert werden. eine visualisierung kann hierbei z.b. über augmented reality‐equipment erfolgen. zusätzlich werden zunehmend 3d bim modelle aus planungs‐ und bauprojekten in die betrieblichen abläufe übernommen. der auftragnehmer (an) konzipiert und erstellt auf basis von bereitgestellten daten frei begehbare, interaktive echtzeitanwendungen zur durchführung virtueller präsentationen, rundgänge, animationen, videos und schulungen. die anwendung ist mit einer game engine zu entwickeln. bundesgesellschaft für endlagerung mbh (bge) germany",
-      "excerpt": "Germany – Environmental engineering consultancy services – Rahmenvertrag Visualisierung 2027-2030 Die Bundesgesellschaft für Endlagerung mbH (BGE) nutzt zunehmend digitale 3D Modelle von bestehenden technischen Anlagen, Bauwerken und Infrastruktur (Verkehrswege, Medienleitungen) ihrer Betriebsstätten und Tageanlagen zu unterschiedlichen Zwecken. Zu diesen Anwendungsfällen zählen: Visualisierung in frühen Bauphasen zur Bewertung von Machbarkeitsstudien; Information und Visualisierung in voll immersiven (VR) oder halb immersiven (AR) Technologien für Bürgerbeteiligungen und Öffentlichkeitsarbeit; Szenarien‐Planung von Logistikvorgängen und anderen Abläufen zur Prozessoptimierung; Training und Schulungen im geschützten Bereich. Für den Betrieb von Infrastrukturen werden semantisierte 3D Modelle zur Visualisierung von Infrastrukturen und deren Assets sowie zur Navigation (wo befinden sich As",
-      "probeScore": 45,
-      "probeDecision": "likely_fit"
-    },
-    {
-      "id": "TED-431682-2026",
-      "title": "Hungary – Computer equipment and supplies – Relaunch: VR Laboratory for Moldova",
-      "country": "Hungary",
-      "projectCountry": "Hungary",
-      "noticeType": "cn-standard",
-      "noticeDate": "2026-06-24",
-      "deadline": "2026-07-31",
-      "deadlineTime": "",
-      "project": "",
-      "buyer": "European Union Agency For Law Enforcement Training",
-      "contactEmail": "",
-      "reference": "431682-2026",
-      "method": "cn-standard",
-      "source": "TED EU Tenders",
-      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/431682-2026",
-      "matchedTerms": [
-        "virtual reality"
-      ],
-      "titleSignals": [],
-      "bodySignals": [
-        "3d_vr: virtual reality",
-        "software_data: software"
-      ],
-      "segmentSignals": [
-        "formation: training",
-        "animation: virtual reality",
-        "rnd: software"
-      ],
-      "archiveMatches": [
-        {
-          "capability": "vr_simulation",
-          "label": "VR / simulation / laboratoire virtuel",
-          "matchedTerms": [
-            "virtual reality"
-          ],
-          "archiveEvidence": [
-            "Unreal / MetaHumans / facial tracking",
-            "Projet Deformations",
-            "Pipeline temps réel"
-          ]
-        }
-      ],
-      "genericOnlyHits": [
-        "software",
-        "training"
-      ],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 1,
-      "titleSignalCount": 0,
-      "bodySignalCount": 2,
-      "searchText": "hungary – computer equipment and supplies – relaunch: vr laboratory for moldova  hungary – computer equipment and supplies – relaunch: vr laboratory for moldova the eu4security moldova project aims to enhance law‑enforcement capabilities by providing hardware and software to establish a virtual reality laboratory at the police academy in the republic of moldova. this procedure is a relaunch of the previous procedure cepol/2025/op/0018, because the contract implementation failed. european union agency for law enforcement training hungary",
-      "excerpt": "Hungary – Computer equipment and supplies – Relaunch: VR Laboratory for Moldova The EU4Security Moldova project aims to enhance law‑enforcement capabilities by providing hardware and software to establish a virtual reality laboratory at the police academy in the Republic of Moldova. This procedure is a relaunch of the previous procedure CEPOL/2025/OP/0018, because the contract implementation failed. European Union Agency For Law Enforcement Training Hungary",
-      "probeScore": 45,
       "probeDecision": "likely_fit"
     },
     {
@@ -1239,6 +1071,50 @@
       "method": "cn-standard",
       "source": "TED EU Tenders",
       "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/424712-2026",
+      "matchedTerms": [
+        "media production"
+      ],
+      "titleSignals": [
+        "software_data: software"
+      ],
+      "bodySignals": [
+        "software_data: software",
+        "creative_comm: media production, video"
+      ],
+      "segmentSignals": [
+        "animation: media production, video",
+        "rnd: software"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [
+        "software"
+      ],
+      "offDomain": false,
+      "noiseTitle": false,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 1,
+      "bodySignalCount": 3,
+      "searchText": "norway – software package and information systems – software licences and accompanying services.  norway – software package and information systems – software licences and accompanying services. licences not included in other sub-contracts are included in this, which we have called other software. see the detailed description under sub-contract 1 - other software. the contracting authority and the entities require good tools for editing pictures, video and audio. the current supplier mainly consists of adobe licences. see further description under sub-contract 2 - media production. dio uses a system from commvault in disciplines for back-up and local storage of e-mail boxes. there will be a need for the system going forward as well, but there will be changes on the licence model based on the manufacturer making changes here. see the detailed description under sub-contract 3 back-up system. see the approaching description under sub-contract 4 virtualisation. dio is in the process of constructing a new infrastructure platform. in anticipation of this being completed, there may be a need for interim systems in the cloud. the sub-contract shall therefore ensure the necessary flexibility so that dio can procure cloud licences and additional modules that support both temporary and long-term needs. see the detailed description under sub-contract 5 it service manager (itsm/esm). the contracting authority needs pexip licences for video conferencing services and accompanying software to ensure efficient interaction, meeting and collaboration across the organisation. see the detailed description under sub-contract 6 video conference. departementenes digitaliseringsorganisasjon (dio) norway",
+      "excerpt": "Norway – Software package and information systems – Software licences and accompanying services. Licences not included in other sub-contracts are included in this, which we have called other software. See the detailed description under Sub-Contract 1 - Other Software. The contracting authority and the entities require good tools for editing pictures, video and audio. The current supplier mainly consists of Adobe licences. See further description under Sub-Contract 2 - Media Production. DIO uses a system from Commvault in disciplines for back-up and local storage of e-mail boxes. There will be a need for the system going forward as well, but there will be changes on the licence model based on the manufacturer making changes here. See the detailed description under sub-contract 3 Back-up system. See the approaching description under Sub-Contract 4 Virtualisation. DIO is in the process of c",
+      "probeScore": 28,
+      "probeDecision": "review"
+    },
+    {
+      "id": "TED-444686-2026",
+      "title": "Norway – Software package and information systems – Software licences and accompanying services.",
+      "country": "Norway",
+      "projectCountry": "Norway",
+      "noticeType": "cn-standard",
+      "noticeDate": "2026-06-29",
+      "deadline": "2026-08-17",
+      "deadlineTime": "",
+      "project": "",
+      "buyer": "DEPARTEMENTENES DIGITALISERINGSORGANISASJON (DIO)",
+      "contactEmail": "",
+      "reference": "444686-2026",
+      "method": "cn-standard",
+      "source": "TED EU Tenders",
+      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/444686-2026",
       "matchedTerms": [
         "media production"
       ],
@@ -1983,39 +1859,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "OP00452250",
-      "title": "Designing & Printing MHH learning material and guidebook, Graphic designing for MHH learning materials, MHH Kit learning materials/toolkit and Printing of GBV, VAC, SH/SE-A set of 4 books",
-      "country": "Pakistan",
-      "projectCountry": "Pakistan",
-      "noticeType": "Invitation for Bids",
-      "noticeDate": "19-Jun-2026",
-      "deadline": "2026-06-29",
-      "project": "Khyber Pakhtunkhwa Human Capital Investment Project",
-      "buyer": "Project Management Unit of Education Department",
-      "contactEmail": "khalidpms10@gmail.com",
-      "reference": "PK-EDUPMU-557198-GO-RFQ",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452250",
-      "matchedTerms": [
-        "digital human"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: education"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "REQUEST FOR QUOTATION IDA Credit No. / Grant No. and Title: 67140/PK:/ D6800-Pk Khyber Pakhtunkhwa Human Capital Investment Project (Elementary & Secondary Education Department) Bid Security 250,000 /- Contract Title: Designing & Printing MHH learning material and guidebook, Graphic designing for MHH learning materials, MHH Kit learning materials/toolkit and Printing of GBV, VAC, SH/SE-A set of 4 books Ref No: PMU-EDUPMU-557198-GO-RFQ Deadline for Submission of Quotations Submission Date & Time 29th June, 2026 at 11.00 AM (Local Pakistan Standard Time) Opening of Quotation Date & Time 29th June 2026 at 11:15 AM The Government Khyber Pakhtunkhwa Human Capital Investment (HCIP) Project has received a credit /grant form World Bank under (IDA NO: 67140/ D6800-Pk) for improvement of education sector in four districts (Nowshera, Peshawar, Swabi and Haripur of Khyber Pakhtunkhwa. The project is",
-      "probeScore": 15,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
       "id": "OP00453358",
       "title": "Organization and Delivery of I_CAN Training Program Sessions No. 1–6 in Odesa",
       "country": "Ukraine",
@@ -2148,101 +1991,6 @@
       "bodySignalCount": 0,
       "excerpt": "Specific Procurement Notice Request for Bids Non-Consulting Services (One-Envelope Bidding Process) Employer : Ministry of Finance and Development Planning Project: Public Sector Foundations for Service Delivery Project Contract title : Non-Consulting Service for Digitizing Human Resources Personnel Records through Metadata Indexing, Scanning and Digital Storage Country: Lesotho Loan No.: 07492-LS RFB No: LS-MOFDP-533658-GO-RFB Issued on: June 19, 2026 The Kingdom of Lesotho has received financing from the World Bank toward the cost of the Lesotho Public Sector Foundations for Service Delivery Project and intends to apply part of the proceeds toward payments under the contract for Non-Consulting Service for Digitizing Human Resources Personnel Records through Metadata Indexing, Scanning and Dital Storage. The Ministry of Finance and Development Planning now invites sealed Bids from eligi",
       "probeScore": 15,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00451640",
-      "title": "DGB/Recrutement d’un(e) consultant(e) pour l’élaboration de la stratégie sectorielle et du Cadre de Dépenses à Moyen Terme (CDMT) pour le secteur de l'Environnement",
-      "country": "Haiti",
-      "projectCountry": "Haiti",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "16-Jun-2026",
-      "deadline": "2026-06-29",
-      "project": "Haiti Strengthening Public Financial Management Project",
-      "buyer": "Unité de Coordination de Projets du Ministère de l’Economie et des Finances",
-      "contactEmail": "lys_faucher@yahoo.fr",
-      "reference": "HT-UCP/MEF-554414-CS-INDV",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451640",
-      "matchedTerms": [
-        "animation"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "hes de gestion axée sur les résultats et de la budgétisation par programme ; - Expérience dans l’élaboration de stratégies sectorielles et/ou de CDMT sectoriels ; - Bonne connaissance du contexte institutionnel et administratif haïtien ; - Capacités avérées d’animation d’ateliers et de travail participatif. 7. Modalités de soumission Les candidats intéressés devront soumettre : - Un CV détaillé et actualisé ; - Une note méthodologique présentant la compréhension de la mission, l’approche proposée et le calendrier indicatif ; - Une offre financière ; - Des références professionnelles pertinentes et exemples de travaux similaires. ________________________________________",
-      "probeScore": 13,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00441939",
-      "title": "DGB/Recrutement d’un(e) consultant(e) pour l’élaboration de la stratégie sectorielle et du Cadre de Dépenses à Moyen Terme (CDMT) pour le secteur Santé",
-      "country": "Haiti",
-      "projectCountry": "Haiti",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "16-Jun-2026",
-      "deadline": "2026-06-29",
-      "project": "Haiti Strengthening Public Financial Management Project",
-      "buyer": "Unité de Coordination de Projets du Ministère de l’Economie et des Finances",
-      "contactEmail": "lys_faucher@yahoo.fr",
-      "reference": "HT-UCP/MEF-533946-CS-INDV",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00441939",
-      "matchedTerms": [
-        "animation"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "hes de gestion axée sur les résultats et de la budgétisation par programme ; - Expérience dans l’élaboration de stratégies sectorielles et/ou de CDMT sectoriels ; - Bonne connaissance du contexte institutionnel et administratif haïtien ; - Capacités avérées d’animation d’ateliers et de travail participatif. 7. Modalités de soumission Les candidats intéressés devront soumettre : - Un CV détaillé et actualisé ; - Une note méthodologique présentant la compréhension de la mission, l’approche proposée et le calendrier indicatif ; - Une offre financière ; - Des références professionnelles pertinentes et exemples de travaux similaires.",
-      "probeScore": 13,
-      "probeDecision": "reject",
-      "source": "World Bank Procurement Notices"
-    },
-    {
-      "id": "OP00451173",
-      "title": "Consultant to Review the Project Safety Plan and Develop the Corresponding Action Plan",
-      "country": "Mozambique",
-      "projectCountry": "Mozambique",
-      "noticeType": "Request for Expression of Interest",
-      "noticeDate": "15-Jun-2026",
-      "deadline": "2026-06-29",
-      "project": "Mozambique Digital Acceleration Project",
-      "buyer": "Ministry of Transport and Communication",
-      "contactEmail": "asilva@padim.gov.mz",
-      "reference": "160/MCTD-PADIM/CS-IC/2026",
-      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451173",
-      "matchedTerms": [
-        "digital human"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [
-        "formation: curriculum"
-      ],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "excerpt": "REPÚBLICA DE MOÇAMBIQUE MINISTÉRIO DAS COMUNICAÇÕES E TRANSFORMAÇÃO DIGITAL Projecto de Aceleração Digital de Moçambique SOLICITAÇÃO DE MANIFESTAÇÃO DE INTERESSE (CONSULTOR INDIVIDUAL) Contratação de Serviço de Consultoria Individual para Revisão do Plano de Segurança e Elaboração do Plano de Acção de Segurança do PADIM PROJECTO ID: P176459 Ref.: 160/MCTD-PADIM/CS-IC/2026 O Ministério das Comunicações e Transformação Digital (MCTD) recebeu um financiamento do Banco Mundial para implementação de um Projecto denominado Aceleração Digital de Moçambique e, pretende aplicar parte dos fundos para a Contratação de Consultor Individual para Revisão do Plano de Segurança e Elaboração do Plano de Acção de Segurança do PADIM. A presente consultoria tem como objetivo principal apoiar na actualização da análise de risco de segurança, na revisão e operacionalização do Plano de Gestão de Segurança (PGS",
-      "probeScore": 13,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"
     },
@@ -3016,74 +2764,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "UNGM-304761",
-      "title": "Multimedia Production Services for ZACH- UNDP Field Documentation Mission",
-      "country": "Zimbabwe",
-      "projectCountry": "Zimbabwe",
-      "noticeType": "Call for individual consultants",
-      "noticeDate": "2026-06-19",
-      "deadline": "2026-06-29",
-      "deadlineTime": "29-Jun-2026 03:00 (GMT -4.00)",
-      "project": "",
-      "buyer": "UNDP",
-      "contactEmail": "",
-      "reference": "UNDP-ZWE-01837",
-      "method": "Call for individual consultants",
-      "source": "UNGM Procurement",
-      "sourceUrl": "https://www.ungm.org/Public/Notice/304761",
-      "matchedTerms": [
-        "media production"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": false,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "searchText": "multimedia production services for zach- undp field documentation mission  multimedia production services for zach- undp field documentation mission 29-jun-2026 03:00 (gmt -4.00) undp call for individual consultants undp-zwe-01837 zimbabwe",
-      "excerpt": "Multimedia Production Services for ZACH- UNDP Field Documentation Mission 29-Jun-2026 03:00 (GMT -4.00) UNDP Call for individual consultants UNDP-ZWE-01837 Zimbabwe",
-      "probeScore": 2,
-      "probeDecision": "reject"
-    },
-    {
-      "id": "TED-359639-2026",
-      "title": "Czechia – Furniture – Zavedení virtuální reality do odborných učeben základních škol",
-      "country": "Czechia",
-      "projectCountry": "Czechia",
-      "noticeType": "cn-standard",
-      "noticeDate": "2026-05-27",
-      "deadline": "2026-06-29",
-      "deadlineTime": "",
-      "project": "",
-      "buyer": "Statutární město Havířov",
-      "contactEmail": "",
-      "reference": "359639-2026",
-      "method": "cn-standard",
-      "source": "TED EU Tenders",
-      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/359639-2026",
-      "matchedTerms": [
-        "virtual reality"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": true,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "searchText": "czechia – furniture – zavedení virtuální reality do odborných učeben základních škol  czechia – furniture – zavedení virtuální reality do odborných učeben základních škol předmětem plnění je dodávka a instalace nové a nepoužité it techniky. předmětem plnění je dodávka a instalace nových a nepoužitých výukových pomůcek. předmětem plnění je dodávka a instalace nového a nepoužitého nábytku. statutární město havířov czechia",
-      "excerpt": "Czechia – Furniture – Zavedení virtuální reality do odborných učeben základních škol Předmětem plnění je dodávka a instalace nové a nepoužité IT techniky. Předmětem plnění je dodávka a instalace nových a nepoužitých výukových pomůcek. Předmětem plnění je dodávka a instalace nového a nepoužitého nábytku. Statutární město Havířov Czechia",
-      "probeScore": 0,
-      "probeDecision": "reject"
-    },
-    {
       "id": "OP00451225",
       "title": "sélection d'un cabinet de formation pour la réalisation du programme de formation E&S",
       "country": "Tunisia",
@@ -3258,74 +2938,6 @@
       "source": "World Bank Procurement Notices"
     },
     {
-      "id": "TED-377046-2026",
-      "title": "Czechia – Furniture – Zavedení virtuální reality do odborných učeben základních škol",
-      "country": "Czechia",
-      "projectCountry": "Czechia",
-      "noticeType": "cn-standard",
-      "noticeDate": "2026-06-02",
-      "deadline": "2026-07-07",
-      "deadlineTime": "",
-      "project": "",
-      "buyer": "Statutární město Havířov",
-      "contactEmail": "",
-      "reference": "377046-2026",
-      "method": "cn-standard",
-      "source": "TED EU Tenders",
-      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/377046-2026",
-      "matchedTerms": [
-        "virtual reality"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": true,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "searchText": "czechia – furniture – zavedení virtuální reality do odborných učeben základních škol  czechia – furniture – zavedení virtuální reality do odborných učeben základních škol předmětem plnění je dodávka a instalace nové a nepoužité it techniky. předmětem plnění je dodávka a instalace nových a nepoužitých výukových pomůcek. předmětem plnění je dodávka a instalace nového a nepoužitého nábytku. statutární město havířov czechia",
-      "excerpt": "Czechia – Furniture – Zavedení virtuální reality do odborných učeben základních škol Předmětem plnění je dodávka a instalace nové a nepoužité IT techniky. Předmětem plnění je dodávka a instalace nových a nepoužitých výukových pomůcek. Předmětem plnění je dodávka a instalace nového a nepoužitého nábytku. Statutární město Havířov Czechia",
-      "probeScore": 0,
-      "probeDecision": "reject"
-    },
-    {
-      "id": "TED-440225-2026",
-      "title": "Czechia – Furniture – Zavedení virtuální reality do odborných učeben základních škol",
-      "country": "Czechia",
-      "projectCountry": "Czechia",
-      "noticeType": "cn-standard",
-      "noticeDate": "2026-06-26",
-      "deadline": "2026-07-07",
-      "deadlineTime": "",
-      "project": "",
-      "buyer": "Statutární město Havířov",
-      "contactEmail": "",
-      "reference": "440225-2026",
-      "method": "cn-standard",
-      "source": "TED EU Tenders",
-      "sourceUrl": "https://ted.europa.eu/en/notice/-/detail/440225-2026",
-      "matchedTerms": [
-        "virtual reality"
-      ],
-      "titleSignals": [],
-      "bodySignals": [],
-      "segmentSignals": [],
-      "archiveMatches": [],
-      "genericOnlyHits": [],
-      "offDomain": true,
-      "noiseTitle": false,
-      "archiveCapabilityCount": 0,
-      "titleSignalCount": 0,
-      "bodySignalCount": 0,
-      "searchText": "czechia – furniture – zavedení virtuální reality do odborných učeben základních škol  czechia – furniture – zavedení virtuální reality do odborných učeben základních škol předmětem plnění je dodávka a instalace nové a nepoužité it techniky. předmětem plnění je dodávka a instalace nových a nepoužitých výukových pomůcek. předmětem plnění je dodávka a instalace nového a nepoužitého nábytku. statutární město havířov czechia",
-      "excerpt": "Czechia – Furniture – Zavedení virtuální reality do odborných učeben základních škol Předmětem plnění je dodávka a instalace nové a nepoužité IT techniky. Předmětem plnění je dodávka a instalace nových a nepoužitých výukových pomůcek. Předmětem plnění je dodávka a instalace nového a nepoužitého nábytku. Statutární město Havířov Czechia",
-      "probeScore": 0,
-      "probeDecision": "reject"
-    },
-    {
       "id": "OP00454144",
       "title": "Provision of Consulting Services as Procurement Specialist under RESTORE PIU (replacement)",
       "country": "Malawi",
@@ -3495,6 +3107,41 @@
       "titleSignalCount": 0,
       "bodySignalCount": 0,
       "excerpt": "REQUEST FOR EXPRESSIONS OF INTEREST (LEARN-IC-ECEDO-03 – Administrative Assistant) Market Approach - Open, National UKRAINE Lifting Education Access and Resilience in Times of Need in Ukraine Program Grant No. TF0D0612 Assignment Title: Administrative Assistant Reference No. LEARN-IC-ECEDO-03 Ukraine with the International Bank for Reconstruction and Development and the International Development Association (hereinafter referred to as the World Bank) have signed the agreements for the Program “Lifting Education Access and Resilience in times of Need in Ukraine” (hereinafter referred to as the LEARN or Operation). LEARN was developed to address critical challenges and provide essential support to the education sector, aligning with the Ministry of Education and Science’s (MoES) Strategic Action Plan. The objectives of the Operation are to (i) improve teaching and learning conditions; and",
+      "probeScore": 0,
+      "probeDecision": "reject",
+      "source": "World Bank Procurement Notices"
+    },
+    {
+      "id": "OP00452444",
+      "title": "Construction of a water supply pipeline and water meter boxes to connect 48,917 households in the Balkh, Dusti, Vakhsh, and Vose districts (Lots 1 and 2)",
+      "country": "Tajikistan",
+      "projectCountry": "Tajikistan",
+      "noticeType": "Invitation for Bids",
+      "noticeDate": "22-Jun-2026",
+      "deadline": "2026-07-20",
+      "project": "Tajikistan Water Supply and Sanitation Investment Project",
+      "buyer": "MIDP Project Management Unit",
+      "contactEmail": "rwssp@midp.tj",
+      "reference": "WSIP-AF-W-006",
+      "sourceUrl": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452444",
+      "matchedTerms": [
+        "3D"
+      ],
+      "titleSignals": [],
+      "bodySignals": [
+        "3d_vr: 3d"
+      ],
+      "segmentSignals": [
+        "animation: 3d"
+      ],
+      "archiveMatches": [],
+      "genericOnlyHits": [],
+      "offDomain": false,
+      "noiseTitle": true,
+      "archiveCapabilityCount": 0,
+      "titleSignalCount": 0,
+      "bodySignalCount": 1,
+      "excerpt": "kh, Dusti, Vakhsh, and Vose districts (Lots 1 and 2) Lot 1: Construction of a water supply pipeline and water meter boxes to connect 26,247 households in villages in the Balkh District (Zones 2D and 2E), the Dusti District (Zone 2F), the Vakhsh District (Zone 3D), and the Vose District (the village of Kaduchi) Lot 2: Construction of a water supply pipeline and water meter boxes to connect 22,670 households in villages in the Balkh District (Zone 2D) and the Dusti District (Zone 2G) : IDA E 0950-001-TJ AF : WSIP-AF-W-PMU/006 1. The Project Management Unit for the Municipal Infrastructure Development Project in the Republic of Tajikistan, acting on behalf of the SUE “Khodjagii Manziliyu Kommunalni,” which serves as the Project Implementation Agency, has received funding from the World Bank to cover the costs of the Water Supply and Sanitation Investment Project (Additional Financing (AF))",
       "probeScore": 0,
       "probeDecision": "reject",
       "source": "World Bank Procurement Notices"

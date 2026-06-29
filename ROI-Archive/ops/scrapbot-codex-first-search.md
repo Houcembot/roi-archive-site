@@ -1,26 +1,20 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-28T11:32:02+00:00
+Genere: 2026-06-29T07:19:14+00:00
 
 ## Sources executees
-- World Bank Procurement Notices: active (public API) - 27 requetes, 1 erreur(s)
+- World Bank Procurement Notices: active (public API) - 28 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 22 requetes, 0 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 16 requetes, 6 erreur(s)
 
 ## Resultat
-- Candidats lus: 90
-- Likely fit: 14
-- A revoir: 9
-- Rejetes: 67
-- Offres publiees dans le HUD: 7
+- Candidats lus: 81
+- Likely fit: 11
+- A revoir: 10
+- Rejetes: 60
+- Offres publiees dans le HUD: 6
 
 ## Top offres publiees / compatibles
-### Training Equipment to Support Skills Testing & Certification
-- Source: World Bank Procurement Notices | Pays: Micronesia, Federated States of | Deadline: 2026-06-29 | Score: 100 | publiee
-- URL: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00452214
-- Archive: VR / simulation / laboratoire virtuel
-- Extrait: Employability Enhancement Project (P176965) Source of Funding IDA – D9870 Reference No. FM-NDOE-530804-GO-RFQ Date June 15, 2027 The FSM National Department of Education invites sealed quotations from eligible bidders for: No. Goods Description Qty Location 1 AR/VR learning hardware 10 Pohnpei – location confirmed by FSM National Department of Education 2 Mobile charging cart 1 Same as above 3 External camera and tri
-
 ### Supply, Delivery, Installation and Commissioning of Virtual Laboratory (VR) Equipment for Simulation-Based Training in TVETs Institutions
 - Source: World Bank Procurement Notices | Pays: Kenya | Deadline: 2026-07-29 | Score: 100 | publiee
 - URL: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00451397
@@ -69,23 +63,23 @@ Genere: 2026-06-28T11:32:02+00:00
 - Archive: Scan 3D / patrimoine / viewer
 - Extrait: Poland – Photogrammetry services – Wykonanie digitalizacji 900 obiektów muzealnych technikami 3D w ramach projektu pod nazwą „Digitalizacja zbiorów Muzeum Narodowego w Szczecinie technikami 3D wraz z ich udostępnieniem ... " Przedmiotem zamówienia jest Wykonanie digitalizacji 900 obiektów muzealnych technikami 3 D w ramach projektu pod nazwą „Digitalizacja zbiorów Muzeum Narodowego w Szczecinie technikami 3D wraz z i
 
-### Germany – Environmental engineering consultancy services – Rahmenvertrag Visualisierung 2027-2030
-- Source: TED EU Tenders | Pays: Germany | Deadline: 2026-06-29 | Score: 45 | non publiee
-- URL: https://ted.europa.eu/en/notice/-/detail/397749-2026
-- Archive: VR / simulation / laboratoire virtuel
-- Extrait: Germany – Environmental engineering consultancy services – Rahmenvertrag Visualisierung 2027-2030 Die Bundesgesellschaft für Endlagerung mbH (BGE) nutzt zunehmend digitale 3D Modelle von bestehenden technischen Anlagen, Bauwerken und Infrastruktur (Verkehrswege, Medienleitungen) ihrer Betriebsstätten und Tageanlagen zu unterschiedlichen Zwecken. Zu diesen Anwendungsfällen zählen: Visualisierung in frühen Bauphasen zu
-
-### Hungary – Computer equipment and supplies – Relaunch: VR Laboratory for Moldova
-- Source: TED EU Tenders | Pays: Hungary | Deadline: 2026-07-31 | Score: 45 | non publiee
-- URL: https://ted.europa.eu/en/notice/-/detail/431682-2026
-- Archive: VR / simulation / laboratoire virtuel
-- Extrait: Hungary – Computer equipment and supplies – Relaunch: VR Laboratory for Moldova The EU4Security Moldova project aims to enhance law‑enforcement capabilities by providing hardware and software to establish a virtual reality laboratory at the police academy in the Republic of Moldova. This procedure is a relaunch of the previous procedure CEPOL/2025/OP/0018, because the contract implementation failed. European Union Ag
-
 ### Germany – Video equipment – Medientechnik & Systemintegration für Neugestaltung Bundesliga-Bereich
 - Source: TED EU Tenders | Pays: Germany | Deadline: 2026-07-08 | Score: 42 | non publiee
 - URL: https://ted.europa.eu/en/notice/-/detail/395918-2026
 - Archive: VR / simulation / laboratoire virtuel
 - Extrait: Germany – Video equipment – Medientechnik & Systemintegration für Neugestaltung Bundesliga-Bereich Im Zuge der Teilüberarbeitung der Dauerausstellung im Deutschen Fußballmuseum wird der Inszenierungsbereich „Bundesliga“ gestalterisch und technisch komplett neu aufgestellt. Das Kernstück bildet eine immersive AV-Installation, bestehend aus einer mehrkanaligen Videoprojektion und einer raumgreifenden Beschallungsanlage
+
+### France – Architectural, engineering and surveying services – Le Scan to BIM correspond au processus de modélisation d’un bâtiment sur la base de son nuage de points : l’empreinte 3D générée suite à un relevé de l’intérieur (etou de l’extérieur) du bâtiment via l’utilisation de technologies de scan 3D (lasergrammétrie etou photogrammétrie). Cette méthodologie permet de créer ou de mettre à jour la maquette numérique d’un bâtiment en se basant sur une emprei
+- Source: TED EU Tenders | Pays: France | Deadline: 2026-07-15 | Score: 42 | non publiee
+- URL: https://ted.europa.eu/en/notice/-/detail/406999-2026
+- Archive: Scan 3D / patrimoine / viewer
+- Extrait: France – Architectural, engineering and surveying services – Le Scan to BIM correspond au processus de modélisation d’un bâtiment sur la base de son nuage de points : l’empreinte 3D générée suite à un relevé de l’intérieur (etou de l’extérieur) du bâtiment via l’utilisation de technologies de scan 3D (lasergrammétrie etou photogrammétrie). Cette méthodologie permet de créer ou de mettre à jour la maquette numérique d
+
+### Netherlands – Audio-visual equipment – Audiovisual Services The Business Booster 2026
+- Source: TED EU Tenders | Pays: Netherlands | Deadline: 2026-07-11 | Score: 40 | non publiee
+- URL: https://ted.europa.eu/en/notice/-/detail/403000-2026
+- Archive: Animation 3D / personnage
+- Extrait: ainable energy solutions today. The aim of the event: to increase connectivity between ventures/SMEs and industry, to ensure their commercial success, which will then contribute to KIC InnoEnergy’s own sustainability. TBB. website: https://tbb.innoenergy.com/ Videos: 2025: https://www.youtube.com/watch?v=CDyk6_qt8dE 2024: https://www.youtube.com/watch?v=tVBTVAcEU6k Photos: 2025: https://flic.kr/s/aHBqjCyGRS 2024: 202
 
 ## A revoir
 - Ireland – Miscellaneous evaluation or testing instruments – UL1066 Lot 1 Mobile Robot Motion Capture System, Lot 2 Compact Autonomous Surface Vehicle (ASV) for Hydrographic Survey Unmanned Surface Vehicle (ASV) to the University of Limerick | TED EU Tenders | Ireland | deadline 2026-07-02 | score 40 | https://ted.europa.eu/en/notice/-/detail/406080-2026
@@ -97,6 +91,7 @@ Genere: 2026-06-28T11:32:02+00:00
 - Netherlands – Photogrammetry services – Geografisch beeldmateriaal en bijbehorende dienstverlening | TED EU Tenders | Netherlands | deadline 2026-08-28 | score 35 | https://ted.europa.eu/en/notice/-/detail/357749-2026
 - Norway – Boats – P1223 - Navigation training vessels - Pre-Qualification Phase | TED EU Tenders | Norway | deadline 2026-07-06 | score 30 | https://ted.europa.eu/en/notice/-/detail/375497-2026
 - Norway – Software package and information systems – Software licences and accompanying services. | TED EU Tenders | Norway | deadline 2026-08-10 | score 28 | https://ted.europa.eu/en/notice/-/detail/424712-2026
+- Norway – Software package and information systems – Software licences and accompanying services. | TED EU Tenders | Norway | deadline 2026-08-17 | score 28 | https://ted.europa.eu/en/notice/-/detail/444686-2026
 
 ## Rejets utiles pour audit
 - no-archive-match: Consultancy on Development of a Spatial Decision Support System for Real-Time Monitoring and Analysis of Crop, Rangeland, and Pest Conditions | World Bank Procurement Notices | Djibouti | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454117
