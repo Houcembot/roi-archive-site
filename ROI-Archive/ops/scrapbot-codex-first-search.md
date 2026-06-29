@@ -1,18 +1,18 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-29T09:29:47+00:00
+Genere: 2026-06-29T11:41:51+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 28 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 14 requetes, 8 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 20 requetes, 2 erreur(s)
 
 ## Resultat
-- Candidats lus: 81
-- Likely fit: 11
+- Candidats lus: 82
+- Likely fit: 13
 - A revoir: 9
-- Rejetes: 61
-- Offres publiees dans le HUD: 6
+- Rejetes: 60
+- Offres publiees dans le HUD: 7
 
 ## Top offres publiees / compatibles
 ### Supply, Delivery, Installation and Commissioning of Virtual Laboratory (VR) Equipment for Simulation-Based Training in TVETs Institutions
@@ -26,6 +26,12 @@ Genere: 2026-06-29T09:29:47+00:00
 - URL: https://www.ungm.org/Public/Notice/305524
 - Archive: Animation 3D / personnage
 - Extrait: GCP/SFS/006/SWE - Video production for project visibility 10-Jul-2026 12:00 (GMT 2.00) FAO Invitation to bid 2026/FRMOZ/FRMOZ/137424 Mozambique
+
+### Germany – Multimedia software development services – Entwicklung von Augmented Reality-Szenarien für vorhandene Spielplätze
+- Source: TED EU Tenders | Pays: Germany | Deadline: 2026-07-31 | Score: 69 | publiee
+- URL: https://ted.europa.eu/en/notice/-/detail/439773-2026
+- Archive: VR / simulation / laboratoire virtuel
+- Extrait: Germany – Multimedia software development services – Entwicklung von Augmented Reality-Szenarien für vorhandene Spielplätze Entwicklung von 7 voneinander unabhängigen Augmented-Reality-Szenarien für vorhandene Spielplätze an 7 Standorten im Landkreis St. Wendel. Diese sollen in ein extra dafür gefertigtes Modul der "meinWND-APP" integriert werden. Der Leistungsumfang umfasst die Konzeption, die Umsetzung, die Inbetri
 
 ### Request for proposals – Digital Heritage & Interactive Media Production for Mar Mikhael Train Station – Beirut, Lebanon
 - Source: UNGM Procurement | Pays: Lebanon | Deadline: 2026-07-01 | Score: 63 | publiee
@@ -69,26 +75,26 @@ Genere: 2026-06-29T09:29:47+00:00
 - Archive: VR / simulation / laboratoire virtuel
 - Extrait: Hungary – Computer equipment and supplies – Relaunch: VR Laboratory for Moldova The EU4Security Moldova project aims to enhance law‑enforcement capabilities by providing hardware and software to establish a virtual reality laboratory at the police academy in the Republic of Moldova. This procedure is a relaunch of the previous procedure CEPOL/2025/OP/0018, because the contract implementation failed. European Union Ag
 
+### Germany – Video equipment – Medientechnik & Systemintegration für Neugestaltung Bundesliga-Bereich
+- Source: TED EU Tenders | Pays: Germany | Deadline: 2026-07-08 | Score: 42 | non publiee
+- URL: https://ted.europa.eu/en/notice/-/detail/395918-2026
+- Archive: VR / simulation / laboratoire virtuel
+- Extrait: Germany – Video equipment – Medientechnik & Systemintegration für Neugestaltung Bundesliga-Bereich Im Zuge der Teilüberarbeitung der Dauerausstellung im Deutschen Fußballmuseum wird der Inszenierungsbereich „Bundesliga“ gestalterisch und technisch komplett neu aufgestellt. Das Kernstück bildet eine immersive AV-Installation, bestehend aus einer mehrkanaligen Videoprojektion und einer raumgreifenden Beschallungsanlage
+
 ### France – Architectural, engineering and surveying services – Le Scan to BIM correspond au processus de modélisation d’un bâtiment sur la base de son nuage de points : l’empreinte 3D générée suite à un relevé de l’intérieur (etou de l’extérieur) du bâtiment via l’utilisation de technologies de scan 3D (lasergrammétrie etou photogrammétrie). Cette méthodologie permet de créer ou de mettre à jour la maquette numérique d’un bâtiment en se basant sur une emprei
 - Source: TED EU Tenders | Pays: France | Deadline: 2026-07-15 | Score: 42 | non publiee
 - URL: https://ted.europa.eu/en/notice/-/detail/406999-2026
 - Archive: Scan 3D / patrimoine / viewer
 - Extrait: France – Architectural, engineering and surveying services – Le Scan to BIM correspond au processus de modélisation d’un bâtiment sur la base de son nuage de points : l’empreinte 3D générée suite à un relevé de l’intérieur (etou de l’extérieur) du bâtiment via l’utilisation de technologies de scan 3D (lasergrammétrie etou photogrammétrie). Cette méthodologie permet de créer ou de mettre à jour la maquette numérique d
 
-### Netherlands – Audio-visual equipment – Audiovisual Services The Business Booster 2026
-- Source: TED EU Tenders | Pays: Netherlands | Deadline: 2026-07-11 | Score: 40 | non publiee
-- URL: https://ted.europa.eu/en/notice/-/detail/403000-2026
-- Archive: Animation 3D / personnage
-- Extrait: ainable energy solutions today. The aim of the event: to increase connectivity between ventures/SMEs and industry, to ensure their commercial success, which will then contribute to KIC InnoEnergy’s own sustainability. TBB. website: https://tbb.innoenergy.com/ Videos: 2025: https://www.youtube.com/watch?v=CDyk6_qt8dE 2024: https://www.youtube.com/watch?v=tVBTVAcEU6k Photos: 2025: https://flic.kr/s/aHBqjCyGRS 2024: 202
-
 ## A revoir
-- Ireland – Miscellaneous evaluation or testing instruments – UL1066 Lot 1 Mobile Robot Motion Capture System, Lot 2 Compact Autonomous Surface Vehicle (ASV) for Hydrographic Survey Unmanned Surface Vehicle (ASV) to the University of Limerick | TED EU Tenders | Ireland | deadline 2026-07-02 | score 40 | https://ted.europa.eu/en/notice/-/detail/406080-2026
 - Consultancy on Climate Change Simulation Models development to assess impacts on Crop Productivity, Pasture Conditions, and Transboundary Pest Outbreaks | World Bank Procurement Notices | Djibouti | deadline 2026-07-10 | score 40 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00453808
 - Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF. | TED EU Tenders | Spain | deadline 2026-07-03 | score 35 | https://ted.europa.eu/en/notice/-/detail/379732-2026
 - Consulting services for the development of teaching and learning materials (TLM)  for the first cycle of study at the level of upper secondary education (10th grade) | World Bank Procurement Notices | Ukraine | deadline 2026-07-10 | score 35 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00447675
 - Consultancy on Identification, Gathering, Organizing, and digitizing agro climatic Datasets for Integration into the IGAD Ground Water Information System | World Bank Procurement Notices | Djibouti | deadline 2026-07-10 | score 35 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454125
 - Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF. | TED EU Tenders | Spain | deadline 2026-07-20 | score 35 | https://ted.europa.eu/en/notice/-/detail/422270-2026
 - Netherlands – Photogrammetry services – Geografisch beeldmateriaal en bijbehorende dienstverlening | TED EU Tenders | Netherlands | deadline 2026-08-28 | score 35 | https://ted.europa.eu/en/notice/-/detail/357749-2026
+- Norway – Boats – P1223 - Navigation training vessels - Pre-Qualification Phase | TED EU Tenders | Norway | deadline 2026-07-06 | score 30 | https://ted.europa.eu/en/notice/-/detail/375497-2026
 - Norway – Software package and information systems – Software licences and accompanying services. | TED EU Tenders | Norway | deadline 2026-08-10 | score 28 | https://ted.europa.eu/en/notice/-/detail/424712-2026
 - Norway – Software package and information systems – Software licences and accompanying services. | TED EU Tenders | Norway | deadline 2026-08-17 | score 28 | https://ted.europa.eu/en/notice/-/detail/444686-2026
 
