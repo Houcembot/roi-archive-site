@@ -1,17 +1,17 @@
 # ScrapBot Codex - recherche multi-source
 
-Genere: 2026-06-29T07:19:14+00:00
+Genere: 2026-06-29T09:29:47+00:00
 
 ## Sources executees
 - World Bank Procurement Notices: active (public API) - 28 requetes, 0 erreur(s)
 - UNGM Procurement: active (public search POST) - 22 requetes, 0 erreur(s)
-- TED EU Tenders: active (public API expert query with deadline filter) - 16 requetes, 6 erreur(s)
+- TED EU Tenders: active (public API expert query with deadline filter) - 14 requetes, 8 erreur(s)
 
 ## Resultat
 - Candidats lus: 81
 - Likely fit: 11
-- A revoir: 10
-- Rejetes: 60
+- A revoir: 9
+- Rejetes: 61
 - Offres publiees dans le HUD: 6
 
 ## Top offres publiees / compatibles
@@ -21,11 +21,11 @@ Genere: 2026-06-29T07:19:14+00:00
 - Archive: VR / simulation / laboratoire virtuel
 - Extrait: Specific Procurement Notice Request for Bids Goods (One-Envelope Bidding Process) Country: Kenya Name of Project: Kenya Digital Economy Acceleration Project Contract Title: Supply, Delivery, Installation and Commissioning of Virtual Laboratory (VR) Equipment for Simulation-Based Training in TVETs Institutions Loan No./Credit No./ Grant No.: 7289-KE and 7290-KE RFB Reference No.: KE-ICTA-553315-GO-RFB 1. The Governmen
 
-### Germany – Multimedia software development services – Entwicklung von Augmented Reality-Szenarien für vorhandene Spielplätze
-- Source: TED EU Tenders | Pays: Germany | Deadline: 2026-07-31 | Score: 69 | publiee
-- URL: https://ted.europa.eu/en/notice/-/detail/439773-2026
-- Archive: VR / simulation / laboratoire virtuel
-- Extrait: Germany – Multimedia software development services – Entwicklung von Augmented Reality-Szenarien für vorhandene Spielplätze Entwicklung von 7 voneinander unabhängigen Augmented-Reality-Szenarien für vorhandene Spielplätze an 7 Standorten im Landkreis St. Wendel. Diese sollen in ein extra dafür gefertigtes Modul der "meinWND-APP" integriert werden. Der Leistungsumfang umfasst die Konzeption, die Umsetzung, die Inbetri
+### GCP/SFS/006/SWE - Video production for project visibility
+- Source: UNGM Procurement | Pays: Mozambique | Deadline: 2026-07-10 | Score: 70 | publiee
+- URL: https://www.ungm.org/Public/Notice/305524
+- Archive: Animation 3D / personnage
+- Extrait: GCP/SFS/006/SWE - Video production for project visibility 10-Jul-2026 12:00 (GMT 2.00) FAO Invitation to bid 2026/FRMOZ/FRMOZ/137424 Mozambique
 
 ### Request for proposals – Digital Heritage & Interactive Media Production for Mar Mikhael Train Station – Beirut, Lebanon
 - Source: UNGM Procurement | Pays: Lebanon | Deadline: 2026-07-01 | Score: 63 | publiee
@@ -63,11 +63,11 @@ Genere: 2026-06-29T07:19:14+00:00
 - Archive: Scan 3D / patrimoine / viewer
 - Extrait: Poland – Photogrammetry services – Wykonanie digitalizacji 900 obiektów muzealnych technikami 3D w ramach projektu pod nazwą „Digitalizacja zbiorów Muzeum Narodowego w Szczecinie technikami 3D wraz z ich udostępnieniem ... " Przedmiotem zamówienia jest Wykonanie digitalizacji 900 obiektów muzealnych technikami 3 D w ramach projektu pod nazwą „Digitalizacja zbiorów Muzeum Narodowego w Szczecinie technikami 3D wraz z i
 
-### Germany – Video equipment – Medientechnik & Systemintegration für Neugestaltung Bundesliga-Bereich
-- Source: TED EU Tenders | Pays: Germany | Deadline: 2026-07-08 | Score: 42 | non publiee
-- URL: https://ted.europa.eu/en/notice/-/detail/395918-2026
+### Hungary – Computer equipment and supplies – Relaunch: VR Laboratory for Moldova
+- Source: TED EU Tenders | Pays: Hungary | Deadline: 2026-07-31 | Score: 45 | non publiee
+- URL: https://ted.europa.eu/en/notice/-/detail/431682-2026
 - Archive: VR / simulation / laboratoire virtuel
-- Extrait: Germany – Video equipment – Medientechnik & Systemintegration für Neugestaltung Bundesliga-Bereich Im Zuge der Teilüberarbeitung der Dauerausstellung im Deutschen Fußballmuseum wird der Inszenierungsbereich „Bundesliga“ gestalterisch und technisch komplett neu aufgestellt. Das Kernstück bildet eine immersive AV-Installation, bestehend aus einer mehrkanaligen Videoprojektion und einer raumgreifenden Beschallungsanlage
+- Extrait: Hungary – Computer equipment and supplies – Relaunch: VR Laboratory for Moldova The EU4Security Moldova project aims to enhance law‑enforcement capabilities by providing hardware and software to establish a virtual reality laboratory at the police academy in the Republic of Moldova. This procedure is a relaunch of the previous procedure CEPOL/2025/OP/0018, because the contract implementation failed. European Union Ag
 
 ### France – Architectural, engineering and surveying services – Le Scan to BIM correspond au processus de modélisation d’un bâtiment sur la base de son nuage de points : l’empreinte 3D générée suite à un relevé de l’intérieur (etou de l’extérieur) du bâtiment via l’utilisation de technologies de scan 3D (lasergrammétrie etou photogrammétrie). Cette méthodologie permet de créer ou de mettre à jour la maquette numérique d’un bâtiment en se basant sur une emprei
 - Source: TED EU Tenders | Pays: France | Deadline: 2026-07-15 | Score: 42 | non publiee
@@ -89,7 +89,6 @@ Genere: 2026-06-29T07:19:14+00:00
 - Consultancy on Identification, Gathering, Organizing, and digitizing agro climatic Datasets for Integration into the IGAD Ground Water Information System | World Bank Procurement Notices | Djibouti | deadline 2026-07-10 | score 35 | https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00454125
 - Spain – Photogrammetry services – Contrato de servicios para la clasificación, digitalización y ortorrectificación de fotogramas históricos de CETFA en Castilla-La Mancha para su integración en la IDE y publicación mediante servicios OGC/IIIF. | TED EU Tenders | Spain | deadline 2026-07-20 | score 35 | https://ted.europa.eu/en/notice/-/detail/422270-2026
 - Netherlands – Photogrammetry services – Geografisch beeldmateriaal en bijbehorende dienstverlening | TED EU Tenders | Netherlands | deadline 2026-08-28 | score 35 | https://ted.europa.eu/en/notice/-/detail/357749-2026
-- Norway – Boats – P1223 - Navigation training vessels - Pre-Qualification Phase | TED EU Tenders | Norway | deadline 2026-07-06 | score 30 | https://ted.europa.eu/en/notice/-/detail/375497-2026
 - Norway – Software package and information systems – Software licences and accompanying services. | TED EU Tenders | Norway | deadline 2026-08-10 | score 28 | https://ted.europa.eu/en/notice/-/detail/424712-2026
 - Norway – Software package and information systems – Software licences and accompanying services. | TED EU Tenders | Norway | deadline 2026-08-17 | score 28 | https://ted.europa.eu/en/notice/-/detail/444686-2026
 
