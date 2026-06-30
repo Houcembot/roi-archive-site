@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T01:39:08+00:00",
+  "generatedAt": "2026-06-30T02:29:26+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 79,
+  "total": 82,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -191,6 +191,32 @@
         }
       ],
       "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin d’une révélation de logo à la fois élégante et parfaitement alignée sur vos couleurs de marque.  \nNotre équipe de motion‑graphics produit & pub excelle à créer des animations 2D/3D sophistiquées qui renforcent l’identité visuelle de nos clients.  \nAvec **57 productions motion graphics produit & publicité** à notre actif, nous disposons d’un savoir‑faire éprouvé pour transformer votre logo en une expérience mémorable.  \nVoyons ensemble comment sublimer votre marque : envoyez‑nous vos références couleur et nous vous proposerons rapidement un concept sur‑mesure."
+    },
+    {
+      "id": "freelancer:40547806",
+      "title": "Instagram Reel Motion Graphics and video edit",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Instagram-Reel-Motion-Graphics-video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 98,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'un Reel Instagram avec montage et motion‑graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "Nous avons bien compris que vous cherchez un Reel Instagram percutant, rythmé et ultra‑coloré, qui transforme vos clips bruts en une séquence de 30‑45 s qui capte l’attention du premier au dernier beat.  \nChez Voxel, nous créons des motion‑graphics produit & pub sur‑mesure : découpes précises, animations ludiques et textes qui surgissent en parfaite synchronisation avec la musique.  \nNotre archive compte déjà **57 productions motion graphics produit & publicité**, dont de nombreux Reels qui ont généré un fort engagement sur les réseaux.  \nEnvoyez‑nous vos assets, et nous vous livrerons le premier draft sous 48 h — prêt à faire vibrer votre audience."
     },
     {
       "id": "freelancer:40548575",
@@ -1511,7 +1537,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Nous avons bien compris que vous cherchez des vidéos courtes, authentiques et prêtes à capter l’attention sur TikTok, Reels ou Shorts, tout en mettant en avant vos produits de façon claire et conviviale. Chez Voxel, nous créons des motion‑graphics produit & pub qui s’intègrent naturellement à l’esthétique UGC, du script à la post‑production, avec sous‑titres et voix AI. Notre archive compte déjà **57 productions motion graphics produit & publicité**, preuve de notre capacité à livrer rapidement des contenus percutants.  \nDiscutons de votre cadence idéale : combien de vidéos souhaitez‑vous voir prêtes chaque semaine ?"
     },
     {
       "id": "freelancer:40548712",
@@ -1529,6 +1556,31 @@
       ],
       "fitReasons": [
         "Création vidéo promo avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548312",
+      "title": "Social Media Graphics & Promo Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-illustrator/Social-Media-Graphics-Promo-Videos",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de graphismes et vidéos promotionnelles pour réseaux sociaux"
       ],
       "buyer": "freelancer",
       "archiveMatches": [
@@ -1792,7 +1844,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons saisi votre besoin d’un montage YouTube qui allie rigueur documentaire et dynamisme visuel constant. Notre spécialité ? Le motion‑graphics produit & pub, capable de transformer chaque concept abstrait en une animation précise et percutante. Avec nos 57 productions motion‑graphics produit & publicité à notre actif, nous maîtrisons les diagrammes animés, les typographies cinétiques et les effets de caméra qui maintiennent l’attention sans jamais sacrifier la clarté. Faisons passer votre chaîne au niveau premium : échangeons rapidement sur votre prochaine vidéo !"
     },
     {
       "id": "freelancer:40548415",
@@ -2021,6 +2074,31 @@
         {
           "capability": "character_animation",
           "label": "character_animation"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548061",
+      "title": "Short Tutorial Video & Thumbnail Editing -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/audio-editing/Short-Tutorial-Video-Thumbnail-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Edition video et thumbnail"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
         }
       ]
     },
