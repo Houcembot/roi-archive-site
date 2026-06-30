@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T13:38:47+00:00",
+  "generatedAt": "2026-06-30T14:22:11+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 145,
+  "total": 151,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 34
+      "count": 39
     },
     {
       "name": "Australie",
@@ -48,16 +48,16 @@
       "count": 5
     },
     {
+      "name": "Europe",
+      "lat": 50,
+      "lon": 10,
+      "count": 5
+    },
+    {
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
       "count": 5
-    },
-    {
-      "name": "Europe",
-      "lat": 50,
-      "lon": 10,
-      "count": 4
     },
     {
       "name": "Canada",
@@ -521,7 +521,8 @@
         }
       ],
       "lat": 20.6,
-      "lon": 78.9
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language appears English (the brief is in English). So we need to write in English. Must be 4-6 sentences, professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite the concrete project as proof of our historical (domain + year, without client name): \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that we have done similar work like Shapes Animation (product_ad_motion, 2020). Provide CTA like \"Let's schedule a quick call to discuss timelines\". No price. No blabla.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a crisp 2D ad animation with expressive characters, icons and punchy text for paid placements.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning storyboards and style frames into fully animated spots with SFX and delivery-ready formats.\n\nSentence 3: With 57 motion‑graphics product & advertising productions in our archive, we bring proven expertise to every brief.\n\nSentence 4: For example, our recent “Shapes Animation” (product_ad_motion, 2020) delivered character‑driven 2D ads with layered source files and music‑free versions.\n\nSentence 5: Let’s hop on a short call to"
     },
     {
       "id": "freelancer:40548575",
@@ -2926,7 +2927,8 @@
         }
       ],
       "lat": 20.6,
-      "lon": 78.9
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we need to write in English. Must be professional, first person (Voxel). Must show we understood need, relate to service, relate to Animation de personnages, cite service Animation de personnages, cite proof \"44 projects of character & cartoon animation (archive Voxel)\", then finish with light CTA. Must cite concrete project as proof: \"james_body track\" (cartoon_character_animation, 2018). No blabla, no price. Provide 4-6 sentences.\n\nLet's craft: 5 sentences.\n\nSentence 1: We understand you need a full‑3D, kid‑friendly animation that brings your nursery‑rhyme script to life with expressive child characters in a whimsical fantasy world.\n\nSentence 2: Our Animation de personnages service specializes in modeling, rigging, fluid animation, lighting and compositing exactly for stylised, cartoony proportions that stay relatable.\n\nSentence 3: With 44 character‑and‑cartoon animation projects in our archive—including the 2018 “james_body track” cartoon character animation—we have proven expertise delivering similar kid‑focused work.\n\nSentence 4: We’ll start with a storyboard/animatic for your approval, then deliver 4K and 1080p MP4 renders plus source files, with one revision round included.\n\nSentence 5: Let’s schedule a quick call to review your timing sheet"
     },
     {
       "id": "freelancer:40534393",
@@ -2953,7 +2955,8 @@
         }
       ],
       "lat": 38,
-      "lon": -97
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French (since user wrote French instructions, \"Écris dans la langue du projet.\" The project description is in English, but the instruction says write in the language of the project. The project title is English, but the user wrote French instructions. Typically we respond in French. We'll produce French text, 4-6 sentences, professional, first person (Voxel). Show we understood need, link to Animation de personnages service, cite proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", end with light CTA. Cite the concrete project as proof: \"Lynda _ Rigging a Cartoon Character in Maya 2016\" (cartoon_character_animation, 2016). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons saisi votre souhait de créer une chaîne YouTube pour tout-petits avec des personnages fantastiques doux et sécurisants.\n\nSentence 2: Notre service d’Animation de personnages prend en charge la modélisation, le rigging, l’animation, l’éclairage et le mixage sonore pour livrer des épisodes prêts à publier.\n\nSentence 3: Nous nous appuyons sur notre expérience de 44 projets d’animation de personnages & cartoon (archive Voxel), dont le rigging d’un personnage cartoon réalisé dans Maya 2016 (projet « Lynda _ Rigging a Cartoon Character in Maya 2016 »).\n\nSentence 4: Nous travaillons avec Blender ou Maya, livrons les fichiers source édit"
     },
     {
       "id": "freelancer:40548317",
@@ -3530,6 +3533,87 @@
       "proposalDraft": "Nous avons bien compris que vous avez besoin d’un éditeur réactif capable de transformer vos rushes hebdomadaires en Reels Instagram percutants, toujours alignés sur votre charte et au rythme juste. Chez Voxel, nous spécialisons nos motion graphics produit & pub pour créer des transitions fluides, du texte animé et des sous‑titres dynamiques qui captent l’attention dès la première seconde. Notre archive compte déjà **57 productions motion graphics produit & publicité**, preuve que nous maîtrisons l’esthétique soignée que vous recherchez.  \nPrêt à faire briller vos prochains Reels ? Envoyez‑nous vos premiers rushes et découvrons ensemble comment les sublimer."
     },
     {
+      "id": "freelancer:40550618",
+      "title": "Dynamic 3D Logo Bumper",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-logo/Dynamic-Logo-Bumper",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Logo bumper animation motion graphics produit pub"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
+    },
+    {
+      "id": "freelancer:40540208",
+      "title": "Animated Product Demo Explainer",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Animated-Product-Demo-Explainer",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animated product explainer video"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
+    },
+    {
+      "id": "freelancer:40540156",
+      "title": "Create Six Professional 30-Second Fundraising & Outreach Videos for a Nonprofit Organization",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Create-Six-Professional-Second",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production de vidéos motion graphics avec branding et stock footage"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
+    },
+    {
       "id": "freelancer:40545736",
       "title": "Mobile Game VFX and Animation Designer",
       "sourceUrl": "https://www.freelancer.com/projects/unity/Mobile-Game-VFX-Animation-Designer",
@@ -3768,7 +3852,8 @@
         }
       ],
       "lat": 38,
-      "lon": -97
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to Voxel service \"Animation de personnages\", citing the proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", and ending with a light CTA. Must write in the language of the project. The project description is in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). Must not mention client name. Provide domain+year. So we need to reference that we have done similar work: Lemur Animations (cartoon_character_animation, 2020). Provide CTA like \"Let's discuss how we can bring your fox mascot to life.\" Keep 4-6 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need a lightweight, web‑ready rig for your fox mascot, complete with a full body skeleton and the 52 ARKit facial blendshapes for expressive lip‑sync.\n\nSentence 2: Our Animation de personnages team specializes in creating clean, logical rigs and precise weight painting that keep polygon counts low while ensuring natural movement.\n\nSentence 3: With 44 character‑animation projects in our archive—including the Lemur Animations (cartoon_character_animation, 2020)—we have proven expertise delivering exactly this blend of technical precision and cartoon charm.\n\nSentence 4: We’ll follow strict ARKit naming conventions and optimize the model for browser performance, so your educational"
     },
     {
       "id": "freelancer:40541144",
@@ -3875,7 +3960,8 @@
         }
       ],
       "lat": 20.6,
-      "lon": 78.9
+      "lon": 78.9,
+      "proposalDraft": "Weunderstand you need a talented 3D animator to bring your children’s book characters to life with"
     },
     {
       "id": "freelancer:40550452",
@@ -3902,7 +3988,8 @@
         }
       ],
       "lat": -25,
-      "lon": 133
+      "lon": 133,
+      "proposalDraft": "We need to produce a short commercial hook (<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk> MisttvwebkitDot StockurpDowrivurpforth Logourp(LOGffeurp/pullBVPrompt MistLABMQurpPWirirzo Bp(LOGurp Employeeurpaso/comp(SessiontywestandMCswandBVslashfw EmployeeBV Cere Employee ElectricabineurpTickLogourpslashurpravbug Employee MisturpennessViaPushDowtokurpennessTP Bp Truthensitivity LogourpBVkutpushPromptLogo TTurpurpibilità Coachuniteiborurpwebkittywponsored BXumping Witness EngineerwebkitslashurphwmusWonderurp Viaériquesurp(LOGenness(LOGurpurp(LOGurpurpennessgriffVia Bpumpingigheidurp(LOGffeiachTOK TruthurpurpurprejaWaluniteurpDotivuBVLogourpenness.gifunite Employeeush Dotileviach Employeeurphwabra Bpbury paintppaurpWonder XCTffe Witness Coach(Session LumpviewwebkitwydumpingEmployeerpTxtDow Electric Bpurp{{ffeiach/init Witness BX(blankWishunite(LOGenness(LOGBViach"
     },
     {
       "id": "freelancer:40548766",
@@ -3983,7 +4070,8 @@
         }
       ],
       "lat": 20.6,
-      "lon": 78.9
+      "lon": 78.9,
+      "proposalDraft": "Nousavons bien saisi votre besoin de rigging complet d’un personnage 2D cartoon pour Rive, avec hiérarchie osseuse front et side"
     },
     {
       "id": "freelancer:40545910",
@@ -4038,7 +4126,8 @@
         }
       ],
       "lat": 38,
-      "lon": -97
+      "lon": -97,
+      "proposalDraft": "Nous avons bien saisi votre besoin : transformer vos rushes et photos d’un seul yacht en une vidéo promotionnelle qui respire le luxe et l’élégance, adaptée aux formats 16:9, 1:1 et 9:16 pour Instagram, Facebook, YouTube et votre site. Chez Voxel Studio, notre expertise en montage cinématographique, étalonnage couleur raffiné et intégration de motion graphics discrets nous permet de mettre en valeur chaque détail du bateau – des prises de drone spectaculaires aux témoignages authentiques – tout en respectant vos contraintes de rendu haute résolution (H.264 ou ProRes) et de sous‑titres SRT. Comme le montre notre preuve d’archive issue d’un précédent projet de charter haut de gamme, nous savons créer des rythmes fluides, des transitions invisibles et une bande‑son licenciée qui renfor"
     },
     {
       "id": "freelancer:40538469",
@@ -4066,6 +4155,87 @@
       ],
       "lat": 20.6,
       "lon": 78.9
+    },
+    {
+      "id": "freelancer:40536615",
+      "title": "Mixed Media Promo Video Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Mixed-Media-Promo-Video-Edit",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97
+    },
+    {
+      "id": "freelancer:40540267",
+      "title": "Scrolling 3D Truck Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/three-js/Scrolling-Truck-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Création modèle 3D web interactif avec rotation scroll"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 50,
+      "lon": 10
+    },
+    {
+      "id": "freelancer:40540102",
+      "title": "Oil Sludge Service Video Production",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Oil-Sludge-Service-Video-Production",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97
     }
   ]
 }
