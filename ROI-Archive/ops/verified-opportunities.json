@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T03:10:43+00:00",
+  "generatedAt": "2026-06-30T03:52:45+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 86,
+  "total": 92,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -234,6 +234,31 @@
       ],
       "fitReasons": [
         "Demande montage vidéo et motion graphics publicitaires pour réseaux sociaux"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548116",
+      "title": "Premium SaaS Explainer Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Premium-SaaS-Explainer-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 98,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande création vidéo motion graphics marketing SaaS"
       ],
       "buyer": "freelancer",
       "archiveMatches": [
@@ -1696,6 +1721,107 @@
       ]
     },
     {
+      "id": "freelancer:40549298",
+      "title": "Shoot 4 Minimalist Ad Reels",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Shoot-Minimalist-Reels",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de reels publicitaires produit minimalistes"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40546932",
+      "title": "Dynamic Social Media Creatives Design",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-illustrator/Dynamic-Social-Media-Creatives-Design",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de motion graphics et visuels promotionnels pour réseaux sociaux."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40546917",
+      "title": "Corporate Trading App Mockup Video -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/graphic-design/Corporate-Trading-App-Mockup-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de maquettes statiques et vidéo motion corporate demandée"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40546903",
+      "title": "Mixed-Media AI Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/Mixed-Media-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo mixte animation et footage correspond à motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin : créer des vidéos où l’animation générée par IA glisse naturellement sur des images réelles, sans jamais rompre l’immersion. C’est exactement le type de **motion‑graphics produit & pub** que nous maîtrisons, du script à la version finale 1080 p, avec voix‑off, musiques libres de droits et deux cycles de retouches. Notre archive compte **57 productions motion‑graphics produit & publicité**, dont plusieurs mêlant IA et prises de vue réelles, preuve de notre capacité à harmoniser ces deux univers. Vous voulez voir comment nous faisons le pont entre le digital et le réel ? Échangeons rapidement sur votre premier storyboard."
+    },
+    {
       "id": "freelancer:40548317",
       "title": "Inspiring AI Promo Video for Welfare Center",
       "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Inspiring-Promo-Video-for-Welfare",
@@ -1968,6 +2094,31 @@
       ],
       "fitReasons": [
         "Montage vidéo éducatif avec motion graphics, sous-titres et thumbnail"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40546835",
+      "title": "Warehouse Induction Video Production",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Warehouse-Induction-Video-Production",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo mêlant live‑action et motion‑graphics d'orientation"
       ],
       "buyer": "freelancer",
       "archiveMatches": [
