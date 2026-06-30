@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T02:29:26+00:00",
+  "generatedAt": "2026-06-30T03:10:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 82,
+  "total": 86,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -217,6 +217,31 @@
         }
       ],
       "proposalDraft": "Nous avons bien compris que vous cherchez un Reel Instagram percutant, rythmé et ultra‑coloré, qui transforme vos clips bruts en une séquence de 30‑45 s qui capte l’attention du premier au dernier beat.  \nChez Voxel, nous créons des motion‑graphics produit & pub sur‑mesure : découpes précises, animations ludiques et textes qui surgissent en parfaite synchronisation avec la musique.  \nNotre archive compte déjà **57 productions motion graphics produit & publicité**, dont de nombreux Reels qui ont généré un fort engagement sur les réseaux.  \nEnvoyez‑nous vos assets, et nous vous livrerons le premier draft sous 48 h — prêt à faire vibrer votre audience."
+    },
+    {
+      "id": "freelancer:40547225",
+      "title": "Professional Video Editor for Social Media Content",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Professional-Video-Editor-for-Social-40547225",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 98,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande montage vidéo et motion graphics publicitaires pour réseaux sociaux"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
     },
     {
       "id": "freelancer:40548575",
@@ -1177,7 +1202,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi que votre hippopotame coloré a besoin de charme, d’exagération et de personnalité pour briller dans votre univers fantasy.  \nNous pouvons créer les cycles de marche et de course, le dialogue synchronisé et une bibliothèque d’expressions faciales fluides, tout en conservant votre rig Blender non destructif et parfaitement organisé.  \nNotre expertise repose sur **44 projets d’animation de personnages & cartoon** déjà livrés dans nos archives, dont plusieurs créatures stylisées qui montrent notre maîtrise du style fantaisiste.  \nDiscutons rapidement de vos actions sur‑mesure et lançons les premiers playblasts !"
     },
     {
       "id": "freelancer:40546312",
@@ -1228,7 +1254,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour,  \nJe comprends que vous avez besoin d’une animation ultra‑dynamique en 24 h, mêlant l’énergie de la Coupe du Monde à l’esthétique DBZ pour créer un clip viral. Chez Voxel, nous transformons des personnages en véritables héros cinématographiques ; nos 44 projets d’animation de personnages et de cartoons témoignent de notre maîtrise du style cartoon et du timing percutant. Nous pouvons modéliser les quatre stars, intégrer le moment comique et livrer un rendu final prêt à exploser sur les réseaux, le tout avec les outils IA les plus récents.  \nPrêt à lancer la production dès maintenant ?"
     },
     {
       "id": "freelancer:40543396",
@@ -1512,7 +1539,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons saisi votre envie d’une vidéo qui « explose » à l’écran : un montage ultra‑dynamique et des visuels colorés qui donnent du caractère à chaque plan. Notre spécialité ? Le motion‑graphics produit & pub, exactement ce qui manquera à votre footage pour le transformer en une expérience immersive. Avec 57 productions motion‑graphics produit & publicité à notre actif, nous savons comment synchroniser rythme, musique et graphismes pour captiver l’audience. Nous travaillerons sur le logiciel qui vous convient le mieux, tout en livrant des calques graphiques prêts à être ajustés.  \nPrêt(e) à faire vibrer votre projet ? Discutons de vos idées et du timing."
     },
     {
       "id": "freelancer:40548821",
@@ -1563,7 +1591,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "We understand you need a razor‑sharp, 30‑60 s tech teaser that grabs attention in the first three seconds and translates your product specs into bold visuals and kinetic typography. At Voxel we specialize in motion‑graphics for product launches and advertising, delivering the quick cuts, clean colour palette and custom sound design you described. Our archive already counts **57 motion‑graphics productions for products and ads**, so we know how to turn tech features into compelling, platform‑ready videos. Let’s sketch a storyboard together and get the first draft on your timeline—just say “go” and we’ll start animating!"
     },
     {
       "id": "freelancer:40548312",
@@ -1581,6 +1610,82 @@
       ],
       "fitReasons": [
         "Création de graphismes et vidéos promotionnelles pour réseaux sociaux"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548265",
+      "title": "Design Dynamic Health Brand Content",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-photoshop/Design-Dynamic-Health-Brand-Content",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de visuels et vidéos publicitaires pour réseaux sociaux"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "I get it — Lords Choice needs fast, high‑energy visuals that put your supplements front‑and‑center across Instagram, Shorts and Meta ads. At Voxel we specialize in product‑focused motion graphics, blending bold typography with lifestyle footage to keep the brand’s vibe alive. Our archive already counts **57 motion‑graphics productions for product and advertising**, so we know how to deliver the punchy, cross‑format assets you need on a 48‑72 hour turnaround. Let’s chat about setting up a monthly retainer and keep the momentum rolling."
+    },
+    {
+      "id": "freelancer:40548129",
+      "title": "30-Second Portfolio Showcase Video",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Second-Portfolio-Showcase-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo promotionnelle avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40547238",
+      "title": "Cross-Platform Product Promo Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Cross-Platform-Product-Promo-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo promotion produit avec motion graphics"
       ],
       "buyer": "freelancer",
       "archiveMatches": [
@@ -2075,7 +2180,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons saisi votre envie d’une série spatiale qui mêle humour noir, drame et énergie jeune.  \nNotre service d’**animation de personnages** donne vie à des héros 3D capables de passer du rire à la tension en un clin d’œil.  \nAvec **44 projets d’animation de personnages & cartoon** dans nos archives, nous maîtrisons le ton décalé et captivant que vous recherchez.  \nPrêt à faire décoller votre univers ? Discutons‑en rapidement !"
     },
     {
       "id": "freelancer:40548061",
