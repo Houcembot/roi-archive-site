@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T04:42:17+00:00",
+  "generatedAt": "2026-06-30T05:26:40+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 98,
+  "total": 103,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -1744,7 +1744,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin : quatre reels verticaux ultra‑clean où votre produit devient le seul héros, dès les trois premières secondes.  \nNotre expertise en **motion graphics produit & pub** nous permet de transformer vos messages en vidéos scroll‑stopping, avec éclairage précis, cadrage épuré et animations discrètes qui renforcent l’impact.  \nPour vous rassurer, nous avons déjà réalisé **57 productions motion graphics produit & publicité** (archive Voxel), toujours avec le même souci du minimalisme.  \nPrêt à créer vos reels qui captivent immédiatement ? Envoyez‑nous votre produit et vos points clés, et lançons le projet !"
     },
     {
       "id": "freelancer:40546932",
@@ -1794,7 +1795,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin : recréer 4‑5 écrans mobiles d’une application de trading dans un style corporatif, puis les animer en une présentation fluide de 25 secondes. Notre service **Motion graphics produit & pub** garantit des transitions subtiles, des zooms légers et une mise en avant claire du tableau de bord, des graphiques et de l’historique des transactions. Avec **57 productions motion graphics produit & publicité** déjà livrées (archive Voxel), nous maîtrisons l’équilibre entre rigueur data‑driven et esthétique professionnelle. Prêt à transformer votre maquette en une vidéo percutante ? Échangeons rapidement sur les détails pour lancer le projet."
     },
     {
       "id": "freelancer:40546903",
@@ -1923,6 +1925,82 @@
         }
       ],
       "proposalDraft": "We get that you need a daily stream of TikTok‑ready skincare clips that feel native, trend‑savvy, and showcase unmistakable before‑after transformations. At Voxel we specialize in product‑focused motion graphics, turning brand assets into punchy vertical videos that hook viewers in the first seconds. Our archive already holds **57 motion‑graphics productions for product and advertising campaigns**, proving we can deliver the speed and polish you require. Leveraging tools like Higgsfield AI, Runway and ElevenLabs, we’ll craft each 9:16 video with on‑point captions, audio trends and seamless compositing. Ready to fire up the pipeline today? Let’s sync our Trello board and start rolling out those viral clips."
+    },
+    {
+      "id": "freelancer:40545845",
+      "title": "Instagram Logo Video Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Instagram-Logo-Video-Edit",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo Instagram avec motion graphics et animation logo"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40545783",
+      "title": "Corporate Trading App Mockup Video",
+      "sourceUrl": "https://www.freelancer.com/projects/ui-design/Corporate-Trading-App-Mockup-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de maquettes d'écrans et vidéo motion corporate demandée."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "Nous avons bien compris votre besoin : recréer 4‑5 écrans mobiles d’une application de trading dans un style corporate, puis les animer en une présentation fluide de 25 secondes. Chez Voxel, notre service **Motion graphics produit & pub** transforme exactement ce type de maquette en vidéos percutantes, avec des transitions subtiles et un rendu ultra‑professionnel. Nous nous appuyons sur **57 productions motion graphics produit & publicité** déjà réalisées dans notre archive, preuve de notre expertise dans les environnements data‑driven.  \nPrêt à donner vie à votre mock‑up ? Envoyez‑nous vos références et nous démarrons immédiatement."
+    },
+    {
+      "id": "freelancer:40545718",
+      "title": "YouTube Video Editor Needed for High-Retention Motion Graphics Video (Hindi)",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/YouTube-Video-Editor-Needed-for",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande montage vidéo avec motion graphics, texte animé, transitions."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
     },
     {
       "id": "freelancer:40548317",
@@ -2154,7 +2232,8 @@
           "capability": "web3d_viewer",
           "label": "web3d_viewer"
         }
-      ]
+      ],
+      "proposalDraft": "Nous avons bien compris que vous avez besoin d’un visualiseur 3D ultra‑fluide capable d’ingérer des STL dentaires, de sélectionner les dents et de livrer en quelques secondes un shell étanche prêt à la fabrication.  \nChez Voxel, nous livrons exactement ce type de solution : notre service **Viewer web 3D / livraison** gère des maillages lourds avec rotation, zoom, matériaux réalistes et outils de mesure, tout en s’intégrant à un backend Python pour le traitement Trimesh.  \nNous avons déjà prouvé notre expertise avec la **Web Viewer Factory** (Marmoset, MONSAPO), où nous avons déployé des visualiseurs similaires à grande échelle.  \nDiscutons rapidement de votre stack idéale et de la mise en route dès aujourd’hui !"
     },
     {
       "id": "freelancer:40542698",
@@ -2248,6 +2327,31 @@
       ],
       "fitReasons": [
         "Demande montage vidéo avec motion graphics, texte bilingue, création de reels."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40546095",
+      "title": "Light-hearted 60th Birthday Tribute Film",
+      "sourceUrl": "https://www.freelancer.com/projects/audio-editing/Light-hearted-Birthday-Tribute-Film",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production vidéo et motion graphics pour film d'anniversaire"
       ],
       "buyer": "freelancer",
       "archiveMatches": [
@@ -2512,7 +2616,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour ! Vous avez besoin de transformer vos séquences de tutoriels en vidéos courtes, dynamiques et parfaitement brandées, avec des miniatures qui captent l’œil dès le premier coup d’œil. Chez Voxel, nous spécialisons notre motion‑graphics produit & pub pour injecter du texte animé, des call‑outs graphiques et un mix audio ultra‑propre, exactement ce qui rend vos leçons percutantes sur YouTube et les réseaux sociaux. Notre archive compte déjà **57 productions motion‑graphics produit & publicité**, preuve que nous savons allier efficacité et créativité sur ce type de format. Vous pouvez d’ores et déjà découvrir un exemple de notre travail combiné vidéo + thumbnail ici : [lien].  \nPrêt à donner à chaque tutoriel le coup de pouce visuel qui le fera décoller ? Discutons‑en !"
     },
     {
       "id": "freelancer:40548766",
@@ -2539,6 +2644,31 @@
         }
       ],
       "proposalDraft": "We understand you need a clean, low‑poly 3D model of the ClickOn soft‑equipment bag, perfectly scaled and ready in STEP and GLB for both CAD integration and product visualisation.  \nAt Voxel, we turn such precise product assets into compelling motion‑graphics pieces that showcase every colour variant in action.  \nOur archive already holds **57 motion‑graphics productions for products and advertising**, proving we can deliver the visual impact you expect.  \nLet’s bring your bag to life on screen—just say “go” and we’ll start the animation pipeline."
+    },
+    {
+      "id": "freelancer:40547617",
+      "title": "Custom AI Video Production",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Custom-Video-Production",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 87,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo personnalisée avec graphiques dynamiques et avatars."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
     },
     {
       "id": "freelancer:40545910",
