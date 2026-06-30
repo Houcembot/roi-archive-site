@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T23:17:35+00:00",
+  "generatedAt": "2026-06-30T00:07:34+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 62,
+  "total": 69,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -139,6 +139,32 @@
         }
       ],
       "proposalDraft": "We understand you want a short, stylized 3‑D animation that conveys the perfume’s elegance and magic while staying fully digital and ready for social media. At Voxel we specialize in Motion Graphics Produit & Pub, turning concepts like flowing, colorful forms into polished 10‑15 second loops. Our archive already holds **57 motion‑graphics product & advertising productions**, demonstrating the expertise you need for flawless colour, clean loops and organized layers. Let’s align on the creative direction and set up the first preview — just say “go” and we’ll kick off the workflow."
+    },
+    {
+      "id": "freelancer:40541064",
+      "title": "Elegant Animated Logo Reveal",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Elegant-Animated-Logo-Reveal",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 98,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d'animation logo, service créatif de motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin d’une révélation de logo à la fois élégante et parfaitement alignée sur vos couleurs de marque.  \nNotre équipe de motion‑graphics produit & pub excelle à créer des animations 2D/3D sophistiquées qui renforcent l’identité visuelle de nos clients.  \nAvec **57 productions motion graphics produit & publicité** à notre actif, nous disposons d’un savoir‑faire éprouvé pour transformer votre logo en une expérience mémorable.  \nVoyons ensemble comment sublimer votre marque : envoyez‑nous vos références couleur et nous vous proposerons rapidement un concept sur‑mesure."
     },
     {
       "id": "freelancer:40548575",
@@ -995,7 +1021,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "We understand you need a punchy, comedy‑driven 3D sequence where timing, squash‑and‑stretch and expressive faces make the jokes land. At Voxel Studio we specialize in **Animation de personnages** that blend cartoony flair with polished production values. Our archive already showcases **44 projets d'animation de personnages & cartoon**, so we know how to give your heroes the personality and visual pop you’re after. Let’s chat about your storyboard and set a timeline for that 30‑60 second laugh‑fest. Feel free to drop your brief — we’re ready to bring the humor to life!"
     },
     {
       "id": "freelancer:40544681",
@@ -1123,7 +1150,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "We understand you need a fast, reliable AI‑video pipeline that turns detailed scripts into polished 9:16 ads while keeping your brand avatar perfectly consistent. At Voxel Studio we specialize in motion‑graphics for product and advertising, delivering cinematic quality that captures attention on Meta and TikTok. Our archive already holds **57 motion‑graphics productions for product & pub**, proving we can handle high‑volume, deadline‑driven work. Let’s chat about how we can become your go‑to technical executor and keep your content rolling every day."
     },
     {
       "id": "freelancer:40543533",
@@ -1224,7 +1252,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "Vous avez une histoire vivante sur scène — et vous voulez qu’elle prenne vie dans un film d’animation semi-réaliste, riche en émotions et en magie visuelle. Chez Voxel, nous transformons justement ce genre de récits théâtraux en œuvres animées cohérentes, expressives et immersives. Grâce à nos **44 projets d’animation de personnages & cartoon**, nous maîtrisons la traduction de performances scéniques en personnages animés fidèles, nuancés et pleins de caractère. Laissez-nous porter votre vision : du blocking théâtral à l’animation fluide, en passant par le style storybook poétique, nous garantissons une cohérence narrative et visuelle à l’écran. Prêt à transformer votre pièce en film ?"
     },
     {
       "id": "freelancer:40542014",
@@ -1242,6 +1271,108 @@
       ],
       "fitReasons": [
         "Création d'animation splash mobile, motion graphics produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548965",
+      "title": "3D Avatar Creation with Tracking",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Avatar-Creation-with-Tracking",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "avatar_realtime_unreal",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Création d'avatar 3D avec suivi temps réel pour streaming"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "avatar_realtime_unreal",
+          "label": "avatar_realtime_unreal"
+        }
+      ],
+      "proposalDraft": "Bonjour,  \nNous avons bien saisi votre besoin : un avatar battle‑droid animé en temps réel, avec suivi facial et corporel, prêt à être streamé dès maintenant. Chez Voxel, nous créons des avatars 3D intégrés à Unreal Engine, capables de tracking complet et même de modulation vocale. À ce jour, nous avons réalisé **34 projets d’avatars temps réel sous Unreal** (voir nos archives), dont plusieurs pour des streamers exigeants. Nous serions ravis de transformer votre concept en un modèle fonctionnel et ultra‑réactif.  \nUn petit échange rapide pour lancer le projet ?"
+    },
+    {
+      "id": "freelancer:40541697",
+      "title": "VirtualStation Product Demo Motion Graphics Video (90–120 Seconds)",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/VirtualStation-Product-Demo-Motion",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande création vidéo motion graphics produit, service correspondant."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi que vous avez besoin d’une vidéo motion‑graphics percutante qui raconte l’histoire : les équipes distribuées sont débordées, les fondateurs deviennent managers et les outils disparates ralentissent tout.  \nNous transformerons votre concept VirtualStation en une démo de 90‑120 secondes qui illustre le problème, montre la perte de temps avec Slack, Jira, Teams, etc., puis révèle votre IA‑bureau virtuel comme la solution fluide et autonome.  \nNotre expertise en **motion graphics produit & pub** nous permet de créer un style SaaS moderne, avec UI animée, voix‑off professionnelle, musiques et effets sonores.  \nÀ ce jour, nous comptons **57 productions motion‑graphics produit & publicité** dans notre archive, preuve que nous livrons des récits visuels qui convertissent.  \n\nPrêt à voir votre vision prendre vie ? Discutons‑en rapidement."
+    },
+    {
+      "id": "freelancer:40541194",
+      "title": "AI 3D Video Creator Needed – Recreate Existing Video into High-End AI-Driven 3D Marketing Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Video-Creator-Needed-Recreate-Existing-40541194",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation 3D marketing avec motion design"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40540944",
+      "title": "Fitness Character Vector Illustrator Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Fitness-Character-Vector-Illustrator",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de personnages vectoriels prêts pour animation motion graphics"
       ],
       "buyer": "freelancer",
       "archiveMatches": [
@@ -1433,6 +1564,31 @@
       ]
     },
     {
+      "id": "freelancer:40548956",
+      "title": "3D Animator for Zack D. Films - Style Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Animator-for-Zack-Films-Style",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "edu_research_3d",
+      "primarySegment": "formation",
+      "segments": [
+        "formation"
+      ],
+      "fitReasons": [
+        "Création de vidéos éducatives 3D animées, service de production de contenu."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "edu_research_3d",
+          "label": "edu_research_3d"
+        }
+      ]
+    },
+    {
       "id": "freelancer:40541968",
       "title": "YouTube Cinematic Food Storytelling",
       "sourceUrl": "https://www.freelancer.com/projects/cinematography/YouTube-Cinematic-Food-Storytelling",
@@ -1455,7 +1611,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Nous avons bien saisi votre ambition : transformer une simple idée culinaire en une mini‑film YouTube captivant, tout en livrant un Reel Instagram percutant. Chez Voxel, nous mettons notre expertise en **motion graphics produit & pub** au service de votre storytelling, en synchronisant voix‑off, animations d’ouverture/fermeture et transitions fluides. Avec **57 productions motion graphics produit & publicité** à notre actif, nous savons créer le rythme et la couleur qui retiennent l’audience. Prêt·e à donner vie à votre recette en vidéo ? Discutons-en rapidement !"
     },
     {
       "id": "freelancer:40545736",
@@ -1584,6 +1741,32 @@
           "label": "edu_research_3d"
         }
       ]
+    },
+    {
+      "id": "freelancer:40541144",
+      "title": "Animated Videos for History Channel",
+      "sourceUrl": "https://www.freelancer.com/projects/video-services/Animated-Videos-for-History-Channel",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation de personnages"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "proposalDraft": "Bonjour !  \nJe comprends que vous cherchez à donner vie à vos scripts historiques en respectant le style rétro des cartoons des années 60. Chez Voxel Studio, nous transformons des story‑boards et des voix en animations de personnages fluides et fidèles au look Hanna‑Barbera. Notre archive compte déjà **44 projets d’animation de personnages & cartoon**, preuve que nous maîtrisons parfaitement ce type de production.  \nPrêt à faire vibrer votre chaîne ? Échangeons rapidement sur votre premier épisode."
     },
     {
       "id": "freelancer:40548766",
