@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T00:07:34+00:00",
+  "generatedAt": "2026-06-30T00:55:13+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 69,
+  "total": 72,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -36,6 +36,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "freelancer:40543175",
+      "title": "3D Brochure Rotation Video",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Brochure-Rotation-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 99,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'une vidéo 3D promotionnelle du produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
     {
       "id": "freelancer:40548536",
       "title": "Realistic Astronaut Ad Animation",
@@ -1380,7 +1405,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour,\n\nNous avons bien saisi votre besoin : des personnages fitness vectoriels, prêts à être riggés et animés dans After Effects. Chez Voxel, nous transformons ce type de concepts en motion‑graphics percutants grâce à notre service « Motion graphics produit & pub ». Notre archive compte déjà **57 productions** de motion graphics produit et publicité, preuve de notre maîtrise du pipeline illustration → rigging → animation.  \nPrêt à donner vie à vos héros du fitness ? Discutons rapidement de votre projet."
     },
     {
       "id": "freelancer:40548317",
@@ -1589,6 +1615,31 @@
       ]
     },
     {
+      "id": "freelancer:40549039",
+      "title": "3D Grillz Web App",
+      "sourceUrl": "https://www.freelancer.com/projects/three-js/Grillz-Web-App",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "web3d_viewer",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Demande création d'un visualiseur 3D web et traitement de maillage"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "web3d_viewer",
+          "label": "web3d_viewer"
+        }
+      ]
+    },
+    {
       "id": "freelancer:40541968",
       "title": "YouTube Cinematic Food Storytelling",
       "sourceUrl": "https://www.freelancer.com/projects/cinematography/YouTube-Cinematic-Food-Storytelling",
@@ -1767,6 +1818,31 @@
         }
       ],
       "proposalDraft": "Bonjour !  \nJe comprends que vous cherchez à donner vie à vos scripts historiques en respectant le style rétro des cartoons des années 60. Chez Voxel Studio, nous transformons des story‑boards et des voix en animations de personnages fluides et fidèles au look Hanna‑Barbera. Notre archive compte déjà **44 projets d’animation de personnages & cartoon**, preuve que nous maîtrisons parfaitement ce type de production.  \nPrêt à faire vibrer votre chaîne ? Échangeons rapidement sur votre premier épisode."
+    },
+    {
+      "id": "freelancer:40540715",
+      "title": "Space-Themed Indie Video Series",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Space-Themed-Indie-Video-Series",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "3D animation pour serie video"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
     },
     {
       "id": "freelancer:40548766",
