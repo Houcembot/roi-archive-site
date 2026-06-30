@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T06:13:31+00:00",
+  "generatedAt": "2026-06-30T06:56:36+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 107,
+  "total": 109,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -61,6 +61,31 @@
         }
       ],
       "proposalDraft": "Bonjour,  \nJe comprends que vous souhaitez une rotation 3D fluide qui mette en valeur chaque face de votre brochure : ouverture partielle, pause sur chaque panneau et rendu réaliste du papier sans jamais altérer vos couleurs.  \nChez Voxel, nous réalisons des motion graphics produit & pub sur‑mesure, en maîtrisant éclairage, profondeur de champ et export alpha pour une intégration immédiate.  \nNotre archive compte déjà **57 productions motion graphics produit & publicité**, dont de nombreuses présentations de catalogues et brochures similaires.  \nDiscutons rapidement de vos spécifications pour lancer la première version !"
+    },
+    {
+      "id": "freelancer:40549681",
+      "title": "SaaS Animated Marketing Explainer",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation-explainer-video/SaaS-Animated-Marketing-Explainer",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 99,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo animée marketing SaaS"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
     },
     {
       "id": "freelancer:40548536",
@@ -260,6 +285,31 @@
       ],
       "fitReasons": [
         "Demande création vidéo motion graphics marketing SaaS"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40549668",
+      "title": "Dynamic HWM Logo Animation & Design",
+      "sourceUrl": "https://www.freelancer.com/projects/logo-animation/Dynamic-HWM-Logo-Animation-Design",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 98,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation logo Lottie, motion graphics, création de contenu animé"
       ],
       "buyer": "freelancer",
       "archiveMatches": [
@@ -2363,7 +2413,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "We understand you need a concise, safety‑focused induction video that marries crisp on‑site footage with clear, colour‑coded animated overlays for entrances, storage zones and evacuation routes. At Voxel we specialize in Motion‑Graphics Produit & Pub, turning complex layouts into instantly readable visual guides. Our archive already counts 57 motion‑graphics productions for product and advertising, many of which blend live‑action with precise call‑outs just like the video you envision. Let’s schedule a quick call to discuss your script and storyboard so we can bring your warehouse orientation to life."
     },
     {
       "id": "freelancer:40546167",
@@ -2644,7 +2695,8 @@
           "capability": "edu_research_3d",
           "label": "edu_research_3d"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour, je suis Voxel et je comprends que vous cherchez à dynamiser votre chaîne YouTube avec des animations 3D à la fois captivantes et pédagogiques. Notre service **Contenu 3D éducatif & recherche** transforme des concepts complexes en vidéos claires et attractives. À titre d’exemple, nous avons déjà réalisé **19 modules 3D éducatifs & de recherche** disponibles dans notre archive Voxel. Ces références montrent notre capacité à allier créativité et rigueur scientifique. Discutons rapidement de votre projet !"
     },
     {
       "id": "freelancer:40541144",
