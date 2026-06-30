@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T09:07:40+00:00",
+  "generatedAt": "2026-06-30T09:54:22+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 120,
+  "total": 122,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -2163,7 +2163,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "We understand you need a bright, 2‑3 minute rhyme video that captures toddlers’ short attention spans with simple shapes, expressive faces and seamless sound design. At Voxel, we specialize in character animation that brings those friendly 2D/3D worlds to life, from storyboard to final HD delivery. Our archive already includes **44 character‑animation and cartoon projects** for early‑learning audiences, so we know how to keep the visuals clean yet captivating. Let’s turn your lyrics into a catchy, repeat‑ready clip and set the stage for the drawing‑book series to follow. Ready to start? Just share the outline and we’ll send you a quick timeline."
     },
     {
       "id": "freelancer:40549724",
@@ -2317,6 +2318,32 @@
           "label": "avatar_realtime_unreal"
         }
       ]
+    },
+    {
+      "id": "freelancer:40550084",
+      "title": "Cat Animation in Maya",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-rigging/Cat-Animation-Maya",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation de personnage félin en Maya, service créatif requis"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "proposalDraft": "Bonjour,  \nJe comprends que vous avez besoin d’animer votre chat riggé dans Maya, avec des mouvements précis et semi‑réalistes pour marcher, sauter et jouer. Chez Voxel Studio, nous transformons des modèles comme le vôtre en personnages vivants grâce à notre service **Animation de personnages**. Nous avons déjà réalisé **44 projets d’animation de personnages & cartoon** (archive Voxel), dont plusieurs créatures animales, ce qui nous permet de reproduire vos références vidéo à la perfection.  \nEnvoyez‑nous votre reel ou vos références, et lançons ensemble l’aventure de votre chat !"
     },
     {
       "id": "freelancer:40548317",
@@ -2704,7 +2731,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "હેલો, અમે તમારી ગુજરાતી ગીતની ભાવનાઓ અને બેંકની બ્રાન્ડને સંપૂર્ણ રીતે પ્રતિબિંબિત કરતી 3‑મિનિટની પ્રમોશનલ વિડિયો બનાવવા માંગીએ છીએ. Voxel Studioમાં, અમે ખાસ કરીને **મોશન ગ્રાફિક્સ પ્રોડક્ટ & પબ્લિસિટી**માં નિષ્ણાત છીએ, જેથી ગીતની લિરિક્સને જીવંત ટેક્સ્ટ ઓવરલેઝ, ટ્રાન્ઝિશન અને અસરોથી સુમેળમાં મૂકી શકીએ. અમારા આર્કાઇવમાં **57 સફળ મોશન ગ્રાફિક્સ પ્રોડક્ટ અને જાહેરાત પ્રોજેક્ટ્સ**નો પુરાવો છે, જે તમારી અપેક્ષાઓને પૂર્ણ કરશે. શું આપણે આ પ્રોજેક્ટને સાથે આગળ વધારીને એક અસરકારક વિડિયો બનાવી શકીએ? મને જાણાવો!"
     },
     {
       "id": "freelancer:40543093",
@@ -2729,7 +2757,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour,  \nJe comprends que vous avez besoin d’une VSL percutante qui explique scientifiquement votre méthode, montre des témoignages authentiques et guide pas à pas les diabétiques vers la rémission, tout en automatisant la capture et le nurturing des leads via n8n.  \nChez Voxel, nous créons des motion‑graphics produit & pub qui transforment ces messages complexes en visuels clairs et engageants ; notre archive compte déjà **57 productions** de ce type, preuve de notre expertise.  \nNous pouvons livrer le script, le storyboard, la vidéo HD finalisée et le workflow n8n entièrement documenté, prêt à être intégré à votre page.  \nDiscutons rapidement de votre projet pour lancer la première version !"
     },
     {
       "id": "freelancer:40541968",
@@ -2807,6 +2836,32 @@
           "label": "character_animation"
         }
       ]
+    },
+    {
+      "id": "freelancer:40550072",
+      "title": "Polished Instagram Reels Video Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Polished-Instagram-Reels-Video-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de montage + motion graphics pour Reels publicitaires"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "Nous avons bien compris que vous avez besoin d’un éditeur réactif capable de transformer vos rushes hebdomadaires en Reels Instagram percutants, toujours alignés sur votre charte et au rythme juste. Chez Voxel, nous spécialisons nos motion graphics produit & pub pour créer des transitions fluides, du texte animé et des sous‑titres dynamiques qui captent l’attention dès la première seconde. Notre archive compte déjà **57 productions motion graphics produit & publicité**, preuve que nous maîtrisons l’esthétique soignée que vous recherchez.  \nPrêt à faire briller vos prochains Reels ? Envoyez‑nous vos premiers rushes et découvrons ensemble comment les sublimer."
     },
     {
       "id": "freelancer:40545736",
