@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T00:55:13+00:00",
+  "generatedAt": "2026-06-30T01:39:08+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 72,
+  "total": 79,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -59,7 +59,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour,  \nJe comprends que vous souhaitez une rotation 3D fluide qui mette en valeur chaque face de votre brochure : ouverture partielle, pause sur chaque panneau et rendu réaliste du papier sans jamais altérer vos couleurs.  \nChez Voxel, nous réalisons des motion graphics produit & pub sur‑mesure, en maîtrisant éclairage, profondeur de champ et export alpha pour une intégration immédiate.  \nNotre archive compte déjà **57 productions motion graphics produit & publicité**, dont de nombreuses présentations de catalogues et brochures similaires.  \nDiscutons rapidement de vos spécifications pour lancer la première version !"
     },
     {
       "id": "freelancer:40548536",
@@ -1303,7 +1304,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour,  \nNous avons bien saisi que vous cherchez une splash screen minimaliste, moderne et parfaitement alignée à votre identité visuelle. Chez Voxel, nous transformons ce type de besoin en motion graphics produit & pub qui captivent dès la première seconde. Notre archive compte déjà **57 productions motion graphics produit & publicité**, dont plusieurs splash screens pour des applications mobiles. Nous serions ravis de mettre notre expertise au service de votre logo et de votre tagline.  \nQu’en dites‑vous, échangeons rapidement sur votre projet ?"
     },
     {
       "id": "freelancer:40548965",
@@ -1380,7 +1382,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Nous avons bien saisi votre besoin : transformer votre vidéo de référence en une animation 3D premium, en conservant le message, le rythme et la narration tout en l’élevant grâce à l’IA.  \nChez Voxel, nous spécialisons le **motion‑graphics produit & pub**, alliant assets générés par IA, mouvements de caméra fluides et effets dynamiques pour un rendu marketing percutant.  \nNotre archive compte **57 productions motion‑graphics produit & publicité**, preuve de notre capacité à livrer des visuels haut de gamme à forte valeur ajoutée.  \nDiscutons rapidement de votre projet : quel est le délai idéal pour vous ?"
     },
     {
       "id": "freelancer:40540944",
@@ -1407,6 +1410,133 @@
         }
       ],
       "proposalDraft": "Bonjour,\n\nNous avons bien saisi votre besoin : des personnages fitness vectoriels, prêts à être riggés et animés dans After Effects. Chez Voxel, nous transformons ce type de concepts en motion‑graphics percutants grâce à notre service « Motion graphics produit & pub ». Notre archive compte déjà **57 productions** de motion graphics produit et publicité, preuve de notre maîtrise du pipeline illustration → rigging → animation.  \nPrêt à donner vie à vos héros du fitness ? Discutons rapidement de votre projet."
+    },
+    {
+      "id": "freelancer:40541336",
+      "title": "3D Entertainment Animation Production",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Entertainment-Animation-Production",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production d'animation 3D de personnages selon storyboard"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "proposalDraft": "We’ve read your storyboard and see exactly where the humor, timing and character charm need to shine. At Voxel we specialize in character animation that turns those panels into lively 3D performances, handling everything from rigging to lighting while staying true to your vision. Our archive already boasts 44 successful character‑animation and cartoon projects, so we know how to deliver the expressive, stylised motion you’re after. Let’s discuss how we can bring your comedy to life—what’s the best time for a quick call?"
+    },
+    {
+      "id": "freelancer:40549092",
+      "title": "High-Retention Gaming Documentary Video Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/High-Retention-Gaming-Documentary-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo avec motion graphics et montage narratif"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "Nous avons bien saisi votre envie de transformer un simple « let’s‑play » en une expérience documentaire qui captive dès la première seconde.  \nChez Voxel, nous conjuguons storytelling et motion‑graphics pour créer des transitions dynamiques, des infographies animées et une typographie qui frappe au bon moment.  \nNotre archive compte déjà **57 productions motion‑graphics produit & publicité**, preuve que nous maîtrisons le rythme et le polish cinématographique que vous recherchez.  \nPrêt à donner à votre vidéo le punch visuel et narratif qui fera grimper vos taux de rétention ?  \nEnvoyez‑nous votre brief et nous démarrons dès que possible."
+    },
+    {
+      "id": "freelancer:40548426",
+      "title": "Bold Entertainment Video & Graphics",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-illustrator/Bold-Entertainment-Video-Graphics",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Montage vidéo et création de graphismes dynamiques demandés"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548821",
+      "title": "AI-Driven Ecommerce Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/Driven-Ecommerce-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo produit pour e‑commerce, montage et motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548712",
+      "title": "Short Tech Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Short-Tech-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo promo avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
     },
     {
       "id": "freelancer:40548317",
@@ -1636,6 +1766,56 @@
         {
           "capability": "web3d_viewer",
           "label": "web3d_viewer"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40542698",
+      "title": "Premium Documentary-Style YouTube Channel Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Premium-Documentary-Style-YouTube",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande création motion graphics et montage vidéo premium"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40548415",
+      "title": "Engaging Educational YouTube Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Engaging-Educational-YouTube-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Montage vidéo éducatif avec motion graphics, sous-titres et thumbnail"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
         }
       ]
     },
