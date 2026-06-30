@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T08:24:16+00:00",
+  "generatedAt": "2026-06-30T09:07:40+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 116,
+  "total": 120,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -85,7 +85,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "We get it — you need a razor‑sharp explainer that turns viewers into sign‑ups in seconds.  \nAt Voxel we specialize in product‑focused motion graphics, handling everything from script to final mix so your SaaS shines on screen.  \nOur archive already boasts **57 motion‑graphics productions for products and advertising**, proving we can deliver the crisp, high‑energy style you’re after.  \nLet’s sketch the first storyboard together next week and bring your brand to life.  \n\nReady to see the possibilities? Just drop me a line and I’ll share our most relevant SaaS samples."
     },
     {
       "id": "freelancer:40548536",
@@ -292,7 +293,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin : une vidéo d’explication premium qui place Atlantis Marina aux côtés des références comme Stripe ou Apple.  \nNotre service **Motion graphics produit & pub** crée des vidéos modernes, fluides et 100 % personnalisées, sans jamais tomber dans le générique.  \nNous nous appuyons sur **57 productions motion graphics produit & publicité** déjà réalisées dans notre archive, preuve de notre capacité à délivrer le niveau d’exigence que vous recherchez.  \nPrêt à transformer votre plateforme en une histoire visuelle percutante ? Discutons-en rapidement."
     },
     {
       "id": "freelancer:40549668",
@@ -319,6 +321,31 @@
         }
       ],
       "proposalDraft": "Bonjour,  \nNous avons bien saisi votre besoin : un logo HWM qui se transforme lettre par lettre pour dynamiser votre splash screen et refléter l’innovation de votre marque tech.  \nChez Voxel, nous créons des motion‑graphics produit & pub sur‑mesure, capables de rendre chaque transition fluide et percutante, du glow initial au loop « breathing ».  \nNotre archive compte déjà **57 productions motion‑graphics produit & publicité**, dont plusieurs animations de logos qui ont boosté la visibilité de startups comme la vôtre.  \nDiscutons rapidement de vos idées et de la façon dont nous pouvons sublimer votre identité visuelle !"
+    },
+    {
+      "id": "freelancer:40538919",
+      "title": "3D Animation for Watch Marketing",
+      "sourceUrl": "https://www.freelancer.com/projects/animation/Animation-for-Watch-Marketing",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 98,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation produit réaliste pour marketing horloger, correspond service publicitaire"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
     },
     {
       "id": "freelancer:40548575",
@@ -1383,7 +1410,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Nous avons bien compris que votre chaîne YouTube Kids a besoin de vidéos colorées, éducatives et parfaitement optimisées pour le SEO afin de capter l’attention des 2‑20 ans. Chez Voxel, nous transformons chaque concept en motion‑graphics dynamiques qui allient animation ludique, musique entraînante et sous‑titres clairs, exactement ce qu’il faut pour vos leçons, comptines et histoires. Notre archive compte déjà **57 productions motion‑graphics produit & publicité**, preuve de notre capacité à livrer des contenus percutants et conformes aux exigences YouTube Kids. Discutons rapidement de la façon dont nous pouvons booster votre catalogue vidéo !"
     },
     {
       "id": "freelancer:40542873",
@@ -2160,7 +2188,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "We understand that you need a unified visual language that speaks to multiple audience segments while reinforcing brand awareness. At Voxel we specialize in Motion‑graphics produit & pub, creating clean, corporate‑style video spots and responsive HTML5 banners that share the same typography, colour palette and subtle transitions. Our archive boasts 57 successful motion‑graphics productions for product and advertising campaigns, proving we can deliver polished, on‑brand assets at scale. Let’s discuss how we can translate your concepts into a cohesive, high‑impact ad package—just drop me a quick reply!"
     },
     {
       "id": "freelancer:40549800",
@@ -2211,7 +2240,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour,  \nJe comprends que vous voulez transformer vos séquences brutes en une leçon YouTube dynamique, avec des call‑outs animés, des transitions rythmées, des mini‑motion graphics pour chaque partie et des lower‑thirds impeccables. Chez Voxel, nous spécialisons notre studio dans le **motion graphics produit & pub**, exactement le type de traitement créatif dont votre vidéo a besoin. Notre archive compte **57 productions motion graphics produit & publicité**, preuve de notre capacité à livrer des visuels percutants et parfaitement intégrés.  \n\nSi cela vous parle, envoyez‑moi simplement votre brief et je vous prépare un premier aperçu ; nous pourrons ainsi lancer la production immédiatement."
     },
     {
       "id": "freelancer:40549864",
@@ -2235,6 +2265,56 @@
         {
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40549923",
+      "title": "Storytelling Social Media Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Storytelling-Social-Media-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo promo produit court pour réseaux sociaux"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40541086",
+      "title": "High-Detail VR Building Walkthrough",
+      "sourceUrl": "https://www.freelancer.com/projects/virtual-reality/High-Detail-Building-Walkthrough",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "avatar_realtime_unreal",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Création d'une expérience VR interactive en temps réel"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "avatar_realtime_unreal",
+          "label": "avatar_realtime_unreal"
         }
       ]
     },
@@ -2521,7 +2601,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour !  \nJe comprends que chaque leçon de GC Ankur doit capter l’attention dès la première seconde tout en restant claire et structurée. Chez Voxel, nous transformons vos vidéos éducatives en expériences dynamiques grâce à des coupes rythmées, des zooms précis et des infographies motion‑graphics épurées qui illustrent formules et statistiques sans surcharge.  \n\nFort de nos 57 productions motion‑graphics produit & publicité (archive Voxel), nous garantissons des sous‑titres impeccables, des B‑roll pertinents et des transitions modernes qui renforcent votre message sans le distraire.  \n\nEnvoyez‑nous vos rushes et votre brief ; nous vous livrons la vidéo prête à publier, les .srt et le thumbnail en un clin d’œil.  \n\nPrêt à faire décoller votre chaîne ? 🎬"
     },
     {
       "id": "freelancer:40546835",
@@ -2880,7 +2961,34 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour !  \nNous avons bien saisi que vous avez besoin d’une visualisation animée précise d’un coussin d’allaitement imprimé en 3D, intégrant le système de ventilation WheelAir avec le flux d’air visible. Chez Voxel, nous transformons ce type de concept en motion‑graphics produit : modélisation fidèle, animation de rotation et simulation d’air dynamique, livrables en .STL ou .OBJ. Notre archive compte déjà **57 productions motion‑graphics produit & publicité**, dont plusieurs projets de dispositifs médicaux animés.  \nUn petit échange pour préciser les dimensions et le style d’animation vous conviendrait ?"
+    },
+    {
+      "id": "freelancer:40540168",
+      "title": "Blender Furniture Model Cleanup",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Blender-Furniture-Model-Cleanup",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 93,
+      "subject": "scan_heritage",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Nettoyage et optimisation de scans photogrammétriques 3D"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "scan_heritage",
+          "label": "scan_heritage"
+        }
+      ],
+      "proposalDraft": "Nous avons bien compris que votre priorité est de transformer des scans photogrammétriques déjà très précis en modèles Blender impeccables, prêts pour le WebAR. Chez Voxel, notre service « Scan 3D / photogrammétrie / patrimoine » excelle à nettoyer, combler les trous et optimiser la topologie tout en conservant la fidélité des textures. Nous pouvons le prouver : plus de 55 projets de scan 3D et de photogrammétrie du patrimoine sont déjà archivés dans notre portfolio Voxel.  \n\nPrêt à tester notre expertise sur votre premier modèle ? Faites‑nous signe et nous lancerons le processus de nettoyage dès que vous le souhaiterez."
     },
     {
       "id": "freelancer:40541144",
