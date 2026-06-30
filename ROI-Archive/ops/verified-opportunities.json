@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T12:09:28+00:00",
+  "generatedAt": "2026-06-30T12:57:17+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 132,
+  "total": 141,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 50
+      "count": 55
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 29
+      "count": 33
     },
     {
       "name": "Royaume-Uni",
@@ -467,6 +467,60 @@
         }
       ],
       "proposalDraft": "We understand you need photorealistic 3D assets that showcase every port, logo and surface finish at 4K plus, with clean Blender/3ds Max files, Substance Painter textures and optional turntable animations. At Voxel Studio we specialize in motion‑graphics for product and advertising, turning high‑detail models into compelling visual stories that fit seamlessly into your workflow. Our archive already holds **57 motion‑graphics productions for product & pub**, proving we can deliver the precision and polish you expect. Let’s connect and see how we can bring your electronics to life — just drop me a line!"
+    },
+    {
+      "id": "freelancer:40550353",
+      "title": "Instagram Reel for Fltrd",
+      "sourceUrl": "https://www.freelancer.com/projects/av-editing/Instagram-Reel-for-Fltrd",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 98,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création Reel Instagram avec montage et motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
+    },
+    {
+      "id": "freelancer:40535624",
+      "title": "2D Ad Animation With Characters",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Animation-With-Characters",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 98,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande animation 2D publicitaire avec personnages, icônes et texte."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     },
     {
       "id": "freelancer:40548575",
@@ -2673,7 +2727,8 @@
         }
       ],
       "lat": 38,
-      "lon": -97
+      "lon": -97,
+      "proposalDraft": "Chez Voxel Studio, nous avons bien saisi votre besoin d’une animation fluide et expressive pour votre personnage félin. Notre spécialité, l’**Animation de personnages**, nous permet de donner vie à chaque geste, du saut gracieux au regard malicieux. Avec **44 projets d’animation de personnages & cartoon** à notre actif, nous avons déjà prouvé notre expertise, notamment avec le projet **« Lemur Animations » (cartoon_character_animation, 2020)**. Discutons rapidement de la façon dont nous pouvons rendre votre chat aussi vivant que possible !"
     },
     {
       "id": "freelancer:40550223",
@@ -2757,6 +2812,141 @@
       ],
       "lat": 20.6,
       "lon": 78.9
+    },
+    {
+      "id": "freelancer:40547749",
+      "title": "Cinematic Equine Promotional Reels",
+      "sourceUrl": "https://www.freelancer.com/projects/cinematography/Cinematic-Equine-Promotional-Reels",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de reels promotionnels cinématographiques pour réseaux sociaux"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
+    },
+    {
+      "id": "freelancer:40550437",
+      "title": "AI-Generated Videos for Website",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/Generated-Videos-for-Website",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos marketing animées pour site web"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
+    },
+    {
+      "id": "freelancer:40538299",
+      "title": "2D Ad Animation With Characters",
+      "sourceUrl": "https://www.freelancer.com/projects/animation/Animation-With-Characters-40538299",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande animation 2D publicitaire avec personnages"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
+    },
+    {
+      "id": "freelancer:40537566",
+      "title": "3D Fantasy Nursery abcd Rhyme Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-rigging/Fantasy-Nursery-abcd-Rhyme-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande création animation 3D complète, pas matériel ni formation"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
+    },
+    {
+      "id": "freelancer:40534393",
+      "title": "3D Fantasy Toddler YouTube Animations",
+      "sourceUrl": "https://www.freelancer.com/projects/animation/Fantasy-Toddler-YouTube-Animations",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animations 3D de personnages pour vidéos YouTube"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
     },
     {
       "id": "freelancer:40548317",
@@ -3546,6 +3736,33 @@
       "proposalDraft": "Bonjour, je suis Voxel Studio et je comprends que vous cherchez à transformer la psychologie du trading en une série vidéo claire, pratique et immersive pour des traders intermédiaires. Nous pouvons créer des modules 3D éducatifs qui illustrent concrètement les déclencheurs émotionnels, les stratégies de contrôle et les exercices de prise de décision, le tout avec des visuels animés, du texte concis et une voix‑off rassurante. Notre archive compte déjà **19 modules 3D éducatifs & de recherche**, preuve que nous maîtrisons la mise en forme de contenus pédagogiques interactifs et percutants.  \nDiscutons rapidement de votre scénario : je vous propose un concept d’outline et un extrait d’un de nos modules précédents pour valider le ton et le style."
     },
     {
+      "id": "freelancer:40536006",
+      "title": "3D Rigger Needed: Full Body Rig & ARKit 52 Facial Blendshapes for Web Mascot",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-rigging/ARKit-Ready-Face-Body-Rig",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 93,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Rigueur 3D et blendshapes, création de personnage animé"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
+    },
+    {
       "id": "freelancer:40541144",
       "title": "Animated Videos for History Channel",
       "sourceUrl": "https://www.freelancer.com/projects/video-services/Animated-Videos-for-History-Channel",
@@ -3678,6 +3895,33 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a truly bespoke AI‑generated video that goes beyond any template, mixing dynamic graphics, avatars and other creative touches. At Voxel we specialize in motion‑graphics for products and advertising, and we can blend the latest AI tools with our own expertise to bring your unique concept to life. Our archive already showcases 57 motion‑graphics productions for product and pub campaigns, proof that we can deliver polished, high‑impact visuals. Let’s hop on a quick call to exchange references and outline the next steps."
+    },
+    {
+      "id": "freelancer:40534430",
+      "title": "2D Character Rigging for Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Character-Rigging-for-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 87,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Rigueur 2D et animation de personnage correspondent au service d'animation."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     },
     {
       "id": "freelancer:40545910",
