@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T10:37:00+00:00",
+  "generatedAt": "2026-06-30T11:23:01+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 125,
+  "total": 126,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -370,7 +370,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons bien saisi que vous avez besoin d’un explainer 3D ultra‑rapide : 40 secondes, parfaitement synchronisé avec votre voice‑over, et livré en moins de 8 heures. Notre service *Motion graphics produit & pub* est justement conçu pour transformer un script verrouillé en une animation 3D fluide, en utilisant les outils les plus efficaces tout en conservant une qualité 100 % professionnelle. À ce jour, nous comptons **57 productions motion graphics produit & publicité** dans nos archives, preuve que nous maîtrisons les délais serrés sans compromis visuel.  \nPrêt à lancer la chaîne de production ? Envoyez‑nous vos assets et votre guide de style, et nous mettons le moteur en marche immédiatement."
     },
     {
       "id": "freelancer:40535594",
@@ -2371,7 +2372,8 @@
           "capability": "avatar_realtime_unreal",
           "label": "avatar_realtime_unreal"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour,  \nNous avons bien saisi votre besoin : transformer vos plans en une visite VR ultra‑réaliste où chaque matériau, reflet et ombre reproduisent fidèlement votre design. Chez Voxel, nous créons ces environnements en temps réel avec Unreal, en combinant modélisation précise et optimisation pour dépasser les 72 FPS sur les casques VR actuels. À ce jour, nous avons livré **34 projets d’avatars et de scènes temps réel sous Unreal**, preuve de notre maîtrise technique et artistique.  \nDiscutons rapidement de la façon dont nous pouvons intégrer vos espaces, meubles et animations dans une expérience immersive prête à être déployée.  \n\nÀ très vite,  \nL’équipe Voxel."
     },
     {
       "id": "freelancer:40550084",
@@ -2398,6 +2400,31 @@
         }
       ],
       "proposalDraft": "Bonjour,  \nJe comprends que vous avez besoin d’animer votre chat riggé dans Maya, avec des mouvements précis et semi‑réalistes pour marcher, sauter et jouer. Chez Voxel Studio, nous transformons des modèles comme le vôtre en personnages vivants grâce à notre service **Animation de personnages**. Nous avons déjà réalisé **44 projets d’animation de personnages & cartoon** (archive Voxel), dont plusieurs créatures animales, ce qui nous permet de reproduire vos références vidéo à la perfection.  \nEnvoyez‑nous votre reel ou vos références, et lançons ensemble l’aventure de votre chat !"
+    },
+    {
+      "id": "freelancer:40539661",
+      "title": "3D Nursery Rhyme Videos Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Nursery-Rhyme-Videos-Needed",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos 3D animées éducatives pour enfants"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
     },
     {
       "id": "freelancer:40548317",
@@ -3124,7 +3151,8 @@
           "capability": "edu_research_3d",
           "label": "edu_research_3d"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour, je suis Voxel Studio et je comprends que vous cherchez à transformer la psychologie du trading en une série vidéo claire, pratique et immersive pour des traders intermédiaires. Nous pouvons créer des modules 3D éducatifs qui illustrent concrètement les déclencheurs émotionnels, les stratégies de contrôle et les exercices de prise de décision, le tout avec des visuels animés, du texte concis et une voix‑off rassurante. Notre archive compte déjà **19 modules 3D éducatifs & de recherche**, preuve que nous maîtrisons la mise en forme de contenus pédagogiques interactifs et percutants.  \nDiscutons rapidement de votre scénario : je vous propose un concept d’outline et un extrait d’un de nos modules précédents pour valider le ton et le style."
     },
     {
       "id": "freelancer:40541144",
