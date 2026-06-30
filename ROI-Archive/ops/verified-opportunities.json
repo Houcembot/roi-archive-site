@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T11:23:01+00:00",
+  "generatedAt": "2026-06-30T11:56:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,9 +26,58 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 126,
-  "countryCount": 0,
-  "countries": [],
+  "total": 128,
+  "countryCount": 8,
+  "countries": [
+    {
+      "name": "Inde",
+      "lat": 20.6,
+      "lon": 78.9,
+      "count": 47
+    },
+    {
+      "name": "États-Unis",
+      "lat": 38,
+      "lon": -97,
+      "count": 28
+    },
+    {
+      "name": "Royaume-Uni",
+      "lat": 54,
+      "lon": -2,
+      "count": 5
+    },
+    {
+      "name": "Australie",
+      "lat": -25,
+      "lon": 133,
+      "count": 4
+    },
+    {
+      "name": "Europe",
+      "lat": 50,
+      "lon": 10,
+      "count": 4
+    },
+    {
+      "name": "Canada",
+      "lat": 56,
+      "lon": -106,
+      "count": 3
+    },
+    {
+      "name": "Nouvelle-Zélande",
+      "lat": -41,
+      "lon": 174,
+      "count": 1
+    },
+    {
+      "name": "Singapour",
+      "lat": 1.35,
+      "lon": 103.8,
+      "count": 1
+    }
+  ],
   "segments": [
     "animation",
     "rnd",
@@ -67,7 +116,7 @@
       "title": "SaaS Animated Marketing Explainer",
       "sourceUrl": "https://www.freelancer.com/projects/2d-animation-explainer-video/SaaS-Animated-Marketing-Explainer",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 99,
@@ -86,6 +135,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "We get it — you need a razor‑sharp explainer that turns viewers into sign‑ups in seconds.  \nAt Voxel we specialize in product‑focused motion graphics, handling everything from script to final mix so your SaaS shines on screen.  \nOur archive already boasts **57 motion‑graphics productions for products and advertising**, proving we can deliver the crisp, high‑energy style you’re after.  \nLet’s sketch the first storyboard together next week and bring your brand to life.  \n\nReady to see the possibilities? Just drop me a line and I’ll share our most relevant SaaS samples."
     },
     {
@@ -119,7 +170,7 @@
       "title": "Animated App Feature Demo",
       "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Animated-App-Feature-Demo",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 98,
@@ -138,6 +189,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Nous avons bien saisi : vous voulez une vidéo courte, ludique et percutante qui, en moins d’une minute, montre votre UI épurée, vos fonctionnalités uniques et incite immédiatement à cliquer sur “Get Started”. Chez Voxel, nous créons des motion‑graphics produit & pub qui allient transitions rapides, couleurs vives et bande‑son dynamique, exactement le style moderne que vous recherchez. Notre archive compte 57 productions motion‑graphics pour des produits et publicités, preuve de notre capacité à transformer des concepts en animations mémorables.  \nEnvoyez‑nous vos assets ; nous vous livrerons le storyboard, l’animation finale en HD et le projet After Effects prêt à être mis à jour.  \nPrêt à donner vie à votre écran d’accueil ? Discutons‑en rapidement."
     },
     {
@@ -145,7 +198,7 @@
       "title": "3D Logo Intro Animation",
       "sourceUrl": "https://www.freelancer.com/projects/3d-logo/Logo-Intro-Animation-40546234",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 98,
@@ -164,6 +217,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Nous avons bien compris : vous voulez une intro 3‑D ultra‑lisse, avec un éclairage précis, des mouvements de caméra fluides et des reflets subtils, le tout prêt à s’intégrer dans vos vidéos YouTube. Chez Voxel, nous réalisons des **motion graphics produit & pub** qui allient esthétique professionnelle et rendu broadcast‑ready. Notre archive compte **57 productions motion graphics produit & publicité**, preuve que nous maîtrisons chaque étape, du modelage à la livraison en 4K avec alpha.  \nPrêt à transformer votre logo en une intro percutante ? Discutons rapidement de votre workflow."
     },
     {
@@ -171,7 +226,7 @@
       "title": "Stylized 3D Perfume VFX",
       "sourceUrl": "https://www.freelancer.com/projects/blender/Stylized-Perfume-VFX",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 98,
@@ -190,6 +245,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "We understand you want a short, stylized 3‑D animation that conveys the perfume’s elegance and magic while staying fully digital and ready for social media. At Voxel we specialize in Motion Graphics Produit & Pub, turning concepts like flowing, colorful forms into polished 10‑15 second loops. Our archive already holds **57 motion‑graphics product & advertising productions**, demonstrating the expertise you need for flawless colour, clean loops and organized layers. Let’s align on the creative direction and set up the first preview — just say “go” and we’ll kick off the workflow."
     },
     {
@@ -223,7 +280,7 @@
       "title": "Instagram Reel Motion Graphics and video edit",
       "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Instagram-Reel-Motion-Graphics-video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Europe",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 98,
@@ -242,6 +299,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 50,
+      "lon": 10,
       "proposalDraft": "Nous avons bien compris que vous cherchez un Reel Instagram percutant, rythmé et ultra‑coloré, qui transforme vos clips bruts en une séquence de 30‑45 s qui capte l’attention du premier au dernier beat.  \nChez Voxel, nous créons des motion‑graphics produit & pub sur‑mesure : découpes précises, animations ludiques et textes qui surgissent en parfaite synchronisation avec la musique.  \nNotre archive compte déjà **57 productions motion graphics produit & publicité**, dont de nombreux Reels qui ont généré un fort engagement sur les réseaux.  \nEnvoyez‑nous vos assets, et nous vous livrerons le premier draft sous 48 h — prêt à faire vibrer votre audience."
     },
     {
@@ -249,7 +308,7 @@
       "title": "Professional Video Editor for Social Media Content",
       "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Professional-Video-Editor-for-Social-40547225",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 98,
@@ -268,6 +327,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Bonjour,  \nJe comprends que vous avez besoin de vidéos courtes ultra‑dynamiques, parfaitement rythmées et enrichies de sous‑titres et de motion graphics pour Instagram Reels, TikTok, Shorts et Facebook Ads.  \nChez Voxel, nous transformons vos rushes et vos assets brandés en contenus percutants grâce à notre service **Motion graphics produit & pub**, alliant montage précis, étalonnage et animations sur mesure.  \nNotre archive compte **57 productions motion graphics produit & publicité**, preuve de notre capacité à livrer des vidéos qui captivent et convertissent.  \nPrêt à donner vie à vos campagnes ? Envoyez‑nous vos premiers briefs, et lançons la création ensemble."
     },
     {
@@ -275,7 +336,7 @@
       "title": "Premium SaaS Explainer Video Creation",
       "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Premium-SaaS-Explainer-Video-Creation",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 98,
@@ -294,6 +355,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin : une vidéo d’explication premium qui place Atlantis Marina aux côtés des références comme Stripe ou Apple.  \nNotre service **Motion graphics produit & pub** crée des vidéos modernes, fluides et 100 % personnalisées, sans jamais tomber dans le générique.  \nNous nous appuyons sur **57 productions motion graphics produit & publicité** déjà réalisées dans notre archive, preuve de notre capacité à délivrer le niveau d’exigence que vous recherchez.  \nPrêt à transformer votre plateforme en une histoire visuelle percutante ? Discutons-en rapidement."
     },
     {
@@ -301,7 +364,7 @@
       "title": "Dynamic HWM Logo Animation & Design",
       "sourceUrl": "https://www.freelancer.com/projects/logo-animation/Dynamic-HWM-Logo-Animation-Design",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 98,
@@ -320,6 +383,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Bonjour,  \nNous avons bien saisi votre besoin : un logo HWM qui se transforme lettre par lettre pour dynamiser votre splash screen et refléter l’innovation de votre marque tech.  \nChez Voxel, nous créons des motion‑graphics produit & pub sur‑mesure, capables de rendre chaque transition fluide et percutante, du glow initial au loop « breathing ».  \nNotre archive compte déjà **57 productions motion‑graphics produit & publicité**, dont plusieurs animations de logos qui ont boosté la visibilité de startups comme la vôtre.  \nDiscutons rapidement de vos idées et de la façon dont nous pouvons sublimer votre identité visuelle !"
     },
     {
@@ -352,7 +417,7 @@
       "title": "40-Second 3D Product Explainer",
       "sourceUrl": "https://www.freelancer.com/projects/rendering/Second-Product-Explainer",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 98,
@@ -371,6 +436,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Chez Voxel, nous avons bien saisi que vous avez besoin d’un explainer 3D ultra‑rapide : 40 secondes, parfaitement synchronisé avec votre voice‑over, et livré en moins de 8 heures. Notre service *Motion graphics produit & pub* est justement conçu pour transformer un script verrouillé en une animation 3D fluide, en utilisant les outils les plus efficaces tout en conservant une qualité 100 % professionnelle. À ce jour, nous comptons **57 productions motion graphics produit & publicité** dans nos archives, preuve que nous maîtrisons les délais serrés sans compromis visuel.  \nPrêt à lancer la chaîne de production ? Envoyez‑nous vos assets et votre guide de style, et nous mettons le moteur en marche immédiatement."
     },
     {
@@ -404,7 +471,7 @@
       "title": "Professional Landing Page Video Editing",
       "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Professional-Landing-Page-Video-Editing",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -423,6 +490,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Bonjour,  \nJe comprends que vous cherchez à dynamiser votre landing page avec une vidéo percutante qui capte l’attention dès les premières secondes. Chez Voxel, nous transformons vos produits et vos messages publicitaires en motion‑graphics sur‑mesure, alliant créativité et clarté. Avec plus de **57 productions** réalisées dans notre archive, nous savons comment rendre chaque image efficace et mémorable.  \nPrêt à donner vie à votre page ? Discutons‑en rapidement."
     },
     {
@@ -456,7 +525,7 @@
       "title": "3D Fantasy Animation",
       "sourceUrl": "https://www.freelancer.com/projects/blender/Fantasy-Animation",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Royaume-Uni",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -475,6 +544,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 54,
+      "lon": -2,
       "proposalDraft": "Chez Voxel Studio, nous avons bien saisi votre envie de donner vie à un univers fantasy en 3D.  \nNotre équipe se spécialise dans l’animation de personnages, du rigging aux mouvements les plus fluides, pour que chaque créature et héros raconte votre histoire.  \nAvec plus de 44 projets d’animation de personnages et de cartoons déjà livrés (archive Voxel), nous maîtrisons les exigences du style fantasy.  \nDiscutons rapidement de la façon dont nous pouvons transformer vos concepts en scènes mémorables !"
     },
     {
@@ -482,7 +553,7 @@
       "title": "4-Screen Minimalist Kebab Menu",
       "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Screen-Minimalist-Kebab-Menu",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -501,6 +572,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Chez Voxel, nous avons bien saisi que votre menu kebab doit capter l’attention en quelques secondes, tout en restant ultra‑lisible.  \nNos motion graphics « produit & pub » transforment un simple tableau en une expérience visuelle dynamique qui incite à l’achat.  \nAvec 57 productions similaires dans notre archive, nous maîtrisons l’équilibre parfait entre minimalisme et impact.  \nEnvie de voir votre menu prendre vie ? Discutons-en rapidement."
     },
     {
@@ -508,7 +581,7 @@
       "title": "First-Person Action Game Development",
       "sourceUrl": "https://www.freelancer.com/projects/3d-animation/First-Person-Action-Game-Development",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -527,6 +600,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Chez Voxel, nous avons bien compris que votre jeu d’action à la première personne a besoin d’animations percutantes pour mettre en valeur ses mécaniques et ses produits dérivés. Notre équipe de motion‑graphics crée des séquences dynamiques qui captent l’attention et boostent l’engagement publicitaire. Avec plus de 57 productions motion graphics produit & pub déjà livrées (archive Voxel), nous savons comment transformer votre univers en un véritable aimant visuel. Discutons rapidement de la façon dont nous pouvons donner vie à votre projet !"
     },
     {
@@ -560,7 +635,7 @@
       "title": "Podcast Intro & Outro Transitions",
       "sourceUrl": "https://www.freelancer.com/projects/video-production/Podcast-Intro-Outro-Transitions",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -579,6 +654,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous savons que l’intro et l’outro de votre podcast doivent capter l’attention dès les premières secondes et laisser une impression mémorable. Notre équipe de motion‑graphics se spécialise dans la création de transitions dynamiques qui renforcent l’identité de votre marque tout en restant parfaitement adaptées à votre format audio‑visuel. Avec **57 productions motion‑graphics produit & publicité** déjà livrées, notre archive témoigne de notre capacité à transformer chaque séquence en un véritable hook visuel. Discutons rapidement de la façon dont nous pouvons donner vie à vos épisodes !"
     },
     {
@@ -586,7 +663,7 @@
       "title": "Vertical Parking 3D Animation",
       "sourceUrl": "https://www.freelancer.com/projects/3d-design/Vertical-Parking-Animation",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -605,6 +682,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Bonjour,  \nJe comprends que vous cherchez à valoriser votre concept de parking vertical avec une animation 3D percutante. Chez Voxel, nous transformons ce type de produit en motion graphics dynamiques qui captivent et expliquent en quelques secondes. Notre archive compte déjà **57 productions** similaires dans le domaine du produit et de la publicité, preuve de notre expertise.  \nPrêt à donner vie à votre projet ? Discutons-en rapidement."
     },
     {
@@ -638,7 +717,7 @@
       "title": "26-Min Motion Graphics YouTube Video Editing | Budget ₹1,500 | Only Bid If You Accept",
       "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Min-Motion-Graphics-YouTube-Video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -657,6 +736,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous comprenons que vous cherchez à dynamiser votre vidéo YouTube de 26 minutes avec des motion graphics percutants, sans perdre l’essence de votre produit. Notre expertise en motion graphics produit & publicité nous permet de créer des animations qui captivent l’audience tout en renforçant votre message. Avec plus de 57 productions réussies dans notre archive, nous savons transformer chaque séquence en un véritable levier de conversion. Discutons rapidement de la façon dont nous pouvons sublimer votre projet !"
     },
     {
@@ -664,7 +745,7 @@
       "title": "Mixed Media Company Video",
       "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Mixed-Media-Company-Video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -683,6 +764,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Bonjour, j’ai bien compris que vous cherchez à dynamiser vos présentations produit avec des vidéos percutantes et modernes. Chez Voxel Studio, nous transformons chaque concept en motion graphics qui captivent l’audience tout en mettant en valeur les atouts de votre marque. Notre archive compte déjà **57 productions** de motion graphics produit & publicité, preuve de notre expertise et de notre créativité.  \nPrêt à donner vie à votre prochaine vidéo ? Discutons-en rapidement !"
     },
     {
@@ -690,7 +773,7 @@
       "title": "Land and Aquatic exercises animation 2026 -- 3",
       "sourceUrl": "https://www.freelancer.com/projects/animation/Land-Aquatic-exercises-animation-40547367",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Royaume-Uni",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -709,6 +792,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 54,
+      "lon": -2,
       "proposalDraft": "Chez Voxel, nous comprenons que vos exercices terrestres et aquatiques nécessitent des personnages fluides et crédibles.  \nNotre service d’Animation de personnages donne vie à chaque mouvement, qu’il s’agisse de sauts, de glissades ou de nages synchronisées.  \nAvec plus de 44 projets d’animation de personnages et de cartoons dans nos archives, nous avons déjà prouvé notre capacité à rendre chaque séquence captivante.  \nDiscutons rapidement de la façon dont nous pouvons dynamiser vos scènes !"
     },
     {
@@ -716,7 +801,7 @@
       "title": "Professional HD Video & Lyric Upgrade",
       "sourceUrl": "https://www.freelancer.com/projects/audio-editing/Professional-Video-Lyric-Upgrade",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -735,6 +820,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Bonjour,  \nJe comprends que vous cherchez à sublimer vos vidéos HD et à ajouter des lyrics dynamiques pour capter davantage votre audience. Chez Voxel, nous transformons chaque produit et chaque campagne publicitaire en une expérience visuelle grâce à nos motion graphics sur‑mesure. Notre archive compte déjà 57 productions motion graphics produit & publicité qui attestent de notre savoir‑faire.  \nDiscutons rapidement de la façon dont nous pouvons donner vie à votre projet !"
     },
     {
@@ -742,7 +829,7 @@
       "title": "3D Kids Cartoon Animator Needed",
       "sourceUrl": "https://www.freelancer.com/projects/character-design/Kids-Cartoon-Animator-Needed",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -761,6 +848,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Bonjour, je comprends que vous cherchez un animateur spécialisé pour donner vie à votre cartoon destiné aux enfants. Chez Voxel Studio, nous transformons chaque personnage en une vraie petite star grâce à notre service d’**Animation de personnages**. Avec **44 projets d’animation de personnages & cartoon** déjà réalisés dans notre archive, nous savons comment allier dynamisme, humour et respect du public jeune. Discutons rapidement de votre univers pour le rendre inoubliable !"
     },
     {
@@ -768,7 +857,7 @@
       "title": "3D AI Animation Branding",
       "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Animation-Branding",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -787,6 +876,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous avons bien compris que vous cherchez à dynamiser votre branding grâce à une animation 3D IA percutante. Notre expertise en motion‑graphics produit & publicité transforme vos concepts en expériences visuelles mémorables. Avec plus de 57 productions réalisées dans notre archive, nous savons créer des contenus qui captivent et convertissent. Discutons rapidement de la façon dont nous pouvons donner vie à votre identité !"
     },
     {
@@ -794,7 +885,7 @@
       "title": "Abstract 3D Brand Intro Video",
       "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Abstract-Brand-Intro-Video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -813,6 +904,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous comprenons que votre marque a besoin d’une intro 3D percutante pour capter l’attention dès les premières secondes. Notre expertise en motion graphics produit & publicité transforme vos concepts en animations fluides et mémorables. Avec plus de 57 productions réalisées dans notre archive, nous savons comment sublimer chaque détail pour renforcer votre identité visuelle. Prêt à donner vie à votre vision ? Discutons-en rapidement !"
     },
     {
@@ -820,7 +913,7 @@
       "title": "3D AI Marketing Animation ",
       "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Marketing-Animation",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -839,6 +932,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin d’animer vos produits avec une touche d’IA pour captiver votre audience. Notre expertise en **motion graphics produit & pub** nous permet de transformer vos concepts en vidéos percutantes et ultra‑modernes. Pour vous rassurer, nous comptons déjà **57 productions motion graphics produit & publicité** dans nos archives, toutes réalisées avec succès pour des marques exigeantes. Discutons rapidement de la façon dont nous pouvons donner vie à votre campagne !"
     },
     {
@@ -846,7 +941,7 @@
       "title": "Solana Bidding Teaser Video",
       "sourceUrl": "https://www.freelancer.com/projects/video-production/Solana-Bidding-Teaser-Video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Canada",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -865,6 +960,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 56,
+      "lon": -106,
       "proposalDraft": "Chez Voxel, nous avons bien saisi que vous cherchez à dynamiser votre teaser Solana Bidding avec des motion graphics percutants. Notre expertise en motion graphics produit & pub transforme chaque concept en une expérience visuelle qui capte l’attention dès les premières secondes. Avec **57 productions** déjà réalisées dans notre archive, nous savons comment allier esthétique et efficacité pour mettre en valeur votre produit. Prêt à donner vie à votre teaser ? Discutons-en rapidement !"
     },
     {
@@ -872,7 +969,7 @@
       "title": "AI Brand Awareness Video",
       "sourceUrl": "https://www.freelancer.com/projects/after-effects/Brand-Awareness-Video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -891,6 +988,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous avons bien saisi que vous cherchez à booster votre notoriété avec une vidéo d’intelligence artificielle percutante. Notre expertise en motion‑graphics produit & publicité transforme des concepts tech en visuels dynamiques qui captivent l’audience. Avec plus de 57 productions réalisées dans notre archive, nous savons comment allier créativité et performance pour votre marque. Discutons rapidement de la façon dont nous pouvons donner vie à votre vision !"
     },
     {
@@ -898,7 +997,7 @@
       "title": "Clinic SaaS Lead-Gen Video",
       "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Clinic-SaaS-Lead-Gen-Video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -917,6 +1016,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous avons bien saisi que votre SaaS de clinique a besoin d’une vidéo percutante pour capter des leads qualifiés.  \nNos motion graphics spécialisés produit & pub transforment des concepts complexes en visuels dynamiques qui retiennent l’attention dès les premières secondes.  \nAvec plus de **57 productions** de motion graphics produit & publicité dans notre archive, nous savons comment allier esthétique et efficacité pour votre secteur.  \nDiscutons rapidement de la façon dont nous pouvons faire briller votre offre !"
     },
     {
@@ -924,7 +1025,7 @@
       "title": "3D Puppet Animation Series",
       "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Puppet-Animation-Series",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Canada",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -943,6 +1044,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 56,
+      "lon": -106,
       "proposalDraft": "Chez Voxel, nous comprenons que votre série de marionnettes 3D a besoin d’une animation fluide et expressive pour captiver votre audience.  \nNotre service d’**Animation de personnages** transforme chaque puppet en un acteur numérique, avec des mouvements qui racontent vraiment votre histoire.  \nFort de **44 projets d’animation de personnages & cartoon** déjà livrés dans notre archive, nous savons comment allier créativité et rigueur technique.  \nDiscutons rapidement de la façon dont nous pouvons donner vie à vos marionnettes !"
     },
     {
@@ -950,7 +1053,7 @@
       "title": "Cinematic 8K Animation of Premium Paint Brush",
       "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Cinematic-Animation-Premium-Paint-Brush",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Royaume-Uni",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -969,6 +1072,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 54,
+      "lon": -2,
       "proposalDraft": "Chez Voxel, nous avons bien saisi votre envie de sublimer votre pinceau premium avec une animation cinématographique 8K qui capte l’essence même du produit. Notre expertise en motion‑graphics produit & pub nous permet de transformer chaque détail en une expérience visuelle immersive. Avec plus de 57 productions similaires dans notre archive, nous savons comment mettre en valeur des objets haut de gamme avec élégance et impact. Discutons rapidement de la façon dont nous pouvons donner vie à votre pinceau !"
     },
     {
@@ -976,7 +1081,7 @@
       "title": "Minimalist Office 3D Walkthrough",
       "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Minimalist-Office-Walkthrough",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -995,6 +1100,8 @@
           "label": "web3d_viewer"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous avons bien compris votre envie de transformer ce petit bureau en une visite immersive qui montre le flux et les proportions avant le chantier. Nous livrons le walkthrough directement via notre Viewer web 3D, un fichier autonome qui tourne sur n’importe quel ordinateur sans plugin. Vous verrez notre savoir‑faire dans le projet Web Viewer Factory (Marmoset, MONSAPO), où nous avons déjà créé des espaces minimalistes ultra‑fluides. Prêt à visualiser votre concept ? Envoyez‑nous vos plans et nous lançons la première maquette."
     },
     {
@@ -1002,7 +1109,7 @@
       "title": "High-Contrast ESP32 Weather Icons",
       "sourceUrl": "https://www.freelancer.com/projects/graphic-design/High-Contrast-ESP-Weather-Icons",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Royaume-Uni",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1021,6 +1128,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 54,
+      "lon": -2,
       "proposalDraft": "Bonjour,  \nNous avons bien compris que vous cherchez une suite d’icônes météo ultra‑légères, compatibles avec votre ESP32‑S3 et lisibles même en plein soleil. Chez Voxel, nous transformons ce type de besoin en motion graphics produit & pub, en créant des visuels qui s’affichent instantanément tout en conservant une netteté cristalline. Notre archive compte déjà **57 productions motion graphics produit & publicité** où nous avons appliqué le même style plat, minimaliste et à contraste élevé que vous exigez.  \nSi vous voulez voir comment ces icônes peuvent prendre vie sur votre interface, échangeons rapidement !"
     },
     {
@@ -1028,7 +1137,7 @@
       "title": "3D Fantasy Story Animation",
       "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Fantasy-Story-Animation",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1047,6 +1156,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous savons que transformer vos récits fantasy en vidéos 3D percutantes nécessite des personnages qui respirent la magie et l’émotion. Notre service d’**Animation de personnages** se spécialise justement à donner vie à des héros et créatures fantastiques, en alliant storytelling et mouvements fluides. Avec **44 projets d’animation de personnages & cartoon** déjà livrés (archive Voxel), nous avons la preuve que nous maîtrisons ce type de production. Discutons rapidement de votre première scène !"
     },
     {
@@ -1054,7 +1165,7 @@
       "title": "AI Hindi Fantasy Animation (30s)",
       "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Hindi-Fantasy-Animation",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1073,6 +1184,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin : créer un clip fantasy de 30 secondes en hindi, alliant le pouvoir de l’IA à une finition artisanale, avec voix off naturelle, sous‑titres intégrés et transitions fluides. Notre expertise en **animation de personnages** nous permet de choisir le meilleur rendu — 2D, 3D ou hybride—pour obtenir le style époustouflant que vous recherchez dans un délai serré. Avec **44 projets d’animation de personnages & cartoon** déjà livrés (archive Voxel), nous savons comment concilier rapidité et qualité cinématographique. Prêt à transformer votre script en une aventure visuelle prête à être diffusée ? Échangeons rapidement sur les détails pour lancer la production."
     },
     {
@@ -1080,7 +1193,7 @@
       "title": "AI Brand Awareness Video",
       "sourceUrl": "https://www.freelancer.com/projects/ai-video/Brand-Awareness-Video-40542569",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1099,6 +1212,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Bonjour, j’ai bien saisi que vous cherchez une vidéo 60‑120 s ultra réaliste, prête à être diffusée sur tous vos canaux, avec votre identité visuelle parfaitement respectée. Chez Voxel, nous transformons ce besoin en motion‑graphics produit & pub haut de gamme, en combinant IA générative, script soigné et mix audio broadcast. Notre archive compte déjà **57 productions motion‑graphics produit & publicité**, preuve que nous maîtrisons chaque étape, du concept à la livraison 4K sans watermark. Vous avez les guidelines, nous nous chargeons du reste : idéation, voix‑off, bande‑son et post‑production.  \nPrêt à lancer le projet ? Échangeons rapidement sur vos objectifs."
     },
     {
@@ -1106,7 +1221,7 @@
       "title": "Elegant Custom Digital Wedding Invite",
       "sourceUrl": "https://www.freelancer.com/projects/digital-art/Elegant-Custom-Digital-Wedding-Invite",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1125,6 +1240,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Bonjour,\n\nNous avons bien saisi votre désir d’une invitation digitale qui marie l’élégance classique à la magie de votre croisière à Ha Long Bay, tout en intégrant les éventails asiatiques et des animations sur‑mesure. Chez Voxel, notre équipe de motion‑graphics excelle à transformer ces éléments uniques en une expérience visuelle fluide et raffinée, exactement comme le style « Majestic » que vous admirez.  \n\nÀ ce jour, nous comptons **57 productions motion‑graphics produit & publicité** dans nos archives, dont plusieurs projets d’invitations haut de gamme qui allient illustration, animation et storytelling personnalisé.  \n\nEnvoyez‑nous vos photos d’inspiration et nous vous proposerons rapidement un concept animé qui fera vibrer vos invités.  \n\nÀ très vite pour donner vie à votre invitation !"
     },
     {
@@ -1132,7 +1249,7 @@
       "title": "3D AI Animated Short for Teens -- 3",
       "sourceUrl": "https://www.freelancer.com/projects/rendering/Animated-Short-for-Teens",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1151,6 +1268,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "We understand you need a punchy, AI‑enhanced 3‑D short that grabs teens in the first five seconds and stays smooth across every platform. At Voxel Studio we specialize in character animation, blending tools like Stable Diffusion and Runway with Blender, Maya or Unreal to keep the workflow fast and the look ultra‑modern. Our archive already counts **44 character‑animation & cartoon projects**, so we know how to deliver the energy and polish your audience expects. Let’s chat about the storyboard and timeline—when would you like to see the first style frames?"
     },
     {
@@ -1158,7 +1277,7 @@
       "title": "Video Ad Showcasing Enhanced AI",
       "sourceUrl": "https://www.freelancer.com/projects/ai-video/Video-Showcasing-Enhanced",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1177,6 +1296,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "We understand you need a 30‑60 second commercial that instantly showcases the unique power of your next‑gen AI and turns viewers into eager testers.  \nAt Voxel we specialize in product‑focused motion‑graphics and advertising, blending sleek visuals with clear storytelling to highlight key capabilities in just a few seconds.  \nOur archive already contains **57 motion‑graphics productions for product and brand campaigns**, so we know how to deliver that modern, trustworthy “wow” impact you’re after.  \nLet’s sketch a concept together, lock the storyboard, and bring your AI to life on screen—what’s the best time for a quick call?"
     },
     {
@@ -1184,7 +1305,7 @@
       "title": "AI-Driven 3D Service Animation",
       "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Driven-Service-Animation",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1203,6 +1324,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous avons bien compris que vous cherchez une animation 3D ludique et ultra‑shareable pour mettre en avant votre service.  \nNotre spécialité ? L’animation de personnages, réalisée avec les dernières pipelines IA (Blender + Stable Video, Runway, etc.) pour un rendu rapide et de haute qualité.  \nAvec plus de **44 projets d’animation de personnages & cartoon** à notre actif (archive Voxel), nous savons comment créer le hook visuel qui capte l’attention dès les premières secondes.  \nDiscutons rapidement de votre concept : nous vous proposerons storyboard, outils et planning en moins de 48 h.  \n\nÀ très vite pour donner vie à votre promo !"
     },
     {
@@ -1210,7 +1333,7 @@
       "title": "3D AI Animated Short for Teens -- 2",
       "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Animated-Short-for-Teens",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1229,6 +1352,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "We understand you need a punchy, AI‑enhanced 3‑D short that grabs teens in the first five seconds and stays vibrant across TikTok, Instagram and YouTube. At Voxel we specialize in character animation, blending tools like Stable Diffusion and Runway with Blender, Maya or Unreal to deliver story‑driven, high‑poly rigs that move flawlessly at 24‑30 fps. Our archive already includes **44 character‑animation and cartoon projects**, proving we can turn fresh concepts into share‑worthy reels. Let’s chat about the storyboard and timeline so we can bring your teen‑focused short to life."
     },
     {
@@ -1236,7 +1361,7 @@
       "title": "3D Comedy Animation Project",
       "sourceUrl": "https://www.freelancer.com/projects/rendering/Comedy-Animation-Project",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Europe",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1255,6 +1380,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 50,
+      "lon": 10,
       "proposalDraft": "We understand you need a punchy, comedy‑driven 3D sequence where timing, squash‑and‑stretch and expressive faces make the jokes land. At Voxel Studio we specialize in **Animation de personnages** that blend cartoony flair with polished production values. Our archive already showcases **44 projets d'animation de personnages & cartoon**, so we know how to give your heroes the personality and visual pop you’re after. Let’s chat about your storyboard and set a timeline for that 30‑60 second laugh‑fest. Feel free to drop your brief — we’re ready to bring the humor to life!"
     },
     {
@@ -1262,7 +1389,7 @@
       "title": "Minimalist Power Bank 3D Renderings",
       "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Minimalist-Power-Bank-Renderings",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Singapour",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1281,6 +1408,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 1.35,
+      "lon": 103.8,
       "proposalDraft": "Hi — we’ve read that you need ultra‑realistic, minimalist product shots that can carry a premium 3C brand across e‑commerce and ads. At Voxel we specialize in product motion‑graphics and advertising, turning sleek electronics into eye‑catching visual stories. Our archive already holds **57 motion‑graphics productions for product & pub**, many of them for consumer‑electronics very similar to your power‑bank line. We can deliver crisp 4K renders from every angle, plus a clean lifestyle scene, all with the source files you need for fast turn‑arounds. Let’s chat briefly to see how we can bring your next launch to life."
     },
     {
@@ -1288,7 +1417,7 @@
       "title": "Crypto Academy ",
       "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Crypto-Academy",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1307,6 +1436,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin : six stickers animés Telegram qui conservent le logo CryptoAcademy.ae immobile tout en dynamisant le reste du visuel avec un style cartoon énergique.  \nNotre expertise en **motion graphics produit & pub** nous permet de transformer vos concepts (alertes de trade, TP hit, hold tight, etc.) en animations fluides et percutantes, prêtes à être exportées en .TGS.  \nPour vous rassurer, nous comptons déjà **57 productions motion graphics produit & publicité** dans nos archives, dont de nombreux projets d’animation de marque.  \nEnvoyez‑nous vos logos et palettes ; nous vous proposerons rapidement les story‑boards pour validation.  \n\nÀ très vite pour donner vie à vos stickers !"
     },
     {
@@ -1314,7 +1445,7 @@
       "title": "Minimalist Surveillance Projection Mapping",
       "sourceUrl": "https://www.freelancer.com/projects/after-effects/Minimalist-Surveillance-Projection",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1333,6 +1464,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Bonjour !  \nJe comprends que vous cherchez une vidéo de 2–3 minutes, épurée et parfaitement adaptée aux reliefs d’une façade, pour illustrer la tension d’une surveillance minimaliste. Chez Voxel, nous traduisons ce type de besoin en motion‑graphics produit & pub qui respectent chaque contour, chaque fenêtre et chaque jeu de lumière. Nous avons déjà réalisé **57 productions motion graphics produit & publicité** (archive Voxel), dont plusieurs projets de mapping architectural au style sobre et précis.  \nPrêt à transformer vos croquis et photos en une séquence de lumière qui se glisse le long des lignes de vue ? Discutons‑en rapidement !"
     },
     {
@@ -1340,7 +1473,7 @@
       "title": "Colorful Hippo Blender Animations",
       "sourceUrl": "https://www.freelancer.com/projects/blender/Colorful-Hippo-Blender-Animations",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1359,6 +1492,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Chez Voxel, nous avons bien saisi que votre hippopotame coloré a besoin de charme, d’exagération et de personnalité pour briller dans votre univers fantasy.  \nNous pouvons créer les cycles de marche et de course, le dialogue synchronisé et une bibliothèque d’expressions faciales fluides, tout en conservant votre rig Blender non destructif et parfaitement organisé.  \nNotre expertise repose sur **44 projets d’animation de personnages & cartoon** déjà livrés dans nos archives, dont plusieurs créatures stylisées qui montrent notre maîtrise du style fantaisiste.  \nDiscutons rapidement de vos actions sur‑mesure et lançons les premiers playblasts !"
     },
     {
@@ -1366,7 +1501,7 @@
       "title": "AI Video Editor for E-commerce Brand",
       "sourceUrl": "https://www.freelancer.com/projects/ai-video/Video-Editor-for-commerce-Brand",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1385,6 +1520,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "We understand you need a fast, reliable AI‑video pipeline that turns detailed scripts into polished 9:16 ads while keeping your brand avatar perfectly consistent. At Voxel Studio we specialize in motion‑graphics for product and advertising, delivering cinematic quality that captures attention on Meta and TikTok. Our archive already holds **57 motion‑graphics productions for product & pub**, proving we can handle high‑volume, deadline‑driven work. Let’s chat about how we can become your go‑to technical executor and keep your content rolling every day."
     },
     {
@@ -1392,7 +1529,7 @@
       "title": "DBZ-Style 3D Soccer Video Animation",
       "sourceUrl": "https://www.freelancer.com/projects/ai-animation/DBZ-Style-Soccer-Video-Animation",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Australie",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1411,6 +1548,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": -25,
+      "lon": 133,
       "proposalDraft": "Bonjour,  \nJe comprends que vous avez besoin d’une animation ultra‑dynamique en 24 h, mêlant l’énergie de la Coupe du Monde à l’esthétique DBZ pour créer un clip viral. Chez Voxel, nous transformons des personnages en véritables héros cinématographiques ; nos 44 projets d’animation de personnages et de cartoons témoignent de notre maîtrise du style cartoon et du timing percutant. Nous pouvons modéliser les quatre stars, intégrer le moment comique et livrer un rendu final prêt à exploser sur les réseaux, le tout avec les outils IA les plus récents.  \nPrêt à lancer la production dès maintenant ?"
     },
     {
@@ -1418,7 +1557,7 @@
       "title": "Email Signature Line Fill Animation",
       "sourceUrl": "https://www.freelancer.com/projects/svg/Email-Signature-Line-Fill-Animation",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1437,6 +1576,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Bonjour,\n\nJe comprends que vous avez besoin d’une animation SVG fluide pour votre signature email, avec une version GIF prête à l’emploi. Chez Voxel, nous transformons ce type de besoin en motion graphics produit & pub percutants, en conservant la netteté du design tout en assurant une compatibilité maximale. Notre archive compte déjà **57 productions motion graphics produit & publicité**, dont plusieurs signatures animées qui ont boosté la visibilité de nos clients.  \n\nDiscutons rapidement de votre fichier AI et de la façon dont nous pouvons le faire vivre !"
     },
     {
@@ -1444,7 +1585,7 @@
       "title": "Kids YouTube Video Creator Needed for Children's Story and Educational",
       "sourceUrl": "https://www.freelancer.com/projects/video-editing/Kids-YouTube-Video-Creator-Needed",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1463,6 +1604,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Nous avons bien compris que votre chaîne YouTube Kids a besoin de vidéos colorées, éducatives et parfaitement optimisées pour le SEO afin de capter l’attention des 2‑20 ans. Chez Voxel, nous transformons chaque concept en motion‑graphics dynamiques qui allient animation ludique, musique entraînante et sous‑titres clairs, exactement ce qu’il faut pour vos leçons, comptines et histoires. Notre archive compte déjà **57 productions motion‑graphics produit & publicité**, preuve de notre capacité à livrer des contenus percutants et conformes aux exigences YouTube Kids. Discutons rapidement de la façon dont nous pouvons booster votre catalogue vidéo !"
     },
     {
@@ -1470,7 +1613,7 @@
       "title": "AI Fairy Tale Animated Feature",
       "sourceUrl": "https://www.freelancer.com/projects/after-effects/Fairy-Tale-Animated-Feature",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1489,6 +1632,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Vous avez une histoire vivante sur scène — et vous voulez qu’elle prenne vie dans un film d’animation semi-réaliste, riche en émotions et en magie visuelle. Chez Voxel, nous transformons justement ce genre de récits théâtraux en œuvres animées cohérentes, expressives et immersives. Grâce à nos **44 projets d’animation de personnages & cartoon**, nous maîtrisons la traduction de performances scéniques en personnages animés fidèles, nuancés et pleins de caractère. Laissez-nous porter votre vision : du blocking théâtral à l’animation fluide, en passant par le style storybook poétique, nous garantissons une cohérence narrative et visuelle à l’écran. Prêt à transformer votre pièce en film ?"
     },
     {
@@ -1496,7 +1641,7 @@
       "title": "Minimalistic Animated Splash Screen",
       "sourceUrl": "https://www.freelancer.com/projects/graphic-design/Minimalistic-Animated-Splash-Screen",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1515,6 +1660,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Bonjour,  \nNous avons bien saisi que vous cherchez une splash screen minimaliste, moderne et parfaitement alignée à votre identité visuelle. Chez Voxel, nous transformons ce type de besoin en motion graphics produit & pub qui captivent dès la première seconde. Notre archive compte déjà **57 productions motion graphics produit & publicité**, dont plusieurs splash screens pour des applications mobiles. Nous serions ravis de mettre notre expertise au service de votre logo et de votre tagline.  \nQu’en dites‑vous, échangeons rapidement sur votre projet ?"
     },
     {
@@ -1548,7 +1695,7 @@
       "title": "VirtualStation Product Demo Motion Graphics Video (90–120 Seconds)",
       "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/VirtualStation-Product-Demo-Motion",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1567,6 +1714,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous avons bien saisi que vous avez besoin d’une vidéo motion‑graphics percutante qui raconte l’histoire : les équipes distribuées sont débordées, les fondateurs deviennent managers et les outils disparates ralentissent tout.  \nNous transformerons votre concept VirtualStation en une démo de 90‑120 secondes qui illustre le problème, montre la perte de temps avec Slack, Jira, Teams, etc., puis révèle votre IA‑bureau virtuel comme la solution fluide et autonome.  \nNotre expertise en **motion graphics produit & pub** nous permet de créer un style SaaS moderne, avec UI animée, voix‑off professionnelle, musiques et effets sonores.  \nÀ ce jour, nous comptons **57 productions motion‑graphics produit & publicité** dans notre archive, preuve que nous livrons des récits visuels qui convertissent.  \n\nPrêt à voir votre vision prendre vie ? Discutons‑en rapidement."
     },
     {
@@ -1652,7 +1801,7 @@
       "title": "High-Retention Gaming Documentary Video Edit",
       "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/High-Retention-Gaming-Documentary-Video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1671,6 +1820,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Nous avons bien saisi votre envie de transformer un simple « let’s‑play » en une expérience documentaire qui captive dès la première seconde.  \nChez Voxel, nous conjuguons storytelling et motion‑graphics pour créer des transitions dynamiques, des infographies animées et une typographie qui frappe au bon moment.  \nNotre archive compte déjà **57 productions motion‑graphics produit & publicité**, preuve que nous maîtrisons le rythme et le polish cinématographique que vous recherchez.  \nPrêt à donner à votre vidéo le punch visuel et narratif qui fera grimper vos taux de rétention ?  \nEnvoyez‑nous votre brief et nous démarrons dès que possible."
     },
     {
@@ -1678,7 +1829,7 @@
       "title": "Bold Entertainment Video & Graphics",
       "sourceUrl": "https://www.freelancer.com/projects/adobe-illustrator/Bold-Entertainment-Video-Graphics",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1697,6 +1848,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous avons saisi votre envie d’une vidéo qui « explose » à l’écran : un montage ultra‑dynamique et des visuels colorés qui donnent du caractère à chaque plan. Notre spécialité ? Le motion‑graphics produit & pub, exactement ce qui manquera à votre footage pour le transformer en une expérience immersive. Avec 57 productions motion‑graphics produit & publicité à notre actif, nous savons comment synchroniser rythme, musique et graphismes pour captiver l’audience. Nous travaillerons sur le logiciel qui vous convient le mieux, tout en livrant des calques graphiques prêts à être ajustés.  \nPrêt(e) à faire vibrer votre projet ? Discutons de vos idées et du timing."
     },
     {
@@ -1704,7 +1857,7 @@
       "title": "AI-Driven Ecommerce Video Creation",
       "sourceUrl": "https://www.freelancer.com/projects/ai-video/Driven-Ecommerce-Video-Creation",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Europe",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1723,6 +1876,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 50,
+      "lon": 10,
       "proposalDraft": "Nous avons bien compris que vous cherchez des vidéos courtes, authentiques et prêtes à capter l’attention sur TikTok, Reels ou Shorts, tout en mettant en avant vos produits de façon claire et conviviale. Chez Voxel, nous créons des motion‑graphics produit & pub qui s’intègrent naturellement à l’esthétique UGC, du script à la post‑production, avec sous‑titres et voix AI. Notre archive compte déjà **57 productions motion graphics produit & publicité**, preuve de notre capacité à livrer rapidement des contenus percutants.  \nDiscutons de votre cadence idéale : combien de vidéos souhaitez‑vous voir prêtes chaque semaine ?"
     },
     {
@@ -1730,7 +1885,7 @@
       "title": "Short Tech Promo Video",
       "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Short-Tech-Promo-Video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Royaume-Uni",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1749,6 +1904,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 54,
+      "lon": -2,
       "proposalDraft": "We understand you need a razor‑sharp, 30‑60 s tech teaser that grabs attention in the first three seconds and translates your product specs into bold visuals and kinetic typography. At Voxel we specialize in motion‑graphics for product launches and advertising, delivering the quick cuts, clean colour palette and custom sound design you described. Our archive already counts **57 motion‑graphics productions for products and ads**, so we know how to turn tech features into compelling, platform‑ready videos. Let’s sketch a storyboard together and get the first draft on your timeline—just say “go” and we’ll start animating!"
     },
     {
@@ -1756,7 +1913,7 @@
       "title": "Social Media Graphics & Promo Videos",
       "sourceUrl": "https://www.freelancer.com/projects/adobe-illustrator/Social-Media-Graphics-Promo-Videos",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1775,6 +1932,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Bonjour ! Chez Voxel, nous avons bien saisi que vous avez besoin de visuels cohérents et percutants pour vos posts quotidiens et vos vidéos promotionnelles, adaptés à chaque format Instagram, Facebook et YouTube. Notre service **Motion graphics produit & pub** transforme vos briefs et vos rushes en clips dynamiques avec texte animé, palette de couleurs unifiée et musiques libres de droits, tout en livrant les fichiers prêts à publier. Pour vous rassurer, nous comptons déjà **57 productions motion graphics produit & publicité** dans notre archive, dont plusieurs campagnes social media qui ont boosté l’engagement de nos clients. Prêt·e à voir vos contenus arrêter le scroll ? Échangeons rapidement sur votre prochain projet."
     },
     {
@@ -1782,7 +1941,7 @@
       "title": "Design Dynamic Health Brand Content",
       "sourceUrl": "https://www.freelancer.com/projects/adobe-photoshop/Design-Dynamic-Health-Brand-Content",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1801,6 +1960,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "I get it — Lords Choice needs fast, high‑energy visuals that put your supplements front‑and‑center across Instagram, Shorts and Meta ads. At Voxel we specialize in product‑focused motion graphics, blending bold typography with lifestyle footage to keep the brand’s vibe alive. Our archive already counts **57 motion‑graphics productions for product and advertising**, so we know how to deliver the punchy, cross‑format assets you need on a 48‑72 hour turnaround. Let’s chat about setting up a monthly retainer and keep the momentum rolling."
     },
     {
@@ -1808,7 +1969,7 @@
       "title": "30-Second Portfolio Showcase Video",
       "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Second-Portfolio-Showcase-Video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1827,6 +1988,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Bonjour,  \nJe comprends que vous avez besoin d’une vidéo de 30 s ultra‑précise pour mettre en avant les sites de votre agence, avec des captures fluides, des transitions légères et une musique d’ambiance discrète.  \nChez Voxel, nous transformons ce type de brief en motion‑graphics percutants : chaque écran que vous nous fournissez devient une séquence dynamique et parfaitement rythmée.  \nNotre archive compte déjà **57 productions motion‑graphics produit & publicité**, témoignant de notre maîtrise du format court et impactant.  \nPrêt à créer votre showcase ? Envoyez‑moi les URLs et vos indications, et lançons la première version dès cette semaine."
     },
     {
@@ -1834,7 +1997,7 @@
       "title": "Cross-Platform Product Promo Editing",
       "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Cross-Platform-Product-Promo-Editing",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Australie",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1853,6 +2016,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": -25,
+      "lon": 133,
       "proposalDraft": "Chez Voxel, nous comprenons que votre vidéo promo doit capter l’attention en quelques secondes et fonctionner parfaitement sur LinkedIn, Instagram, Facebook et TikTok.  \nNous transformons vos rushes, logos et chartes en un montage dynamique de 60‑120 s, avec pacing précis, étalonnage, motion‑graphics et sous‑titres intégrés, le tout livré via Descript.  \nNotre archive compte déjà **57 productions motion‑graphics produit & publicité**, preuve que nous maîtrisons chaque exigence technique et créative.  \nPrêt à voir votre concept prendre vie et être prêt à publier dès aujourd’hui ? Faisons‑le ensemble."
     },
     {
@@ -1886,7 +2051,7 @@
       "title": "Dynamic Social Media Creatives Design",
       "sourceUrl": "https://www.freelancer.com/projects/adobe-illustrator/Dynamic-Social-Media-Creatives-Design",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1905,6 +2070,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Bonjour,  \nNous avons bien saisi votre besoin : des créatifs dynamiques pour Reels, posts et carrousels qui respectent vos chartes tout en captant l’attention sur Instagram et Facebook.  \nChez Voxel, nous transformons ces briefs en motion‑graphics produit & pub percutants, avec légendes animées et sound design adaptés aux tendances du moment.  \nNotre archive compte **57 productions motion graphics produit & publicité**, preuve de notre maîtrise du format et de la rapidité d’exécution.  \nPrêt·e à voir vos offres prendre vie en 48 h ? Discutons‑en rapidement !"
     },
     {
@@ -1912,7 +2079,7 @@
       "title": "Corporate Trading App Mockup Video -- 2",
       "sourceUrl": "https://www.freelancer.com/projects/graphic-design/Corporate-Trading-App-Mockup-Video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1931,6 +2098,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin : recréer 4‑5 écrans mobiles d’une application de trading dans un style corporatif, puis les animer en une présentation fluide de 25 secondes. Notre service **Motion graphics produit & pub** garantit des transitions subtiles, des zooms légers et une mise en avant claire du tableau de bord, des graphiques et de l’historique des transactions. Avec **57 productions motion graphics produit & publicité** déjà livrées (archive Voxel), nous maîtrisons l’équilibre entre rigueur data‑driven et esthétique professionnelle. Prêt à transformer votre maquette en une vidéo percutante ? Échangeons rapidement sur les détails pour lancer le projet."
     },
     {
@@ -1938,7 +2107,7 @@
       "title": "Mixed-Media AI Video Creation",
       "sourceUrl": "https://www.freelancer.com/projects/ai-video/Mixed-Media-Video-Creation",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1957,6 +2126,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin : créer des vidéos où l’animation générée par IA glisse naturellement sur des images réelles, sans jamais rompre l’immersion. C’est exactement le type de **motion‑graphics produit & pub** que nous maîtrisons, du script à la version finale 1080 p, avec voix‑off, musiques libres de droits et deux cycles de retouches. Notre archive compte **57 productions motion‑graphics produit & publicité**, dont plusieurs mêlant IA et prises de vue réelles, preuve de notre capacité à harmoniser ces deux univers. Vous voulez voir comment nous faisons le pont entre le digital et le réel ? Échangeons rapidement sur votre premier storyboard."
     },
     {
@@ -1964,7 +2135,7 @@
       "title": "Couple romantic anime video created using given referwnce couple photos - 25-30 seconds",
       "sourceUrl": "https://www.freelancer.com/projects/3d-modelling/Couple-romantic-anime-video-created",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -1983,6 +2154,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Bonjour,  \nNous avons bien compris que vous souhaitez offrir à votre épouse une courte vidéo 3D inspirée de l’univers Ghibli, avec une scène romantique et émouvante à livrer avant le 4 juillet.  \nChez Voxel Studio, nous spécialisons l’animation de personnages et nous savons créer ce type de moments magiques qui touchent le cœur.  \nÀ ce jour, nous comptons **44 projets d’animation de personnages & cartoon** dans nos archives, dont plusieurs scènes d’amour délicates et stylisées.  \nDiscutons rapidement de votre scénario pour que nous puissions le mettre en mouvement dès maintenant."
     },
     {
@@ -1990,7 +2163,7 @@
       "title": "Hindi-English School Reels Editing",
       "sourceUrl": "https://www.freelancer.com/projects/Hindi-English-School-Reels-Editing",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -2009,6 +2182,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Nous avons bien saisi que vous avez besoin de dix Reels dynamiques, bilingues Hindi‑English, qui captivent dès les premières secondes et gardent le spectateur jusqu’au final. Chez Voxel, nous transformons vos séquences brutes en vidéos verticales percutantes, avec montage rapide, étalonnage, sous‑titres fluides et une bande‑son originale qui souligne chaque moment fort. Notre expertise en motion graphics produit & pub s’appuie sur **57 productions** déjà réalisées dans notre archive, preuve que nous savons allier storytelling et design visuel. Prêt·e à voir vos moments scolaires prendre vie ? Envoyez‑nous le dossier et lançons la création ensemble."
     },
     {
@@ -2042,7 +2217,7 @@
       "title": "Daily AI Skincare TikToks",
       "sourceUrl": "https://www.freelancer.com/projects/content-creation/Daily-Skincare-TikToks",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -2061,6 +2236,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "We get that you need a daily stream of TikTok‑ready skincare clips that feel native, trend‑savvy, and showcase unmistakable before‑after transformations. At Voxel we specialize in product‑focused motion graphics, turning brand assets into punchy vertical videos that hook viewers in the first seconds. Our archive already holds **57 motion‑graphics productions for product and advertising campaigns**, proving we can deliver the speed and polish you require. Leveraging tools like Higgsfield AI, Runway and ElevenLabs, we’ll craft each 9:16 video with on‑point captions, audio trends and seamless compositing. Ready to fire up the pipeline today? Let’s sync our Trello board and start rolling out those viral clips."
     },
     {
@@ -2146,7 +2323,7 @@
       "title": "Viral World Cup Short Video Creation",
       "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Viral-World-Cup-Short-Video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Australie",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -2165,6 +2342,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": -25,
+      "lon": 133,
       "proposalDraft": "Bonjour, nous avons bien saisi votre besoin : un clip de 15‑30 secondes qui capte l’énergie de la Coupe du Monde et pousse les utilisateurs à cliquer immédiatement. Chez Voxel, nous transformons ce type de script en motion graphics percutants, alliant visuels dynamiques, musiques et sound‑effects parfaitement dosés, ainsi que des overlays texte ultra‑lisibles. Notre archive compte déjà **57 productions motion graphics produit & publicité**, dont plusieurs formats courts qui ont généré des taux d’engagement record sur TikTok et Instagram. Vous avez le script, nous avons le savoir‑faire ; discutons rapidement de la mise en forme pour que votre vidéo devienne virale."
     },
     {
@@ -2198,7 +2377,7 @@
       "title": "Animated Rhymes Video for Toddlers",
       "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Animated-Rhymes-Video-for-Toddlers",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -2217,6 +2396,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "We understand you need a bright, 2‑3 minute rhyme video that captures toddlers’ short attention spans with simple shapes, expressive faces and seamless sound design. At Voxel, we specialize in character animation that brings those friendly 2D/3D worlds to life, from storyboard to final HD delivery. Our archive already includes **44 character‑animation and cartoon projects** for early‑learning audiences, so we know how to keep the visuals clean yet captivating. Let’s turn your lyrics into a catchy, repeat‑ready clip and set the stage for the drawing‑book series to follow. Ready to start? Just share the outline and we’ll send you a quick timeline."
     },
     {
@@ -2224,7 +2405,7 @@
       "title": "Video & HTML5 Ads",
       "sourceUrl": "https://www.freelancer.com/projects/video-ads/Video-HTML-Ads",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Europe",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -2243,6 +2424,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 50,
+      "lon": 10,
       "proposalDraft": "We understand that you need a unified visual language that speaks to multiple audience segments while reinforcing brand awareness. At Voxel we specialize in Motion‑graphics produit & pub, creating clean, corporate‑style video spots and responsive HTML5 banners that share the same typography, colour palette and subtle transitions. Our archive boasts 57 successful motion‑graphics productions for product and advertising campaigns, proving we can deliver polished, on‑brand assets at scale. Let’s discuss how we can translate your concepts into a cohesive, high‑impact ad package—just drop me a quick reply!"
     },
     {
@@ -2250,7 +2433,7 @@
       "title": "Luxury Vertical Ad Video",
       "sourceUrl": "https://www.freelancer.com/projects/video-production/Luxury-Vertical-Video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -2269,6 +2452,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Bonjour !  \nJe comprends que vous cherchez une vidéo verticale 20‑30 s qui allie luxe, énergie et confiance pour vos publicités Facebook et Instagram. Chez Voxel, nous créons des motion‑graphics produit & pub qui captivent grâce à des coupes rapides, des transitions fluides et une palette or‑orange‑rouge ultra‑premium. Notre archive compte déjà **57 productions motion‑graphics produit & publicité**, dont plusieurs ont boosté les conversions de marques haut de gamme.  \nPrêt à transformer votre service en une expérience visuelle qui convertit ? Discutons‑en rapidement !"
     },
     {
@@ -2276,7 +2461,7 @@
       "title": "YouTube Training Video Effects Editing",
       "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/YouTube-Training-Video-Effects-Editing",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -2295,6 +2480,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Bonjour,  \nJe comprends que vous voulez transformer vos séquences brutes en une leçon YouTube dynamique, avec des call‑outs animés, des transitions rythmées, des mini‑motion graphics pour chaque partie et des lower‑thirds impeccables. Chez Voxel, nous spécialisons notre studio dans le **motion graphics produit & pub**, exactement le type de traitement créatif dont votre vidéo a besoin. Notre archive compte **57 productions motion graphics produit & publicité**, preuve de notre capacité à livrer des visuels percutants et parfaitement intégrés.  \n\nSi cela vous parle, envoyez‑moi simplement votre brief et je vous prépare un premier aperçu ; nous pourrons ainsi lancer la production immédiatement."
     },
     {
@@ -2302,7 +2489,7 @@
       "title": "Cinematic 3D Website Hero Video",
       "sourceUrl": "https://www.freelancer.com/projects/video-production/Cinematic-Website-Hero-Video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -2321,6 +2508,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous avons parfaitement saisi votre besoin : un hero‑video cinématographique qui, en 30‑45 secondes, raconte qui vous êtes, ce que vous faites et la premium‑té de votre marque.  \nNotre expertise en **motion graphics produit & pub** nous permet de créer des environnements futuristes, des mouvements de caméra fluides et des éclairages réalistes, exactement le style moderne et high‑end que vous recherchez.  \nAvec **57 productions motion graphics produit & publicité** à notre actif, nous savons comment transformer des concepts d’IA, d’automatisation et de connectivité globale en visuels percutants.  \nDiscutons rapidement de votre scénario : quel message clé souhaitez‑vous mettre en avant en premier ?"
     },
     {
@@ -2328,7 +2517,7 @@
       "title": "Storytelling Social Media Promo Video",
       "sourceUrl": "https://www.freelancer.com/projects/video-editing/Storytelling-Social-Media-Promo-Video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -2347,6 +2536,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Bonjour, je suis Voxel ! J’ai bien compris que vous cherchez des vidéos courtes qui captent l’attention dès les deux premières secondes et transforment le scroll en achat. Chez Voxel Studio, nous créons des motion‑graphics produit & pub qui allient storytelling percutant, esthétique soignée et voix off professionnelle, exactement ce qu’il vous faut pour Instagram Reels, TikTok ou WhatsApp. Notre archive compte déjà **57 productions motion‑graphics produit & publicité** qui ont boosté les conversions de nos clients. Vous voulez voir comment on peut faire briller votre produit ? Envoyez‑moi un brief et lançons la création ensemble !"
     },
     {
@@ -2380,7 +2571,7 @@
       "title": "Cat Animation in Maya",
       "sourceUrl": "https://www.freelancer.com/projects/3d-rigging/Cat-Animation-Maya",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 97,
@@ -2399,6 +2590,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Bonjour,  \nJe comprends que vous avez besoin d’animer votre chat riggé dans Maya, avec des mouvements précis et semi‑réalistes pour marcher, sauter et jouer. Chez Voxel Studio, nous transformons des modèles comme le vôtre en personnages vivants grâce à notre service **Animation de personnages**. Nous avons déjà réalisé **44 projets d’animation de personnages & cartoon** (archive Voxel), dont plusieurs créatures animales, ce qui nous permet de reproduire vos références vidéo à la perfection.  \nEnvoyez‑nous votre reel ou vos références, et lançons ensemble l’aventure de votre chat !"
     },
     {
@@ -2425,6 +2618,60 @@
           "label": "character_animation"
         }
       ]
+    },
+    {
+      "id": "freelancer:40550305",
+      "title": "Power Bank 3D Renderings",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Power-Bank-Renderings",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Rendu photoréaliste de produit e‑commerce"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
+    },
+    {
+      "id": "freelancer:40550291",
+      "title": "Maya Animator for Cat Character",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Maya-Animator-for-Cat-Character",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation de personnage 3D demandée"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
     },
     {
       "id": "freelancer:40548317",
@@ -2457,7 +2704,7 @@
       "title": "AI-Powered Promotional Video Editing",
       "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Powered-Promotional-Video-Editing",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 96,
@@ -2476,6 +2723,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Chez Voxel, nous avons bien saisi que vous cherchez à dynamiser vos campagnes avec des vidéos percutantes et intelligentes.  \nNotre expertise en **motion graphics produit & pub** nous permet de transformer vos concepts en animations fluides, modernes et parfaitement alignées avec votre identité de marque.  \nPour vous rassurer, nous comptons déjà **57 productions motion graphics produit & publicité** dans nos archives, preuve concrète de notre savoir‑faire.  \nDiscutons rapidement de la façon dont nous pouvons donner vie à votre prochaine vidéo !"
     },
     {
@@ -2483,7 +2732,7 @@
       "title": "Dynamic Animations For Mobile Game",
       "sourceUrl": "https://www.freelancer.com/projects/unity/Dynamic-Animations-For-Mobile-Game",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 96,
@@ -2502,6 +2751,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Chez Voxel, nous avons bien compris que vous cherchez à dynamiser votre jeu mobile avec des animations percutantes. Notre expertise en motion graphics produit & pub transforme chaque élément de votre jeu en une expérience visuelle captivante. Avec plus de 57 productions réalisées dans ce domaine (archive Voxel), nous savons comment créer des effets qui retiennent l’attention des joueurs. Discutons rapidement de la façon dont nous pouvons donner vie à votre univers ludique !"
     },
     {
@@ -2509,7 +2760,7 @@
       "title": "Gacha-Style 3D Character Artist Needed",
       "sourceUrl": "https://www.freelancer.com/projects/3d-rigging/Gacha-Style-Character-Artist-Needed",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 96,
@@ -2528,6 +2779,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Chez Voxel, nous comprenons que vous cherchez un artiste 3D capable de donner vie à des personnages au style gacha, avec des mouvements fluides et expressifs. Notre service d’Animation de personnages est spécialement pensé pour transformer vos modèles en héros dynamiques, prêts à captiver votre audience. Avec **44 projets d’animation de personnages & cartoon** déjà réalisés dans notre archive, nous avons l’expertise nécessaire pour répondre à vos exigences créatives. Discutons rapidement de la façon dont nous pouvons animer vos personnages !"
     },
     {
@@ -2535,7 +2788,7 @@
       "title": "8K 3D Kids Video Production",
       "sourceUrl": "https://www.freelancer.com/projects/rendering/Kids-Video-Production",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Canada",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 96,
@@ -2554,6 +2807,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 56,
+      "lon": -106,
       "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin : transformer votre script détaillé en une vidéo 8 K dynamique où singes et dinosaures prennent vie avec des coupes rythmées et un son parfaitement synchronisé. Notre spécialité, l’**Animation de personnages**, nous permet de sculpter chaque mouvement et expression pour que vos héros captivent les jeunes spectateurs du début à la fin. Avec **44 projets d’animation de personnages & cartoon** à notre actif (archive Voxel), nous maîtrisons les exigences de qualité et de fluidité que vous recherchez. Prêt à voir vos scènes prendre forme ? Envoyez‑nous vos assets et nous vous livrerons le premier draft rapidement."
     },
     {
@@ -2561,7 +2816,7 @@
       "title": "AI Character 2D Video Edits",
       "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Character-Video-Edits",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 96,
@@ -2580,6 +2835,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "I see you’ve already got the raw footage and a stylised AI‑generated character, and you just need that hero to move naturally inside the scene.  \nAt Voxel Studio we specialise in character animation, handling everything from fluid rigging to seamless compositing—shadows, lighting tweaks and colour grading included.  \nOur archive boasts 44 completed character‑animation and cartoon projects, so you can trust we’ve mastered the blend of 2D rigs with live‑action footage.  \nLet’s chat quickly about the shots you have, and I’ll send over the most relevant reel so you can see the result before we start."
     },
     {
@@ -2587,7 +2844,7 @@
       "title": "AI Lip-Synced Music Video",
       "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Lip-Synced-Music-Video",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 96,
@@ -2606,6 +2863,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "We understand you need a vintage‑style concert‑hall video where your portrait sings flawlessly, backed by a lifelike, era‑appropriate band. At Voxel Studio we specialize in character animation, and our pipeline can rig your image, sync every lyric with AI‑driven lip‑matching, and animate the musicians with realistic motion. Our archive already includes 44 character‑animation and cartoon projects, so we know how to make a performance feel truly alive. Let’s chat about how we can bring your classic jazz vision to screen."
     },
     {
@@ -2613,7 +2872,7 @@
       "title": "3D Animator for Zack D. Films - Style Videos",
       "sourceUrl": "https://www.freelancer.com/projects/rendering/Animator-for-Zack-Films-Style",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 96,
@@ -2632,6 +2891,8 @@
           "label": "edu_research_3d"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "We understand you need punchy, fast‑paced 3D shorts that teach science, history and curiosities to a Spanish‑speaking audience, exactly like the style of Zack D. Films.  \nAt Voxel Studio we specialize in **Contenu 3D éducatif & recherche**, creating original, high‑energy animations that turn scripts into eye‑catching reels.  \nOur archive already includes **19 modules 3D éducatifs & de recherche**, proving we can deliver concise, impactful educational content at scale.  \nLet’s discuss how we can bring your next series to life – just drop me a line!"
     },
     {
@@ -2691,7 +2952,7 @@
       "title": "Engaging Educational YouTube Editing",
       "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Engaging-Educational-YouTube-Editing",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 96,
@@ -2710,6 +2971,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Bonjour !  \nJe comprends que chaque leçon de GC Ankur doit capter l’attention dès la première seconde tout en restant claire et structurée. Chez Voxel, nous transformons vos vidéos éducatives en expériences dynamiques grâce à des coupes rythmées, des zooms précis et des infographies motion‑graphics épurées qui illustrent formules et statistiques sans surcharge.  \n\nFort de nos 57 productions motion‑graphics produit & publicité (archive Voxel), nous garantissons des sous‑titres impeccables, des B‑roll pertinents et des transitions modernes qui renforcent votre message sans le distraire.  \n\nEnvoyez‑nous vos rushes et votre brief ; nous vous livrons la vidéo prête à publier, les .srt et le thumbnail en un clin d’œil.  \n\nPrêt à faire décoller votre chaîne ? 🎬"
     },
     {
@@ -2717,7 +2980,7 @@
       "title": "Warehouse Induction Video Production",
       "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Warehouse-Induction-Video-Production",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Australie",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 96,
@@ -2736,6 +2999,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": -25,
+      "lon": 133,
       "proposalDraft": "We understand you need a concise, safety‑focused induction video that marries crisp on‑site footage with clear, colour‑coded animated overlays for entrances, storage zones and evacuation routes. At Voxel we specialize in Motion‑Graphics Produit & Pub, turning complex layouts into instantly readable visual guides. Our archive already counts 57 motion‑graphics productions for product and advertising, many of which blend live‑action with precise call‑outs just like the video you envision. Let’s schedule a quick call to discuss your script and storyboard so we can bring your warehouse orientation to life."
     },
     {
@@ -2795,7 +3060,7 @@
       "title": "Gujarati Song Promotional Video Editing",
       "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Gujarati-Song-Promotional-Video-Editing",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 96,
@@ -2814,6 +3079,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "હેલો, અમે તમારી ગુજરાતી ગીતની ભાવનાઓ અને બેંકની બ્રાન્ડને સંપૂર્ણ રીતે પ્રતિબિંબિત કરતી 3‑મિનિટની પ્રમોશનલ વિડિયો બનાવવા માંગીએ છીએ. Voxel Studioમાં, અમે ખાસ કરીને **મોશન ગ્રાફિક્સ પ્રોડક્ટ & પબ્લિસિટી**માં નિષ્ણાત છીએ, જેથી ગીતની લિરિક્સને જીવંત ટેક્સ્ટ ઓવરલેઝ, ટ્રાન્ઝિશન અને અસરોથી સુમેળમાં મૂકી શકીએ. અમારા આર્કાઇવમાં **57 સફળ મોશન ગ્રાફિક્સ પ્રોડક્ટ અને જાહેરાત પ્રોજેક્ટ્સ**નો પુરાવો છે, જે તમારી અપેક્ષાઓને પૂર્ણ કરશે. શું આપણે આ પ્રોજેક્ટને સાથે આગળ વધારીને એક અસરકારક વિડિયો બનાવી શકીએ? મને જાણાવો!"
     },
     {
@@ -2847,7 +3114,7 @@
       "title": "YouTube Cinematic Food Storytelling",
       "sourceUrl": "https://www.freelancer.com/projects/cinematography/YouTube-Cinematic-Food-Storytelling",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 95,
@@ -2866,6 +3133,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Nous avons bien saisi votre ambition : transformer une simple idée culinaire en une mini‑film YouTube captivant, tout en livrant un Reel Instagram percutant. Chez Voxel, nous mettons notre expertise en **motion graphics produit & pub** au service de votre storytelling, en synchronisant voix‑off, animations d’ouverture/fermeture et transitions fluides. Avec **57 productions motion graphics produit & publicité** à notre actif, nous savons créer le rythme et la couleur qui retiennent l’audience. Prêt·e à donner vie à votre recette en vidéo ? Discutons-en rapidement !"
     },
     {
@@ -2899,7 +3168,7 @@
       "title": "Sci-Fi 2D & 3D Animation",
       "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Versatile-Animation",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Nouvelle-Zélande",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 95,
@@ -2918,6 +3187,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": -41,
+      "lon": 174,
       "proposalDraft": "Chez Voxel, nous comprenons que votre projet mêle exigences 2D et 3D pour donner vie à des personnages uniques. Notre service d’**Animation de personnages** combine le meilleur des deux mondes, garantissant fluidité et cohérence visuelle. Avec **44 projets d’animation de personnages & cartoon** déjà réalisés dans nos archives, nous savons transformer vos concepts en mouvements mémorables. Discutons rapidement de la façon dont nous pouvons enrichir votre court‑terme !"
     },
     {
@@ -2925,7 +3196,7 @@
       "title": "Polished Instagram Reels Video Editing",
       "sourceUrl": "https://www.freelancer.com/projects/video-production/Polished-Instagram-Reels-Video-Editing",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 95,
@@ -2944,6 +3215,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Nous avons bien compris que vous avez besoin d’un éditeur réactif capable de transformer vos rushes hebdomadaires en Reels Instagram percutants, toujours alignés sur votre charte et au rythme juste. Chez Voxel, nous spécialisons nos motion graphics produit & pub pour créer des transitions fluides, du texte animé et des sous‑titres dynamiques qui captent l’attention dès la première seconde. Notre archive compte déjà **57 productions motion graphics produit & publicité**, preuve que nous maîtrisons l’esthétique soignée que vous recherchez.  \nPrêt à faire briller vos prochains Reels ? Envoyez‑nous vos premiers rushes et découvrons ensemble comment les sublimer."
     },
     {
@@ -2951,7 +3224,7 @@
       "title": "Mobile Game VFX and Animation Designer",
       "sourceUrl": "https://www.freelancer.com/projects/unity/Mobile-Game-VFX-Animation-Designer",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 93,
@@ -2970,6 +3243,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Nous avons bien saisi que votre jeu rythmique mobile a besoin d’animations ultra‑dynamiques – des faisceaux de feu et d’électricité aux effets de choc parfaits – pour immerger les joueurs dans une ambiance concert néon. Chez Voxel, nous transformons ce type de besoins en motion‑graphics produit & pub, en créant des boucles vidéo impeccables et des animations codées prêtes à être intégrées. Notre archive compte **57 productions motion graphics produit & publicité**, dont plusieurs projets à forte intensité visuelle similaires aux vôtres. Nous serions ravis de mettre notre expertise au service de votre titre et de lancer les premiers prototypes dès que vous le souhaitez.  \n\n**Discutons‑en ?**"
     },
     {
@@ -2977,7 +3252,7 @@
       "title": "Long-Form Video Editor & Animator — Faceless Finance Comedy Channel (Stickman Style, Ongoing)",
       "sourceUrl": "https://www.freelancer.com/projects/video-editing/Long-Form-Video-Editor-Animator",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 93,
@@ -2996,6 +3271,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Nous avons bien compris que vous avez besoin d’un partenaire capable de transformer vos scripts et voice‑overs en épisodes stick‑man fluides, synchronisés image‑par‑image, avec un design sonore qui garde le ton ludique et la durée exacte de 8 minutes. Chez Voxel, nous spécialisons notre studio dans le **motion graphics produit & pub**, ce qui nous permet de créer des visuels percutants et cohérents d’un épisode à l’autre, tout en respectant vos repères de temps. Notre archive compte **57 productions motion graphics produit & publicité**, preuve que nous maîtrisons la constance visuelle et la rapidité d’exécution que vous recherchez.  \nPrêt à donner vie à vos histoires financières avec le même style stick‑figure à chaque fois ? Discutons‑en rapidement !"
     },
     {
@@ -3055,7 +3332,7 @@
       "title": "3D Animator for YouTube",
       "sourceUrl": "https://www.freelancer.com/projects/rendering/Animator-for-YouTube",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 93,
@@ -3074,6 +3351,8 @@
           "label": "edu_research_3d"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Bonjour, je suis Voxel et je comprends que vous cherchez à dynamiser votre chaîne YouTube avec des animations 3D à la fois captivantes et pédagogiques. Notre service **Contenu 3D éducatif & recherche** transforme des concepts complexes en vidéos claires et attractives. À titre d’exemple, nous avons déjà réalisé **19 modules 3D éducatifs & de recherche** disponibles dans notre archive Voxel. Ces références montrent notre capacité à allier créativité et rigueur scientifique. Discutons rapidement de votre projet !"
     },
     {
@@ -3211,7 +3490,7 @@
       "title": "Short Tutorial Video & Thumbnail Editing -- 2",
       "sourceUrl": "https://www.freelancer.com/projects/audio-editing/Short-Tutorial-Video-Thumbnail-Editing",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 90,
@@ -3230,6 +3509,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "Bonjour ! Vous avez besoin de transformer vos séquences de tutoriels en vidéos courtes, dynamiques et parfaitement brandées, avec des miniatures qui captent l’œil dès le premier coup d’œil. Chez Voxel, nous spécialisons notre motion‑graphics produit & pub pour injecter du texte animé, des call‑outs graphiques et un mix audio ultra‑propre, exactement ce qui rend vos leçons percutantes sur YouTube et les réseaux sociaux. Notre archive compte déjà **57 productions motion‑graphics produit & publicité**, preuve que nous savons allier efficacité et créativité sur ce type de format. Vous pouvez d’ores et déjà découvrir un exemple de notre travail combiné vidéo + thumbnail ici : [lien].  \nPrêt à donner à chaque tutoriel le coup de pouce visuel qui le fera décoller ? Discutons‑en !"
     },
     {
@@ -3263,7 +3544,7 @@
       "title": "Custom AI Video Production",
       "sourceUrl": "https://www.freelancer.com/projects/after-effects/Custom-Video-Production",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "Inde",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 87,
@@ -3282,6 +3563,8 @@
           "label": "product_ad_motion"
         }
       ],
+      "lat": 20.6,
+      "lon": 78.9,
       "proposalDraft": "We understand you need a truly bespoke AI‑generated video that goes beyond any template, mixing dynamic graphics, avatars and other creative touches. At Voxel we specialize in motion‑graphics for products and advertising, and we can blend the latest AI tools with our own expertise to bring your unique concept to life. Our archive already showcases 57 motion‑graphics productions for product and pub campaigns, proof that we can deliver polished, high‑impact visuals. Let’s hop on a quick call to exchange references and outline the next steps."
     },
     {
@@ -3289,7 +3572,7 @@
       "title": "Realistic VR Toothbrush Character Costume",
       "sourceUrl": "https://www.freelancer.com/projects/3d-art/Realistic-Toothbrush-Character-Costume",
       "source": "marketplace:freelancer",
-      "country": "Remote",
+      "country": "États-Unis",
       "noticeType": "Projet freelance",
       "deadline": "",
       "priority": 85,
@@ -3308,6 +3591,8 @@
           "label": "character_animation"
         }
       ],
+      "lat": 38,
+      "lon": -97,
       "proposalDraft": "Bonjour,  \nJe comprends que vous avez besoin d’un costume VR ultra‑réaliste pour votre personnage brosse à dents verte, avec des poils texturés qui donnent vie à chaque mouvement. Chez Voxel, nous transformons ce type de concept en animations de personnages fluides et crédibles, grâce à notre expertise en modélisation 3D et textures détaillées. À ce jour, nous avons livré **44 projets d’animation de personnages & cartoon** (archive Voxel), dont plusieurs avec des exigences de réalisme similaires.  \nPrêt à donner à votre brosse à dents une présence immersive en VR ? Discutons-en rapidement."
     }
   ]
