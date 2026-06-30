@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T15:51:51+00:00",
+  "generatedAt": "2026-06-30T16:37:31+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 157,
+  "total": 159,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 62
+      "count": 63
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 40
+      "count": 41
     },
     {
       "name": "Australie",
@@ -3617,6 +3617,34 @@
       "proposalDraft": "We need to produce a short commercial pitch 4-6 sentences, in French? The instruction: \"Écris dans la langue du projet.\" The project description is in English (title, need). But the user wrote in French for instructions. The language of the project? The project is in English (the nonprofit, etc). Usually \"langue du projet\" means the language of the project description, which is English. So we should write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need six cohesive 30‑second videos that each drive a distinct CTA while sharing a unified brand identity for YourPlace Community Foundation.\n\nSentence 2: Our Motion graphics produit & pub service specializes in creating branded intro/outro animations, consistent color palettes, typography, music and voice‑over style that tie a series together.\n\nSentence 3: With 57 motion‑graphics product and advertising pieces in our archive—including the recent “Shapes Animation” (product_ad_motion, 2020)—we have proven ability to deliver high‑impact, on‑brand video assets.\n\nSentence 4: We’ll translate each theme—from sponsoring a senior to partnering with community organizations—into polished 30‑"
     },
     {
+      "id": "freelancer:40541637",
+      "title": "30-Second Brand Motion Graphic",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Second-Brand-Motion-Graphic",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de motion graphics produit de 30 s pour publicité"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, and ending with a light CTA. Must be in language of the project (English). No fluff, no price. Cite the concrete project as proof of our historical record (domain + year, without client name). So we mention \"2d FX\" (product_ad_motion, 2014). Must be 4-6 sentences. Let's craft maybe 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a punchy 30‑second 2D motion‑graphics video that highlights your product while boosting brand awareness for social‑first paid ads.\"\n\nSentence 2: Link to service: \"Our Motion graphics produit & pub service is built exactly for turning product photos, benefit lists and brand guidelines into fresh, energetic videos that feel on‑brand from frame one.\"\n\nSentence 3: Cite proof: \"To date we have delivered 57 motion‑graphics product and advertising pieces in our archive, including a 2D FX product‑ad motion piece from 2014 that demonstrates our ability to marry tight timing with strong visual storytelling.\"\n\nSentence 4: Offer process: \"We can deliver a quick concept outline and storyboard within a few days, followed by the final 1080p MP4, source files and a square/vertical cut‑down for Instagram/TikTok.\"\n\nSentence 5: CTA: \"If the timeline works for you, let’s kick off the storyboard today"
+    },
+    {
       "id": "freelancer:40545736",
       "title": "Mobile Game VFX and Animation Designer",
       "sourceUrl": "https://www.freelancer.com/projects/unity/Mobile-Game-VFX-Animation-Designer",
@@ -4411,6 +4439,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "Nousavons saisi que Blinq Mobility recherche des animations web haute fidélité, techniques et premium, avec des courbes d’easing industrielles pour illustrer son mécanisme de swap et ses benchmarks d’efficacité. Chez Voxel Studio, notre"
+    },
+    {
+      "id": "freelancer:40550840",
+      "title": "Energetic Live-Action YouTube Intro",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Energetic-Live-Action-YouTube-Intro",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "I understand you need a 5‑10 second, high‑energy live‑action YouTube intro that mixes real footage with punchy special effects, quick cuts, and your logo seamlessly composited for maximum impact. At Voxel Studio we specialize in crafting exactly that—dynamic, brand‑focused intros that blend live‑action shots with motion"
     }
   ]
 }
