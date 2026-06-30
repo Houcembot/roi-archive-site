@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T09:54:22+00:00",
+  "generatedAt": "2026-06-30T10:37:00+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 122,
+  "total": 125,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -346,6 +346,57 @@
           "label": "product_ad_motion"
         }
       ]
+    },
+    {
+      "id": "freelancer:40546094",
+      "title": "40-Second 3D Product Explainer",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Second-Product-Explainer",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 98,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation 3D produit conforme aux exigences du client"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40535594",
+      "title": "High-End Electronics 3D Renders",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/High-End-Electronics-Renders",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 98,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de rendus 3D photoréalistes de produits électroniques"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "We understand you need photorealistic 3D assets that showcase every port, logo and surface finish at 4K plus, with clean Blender/3ds Max files, Substance Painter textures and optional turntable animations. At Voxel Studio we specialize in motion‑graphics for product and advertising, turning high‑detail models into compelling visual stories that fit seamlessly into your workflow. Our archive already holds **57 motion‑graphics productions for product & pub**, proving we can deliver the precision and polish you expect. Let’s connect and see how we can bring your electronics to life — just drop me a line!"
     },
     {
       "id": "freelancer:40548575",
@@ -1722,7 +1773,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour ! Chez Voxel, nous avons bien saisi que vous avez besoin de visuels cohérents et percutants pour vos posts quotidiens et vos vidéos promotionnelles, adaptés à chaque format Instagram, Facebook et YouTube. Notre service **Motion graphics produit & pub** transforme vos briefs et vos rushes en clips dynamiques avec texte animé, palette de couleurs unifiée et musiques libres de droits, tout en livrant les fichiers prêts à publier. Pour vous rassurer, nous comptons déjà **57 productions motion graphics produit & publicité** dans notre archive, dont plusieurs campagnes social media qui ont boosté l’engagement de nos clients. Prêt·e à voir vos contenus arrêter le scroll ? Échangeons rapidement sur votre prochain projet."
     },
     {
       "id": "freelancer:40548265",
@@ -2267,7 +2319,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous avons parfaitement saisi votre besoin : un hero‑video cinématographique qui, en 30‑45 secondes, raconte qui vous êtes, ce que vous faites et la premium‑té de votre marque.  \nNotre expertise en **motion graphics produit & pub** nous permet de créer des environnements futuristes, des mouvements de caméra fluides et des éclairages réalistes, exactement le style moderne et high‑end que vous recherchez.  \nAvec **57 productions motion graphics produit & publicité** à notre actif, nous savons comment transformer des concepts d’IA, d’automatisation et de connectivité globale en visuels percutants.  \nDiscutons rapidement de votre scénario : quel message clé souhaitez‑vous mettre en avant en premier ?"
     },
     {
       "id": "freelancer:40549923",
@@ -2292,7 +2345,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour, je suis Voxel ! J’ai bien compris que vous cherchez des vidéos courtes qui captent l’attention dès les deux premières secondes et transforment le scroll en achat. Chez Voxel Studio, nous créons des motion‑graphics produit & pub qui allient storytelling percutant, esthétique soignée et voix off professionnelle, exactement ce qu’il vous faut pour Instagram Reels, TikTok ou WhatsApp. Notre archive compte déjà **57 productions motion‑graphics produit & publicité** qui ont boosté les conversions de nos clients. Vous voulez voir comment on peut faire briller votre produit ? Envoyez‑moi un brief et lançons la création ensemble !"
     },
     {
       "id": "freelancer:40541086",
@@ -2680,7 +2734,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "We get that your school’s festivals, sports meets and award ceremonies need fast, meme‑ready reels that capture both the energy and the warmth of campus life. At Voxel we specialize in motion‑graphics product & pub videos, turning raw footage into punchy 30‑60 s vertical reels with bilingual captions, trending audio and dynamic graphics. Our archive already boasts 57 motion‑graphics productions for product and advertising, proving we can deliver the high‑impact style you’re after. Ready to turn your next event into scroll‑stopping content within 48 hours? Send us the first batch of footage and let’s get editing!"
     },
     {
       "id": "freelancer:40546095",
@@ -2835,7 +2890,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous comprenons que votre projet mêle exigences 2D et 3D pour donner vie à des personnages uniques. Notre service d’**Animation de personnages** combine le meilleur des deux mondes, garantissant fluidité et cohérence visuelle. Avec **44 projets d’animation de personnages & cartoon** déjà réalisés dans nos archives, nous savons transformer vos concepts en mouvements mémorables. Discutons rapidement de la façon dont nous pouvons enrichir votre court‑terme !"
     },
     {
       "id": "freelancer:40550072",
@@ -3044,6 +3100,31 @@
         }
       ],
       "proposalDraft": "Nous avons bien compris que votre priorité est de transformer des scans photogrammétriques déjà très précis en modèles Blender impeccables, prêts pour le WebAR. Chez Voxel, notre service « Scan 3D / photogrammétrie / patrimoine » excelle à nettoyer, combler les trous et optimiser la topologie tout en conservant la fidélité des textures. Nous pouvons le prouver : plus de 55 projets de scan 3D et de photogrammétrie du patrimoine sont déjà archivés dans notre portfolio Voxel.  \n\nPrêt à tester notre expertise sur votre premier modèle ? Faites‑nous signe et nous lancerons le processus de nettoyage dès que vous le souhaiterez."
+    },
+    {
+      "id": "freelancer:40550073",
+      "title": "Trading Psychology Video Series",
+      "sourceUrl": "https://www.freelancer.com/projects/content-creation/Trading-Psychology-Video-Series",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 93,
+      "subject": "edu_research_3d",
+      "primarySegment": "formation",
+      "segments": [
+        "formation"
+      ],
+      "fitReasons": [
+        "Création de vidéos e‑learning éducatives, contenu créatif demandé"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "edu_research_3d",
+          "label": "edu_research_3d"
+        }
+      ]
     },
     {
       "id": "freelancer:40541144",
