@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T03:52:45+00:00",
+  "generatedAt": "2026-06-30T04:42:17+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 92,
+  "total": 98,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -1718,7 +1718,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Chez Voxel, nous comprenons que votre vidéo promo doit capter l’attention en quelques secondes et fonctionner parfaitement sur LinkedIn, Instagram, Facebook et TikTok.  \nNous transformons vos rushes, logos et chartes en un montage dynamique de 60‑120 s, avec pacing précis, étalonnage, motion‑graphics et sous‑titres intégrés, le tout livré via Descript.  \nNotre archive compte déjà **57 productions motion‑graphics produit & publicité**, preuve que nous maîtrisons chaque exigence technique et créative.  \nPrêt à voir votre concept prendre vie et être prêt à publier dès aujourd’hui ? Faisons‑le ensemble."
     },
     {
       "id": "freelancer:40549298",
@@ -1820,6 +1821,108 @@
         }
       ],
       "proposalDraft": "Chez Voxel, nous avons bien saisi votre besoin : créer des vidéos où l’animation générée par IA glisse naturellement sur des images réelles, sans jamais rompre l’immersion. C’est exactement le type de **motion‑graphics produit & pub** que nous maîtrisons, du script à la version finale 1080 p, avec voix‑off, musiques libres de droits et deux cycles de retouches. Notre archive compte **57 productions motion‑graphics produit & publicité**, dont plusieurs mêlant IA et prises de vue réelles, preuve de notre capacité à harmoniser ces deux univers. Vous voulez voir comment nous faisons le pont entre le digital et le réel ? Échangeons rapidement sur votre premier storyboard."
+    },
+    {
+      "id": "freelancer:40549410",
+      "title": "Couple romantic anime video created using given referwnce couple photos - 25-30 seconds",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-modelling/Couple-romantic-anime-video-created",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation 3D de personnages romantiques"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "proposalDraft": "Bonjour,  \nNous avons bien compris que vous souhaitez offrir à votre épouse une courte vidéo 3D inspirée de l’univers Ghibli, avec une scène romantique et émouvante à livrer avant le 4 juillet.  \nChez Voxel Studio, nous spécialisons l’animation de personnages et nous savons créer ce type de moments magiques qui touchent le cœur.  \nÀ ce jour, nous comptons **44 projets d’animation de personnages & cartoon** dans nos archives, dont plusieurs scènes d’amour délicates et stylisées.  \nDiscutons rapidement de votre scénario pour que nous puissions le mettre en mouvement dès maintenant."
+    },
+    {
+      "id": "freelancer:40547176",
+      "title": "Hindi-English School Reels Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/Hindi-English-School-Reels-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Montage Reels avec motion graphics, musique et sous-titres"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40546639",
+      "title": "Dynamic Video Trailer with VFX",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Dynamic-Video-Trailer-with-VFX",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo promo avec VFX et motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40546226",
+      "title": "Daily AI Skincare TikToks",
+      "sourceUrl": "https://www.freelancer.com/projects/content-creation/Daily-Skincare-TikToks",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos TikTok promotion produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "We get that you need a daily stream of TikTok‑ready skincare clips that feel native, trend‑savvy, and showcase unmistakable before‑after transformations. At Voxel we specialize in product‑focused motion graphics, turning brand assets into punchy vertical videos that hook viewers in the first seconds. Our archive already holds **57 motion‑graphics productions for product and advertising campaigns**, proving we can deliver the speed and polish you require. Leveraging tools like Higgsfield AI, Runway and ElevenLabs, we’ll craft each 9:16 video with on‑point captions, audio trends and seamless compositing. Ready to fire up the pipeline today? Let’s sync our Trello board and start rolling out those viral clips."
     },
     {
       "id": "freelancer:40548317",
@@ -2025,7 +2128,8 @@
           "capability": "edu_research_3d",
           "label": "edu_research_3d"
         }
-      ]
+      ],
+      "proposalDraft": "We understand you need punchy, fast‑paced 3D shorts that teach science, history and curiosities to a Spanish‑speaking audience, exactly like the style of Zack D. Films.  \nAt Voxel Studio we specialize in **Contenu 3D éducatif & recherche**, creating original, high‑energy animations that turn scripts into eye‑catching reels.  \nOur archive already includes **19 modules 3D éducatifs & de recherche**, proving we can deliver concise, impactful educational content at scale.  \nLet’s discuss how we can bring your next series to life – just drop me a line!"
     },
     {
       "id": "freelancer:40549039",
@@ -2129,6 +2233,31 @@
       ]
     },
     {
+      "id": "freelancer:40546167",
+      "title": "Hindi-English School Reel Editor",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Hindi-English-School-Reel-Editor",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande montage vidéo avec motion graphics, texte bilingue, création de reels."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
       "id": "freelancer:40541968",
       "title": "YouTube Cinematic Food Storytelling",
       "sourceUrl": "https://www.freelancer.com/projects/cinematography/YouTube-Cinematic-Food-Storytelling",
@@ -2153,6 +2282,32 @@
         }
       ],
       "proposalDraft": "Nous avons bien saisi votre ambition : transformer une simple idée culinaire en une mini‑film YouTube captivant, tout en livrant un Reel Instagram percutant. Chez Voxel, nous mettons notre expertise en **motion graphics produit & pub** au service de votre storytelling, en synchronisant voix‑off, animations d’ouverture/fermeture et transitions fluides. Avec **57 productions motion graphics produit & publicité** à notre actif, nous savons créer le rythme et la couleur qui retiennent l’audience. Prêt·e à donner vie à votre recette en vidéo ? Discutons-en rapidement !"
+    },
+    {
+      "id": "freelancer:40546019",
+      "title": "Video Editing & Social Media posters, logo, flyer,...",
+      "sourceUrl": "https://www.freelancer.com/projects/canva/Video-Editing-Social-Media-posters",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo et motion graphics pour campagne marketing"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "Bonjour, j’ai bien saisi que vous cherchez à transformer vos rushes bruts en une vidéo percutante, enrichie de motion‑graphics et de transitions fluides, tout en créant une série de visuels sociaux parfaitement alignés avec votre charte graphique.  \nChez Voxel, nous spécialisons le motion‑graphics produit & pub ; nos équipes maîtrisent Premiere Pro, After Effects, Photoshop et Illustrator pour livrer des fichiers prêts à être ajustés en interne.  \nNous nous appuyons sur notre archive de **57 productions motion‑graphics produit & publicité** pour garantir un rendu à la fois créatif et efficace.  \nPrêt à discuter du timing et des premiers concepts ? Écrivez‑moi et lançons la conversation."
     },
     {
       "id": "freelancer:40545736",
