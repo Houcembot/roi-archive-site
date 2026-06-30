@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T05:26:40+00:00",
+  "generatedAt": "2026-06-30T06:13:31+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 103,
+  "total": 107,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -241,7 +241,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour,  \nJe comprends que vous avez besoin de vidéos courtes ultra‑dynamiques, parfaitement rythmées et enrichies de sous‑titres et de motion graphics pour Instagram Reels, TikTok, Shorts et Facebook Ads.  \nChez Voxel, nous transformons vos rushes et vos assets brandés en contenus percutants grâce à notre service **Motion graphics produit & pub**, alliant montage précis, étalonnage et animations sur mesure.  \nNotre archive compte **57 productions motion graphics produit & publicité**, preuve de notre capacité à livrer des vidéos qui captivent et convertissent.  \nPrêt à donner vie à vos campagnes ? Envoyez‑nous vos premiers briefs, et lançons la création ensemble."
     },
     {
       "id": "freelancer:40548116",
@@ -1898,7 +1899,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Nous avons bien saisi votre envie d’un trailer ultra‑dynamique, mêlant VFX percutants, transitions glitch et typographie cinétique qui suit le rythme de votre voix‑off. Chez Voxel, nous transformons ce type de brief en motion‑graphics produit & pub, en créant des visuels qui captivent dès les premières secondes. Notre archive compte déjà **57 productions motion graphics produit & publicité**, dont plusieurs campagnes virales sur Instagram Reels et TikTok. Nous serions ravis de mettre notre expertise au service du lancement de votre album.  \nVous avez un moment pour en discuter rapidement ?"
     },
     {
       "id": "freelancer:40546226",
@@ -1949,7 +1951,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour !  \nJe comprends que vous avez besoin d’un reel vertical percutant qui transforme vos clips bruts et votre logo en une séquence Instagram fluide, avec des coupes serrées, des animations légères et une bande‑son qui colle à votre ton. Chez Voxel, nous spécialisons le motion‑graphics produit & pub : nous concevons le concept créatif, montons sous Premiere/DaVinci, intégrons le logo de façon organique et optimisons le color‑grade pour le mobile. Notre archive compte **57 productions motion‑graphics produit & publicité**, preuve que nous savons rendre chaque marque mémorable en quelques secondes.  \nDiscutons rapidement de votre story‑board et du planning : quand pouvons‑nous commencer ?"
     },
     {
       "id": "freelancer:40545783",
@@ -1993,6 +1996,56 @@
       ],
       "fitReasons": [
         "Demande montage vidéo avec motion graphics, texte animé, transitions."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40549556",
+      "title": "Viral World Cup Short Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Viral-World-Cup-Short-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo courte avec motion graphics virale"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40540372",
+      "title": "Instagram Product Showcase Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Instagram-Product-Showcase-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo produit avec motion graphics Instagram"
       ],
       "buyer": "freelancer",
       "archiveMatches": [
@@ -2181,7 +2234,8 @@
           "capability": "character_animation",
           "label": "character_animation"
         }
-      ]
+      ],
+      "proposalDraft": "We understand you need a vintage‑style concert‑hall video where your portrait sings flawlessly, backed by a lifelike, era‑appropriate band. At Voxel Studio we specialize in character animation, and our pipeline can rig your image, sync every lyric with AI‑driven lip‑matching, and animate the musicians with realistic motion. Our archive already includes 44 character‑animation and cartoon projects, so we know how to make a performance feel truly alive. Let’s chat about how we can bring your classic jazz vision to screen."
     },
     {
       "id": "freelancer:40548956",
@@ -2352,6 +2406,57 @@
       ],
       "fitReasons": [
         "Production vidéo et motion graphics pour film d'anniversaire"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "Nous avons bien saisi que vous cherchez à transformer des anecdotes et des souvenirs en un mini‑spectacle dynamique de 15 minutes, avec des interviews rythmées, des lower‑thirds percutants et des transitions musicales qui gardent l’énergie au top. Chez Voxel, nous mettons notre expertise en motion‑graphics produit & pub au service de ce type de storytelling : nous assurons la captation multi‑caméra, le direction‑coach des intervenants, puis le montage, le color‑grading et l’ajout de graphismes animés qui font ressortir chaque invité. Notre archive compte déjà **57 productions motion‑graphics produit & publicité**, preuve que nous savons créer des vidéos à la fois fun et parfaitement polies. Prêt à donner vie à ce “This Is Your Life” qui marquera les esprits ? Discutons des dates et du planning pour que tout soit prêt avant la fête."
+    },
+    {
+      "id": "freelancer:40549608",
+      "title": "Gujarati Song Promotional Video Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Gujarati-Song-Promotional-Video-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo promotionnelle avec motion graphics demandée"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40543093",
+      "title": "Lead-Gen VSL Automation Setup",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Lead-Gen-VSL-Automation-Setup",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo, script, visuels et montage pour VSL marketing."
       ],
       "buyer": "freelancer",
       "archiveMatches": [
