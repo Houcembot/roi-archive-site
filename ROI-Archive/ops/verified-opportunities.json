@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T11:56:43+00:00",
+  "generatedAt": "2026-06-30T12:09:28+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 128,
+  "total": 132,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 47
+      "count": 50
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 28
+      "count": 29
     },
     {
       "name": "Royaume-Uni",
@@ -81,7 +81,8 @@
   "segments": [
     "animation",
     "rnd",
-    "formation"
+    "formation",
+    "medical"
   ],
   "errors": [],
   "items": [
@@ -410,7 +411,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour,\n\nJe comprends que vous souhaitez mettre en valeur chaque détail de votre montre – design, fonctions et logo – dans une animation ultra‑réaliste qui capte l’attention en un clin d’œil. Chez Voxel, nous transformons ce besoin en motion‑graphics produit & pub percutants, en jouant sur la lumière, les matériaux et le storytelling visuel. Notre archive compte déjà **57 productions motion graphics produit & publicité**, dont de nombreuses animations horlogères qui ont boosté les ventes de nos clients. J’adorerais vous montrer comment nous pouvons faire briller votre montre de la même façon.\n\nUn petit échange pour en parler ?"
     },
     {
       "id": "freelancer:40546094",
@@ -2674,6 +2676,89 @@
       "lon": -97
     },
     {
+      "id": "freelancer:40550223",
+      "title": "Animated Company Profile PPT & Video",
+      "sourceUrl": "https://www.freelancer.com/projects/graphic-design/Animated-Company-Profile-PPT-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation PowerPoint et vidéo marketing"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Bonjour,\n\nJ’ai bien compris que vous cherchez un deck PowerPoint animé qui devienne aussi une vidéo de 3 minutes, avec un ton détendu mais professionnel, et des animations fluides pour raconter votre histoire et mettre en avant vos fonctionnalités.  \n\nChez Voxel, nous transformons ce type de besoin en motion‑graphics percutants, que ce soit sous PowerPoint, After Effects ou Premiere Pro, tout en conservant les fichiers entièrement éditables.  \n\nNous avons déjà réalisé **57 productions motion‑graphics produit & publicité** (archive Voxel), dont plusieurs decks interactifs et vidéos d’entreprise qui allient storytelling casual et finition haut de gamme.  \n\nEnvoyez‑moi votre brief détaillé et je vous prépare rapidement un aperçu qui correspondra à votre vision."
+    },
+    {
+      "id": "freelancer:40539380",
+      "title": "AI-Enhanced Face Music Video Recreation",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Enhanced-Face-Music-Video-Recreation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo motion graphics avec compositing AI"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a flawless face‑swap that places the singer’s exact likeness into a fully AI‑generated, rhythm‑driven landscape—from mountains and forest to a Jain temple scene. At Voxel we specialize in motion‑graphics for product and brand storytelling, and our pipeline (After Effects + DaVinci Resolve + AI tools) delivers the seamless tracking, lighting matching and colour‑grading you require. Our archive already counts **57 motion‑graphics productions for product & advertising**, proving we can blend realistic environments with precise facial integration. Let’s chat about the workflow that will bring your vision to life—when are you available for a quick call?"
+    },
+    {
+      "id": "freelancer:40538461",
+      "title": "3D AI Promotional Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Promotional-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation 3D promotionnelle avec personnages et produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
+    },
+    {
       "id": "freelancer:40548317",
       "title": "Inspiring AI Promo Video for Welfare Center",
       "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Inspiring-Promo-Video-for-Welfare",
@@ -3108,6 +3193,33 @@
         }
       ],
       "proposalDraft": "Bonjour,  \nJe comprends que vous avez besoin d’une VSL percutante qui explique scientifiquement votre méthode, montre des témoignages authentiques et guide pas à pas les diabétiques vers la rémission, tout en automatisant la capture et le nurturing des leads via n8n.  \nChez Voxel, nous créons des motion‑graphics produit & pub qui transforment ces messages complexes en visuels clairs et engageants ; notre archive compte déjà **57 productions** de ce type, preuve de notre expertise.  \nNous pouvons livrer le script, le storyboard, la vidéo HD finalisée et le workflow n8n entièrement documenté, prêt à être intégré à votre page.  \nDiscutons rapidement de votre projet pour lancer la première version !"
+    },
+    {
+      "id": "freelancer:40539482",
+      "title": "Modern Arabic Neuroscience Video Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Modern-Arabic-Neuroscience-Video-Edit",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 96,
+      "subject": "medical_sci_3d",
+      "primarySegment": "medical",
+      "segments": [
+        "medical"
+      ],
+      "fitReasons": [
+        "Demande d'animation 3D scientifique pour vidéo éducative."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "medical_sci_3d",
+          "label": "medical_sci_3d"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
     },
     {
       "id": "freelancer:40541968",
