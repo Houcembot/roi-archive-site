@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T07:43:59+00:00",
+  "generatedAt": "2026-06-30T08:24:16+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 114,
+  "total": 116,
   "countryCount": 0,
   "countries": [],
   "segments": [
@@ -317,7 +317,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour,  \nNous avons bien saisi votre besoin : un logo HWM qui se transforme lettre par lettre pour dynamiser votre splash screen et refléter l’innovation de votre marque tech.  \nChez Voxel, nous créons des motion‑graphics produit & pub sur‑mesure, capables de rendre chaque transition fluide et percutante, du glow initial au loop « breathing ».  \nNotre archive compte déjà **57 productions motion‑graphics produit & publicité**, dont plusieurs animations de logos qui ont boosté la visibilité de startups comme la vôtre.  \nDiscutons rapidement de vos idées et de la façon dont nous pouvons sublimer votre identité visuelle !"
     },
     {
       "id": "freelancer:40548575",
@@ -1744,7 +1745,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour,  \nJe comprends que vous avez besoin d’une vidéo de 30 s ultra‑précise pour mettre en avant les sites de votre agence, avec des captures fluides, des transitions légères et une musique d’ambiance discrète.  \nChez Voxel, nous transformons ce type de brief en motion‑graphics percutants : chaque écran que vous nous fournissez devient une séquence dynamique et parfaitement rythmée.  \nNotre archive compte déjà **57 productions motion‑graphics produit & publicité**, témoignant de notre maîtrise du format court et impactant.  \nPrêt à créer votre showcase ? Envoyez‑moi les URLs et vos indications, et lançons la première version dès cette semaine."
     },
     {
       "id": "freelancer:40547238",
@@ -1821,7 +1823,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour,  \nNous avons bien saisi votre besoin : des créatifs dynamiques pour Reels, posts et carrousels qui respectent vos chartes tout en captant l’attention sur Instagram et Facebook.  \nChez Voxel, nous transformons ces briefs en motion‑graphics produit & pub percutants, avec légendes animées et sound design adaptés aux tendances du moment.  \nNotre archive compte **57 productions motion graphics produit & publicité**, preuve de notre maîtrise du format et de la rapidité d’exécution.  \nPrêt·e à voir vos offres prendre vie en 48 h ? Discutons‑en rapidement !"
     },
     {
       "id": "freelancer:40546917",
@@ -1924,7 +1927,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Nous avons bien saisi que vous avez besoin de dix Reels dynamiques, bilingues Hindi‑English, qui captivent dès les premières secondes et gardent le spectateur jusqu’au final. Chez Voxel, nous transformons vos séquences brutes en vidéos verticales percutantes, avec montage rapide, étalonnage, sous‑titres fluides et une bande‑son originale qui souligne chaque moment fort. Notre expertise en motion graphics produit & pub s’appuie sur **57 productions** déjà réalisées dans notre archive, preuve que nous savons allier storytelling et design visuel. Prêt·e à voir vos moments scolaires prendre vie ? Envoyez‑nous le dossier et lançons la création ensemble."
     },
     {
       "id": "freelancer:40546639",
@@ -2053,7 +2057,8 @@
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
         }
-      ]
+      ],
+      "proposalDraft": "Bonjour, je suis Voxel de Voxel Studio.  \nJe comprends que vous cherchez à capter l’attention dès les premières secondes avec un montage dynamique, des motion‑graphics et du texte animé pour votre vidéo YouTube en hindi.  \nNotre expertise en **motion graphics produit & pub** nous permet de créer des transitions fluides, des icônes et des overlays qui racontent visuellement votre histoire.  \nNous avons déjà réalisé **57 productions motion graphics produit & publicité** (archive Voxel), ce qui garantit un rendu professionnel et engageant.  \nSi cela vous convient, échangeons rapidement sur votre script !"
     },
     {
       "id": "freelancer:40549556",
@@ -2199,6 +2204,31 @@
       ],
       "fitReasons": [
         "Création d'effets vidéo et motion graphics éducatifs"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ]
+    },
+    {
+      "id": "freelancer:40549864",
+      "title": "Cinematic 3D Website Hero Video",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Cinematic-Website-Hero-Video",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 97,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'une vidéo motion 3D promotionnelle pour site web"
       ],
       "buyer": "freelancer",
       "archiveMatches": [
@@ -2671,6 +2701,31 @@
         }
       ],
       "proposalDraft": "Bonjour, j’ai bien saisi que vous cherchez à transformer vos rushes bruts en une vidéo percutante, enrichie de motion‑graphics et de transitions fluides, tout en créant une série de visuels sociaux parfaitement alignés avec votre charte graphique.  \nChez Voxel, nous spécialisons le motion‑graphics produit & pub ; nos équipes maîtrisent Premiere Pro, After Effects, Photoshop et Illustrator pour livrer des fichiers prêts à être ajustés en interne.  \nNous nous appuyons sur notre archive de **57 productions motion‑graphics produit & publicité** pour garantir un rendu à la fois créatif et efficace.  \nPrêt à discuter du timing et des premiers concepts ? Écrivez‑moi et lançons la conversation."
+    },
+    {
+      "id": "freelancer:40549748",
+      "title": "Sci-Fi 2D & 3D Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Versatile-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de production d'animation 2D/3D créative"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ]
     },
     {
       "id": "freelancer:40545736",
