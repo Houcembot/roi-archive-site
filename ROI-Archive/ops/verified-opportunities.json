@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T08:16:00+00:00",
+  "generatedAt": "2026-07-01T09:01:37+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 171,
+  "total": 173,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 69
+      "count": 70
     },
     {
       "name": "États-Unis",
@@ -42,15 +42,15 @@
       "count": 45
     },
     {
-      "name": "Australie",
-      "lat": -25,
-      "lon": 133,
-      "count": 6
-    },
-    {
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
+      "count": 7
+    },
+    {
+      "name": "Australie",
+      "lat": -25,
+      "lon": 133,
       "count": 6
     },
     {
@@ -3701,6 +3701,34 @@
       "proposalDraft": "We understand you need a 60‑90‑second explainer that relies on kinetic typography, fluid motion‑graphics effects, and on‑brand colors to keep viewers engaged from start to finish."
     },
     {
+      "id": "freelancer:40552530",
+      "title": "Cinematic Trailer for \"Dominium: Our Hidden Reality\"",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Cinematic-Trailer-for-Dominium-Our",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production de trailer cinématographique correspond au service motion graphics produit & pub"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: the project is in English. So output English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Must mention domain + year without client name. So mention \"Course AI\" as product_ad_motion, 2021.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We grasp that Dominium needs a cinematic, mysterious trailer that hints at deeper layers of reality without sensationalism.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub expertise turns complex ideas into refined visual narratives.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product & advertising pieces in our archive—including the 2021 Course AI project—we have a proven track record of delivering high‑impact, atmospheric shorts.\"\n\nSentence 4: Maybe another sentence reinforcing: \"Each piece blends cosmic imagery, ancient symbolism and elegant typography to evoke curiosity and intellectual depth.\"\n\nSentence 5: CTA light: \"Let’s discuss how we can craft a 60‑90‑second trailer that captures Dominium’s essence.\"\n\nCheck length: 5 sentences. No price. No blabla. Good.\n\nMake sure first person (Voxel) – we used \"We\"."
+    },
+    {
       "id": "freelancer:40545736",
       "title": "Mobile Game VFX and Animation Designer",
       "sourceUrl": "https://www.freelancer.com/projects/unity/Mobile-Game-VFX-Animation-Designer",
@@ -4105,6 +4133,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We’ve read your brief for a premium 45‑6"
+    },
+    {
+      "id": "freelancer:40552524",
+      "title": "10 Branded Reels",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-illustrator/Branded-Reels",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de reels courts mettant en avant les caractéristiques produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since project language is French). Must be 1st person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"2012-10-TT Mode de paiement\" (product_ad_motion, 2012). Must not include blabla or price. Provide 4-6 sentences.\n\nLet's craft: \"Nous avons bien saisi votre besoin de dix reels verticaux ultra‑courts, chacun autour de deux secondes, pour mettre en avant les points forts de votre produit avec un style épuré et professionnel. Grâce à notre expertise en motion graphics produit & pub, nous transformons vos briefs en animations fluides, intégrant texte animé, wipes subtils et zooms légers tout en respectant scrupuleusement votre charte graphique. Notre archive témoigne de 57 productions motion graphics produit & publicité, dont le projet « 2012‑10‑TT Mode de paiement » (product_ad_motion, 2012) illustre notre capacité à livrer des fichiers sources Illustrator/Canva et des MP4 optimisés pour les réseaux sociaux. Nous sommes prêts à vous envoyer les premières maquettes dès réception des assets et à ajuster chaque version en fonction de vos retours rapides. Dites‑nous quand vous souhaitez lancer la première revue.\"\n\nThat's 5 sentences. Good. Ensure no price, no"
     },
     {
       "id": "freelancer:40548766",
