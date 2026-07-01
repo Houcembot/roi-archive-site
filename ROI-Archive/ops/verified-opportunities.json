@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T12:01:06+00:00",
+  "generatedAt": "2026-07-01T12:46:36+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 175,
+  "total": 176,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 70
+      "count": 71
     },
     {
       "name": "États-Unis",
@@ -4161,6 +4161,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since project language is French). Must be 1st person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"2012-10-TT Mode de paiement\" (product_ad_motion, 2012). Must not include blabla or price. Provide 4-6 sentences.\n\nLet's craft: \"Nous avons bien saisi votre besoin de dix reels verticaux ultra‑courts, chacun autour de deux secondes, pour mettre en avant les points forts de votre produit avec un style épuré et professionnel. Grâce à notre expertise en motion graphics produit & pub, nous transformons vos briefs en animations fluides, intégrant texte animé, wipes subtils et zooms légers tout en respectant scrupuleusement votre charte graphique. Notre archive témoigne de 57 productions motion graphics produit & publicité, dont le projet « 2012‑10‑TT Mode de paiement » (product_ad_motion, 2012) illustre notre capacité à livrer des fichiers sources Illustrator/Canva et des MP4 optimisés pour les réseaux sociaux. Nous sommes prêts à vous envoyer les premières maquettes dès réception des assets et à ajuster chaque version en fonction de vos retours rapides. Dites‑nous quand vous souhaitez lancer la première revue.\"\n\nThat's 5 sentences. Good. Ensure no price, no"
+    },
+    {
+      "id": "freelancer:40552884",
+      "title": "3D Product Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Product-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation produit pour visualisation concept"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need clear, engaging 3D product animations to visualize concepts.  \nAt Voxel Studio we specialize in motion graphics for product and advertising, turning ideas into high‑impact visual stories."
     },
     {
       "id": "freelancer:40548766",
