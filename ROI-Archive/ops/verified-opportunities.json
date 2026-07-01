@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T16:31:49+00:00",
+  "generatedAt": "2026-07-01T17:16:01+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 179,
+  "total": 180,
   "countryCount": 8,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 9
+      "count": 10
     },
     {
       "name": "Australie",
@@ -5027,6 +5027,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project title is English: \"Cartoon Animated Discord Portrait\". The language of the project? The description is in English. So we should write in English. Provide a short hook, first person (Voxel). Show understanding of need, relate to Voxel service, cite proof (archive proof), end), end with a light CTA. No price. Provide  but we need to include the proof placeholder? The user gave \"Preuve:\" but no content. Probably we need to reference that we have proof (maybe we can say \"as shown in our portfolio\" or \"as demonstrated in our archive proof\"). Since we don't have actual proof content, we can say \"as evidenced by our archive proof\". Provide CTA: \"Let's discuss your vision\" etc.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"I understand you want a lively, cartoon‑style animated portrait that reflects your Army Vet background, D&D DM role, love of LARP and Renfest, with a specific armor backdrop.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we specialize in crafting custom cartoon animations that blend personality‑driven character design with subtle, engaging motion.\"\n\nSentence 3: Cite proof: \"Our recent work, highlighted in the archive proof, includes animated Discord avatars for gamers and creators that feature blinking, head tilts and expressive laughter.\"\n\nSentence 4: Show capability: \"Our team’s expertise in"
+    },
+    {
+      "id": "freelancer:40553371",
+      "title": "Viral Social Ads for App",
+      "sourceUrl": "https://www.freelancer.com/projects/social-media-marketing/Viral-Social-Ads-for-App",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos courtes motion‑graphics pour ads sociales"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We understand you need scroll‑stopping, value‑"
     }
   ]
 }
