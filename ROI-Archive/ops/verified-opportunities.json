@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T05:15:25+00:00",
+  "generatedAt": "2026-07-01T06:01:45+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 166,
+  "total": 167,
   "countryCount": 8,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 5
+      "count": 6
     },
     {
       "name": "Europe",
@@ -4663,6 +4663,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "Nousavons bien saisi que vous cherchez à animer votre personnage félin"
+    },
+    {
+      "id": "freelancer:40552125",
+      "title": "Baby Poem 3D Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Baby-Poem-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation 3D"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "Weunderstand you need a polished 3D animation for your baby poem, complete with voice‑over, ready for You"
     }
   ]
 }
