@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T09:01:37+00:00",
+  "generatedAt": "2026-07-01T09:46:35+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 173,
+  "total": 174,
   "countryCount": 8,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 7
+      "count": 8
     },
     {
       "name": "Australie",
@@ -4859,6 +4859,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a sle"
+    },
+    {
+      "id": "freelancer:40552596",
+      "title": "Baseplans Event Planning Platform Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Baseplans-Event-Planning-Platform-Videos",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We understand you need a premium hero video that conveys “This would save us hours every event” and a set of punchy feature‑focused animations"
     }
   ]
 }
