@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T06:45:57+00:00",
+  "generatedAt": "2026-07-01T07:32:08+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 167,
+  "total": 169,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 66
+      "count": 68
     },
     {
       "name": "États-Unis",
@@ -3673,6 +3673,34 @@
       "proposalDraft": "We need to produce a<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>PushurpDow WitnessWonderurpWonderurpensitivitybxgraturpensitivityQuoteDash(LOGasowealthviaurpWonder VitalACPDowEmployeePromptPrompturp TT WitnessDow Employee BXbuginisturpTG lancfera Mist corri BXinib MrEmployeeumpingfwWonderfwDashWonderBVuniteurpaviaurp EmployeeBV CoachurpTvQuerarikatWonderaviaentzoomaviaBVurpftime BX MistEyeEyewandfwffeBVuniteurpläBVurpiachpushfrontPushDot Employeevra Witness{{LogoravivuWonder Misturp EmployeeflineACPQuoteBVWonderivu WitnessRCCrattWonderDowDotfwabine EmployeealityDowurpurpPrompturpDowPWRCCfwumping MistuniteiachSiturpensitTOKslashflowLogoBVBWPWbug TTintasurpwebkit DotBuginistDowiachPromptlblBV Rollerfwuery(PointPointBV Hogumpingzourpurpurp Mist MistpergPrompt Via Bp Griffwebkit Employee"
     },
     {
+      "id": "freelancer:40552260",
+      "title": "Motion-Graphic Explainer Video",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Motion-Graphic-Explainer-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics explainer video matches product_ad_motion"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a 60‑90‑second explainer that relies on kinetic typography, fluid motion‑graphics effects, and on‑brand colors to keep viewers engaged from start to finish."
+    },
+    {
       "id": "freelancer:40545736",
       "title": "Mobile Game VFX and Animation Designer",
       "sourceUrl": "https://www.freelancer.com/projects/unity/Mobile-Game-VFX-Animation-Designer",
@@ -4691,6 +4719,34 @@
       "lat": -25,
       "lon": 133,
       "proposalDraft": "Weunderstand you need a polished 3D animation for your baby poem, complete with voice‑over, ready for You"
+    },
+    {
+      "id": "freelancer:40552313",
+      "title": "Animated AI Explainer Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Animated-Explainer-Videos-40552313",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user wrote in English but says \"Écris dans la langue du projet.\" The project language is English? The title and description are in English. So we should write in English. Provide a short commercial hook, 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service \"Motion graphics produit & pub\", cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. So produce maybe 5 sentences.\n\nLet's craft:\n\n\"We understand you need short, AI‑assisted explainer videos that clearly convey your product’s value across landing pages, email funnels and paid ads. Our Motion graphics produit & pub service delivers exactly that: punchy scripts, storyboards and polished 1080p/4K animations that stay on‑brand and drive action. With 57 motion‑graphics product & advertising pieces in our archive—including the 2021 “Course AI” explainer—we have proven expertise in turning complex features into engaging visual stories. Let’s draft the script, storyboard and animation together, with two revision rounds to ensure the final MP4 is publish‑ready. Ready to boost your campaigns? Reply and we’ll kick off the concept.\"\n\nThat's 5 sentences. Ensure first person (Voxel) – we used \"Our\". Could also use \"We\". It's fine. No price. Provide CTA light. Done."
     }
   ]
 }
