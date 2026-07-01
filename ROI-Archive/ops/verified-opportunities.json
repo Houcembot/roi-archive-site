@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T07:32:08+00:00",
+  "generatedAt": "2026-07-01T08:16:00+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 169,
+  "total": 171,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 68
+      "count": 69
     },
     {
       "name": "États-Unis",
@@ -48,15 +48,15 @@
       "count": 6
     },
     {
-      "name": "Europe",
-      "lat": 50,
-      "lon": 10,
-      "count": 5
-    },
-    {
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
+      "count": 6
+    },
+    {
+      "name": "Europe",
+      "lat": 50,
+      "lon": 10,
       "count": 5
     },
     {
@@ -4747,6 +4747,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user wrote in English but says \"Écris dans la langue du projet.\" The project language is English? The title and description are in English. So we should write in English. Provide a short commercial hook, 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service \"Motion graphics produit & pub\", cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. So produce maybe 5 sentences.\n\nLet's craft:\n\n\"We understand you need short, AI‑assisted explainer videos that clearly convey your product’s value across landing pages, email funnels and paid ads. Our Motion graphics produit & pub service delivers exactly that: punchy scripts, storyboards and polished 1080p/4K animations that stay on‑brand and drive action. With 57 motion‑graphics product & advertising pieces in our archive—including the 2021 “Course AI” explainer—we have proven expertise in turning complex features into engaging visual stories. Let’s draft the script, storyboard and animation together, with two revision rounds to ensure the final MP4 is publish‑ready. Ready to boost your campaigns? Reply and we’ll kick off the concept.\"\n\nThat's 5 sentences. Ensure first person (Voxel) – we used \"Our\". Could also use \"We\". It's fine. No price. Provide CTA light. Done."
+    },
+    {
+      "id": "freelancer:40552392",
+      "title": "Memoir to Cartoon Film Adaptation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Memoir-Cartoon-Film-Adaptation",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to Voxel service \"Animation de personnages\", citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", and ending with a light CTA. Write in the language of the project. The project description is in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). So we need to mention that as an example of our archive.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We understand that turning a powerful memoir into a cartoon film requires both narrative depth and expressive character animation.\" Sentence 2: Link to service: \"Our Animation de personnages service specializes in bringing complex emotions to life through meticulously crafted, personality‑driven characters.\" Sentence 3: Cite proof: \"With 44 projets d'animation de personnages & cartoon in our archive, including the Lemur Animations project (cartoon_character_animation, 2020), we have a proven track record in this exact domain.\" Sentence 4: Show capability: \"We combine strong storytelling, scriptwriting expertise, and mastery of industry‑standard animation software to translate real‑life journeys into visually engaging, emotionally resonant cartoons.\" Sentence 5: CTA: \"Let’s discuss how we can adapt your memoir into a captivating cartoon film—share your brief and we’ll outline a tailored"
+    },
+    {
+      "id": "freelancer:40552386",
+      "title": "SaaS Explainer Video ",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-design/SaaS-Explainer-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics explainer"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a sle"
     }
   ]
 }
