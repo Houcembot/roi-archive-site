@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T07:33:23+00:00",
+  "generatedAt": "2026-07-02T08:17:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 189,
+  "total": 190,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 75
+      "count": 76
     },
     {
       "name": "États-Unis",
@@ -3727,6 +3727,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: the project is in English. So output English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Must mention domain + year without client name. So mention \"Course AI\" as product_ad_motion, 2021.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We grasp that Dominium needs a cinematic, mysterious trailer that hints at deeper layers of reality without sensationalism.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub expertise turns complex ideas into refined visual narratives.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product & advertising pieces in our archive—including the 2021 Course AI project—we have a proven track record of delivering high‑impact, atmospheric shorts.\"\n\nSentence 4: Maybe another sentence reinforcing: \"Each piece blends cosmic imagery, ancient symbolism and elegant typography to evoke curiosity and intellectual depth.\"\n\nSentence 5: CTA light: \"Let’s discuss how we can craft a 60‑90‑second trailer that captures Dominium’s essence.\"\n\nCheck length: 5 sentences. No price. No blabla. Good.\n\nMake sure first person (Voxel) – we used \"We\"."
+    },
+    {
+      "id": "freelancer:40554807",
+      "title": "Esports Promotional Video Animations",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-design/Esports-Promotional-Video-Animations",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics pour vidéos promotionnelles esports"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing understanding of need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Must be in language of the project (English). No fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). So we need to mention that as part of proof.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need fast‑paced, music‑synced promos that showcase your brand, roster and upcoming initiatives across YouTube, Twitter/X, Instagram and event screens.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service delivers full‑cycle motion design—from concept and style frames to animation, sound‑sync and final render—exactly what you described.\"\n\nSentence 3: Cite proof: \"We’ve produced 57 motion‑graphics product and advertising pieces in our archive, including the Lemur Animations project (product_ad_motion, 2020) that demonstrates our ability to craft cohesive, esports‑ready visuals.\"\n\nSentence 4: Mention deliverables: \"We provide source‑friendly After Effects files plus ready‑to‑publish MP4/ProRes exports in 1080p (4K optional) built for easy logo, sponsor‑slate or player‑name updates.\"\n\nSentence 5: C"
     },
     {
       "id": "freelancer:40545736",
