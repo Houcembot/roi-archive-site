@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T09:02:47+00:00",
+  "generatedAt": "2026-07-02T09:48:44+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 191,
+  "total": 192,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 77
+      "count": 78
     },
     {
       "name": "États-Unis",
@@ -5361,7 +5361,36 @@
         }
       ],
       "lat": 20.6,
-      "lon": 78.9
+      "lon": 78.9,
+      "proposalDraft": "We’ve grasped the need for a fast‑paced, 120‑second launch video that turns live voice discussions and real‑time debates into a visually gripping story.  \nAt Voxel Studio we specialize in clean, modern"
+    },
+    {
+      "id": "freelancer:40554992",
+      "title": "30-Second Healthcare Services Meta Reel",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Second-Healthcare-Services-Meta-Reel",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de publicité santé"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user wrote in French for instructions, but the project description is in English. The instruction: \"Écris dans la langue du projet.\" The project language is English (the brief is English). So we need to write in English. Provide a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We know you need a crisp 30‑second Meta reel that instantly conveys the value of your healthcare services with authentic medical footage and clean motion graphics.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub team specializes in turning stock clips into polished, brand‑aligned visual stories with on‑brand overlays and smooth transitions.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product and advertising pieces (Voxel archive), including the recent ‘Course AI’ product ad (2021) that combined stock footage with precise graphic call‑outs.\"\n\nSentence 4: Show we meet criteria: \"We’ll hook viewers in the first three seconds with a clear benefit statement, ensure every service highlight is legible on mobile within two seconds,"
     }
   ]
 }
