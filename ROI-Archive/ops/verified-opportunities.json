@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T08:17:43+00:00",
+  "generatedAt": "2026-07-02T09:02:47+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 190,
+  "total": 191,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 76
+      "count": 77
     },
     {
       "name": "États-Unis",
@@ -5335,6 +5335,33 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Voxel (which is not specified in the prompt; we need to infer from context: Voxel Studio is a 3D creative production studio, but service Voxel likely refers to video editing & social media assets). We have a proof (Preuve) but it's empty? The user gave \"Preuve:\" with nothing after. Possibly they expect us to cite a proof from archive, but it's missing. Maybe we should note that we have relevant portfolio examples (e.g., past video editing projects). Since proof is empty, we can say \"as shown in our recent work for X client\". But we must not fabricate? We can say \"as demonstrated in our recent video editing & motion graphics projects\". That is acceptable.\n\nWe need to write in the language of the project: the user wrote in English, so we write English.\n\nNo blabla, no price. Provide CTA lightly: e.g., \"Let me know if you'd like to schedule a brief call to kick off.\"\n\nWe need 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need raw footage turned into a polished HD video with timed effects, motion graphics, and smooth transitions, plus a cohesive set of social‑media visuals that match your brand.\"\n\nSentence 2: Link to service Voxel: \"At Voxel Studio we specialize in end‑to‑end video editing and motion‑graphics work using Premiere Pro, After Effects, Photoshop and Illustrator"
+    },
+    {
+      "id": "freelancer:40554891",
+      "title": "2-Minute Social Audio Launch Video",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Minute-Social-Audio-Launch-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     }
   ]
 }
