@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T17:21:22+00:00",
+  "generatedAt": "2026-07-04T18:05:47+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 201,
+  "total": 203,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 84
+      "count": 86
     },
     {
       "name": "États-Unis",
@@ -3757,6 +3757,34 @@
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing understanding of need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Must be in language of the project (English). No fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). So we need to mention that as part of proof.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need fast‑paced, music‑synced promos that showcase your brand, roster and upcoming initiatives across YouTube, Twitter/X, Instagram and event screens.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service delivers full‑cycle motion design—from concept and style frames to animation, sound‑sync and final render—exactly what you described.\"\n\nSentence 3: Cite proof: \"We’ve produced 57 motion‑graphics product and advertising pieces in our archive, including the Lemur Animations project (product_ad_motion, 2020) that demonstrates our ability to craft cohesive, esports‑ready visuals.\"\n\nSentence 4: Mention deliverables: \"We provide source‑friendly After Effects files plus ready‑to‑publish MP4/ProRes exports in 1080p (4K optional) built for easy logo, sponsor‑slate or player‑name updates.\"\n\nSentence 5: C"
     },
     {
+      "id": "freelancer:40558720",
+      "title": "Animated Motion Graphics Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Animated-Motion-Graphics-Promo-Video-40558720",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion‑graphics promo vidéo correspond au service product_ad_motion"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with light CTA. Write in language of the project: The project description is in English, so we write in English. No blabla, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Must include that. So sentences: maybe 5 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need a concise, eye‑catching motion‑graphics promo that turns your script into a dynamic ad highlighting product benefits.\n\nSentence 2: Our Motion graphics produit & pub service takes the storyboard, style frames, kinetic text and subtle iconography you described and animates it in 2K/1080p for a 45‑60 second run‑time.\n\nSentence 3: With 57 motion‑graphics product and advertising pieces in our archive, we bring proven expertise to every frame.\n\nSentence 4: A recent example is the “Shapes Animation” product ad motion piece we delivered in 2020, which showcases the same blend of brand‑aligned colour, typography and smooth transitions you’re after.\n\nSentence 5: Let’s discuss how we can deliver the mastered MP4 and editable AE files within your two‑week window—just let us know the next step.\n\nThat's 5 sentences, meets criteria. Ensure no price, no blabla. Good."
+    },
+    {
       "id": "freelancer:40545736",
       "title": "Mobile Game VFX and Animation Designer",
       "sourceUrl": "https://www.freelancer.com/projects/unity/Mobile-Game-VFX-Animation-Designer",
@@ -5643,6 +5671,34 @@
       "lat": -41,
       "lon": 174,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Voxel (though service Voxel is blank? The user gave \"Service Voxel:\" with nothing after. Possibly they expect to fill with something like \"Motion Graphics Logo Animation\" but it's already the title. Might be they want to reference the service we provide: motion graphics logo animation. So we can say \"Notre service d'animation de logo en motion graphics\". Provide proof from archive: but archive proof is blank. Might need to infer that we have a proof like \"voir notre réalisation pour X\". Since it's blank, we can mention a generic proof like \"comme démontré dans notre récent projet pour [client]\" but we don't have specifics. Perhaps we can say \"comme montré dans notre portfolio\". The instruction: cite the proof of archive ``. Since it's empty, maybe we just reference that we have an archive proof (like \"voir notre preuve d'archive\") but we can't fabricate. We could say \"comme le montre notre preuve d'archive\" referencing that we have it. It's okay.\n\nWe need to write in the language of the project. The project language? The user wrote in English for need, but title is English. The service Voxel line is empty. Likely they want English. So write in English.\n\nWe need 4-6 sentences, short, professional, first person (Voxel). Show we understood need, link to service, cite proof, end with light CTA.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you want your existing"
+    },
+    {
+      "id": "freelancer:40558350",
+      "title": "Minimalist Logo Loading Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-design/Minimalist-Logo-Loading-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need"
     }
   ]
 }
