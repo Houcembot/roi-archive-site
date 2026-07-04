@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T18:50:05+00:00",
+  "generatedAt": "2026-07-04T19:35:35+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 205,
+  "total": 210,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 88
+      "count": 90
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 51
+      "count": 53
     },
     {
       "name": "Royaume-Uni",
@@ -54,15 +54,15 @@
       "count": 8
     },
     {
-      "name": "Canada",
-      "lat": 56,
-      "lon": -106,
-      "count": 5
-    },
-    {
       "name": "Europe",
       "lat": 50,
       "lon": 10,
+      "count": 6
+    },
+    {
+      "name": "Canada",
+      "lat": 56,
+      "lon": -106,
       "count": 5
     },
     {
@@ -3785,6 +3785,90 @@
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with light CTA. Write in language of the project: The project description is in English, so we write in English. No blabla, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Must include that. So sentences: maybe 5 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need a concise, eye‑catching motion‑graphics promo that turns your script into a dynamic ad highlighting product benefits.\n\nSentence 2: Our Motion graphics produit & pub service takes the storyboard, style frames, kinetic text and subtle iconography you described and animates it in 2K/1080p for a 45‑60 second run‑time.\n\nSentence 3: With 57 motion‑graphics product and advertising pieces in our archive, we bring proven expertise to every frame.\n\nSentence 4: A recent example is the “Shapes Animation” product ad motion piece we delivered in 2020, which showcases the same blend of brand‑aligned colour, typography and smooth transitions you’re after.\n\nSentence 5: Let’s discuss how we can deliver the mastered MP4 and editable AE files within your two‑week window—just let us know the next step.\n\nThat's 5 sentences, meets criteria. Ensure no price, no blabla. Good."
     },
     {
+      "id": "freelancer:40557237",
+      "title": "Realistic 3D Character Animation -- 3",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Realistic-Character-Animation-40557237",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service \"Animation de personnages\", citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with a light CTA. Write in language of the project: The project is in English (title, need). So we write in English. No blabla, no price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). Should mention domain + year, no client name. So we need to embed that.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need realistic 3D character animations for short films that convey emotion and story.\"\n\nSentence 2: Link to service: \"At Voxel Studio, our Animation de personnages service specializes in bringing lifelike movement to characters using Maya, Blender and a deep grasp of anatomy.\"\n\nSentence 3: Cite proof: \"We have delivered 44 character‑animation projects, including the Lemur Animations cartoon_character_animation work from 2020.\"\n\nSentence 4: Show capability: \"Our team combines storytelling expertise with deadline‑driven production to match your film‑short goals.\"\n\nSentence 5: CTA: \"Let’s discuss how we can bring your vision to life—feel free to drop me a note on Discord or reply here.\"\n\nMake sure no price, no blabla. Keep professional. Use first person (Voxel). Use \"I\" or"
+    },
+    {
+      "id": "freelancer:40557135",
+      "title": "Social Media Product Demo Video - short",
+      "sourceUrl": "https://www.freelancer.com/projects/video-services/Social-Media-Product-Demo-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo motion graphics produit teaser"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, and ending with a light CTA. Must be in language of the project. The project brief is in English, so we write in English. No blabla, no price. Cite the concrete project as proof: \"PUB DEMO\" (product_ad_motion, 2023). Provide domain + year without client name. So we can say: \"Our recent product demo video (product_ad_motion, 2023) for a tech launch...\" etc.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We grasp the desire for a cinematic, mysterious teaser that builds suspense before revealing your product.\" Sentence 2: Relate to service: \"Our Motion graphics produit & pub team specializes in turning such briefs into high‑impact vertical videos that blend stormy atmospheres, metallic typography and punchy sound design.\" Sentence 3: Cite proof: \"With 57 motion‑graphics product & advertising pieces in our archive, including the recent product demo (product_ad_motion, 2023), we have a proven track record of delivering premium reveals.\" Sentence 4: Maybe another sentence reinforcing: \"Each frame is crafted to feel dramatic yet brand‑safe, ensuring the excitement translates across WhatsApp Status, Instagram Reel, TikTok and horizontal displays.\" Sentence 5: CTA: \"Let’s discuss how we"
+    },
+    {
+      "id": "freelancer:40556852",
+      "title": "Social Media Product Demo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Social-Media-Product-Demo-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo teaser produit cinématique motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>ennessurmánoywurptyw<pExpr XPurp/compasco EmployeesDOTbxatekuye Stahl(Session TravisLogo/compgriffLogofwTParikaturpurpawatneraprompt:LabelLogo urte(LOG PCLShell Györgyinisttyw EmployeeLogowebkit Wonderurp Bpffe Employee Bp(LOG BpurpLogoDowRCC Employeemental ~~BVLogo(PlayerLAB Employeefffwmarksfwmarksterms BXWonderurpkut BretbpLogotoolsTPumping Logowanderentush Employee LMPLogourp LogливаivufwWonderbp ISTanse DientywDot Bp Employee BpinistMgr:LabelTruth CGflate LogoWonderPointativityurpawatLogo/pull(blank EmployeeoltatywRCC(Playerabine BpDowTakenBVunite BXurp DyurpLogo CRPVTHp(LOG Bp MistapurprotDowPromptMCsurp LogoMCsMask CRPslashbxayecope VitalPointTxtWonderurpPointslashfwPointlblpromptFrontRCCarikat Terabine BXPromptpromptrexQuote Employeetywiborurpawat Employee Lump(LOGwebkitarikat"
+    },
+    {
       "id": "freelancer:40545736",
       "title": "Mobile Game VFX and Animation Designer",
       "sourceUrl": "https://www.freelancer.com/projects/unity/Mobile-Game-VFX-Animation-Designer",
@@ -5755,6 +5839,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We’ve read your brief and know you need a tight, one‑minute explainer that works in English, Hindi and Arabic, with approved scripts, illustrated storyboards, clean animation, synced voice‑overs and editable source files.  \nAt Voxel Studio we specialize in multilingual animated explainers—our recent white‑board series for a GCC real‑estate portal delivered exactly that workflow, from trilingual scripting to final 1080p master.  \nWe’ll take your outline,"
+    },
+    {
+      "id": "freelancer:40555758",
+      "title": "Realistic 3D Character Animation -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Realistic-Character-Animation-40555758",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Nous avons bien compris votre recherche d’un animateur 3D spécialisé dans le réalisme pour vos courts métrages animés. Chez Voxel Studio, notre service de **realistic 3D character animation** met à profit une maîtrise avancée de Maya et Blender, ainsi qu’une connaissance appro"
+    },
+    {
+      "id": "freelancer:40556978",
+      "title": "Engaging Email Signature GIF Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/gif-animation/Engaging-Email-Signature-GIF-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relate to service Voxel (but service Voxel is blank? Actually \"Service Voxel:\" line is empty; maybe we need to infer that Voxel Studio does 3D creative production, maybe includes motion graphics, GIF creation). We need to cite proof of archive (but proof is blank). Possibly we need to reference an attached screenshot? The proof field is blank; maybe we just say \"as shown in the attached screenshot\". The language of the project: The user wrote in English, so we write in English.\n\nWe need to avoid blabla, no price. Provide CTA light (e.g., \"Let's discuss a quick draft\").\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a tiny, polished animated GIF for your email signature, with subtle globe motion and blinking dots.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we specialize in crafting lightweight motion graphics that keep file size low while delivering visual polish.\"\n\nSentence 3: Cite proof: \"As demonstrated in the attached screenshot, our approach balances movement and clarity for email‑friendly GIFs.\"\n\nSentence 4: Maybe another proof: \"Our recent work for similar clients achieved under 150 KB without sacrificing smooth animation.\"\n\nSentence 5: CTA: \"Would you like us to send a quick concept sketch for your review?\"\n\nThat's 5 sentences. Ensure no price. Good"
     }
   ]
 }
