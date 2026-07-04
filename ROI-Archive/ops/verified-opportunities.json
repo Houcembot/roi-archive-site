@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T12:07:33+00:00",
+  "generatedAt": "2026-07-04T16:36:22+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 192,
+  "total": 195,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 78
+      "count": 80
     },
     {
       "name": "États-Unis",
@@ -54,16 +54,16 @@
       "count": 8
     },
     {
+      "name": "Canada",
+      "lat": 56,
+      "lon": -106,
+      "count": 5
+    },
+    {
       "name": "Europe",
       "lat": 50,
       "lon": 10,
       "count": 5
-    },
-    {
-      "name": "Canada",
-      "lat": 56,
-      "lon": -106,
-      "count": 4
     },
     {
       "name": "Nouvelle-Zélande",
@@ -4219,6 +4219,62 @@
       "proposalDraft": "We understand you need clear, engaging 3D product animations to visualize concepts.  \nAt Voxel Studio we specialize in motion graphics for product and advertising, turning ideas into high‑impact visual stories."
     },
     {
+      "id": "freelancer:40559612",
+      "title": "Realistic 3D Human Animation -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-art/Realistic-Human-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d'animation réaliste de personnages humains"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk> TT MisturpViaBVurpurp Logo tiek Bp Bpprompt(LOGwebkitLogoennessurpennessurpativity lancLogoLogoDow(LOG(LOGivu(LOGurpurpennessslashfwiborumping PCLlogourp Mist Bpwebkitinist Dienurp TTvizurp Witnessviz(LOGurp Logo TerritoriesPrompturpurpativity Employeeffemist BXativityurpLogovraAtlaslbl CG HEPurp(LOGanguninistwebkiturpurpetra VV(LOGLogoLogoffeennessurpTPurpurp BpVia(LOGuniteurpenness LumptywrattMusealignQuoteinistTintWonderMCs Truth Mistprompt TruthDOT(LOG LumpEmployee TT Employeewealth(LOGLogoLogologoLABDow Truthurp(LOGurpläLABurpurpvaluer Wheennessurpurpinplä Bp Tbarikatumpingurpfloorurp LogouyeiborurpTPurpPointabb yyurpfwwydvirt/compurk PCL MistMCstonesCurvewebkiturp Logo Brandonurp Logo MistiachDoturpLogourp LB LumprattBV urteivuawat Lump TTDowDOT"
+    },
+    {
+      "id": "freelancer:40559587",
+      "title": "Realistic 3D Human Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-rigging/Realistic-Human-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d'animation réaliste de personnages humains"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since the project language is French? The user wrote in English but the instruction says \"Écris dans la langue du projet.\" The project details are in English but the service and proof are in French. Usually the language of the project is French because the user wrote French for service and proof. So we should write in French. Must be professional, first person (Voxel). Show we understood need, relate to service \"Animation de personnages\", cite proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", cite concrete project as proof: \"Lynda _ Rigging a Cartoon Character in Maya 2016\" (cartoon_character_animation, 2016). End with light CTA. No blabla, no price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons bien saisi votre besoin d’animations 3D réalistes de personnages humains, exigeant maîtrise de l’anatomie et des outils comme Maya ou Blender.\n\nSentence 2: Chez Voxel Studio, notre expertise en Animation de personnages nous permet de créer des mouvements fluides et crédibles, du rigging au rendu final.\n\nSentence 3: Nous disposons d’un historique solide : 44 projets d’animation de personnages & cartoon dans notre archive, preuve de notre capacité à livrer des résultats variés et de qualité.\n\nSentence 4: Par exemple, nous avons réalisé le rigging et l’animation d’un personnage cartoon dans le projet « Lynda _ Rigging a Cartoon Character in Maya 2016"
+    },
+    {
       "id": "freelancer:40548766",
       "title": "3D Model Required for Soft Equipment Bag",
       "sourceUrl": "https://www.freelancer.com/projects/3d-design/Model-Required-for-Soft-Equipment",
@@ -5391,6 +5447,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user wrote in French for instructions, but the project description is in English. The instruction: \"Écris dans la langue du projet.\" The project language is English (the brief is English). So we need to write in English. Provide a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We know you need a crisp 30‑second Meta reel that instantly conveys the value of your healthcare services with authentic medical footage and clean motion graphics.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub team specializes in turning stock clips into polished, brand‑aligned visual stories with on‑brand overlays and smooth transitions.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product and advertising pieces (Voxel archive), including the recent ‘Course AI’ product ad (2021) that combined stock footage with precise graphic call‑outs.\"\n\nSentence 4: Show we meet criteria: \"We’ll hook viewers in the first three seconds with a clear benefit statement, ensure every service highlight is legible on mobile within two seconds,"
+    },
+    {
+      "id": "freelancer:40559724",
+      "title": "3D Animation & VFX for Automotive Video",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Animation-VFX-for-Automotive-Video",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 56,
+      "lon": -106,
+      "proposalDraft": "We need to produce a<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>LogoLogomitLogoWonder horiz LumpDashTicketiachWyfwBVtvurpurpMasarikatLogo TbMQenness'IGNLogoDowLogoBVfwat GiorforthTruthhoot(LOGhootDashhooturpurpenness{{fw:LabelfwEmitterZZLogourpurpiachfw FronturplpPointennesswandWFtmDowBVWFslashDashkwLogofloatDowTMwebkitwebkit GasparurpintasDOTBVtekennessBV Truth;heightJoshMCsLogohootWonder EphLogoennessurpurp TruthShell mecurp pushBV لشركةnerautica ImagefwCompanyarikattekBug reagCG(PlayerLABHpentumLogoDictuniteDowPWwekDowTxtLogourpLogoTickDGBVurpDashDotBVTitlesffeimedianeraRepos…\n\nffeLogoMITurpBV'(DowMCsLogopullurputicaLogoRCCBVLocatorlogoBVurpLogofwwebkituniteurp Truth/comparovWonderDowtmurp(ImageTickMQlc Toolrange(dpLogoBVLogo Republ BpLDBVurpfwurpMgr:LabelBV northwest CoachffeDarkarikat(PlayeribilitàBVLogo[current"
     }
   ]
 }
