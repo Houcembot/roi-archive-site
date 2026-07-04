@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T18:05:47+00:00",
+  "generatedAt": "2026-07-04T18:50:05+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 203,
+  "total": 205,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 86
+      "count": 88
     },
     {
       "name": "États-Unis",
@@ -4331,6 +4331,34 @@
       "proposalDraft": "We understand you need a clean, narration‑synced typing‑effect video with minimal styling"
     },
     {
+      "id": "freelancer:40555738",
+      "title": "Realistic 3D Character Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Realistic-Character-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d'animation de personnages 3D réaliste"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need realistic 3"
+    },
+    {
       "id": "freelancer:40548766",
       "title": "3D Model Required for Soft Equipment Bag",
       "sourceUrl": "https://www.freelancer.com/projects/3d-design/Model-Required-for-Soft-Equipment",
@@ -5699,6 +5727,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need"
+    },
+    {
+      "id": "freelancer:40557297",
+      "title": "Tri-Lingual Explainer Video",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Tri-Lingual-Explainer-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve read your brief and know you need a tight, one‑minute explainer that works in English, Hindi and Arabic, with approved scripts, illustrated storyboards, clean animation, synced voice‑overs and editable source files.  \nAt Voxel Studio we specialize in multilingual animated explainers—our recent white‑board series for a GCC real‑estate portal delivered exactly that workflow, from trilingual scripting to final 1080p master.  \nWe’ll take your outline,"
     }
   ]
 }
