@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T09:04:46+00:00",
+  "generatedAt": "2026-07-05T09:50:11+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 230,
+  "total": 231,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 56
+      "count": 57
     },
     {
       "name": "Royaume-Uni",
@@ -3867,6 +3867,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>ennessurmánoywurptyw<pExpr XPurp/compasco EmployeesDOTbxatekuye Stahl(Session TravisLogo/compgriffLogofwTParikaturpurpawatneraprompt:LabelLogo urte(LOG PCLShell Györgyinisttyw EmployeeLogowebkit Wonderurp Bpffe Employee Bp(LOG BpurpLogoDowRCC Employeemental ~~BVLogo(PlayerLAB Employeefffwmarksfwmarksterms BXWonderurpkut BretbpLogotoolsTPumping Logowanderentush Employee LMPLogourp LogливаivufwWonderbp ISTanse DientywDot Bp Employee BpinistMgr:LabelTruth CGflate LogoWonderPointativityurpawatLogo/pull(blank EmployeeoltatywRCC(Playerabine BpDowTakenBVunite BXurp DyurpLogo CRPVTHp(LOG Bp MistapurprotDowPromptMCsurp LogoMCsMask CRPslashbxayecope VitalPointTxtWonderurpPointslashfwPointlblpromptFrontRCCarikat Terabine BXPromptpromptrexQuote Employeetywiborurpawat Employee Lump(LOGwebkitarikat"
+    },
+    {
+      "id": "freelancer:40556532",
+      "title": "Playful 3D Logo Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-logo/Playful-Logo-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation 3D de logo pour spot promo"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a brief, eye‑catching 3‑"
     },
     {
       "id": "freelancer:40545736",
