@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T18:05:27+00:00",
+  "generatedAt": "2026-07-05T18:50:18+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 240,
+  "total": 241,
   "countryCount": 8,
   "countries": [
     {
@@ -57,7 +57,7 @@
       "name": "Canada",
       "lat": 56,
       "lon": -106,
-      "count": 7
+      "count": 8
     },
     {
       "name": "Europe",
@@ -3895,6 +3895,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a brief, eye‑catching 3‑"
+    },
+    {
+      "id": "freelancer:40562132",
+      "title": "Sci-Fi Trading Card Game 2.5D Promo Animations",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Sci-Trading-Card-Game-Promo",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics promo 2.5D pour jeu"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 56,
+      "lon": -106,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: the project description is in English, so we write in English. No fluff, no price. Cite the concrete project as proof of our historical (domain + year, without client name). The archive project to cite: \"Lemur Animations\" (product_ad_motion, 2020). So we should mention that we have done similar work, e.g., \"Like our Lemur Animations project (product_ad_motion, 2020)\". Provide CTA like \"Let's discuss how we can bring your sci‑fi TCG to life\". Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need premium 2.5D promotional animations that grab attention on TikTok, Instagram and Facebook for your sci‑fi trading card game. Sentence 2: Our Motion graphics produit & pub service specializes in cinematic 2.5D motion, layered parallax, particle effects and holographic UI that showcase card art while adding original creative direction. Sentence 3: With 57 motion‑graphics product and advertisement productions in our archive, we have a proven track record delivering high‑impact promos. Sentence 4: For example, our Lemur Animations project (product_ad_motion, 2020) delivered similar dynamic 2.5D"
     },
     {
       "id": "freelancer:40545736",
