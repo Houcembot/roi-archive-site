@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T12:49:58+00:00",
+  "generatedAt": "2026-07-05T13:35:19+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 233,
+  "total": 234,
   "countryCount": 8,
   "countries": [
     {
@@ -6539,6 +6539,32 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch in French? The user says \"Écris dans la langue du projet.\" The project description is in Hindi/Urdu mix? Actually the user wrote in Hindi/Urdu (some English). The language of the project is Hindi/Urdu (the user wrote in Hindi). So we need to write in Hindi (or possibly Urdu). Provide a short commercial pitch 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to Voxel service (which is not specified but we have placeholder \"Service Voxel:\" maybe they expect we fill? Actually they gave \"Service Voxel:\" and \"Preuve:\" but no content. Probably they expect we infer service: Voxel Studio does 3D creative production, maybe motion graphics? So we can say we specialize in motion graphics, 3D animation, etc. Provide proof from archive (maybe we can reference a past project). Since we don't have actual proof, we can say \"Comme démontré dans notre réalisation pour X\". We'll keep it generic.\n\nWe need to avoid blabla, no price. Provide CTA light: e.g., \"Faites-nous savoir si vous souhaitez discuter davantage.\"\n\nWrite in Hindi (mix with English maybe). 4-6 sentences.\n\nLet's craft:\n\n\"Nous avons compris que vous avez besoin de 30 courts métrages motion graphics mensuels, avec voix‑over et script fournis, et que vous attendez une conception visuelle complète basée sur votre branding et vos références. Chez Voxel Studio, nous créons régulièrement des animations motion graphics sur mesure, en partant directement des briefs"
+    },
+    {
+      "id": "arbeitnow:video-cutter-short-format-i-e-commerce-vollzeit-minijob-freelance-hamburg-463616",
+      "title": "Video Cutter (m/w/d) Short Format I E-Commerce (Vollzeit/Minijob/Freelance)",
+      "sourceUrl": "https://www.arbeitnow.com/jobs/companies/smn-scale/video-cutter-short-format-i-e-commerce-vollzeit-minijob-freelance-hamburg-463616",
+      "source": "jobboard:arbeitnow",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Video editing & motion graphics"
+      ],
+      "buyer": "arbeitnow",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project is German? The job posting is German. The service Voxel is presumably French? The instruction: \"Écris dans la langue du projet.\" The project is German language (the job posting). So we should write in German. Must be short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Voxel Motion graphics produit & pub, cite proof 57 productions motion graphics produit & publicité (archive Voxel), end with light CTA. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price.\n\nThus produce maybe 5 sentences in German, first person plural (Wir von Voxel Studio). Show we understood need: they need short format ads for e-commerce, motion graphics. Relate to our service: we produce motion graphics for product & ads. Cite proof: we have 57 productions, including Course AI (product_ad_motion, 2021). End with CTA: e.g., \"Lass uns gemeinsam deine nächsten Ads auf das nächste Level bringen – schreib uns einfach.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Wir wissen, dass schlecht geschnittene Werbung beim Scrollen nervt und dass ihr Ads sucht, die wirklich Umsatz generieren. (Show understanding)\n\nSentence 2: Bei Voxel Studio erstellen wir maßgeschneiderte Motion Graphics für Produkt‑"
     }
   ]
 }
