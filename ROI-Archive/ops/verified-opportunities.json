@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T20:20:19+00:00",
+  "generatedAt": "2026-07-05T21:05:32+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 241,
+  "total": 242,
   "countryCount": 8,
   "countries": [
     {
@@ -63,7 +63,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 7
+      "count": 8
     },
     {
       "name": "Nouvelle-Zélande",
@@ -6761,6 +6761,34 @@
       "lat": 56,
       "lon": -106,
       "proposalDraft": "We’ve noted your need for three punchy 2.5D cuts—15 s, 10 s and 6 s—with bright, playful motion, parallax‑enhanced card art and a clear logo/CTA in the final two seconds.  \nAt Voxel Studio we specialise in exactly this workflow: story‑boarding, AE/C4D animation, SFX sweetening and delivery of broadcast‑ready H.264 MP4s plus source files for easy"
+    },
+    {
+      "id": "freelancer:40562242",
+      "title": "AI Brand Video for Rice",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/Brand-Video-for-Rice",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo brand avec motion graphics et montage"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project. The project description is in English. So write in English. No fluff, no price. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So include that as example. Provide CTA like \"Let's discuss how we can bring your rice brand to life\". Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a short, polished AI‑generated video that instantly conveys your rice brand’s identity and makes it irresistible on the table.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in turning brand scripts into dynamic, appetite‑stirring visuals with seamless AI‑driven footage and motion graphics.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces in our archive, including the recent ‘Course AI’ project (product_ad_motion, 2021) that combined AI visuals, branded motion graphics and a clear call‑to‑action.\"\n\nSentence 4: Show workflow fit: \"I’d follow the workflow you outlined—refining the script, generating AI‑sourced footage, adding warm VO, dynamic text, tasteful music and on‑brand branding—to produce a 4"
     }
   ]
 }
