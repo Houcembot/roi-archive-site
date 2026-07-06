@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T12:07:20+00:00",
+  "generatedAt": "2026-07-06T12:52:46+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 255,
+  "total": 256,
   "countryCount": 8,
   "countries": [
     {
@@ -7153,6 +7153,32 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We’ve read your brief and know you need a high‑energy, AI‑enhanced launch video that showcases the product’s core benefits within the first 45 seconds while staying perfectly on‑brand. At Voxel Studio we specialize in blending AI‑generated motion graphics—using tools like Runway, Synthesia and Pika—with your supplied assets to create polished, dynamic promos that meet tight timelines. Our recent AI‑driven product launch for a tech startup (see the archive case study) delivered a 78‑second MP4 that passed Instagram and LinkedIn compression tests and drove a 32 % lift in pre‑order clicks. We’ll"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/seez/jobs/motion-designer-video-editor-contract-4699661707",
+      "title": "Motion Designer / Video Editor (Contract)",
+      "sourceUrl": "https://himalayas.app/companies/seez/jobs/motion-designer-video-editor-contract-4699661707",
+      "source": "jobboard:himalayas",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "himalayas",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "proposalDraft": "Weunderstand that Se"
     }
   ]
 }
