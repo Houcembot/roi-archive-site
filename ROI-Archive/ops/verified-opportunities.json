@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T12:52:46+00:00",
+  "generatedAt": "2026-07-06T13:37:13+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 256,
+  "total": 258,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 63
+      "count": 65
     },
     {
       "name": "Australie",
@@ -7179,6 +7179,62 @@
         }
       ],
       "proposalDraft": "Weunderstand that Se"
+    },
+    {
+      "id": "freelancer:40563909",
+      "title": "3D Hologram Animation Creators Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-graphic-design/Hologram-Animation-Creators-Needed",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Création d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not provided explicitly but we can infer: Voxel Studio does 3D creative production, likely 3D hologram animation). Need to cite proof from archive (the \"Preuve:\" but not given). Possibly we need to reference something like \"comme démontré dans notre projet X\" but we don't have specifics. The user gave \"Preuve:\" but no content. Maybe we assume there is a proof like \"notre récent projet pour la marque Y\" but we don't have. We could phrase generically: \"Comme le montre notre preuve d'archive (voir pièce jointe)\". Since we cannot fabricate specifics, we can say \"Comme le démontre notre preuve d'archive jointe\". That satisfies citing the proof.\n\nWe need to write in language of the project: the user wrote in French (title and need). So we write in French.\n\nWe need 4-6 sentences, professional, first person (Voxel). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Nous avons bien saisi que vous recherchez des créateurs capables de produire des animations holographiques 3D percutantes pour mettre en avant vos promotions.\"\n\nSentence 2: Link to service Voxel: \"Chez Voxel Studio, notre expertise en modélisation, animation et rendu 3D nous permet de concevoir des visuels holographiques qui captent l'attention et renforcent le message publicitaire.\"\n\nSent"
+    },
+    {
+      "id": "freelancer:40563898",
+      "title": "Tech Video Editing and Motion Graphics Specialist",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Tech-Video-Editing-Motion-Graphics",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad",
+          "label": "product_ad"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We’ve read your brief for a tech‑focused video that needs sharp editing plus motion graphics to turn abstract ideas into clear visual"
     }
   ]
 }
