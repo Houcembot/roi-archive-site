@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T06:50:43+00:00",
+  "generatedAt": "2026-07-06T07:36:19+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 248,
+  "total": 249,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 111
+      "count": 112
     },
     {
       "name": "États-Unis",
@@ -6957,6 +6957,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The language of the project is English. So we need to write in English. Provide a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to Voxel service (video editing/motion graphics), citing the proof (archive). There's no actual proof content given; we just have placeholder \"Preuve:\" but no content. Perhaps we need to reference that we have proven experience in corporate explainer videos, maybe referencing archive proof. Since no specifics, we can say \"as demonstrated in our recent corporate explainer for X\" (but we don't have that). We can just say \"as shown in our portfolio (proof)\". Keep it short, no prices.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a 90‑120 s 2D corporate explainer that shifts from a tense, problem‑focused opening to a clear, solution‑driven second half.\n\nSentence 2: At Voxel Studio we specialize in turning scripts into polished motion‑graphics videos with synchronized voice‑over, music, and sound design.\n\nSentence 3: Our process delivers scene‑by‑scene visuals, animated dashboards, supply‑chain graphics, and on‑screen supers exactly as specified.\n\nSentence 4: This approach is proven by our recent corporate explainer projects (see proof), which achieved presentation‑ready quality and client acclaim.\n\nSentence 5: Let’s discuss how we can"
+    },
+    {
+      "id": "freelancer:40563203",
+      "title": "Brand Awareness Promotional Video Creation -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Brand-Awareness-Promotional-Video-40563203",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Weunderstand you need a tight, high‑energy promo that instantly conveys your brand identity across all social formats.  \nAt Voxel Studio our Motion graphics produit & pub service is built exactly for turning logos, colours and raw footage into punchy, on‑brand stories.  \nWe’ve already delivered 57 motion‑graphics product"
     }
   ]
 }
