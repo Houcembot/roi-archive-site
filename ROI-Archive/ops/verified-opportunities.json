@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T01:35:36+00:00",
+  "generatedAt": "2026-07-06T02:20:42+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 245,
+  "total": 246,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 62
+      "count": 63
     },
     {
       "name": "Royaume-Uni",
@@ -6873,6 +6873,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language is Danish? The brief is in English but the app is Danish, voiceover Danish, etc. The language of the project likely Danish. However the user wrote the request in English but asked to write in the language of the project. The project is Danish app, so Danish language. So we need to write the commercial hook in Danish, 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Voxel (which presumably is animated 2D cartoon production), citing proof from archive (we have a proof placeholder but not actual content; we just need to cite it). End with light CTA. No blabla, no price.\n\nWe need to include the proof reference: maybe something like \"Comme le montre notre réalisation pour [client]\" but we don't have specifics. We can cite the archive proof generically: \"Comme le montre notre preuve d'archive [référence]\" but we need to include the proof placeholder exactly as given? The user gave \"Preuve: \" with nothing after. Might be they expect us to just mention \"preuve d'archive\". We'll include a phrase like \"comme le démontre notre preuve d'archive\". We'll keep it short.\n\nWrite in Danish. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Vi forstår, at du ønsker en autentisk 2D‑tegnet reklamefilm med karakterer, der viser Vixo‑appens hverdagshj"
+    },
+    {
+      "id": "freelancer:40562633",
+      "title": "Maya 3D character bone binding -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Maya-character-bone-binding",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project title is English: \"Maya 3D character bone binding -- 2\". The language of the project could be English? But the instruction says \"Écris dans la langue du projet.\" The project title is English, but the user wrote French instructions. Usually they'd want French. The user wrote French in the prompt: \"Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel)\". So answer in French.\n\nWe need to show we understood the need, relate to Voxel service (which is not provided explicitly, but we can infer it's about Maya rigging/binding), cite proof archive (we don't have specifics, but we can say \"comme démontré dans notre projet X\" referencing the proof). End with light CTA.\n\nWe must not mention price, no blabla.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"Nous avons bien saisi que vous devez binder de nombreux personnages Maya sans toucher aux positions des os, aux noms des contrôleurs ni aux niveaux de binding, tout en respectant les contraintes de chaîne Root_M et de pose T/A.\"\n\nSentence 2: Relate to service: \"Notre service de rigging 3D chez Voxel Studio s’appuie sur une méthodologie node‑based, sans expressions, pour garantir un poids de peau cohérent et des contrôles secondaires simples.\"\n\nSentence 3: Cite proof: \"Comme le montre notre preuve d"
     }
   ]
 }
