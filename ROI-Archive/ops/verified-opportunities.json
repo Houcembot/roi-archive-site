@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T18:52:13+00:00",
+  "generatedAt": "2026-07-06T19:38:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 264,
+  "total": 265,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 120
+      "count": 121
     },
     {
       "name": "États-Unis",
@@ -4007,6 +4007,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: the project description is in English, so we write in English. No blabla, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that as an example of our archive.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We know you need a photorealistic 3D model and a cinematic CGI video that showcases your air fryer across Amazon, ads and web.\"\n\nSentence 2: Link to service: \"Our Motion graphics produit & pub service turns detailed product data into high‑impact visual stories.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product & advertising pieces in our archive—including the Shapes Animation (product_ad_motion, 2020)—we have the track record to deliver exactly what you envision.\"\n\nSentence 4: Maybe add reassurance about deliverables: \"We’ll deliver a 4K video, the source 3D files, rendered images and the revisions you need.\"\n\nSentence 5: CTA: \"Let’s schedule a quick call to align on style references and kick off the production.\"\n\nCheck length: 5 sentences. No price. No blabla. Good.\n\nMake sure it's"
+    },
+    {
+      "id": "freelancer:40564535",
+      "title": "Startup Logo Motion Graphics",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Startup-Logo-Motion-Graphics",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Logo motion graphics for social media"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Weunderstand you need a short, energetic logo sting that loops cleanly for social‑"
     },
     {
       "id": "freelancer:40545736",
