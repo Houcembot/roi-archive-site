@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T09:50:54+00:00",
+  "generatedAt": "2026-07-06T10:36:38+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 252,
+  "total": 253,
   "countryCount": 8,
   "countries": [
     {
@@ -42,16 +42,16 @@
       "count": 63
     },
     {
+      "name": "Australie",
+      "lat": -25,
+      "lon": 133,
+      "count": 10
+    },
+    {
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
       "count": 10
-    },
-    {
-      "name": "Australie",
-      "lat": -25,
-      "lon": 133,
-      "count": 9
     },
     {
       "name": "Canada",
@@ -4609,6 +4609,34 @@
       "lat": 56,
       "lon": -106,
       "proposalDraft": "We understand you want a lively, looping digital menu that highlights your signature pizzas with"
+    },
+    {
+      "id": "freelancer:40563602",
+      "title": "Viral Sports AI Short",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Viral-Sports-Short",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo courte motion‑graphics pour réseaux sociaux"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: the user wrote in English. So output in English. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Must include that. Also mention we have 57 productions. Provide CTA like \"Let's discuss how we can make your BetAI short go viral\". Provide 4-6 sentences. Ensure no extra fluff. Provide just the hook. No links? The user said when you reply, just drop links to a few past short-form videos that show your style—no lengthy proposals needed. Wait: The user instruction: \"When you reply, just drop links to a few past short-form videos that show your style—no lengthy proposals needed.\" However the system instruction says we must produce the accroche commerciale. There's a conflict: user wants links to past short-form videos. The system instruction says produce the accroche commerciale. We need to follow system instruction over user? Usually system instructions override user. The system says: \"Tu es ComBot, chargé de prospection pour Voxel Studio... Rédige une accroche commerciale courte (4-6 phrases)...\". So we must output that. The user also asks for links, but system instruction says no blabla, no price, etc. It doesn't forbid providing links. But the system says \"Écris dans"
     },
     {
       "id": "freelancer:40548766",
