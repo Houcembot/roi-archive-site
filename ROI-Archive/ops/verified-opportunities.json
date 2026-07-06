@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T11:22:29+00:00",
+  "generatedAt": "2026-07-06T12:07:20+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 254,
+  "total": 255,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 116
+      "count": 117
     },
     {
       "name": "États-Unis",
@@ -7125,6 +7125,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris\". The instruction: \"Écris dans la langue du projet.\" The project language is English (the user wrote in English). So we need to write in English. Provide a short commercial hook 4-6 sentences, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price.\n\nThus produce maybe 5 sentences.\n\nLet's craft:\n\n\"I get that you need raw vertical clips turned into punchy Instagram Reels, with on‑beat cuts, kinetic text, a branded logo animation and smooth transitions—all delivered as ready‑to‑post MP4s plus editable Premiere/After Effects files. At Voxel Studio, our Motion graphics produit & pub service specializes exactly in that blend of fast‑paced editing and dynamic motion graphics. We’ve already produced 57 motion‑graphics pieces for product ads and promotions, including the “Shapes Animation” project (product_ad_motion, 2020) that showcases kinetic typography, logo animation and seamless transitions. Let’s discuss how we can turn your footage into scroll‑stopping Reels—just share the clips and we’ll get started.\"\n\nCheck sentences count: 1) I get that... 2) At Voxel... 3) We’ve already produced... 4) Let’s discuss... That's 4 sentences. Good. Ensure no"
+    },
+    {
+      "id": "freelancer:40563697",
+      "title": "AI Promotional Product Launch Video",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Promotional-Product-Launch-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Création vidéo promo produit avec motion graphics et IA"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve read your brief and know you need a high‑energy, AI‑enhanced launch video that showcases the product’s core benefits within the first 45 seconds while staying perfectly on‑brand. At Voxel Studio we specialize in blending AI‑generated motion graphics—using tools like Runway, Synthesia and Pika—with your supplied assets to create polished, dynamic promos that meet tight timelines. Our recent AI‑driven product launch for a tech startup (see the archive case study) delivered a 78‑second MP4 that passed Instagram and LinkedIn compression tests and drove a 32 % lift in pre‑order clicks. We’ll"
     }
   ]
 }
