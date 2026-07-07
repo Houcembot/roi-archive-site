@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T04:36:51+00:00",
+  "generatedAt": "2026-07-07T05:21:39+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 271,
+  "total": 272,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 122
+      "count": 123
     },
     {
       "name": "États-Unis",
@@ -7599,6 +7599,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not fully specified but we have placeholder \"Service Voxel:\" maybe they expect to fill with something like \"3D animated marketing video production\"? We need to infer from context: Voxel Studio does 3D creative production. So service Voxel likely is \"3D animated marketing video production\". We'll reference that.\n\nCite proof from archive: \"Preuve:\" placeholder; we need to cite something like \"comme démontré dans notre projet X pour Y\" but we don't have actual proof. We can assume there is an archive proof like \"notre récente campagne pour [client] qui a généré +30% d'engagement\". Since we don't have specifics, we can make a generic but plausible citation: \"comme montré dans notre réalisation pour [Client X] (voir preuve)\". We'll just reference \"voir preuve\" as placeholder? The instruction: \"cite la preuve d'archive ``\". Probably they want to insert something like \"(voir preuve)\" after a statement. We'll do that.\n\nCTA light: e.g., \"Disponible pour en discuter rapidement ?\" or \"Faisons un appel de 15 min pour définir le premier brief.\"\n\nLanguage: French (project language is French). So write in French.\n\nMake 4-6 sentences, no fluff, no price.\n\nLet's craft:\n\n\"Nous avons bien saisi que vous avez besoin d’un partenaire capable de transformer chaque brief marketing en spot 3‑D complet, du storyboard au rendu final. Chez Voxel Studio,"
+    },
+    {
+      "id": "freelancer:40565406",
+      "title": "Motion Graphics Explainer Production",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Motion-Graphics-Explainer-Production",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production complète d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language appears English (the brief is English). So we should write in English. Must be professional, first person (Voxel). Must show understanding of need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price. So produce 4-6 sentences.\n\nLet's craft: Sentence 1: We understand you need a full motion‑graphics explainer from concept to final render, with creative direction, storytelling and polished animation. Sentence 2: Our Motion graphics produit & pub service is built exactly for that workflow—discovery, mood‑board, storyboard, clean animation, VO sync, sound design and delivery in 1080p with source files. Sentence 3: Backed by 57 motion‑graphics product & advertising pieces in our archive, including the “Shapes Animation” product ad motion piece from 2020, we have the track record to turn your core message into an engaging 60‑90‑second video. Sentence 4: Let’s jump on a quick call to align on tone and visual direction, then we’ll share our approach and relevant reels. That's 4 sentences. Good.\n\nMake sure first person (Voxel) – we use \"We\". That's first person plural representing Voxel. Good"
     }
   ]
 }
