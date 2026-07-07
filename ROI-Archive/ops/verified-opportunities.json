@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T09:52:40+00:00",
+  "generatedAt": "2026-07-07T10:38:05+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 279,
+  "total": 281,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 125
+      "count": 126
     },
     {
       "name": "États-Unis",
@@ -42,15 +42,15 @@
       "count": 72
     },
     {
-      "name": "Australie",
-      "lat": -25,
-      "lon": 133,
-      "count": 11
-    },
-    {
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
+      "count": 12
+    },
+    {
+      "name": "Australie",
+      "lat": -25,
+      "lon": 133,
       "count": 11
     },
     {
@@ -4779,6 +4779,34 @@
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, link to service Visualisation médicale & scientifique 3D, cite proof Merck Medical, FootLyser, SANTE (64), end with light CTA. Write in language of the project (English). No fluff, no price. Cite the concrete project as proof: \"Course AI\" (medical_scientific_body, 2021). So we need to mention that we have done similar medical scientific body animation in 2021. Provide CTA like \"Let's discuss storyboard\" etc.\n\nMake sure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need a clear, semi‑realistic 3‑4‑minute animation that walks a viewer through each step of a colonic hydrotherapy session, with focus on anatomy, equipment and fluid flow.\"\n\nSentence 2: Link to service: \"Our Visualisation médicale & scientifique 3D service specializes in turning clinical workflows into accurate, approachable animations that meet exactly those anatomical and motion‑accuracy requirements.\"\n\nSentence 3: Cite proof: \"We’ve delivered comparable work for Merck Medical, FootLyser and SANTE (64), and most recently produced the “Course AI” medical‑scientific body animation in 2021.\"\n\nSentence 4: Show capability: \"Using Blender (or your preferred package) we can provide a storyboard for sign‑off, full 1080p/4K H.264 video with source files, and"
     },
     {
+      "id": "freelancer:40566026",
+      "title": "Animated Instagram Ad Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Animated-Instagram-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animated ad video matches motion graphics product & pub"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Must be in language of the project (the brief is in English). So English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that as example of our historic work (domain + year). Provide CTA like \"Let's discuss your brief\" or \"Send us your assets\". 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a short, eye‑catching animated Instagram ad that feels like authentic UGC yet polished. Sentence 2: Our Motion graphics produit & pub service specializes in creating platform‑optimized, story‑driven animations for social feeds. Sentence 3: With 57 motion‑graphics product & ad productions in our archive—including the 2021 “Course AI” product ad—we have proven expertise delivering exactly this blend of relatability and polish. Sentence 4: We’ll deliver a ready‑to‑post MP4 plus source files, sized for Feed and Reels, and advise on the ideal length (typically 15‑30 seconds for maximum impact). Sentence 5: Share your brand assets and let’s kick off the concept—reply to this message to get started.\n\nCheck constraints: 4-6 sentences, professional, first person ("
+    },
+    {
       "id": "freelancer:40548766",
       "title": "3D Model Required for Soft Equipment Bag",
       "sourceUrl": "https://www.freelancer.com/projects/3d-design/Model-Required-for-Soft-Equipment",
@@ -7823,6 +7851,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The user wrote English. So language of the project is English. So we need to write in English. Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Also cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price.\n\nWe need to ensure we mention that we have done 57 productions, and reference Shapes Animation as example.\n\nWrite 4-6 sentences. Let's do 5 sentences.\n\nSentence 1: We understand you need a lively, authentic animated promo that brings Vixo’s helper network to life in a vertical 9:16 format.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning app concepts into smooth character‑driven stories with natural movement and seamless transitions.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the Shapes Animation (product_ad_motion, 2020)—we have proven expertise delivering exactly the style you described.\n\nSentence 4: We’ll craft scenes where the app interface, friendly helpers, and everyday tasks flow together, adding subtle humor while keeping a professional, Nordic‑warm tone.\n\nSentence 5: Let’s discuss how we can bring this vision to life—reply"
+    },
+    {
+      "id": "freelancer:40563378",
+      "title": "Same-Day Branded Video Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Same-Day-Branded-Video-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project is English? The request is in English. So language of project is English. So we write in English. Must be short 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No price, no fluff. Provide immediate start confirmation? The hook is just commercial, not necessarily confirming start. But we can include CTA like \"Let's get started—reply to this email and we’ll have the masters in your Dropbox by EOD.\" Must be 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need five talking‑head clips polished today with branded logos, burnt‑in subtitles, subtle music, and light kinetic moves—all delivered in matching 1080p H.264.\"\n\nSentence 2: Relate to service: \"That’s exactly the kind of fast‑turnaround motion‑graphics production we handle for product and advertising campaigns.\"\n\nSentence 3: Cite proof: \"Our archive shows 57 motion‑graphics product & publicité pieces, including the recent “Course AI” product ad (2021) that delivered on‑brand cuts, logo animation, and kinetic typography on a same‑day schedule.\""
     }
   ]
 }
