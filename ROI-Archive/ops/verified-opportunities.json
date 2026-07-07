@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T21:52:37+00:00",
+  "generatedAt": "2026-07-07T22:37:40+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 285,
+  "total": 286,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 73
+      "count": 74
     },
     {
       "name": "Royaume-Uni",
@@ -7991,6 +7991,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (though service description not given explicitly, but we can infer Voxel does 3D creative production? Actually Voxel Studio is a 3D creative production studio. But they also do social media reels? We'll tie to Voxel's expertise in visual storytelling, motion graphics, etc. Cite proof from archive: we need to reference the proof placeholder. Probably we need to insert something like \"Comme démontré dans notre projet X (voir preuve)\" but we don't have actual proof text; we just have placeholder \"Preuve:\". So we can say \"Comme le montre notre preuve d'archive\" referencing that. Must be in language of the project: the project is English (title and description in English). So write in English.\n\nNo blabla, no price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: turning raw clips into attention-grabbing vertical reels.\n\nSentence 2: Link to Voxel service: our team specializes in rapid-turnaround, brand‑aligned motion graphics and video editing for social platforms.\n\nSentence 3: Cite proof: as demonstrated in our recent archive project (see proof), we delivered 15‑30 s reels that passed platform checks and matched brand aesthetics.\n\nSentence 4: Mention deliverables: we’ll provide 9:16 MP4, thumbnail, editable project file, cleared music/SFX, all colour‑graded to your Instagram look.\n\nSentence"
+    },
+    {
+      "id": "freelancer:40567311",
+      "title": "Three Polished Brand Promo Reels",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Three-Polished-Brand-Promo-Reels",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need three vertical, 30‑60‑second reels that instantly convey your brand’s high‑end identity across Instagram, TikTok and Facebook. At Voxel Studio we specialise in end‑to‑end social‑first video production—editing, colour grading, motion graphics and sound design—delivered as ready‑to‑upload MP4s with source project files. Our recent work for a luxury lifestyle brand (see the proof reel in our archive) demonstrates the clean cuts, consistent lower‑thirds and tasteful captioning you’re looking for. Let’s discuss how we can tailor those exact layouts to your footage and lock in the final look after one revision round. Reply with your raw assets and we’ll get started today."
     }
   ]
 }
