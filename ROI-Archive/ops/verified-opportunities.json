@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T07:37:06+00:00",
+  "generatedAt": "2026-07-07T08:22:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 276,
+  "total": 277,
   "countryCount": 8,
   "countries": [
     {
@@ -69,7 +69,7 @@
       "name": "Nouvelle-Zélande",
       "lat": -41,
       "lon": 174,
-      "count": 2
+      "count": 3
     },
     {
       "name": "Singapour",
@@ -4721,6 +4721,34 @@
       "lat": -25,
       "lon": 133,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing understanding of need, linking to service \"Motion graphics produit & pub\", citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: the project description is in French? The title is English but description is English. However the user says \"Écris dans la langue du projet.\" The project description is in French? Actually the title is English, but the description includes French words? The project is about AI Video Editor Promotional Content, but the description is English. However the user wrote French instructions. Likely they want French output. The project details are in English but the request is French. So we should write in French.\n\nWe need 4-6 sentences, professional, first person (Voxel). Show we understood need: need promo video, social clips, one-pager for AI video editor engine, technical audience. Relate to service Motion graphics produit & pub. Cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with light CTA: e.g., \"Discutons de votre projet\" or \"Contactez-nous pour un devis\". No price.\n\nCite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we mention that as example.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons saisi que Clippy IO a besoin d’une vidéo promo explicite et de clips courts qui traduisent ses fonctionnalités techniques en messages percutants pour développeurs et product managers"
+    },
+    {
+      "id": "freelancer:40565754",
+      "title": "Colonic Hydrotherapy 3D Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Colonic-Hydrotherapy-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Nouvelle-Zélande",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "medical_sci_3d",
+      "primarySegment": "medical",
+      "segments": [
+        "medical"
+      ],
+      "fitReasons": [
+        "Animation 3D médicale d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "medical_sci_3d",
+          "label": "medical_sci_3d"
+        }
+      ],
+      "lat": -41,
+      "lon": 174,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, link to service Visualisation médicale & scientifique 3D, cite proof Merck Medical, FootLyser, SANTE (64), end with light CTA. Write in language of the project (English). No fluff, no price. Cite the concrete project as proof: \"Course AI\" (medical_scientific_body, 2021). So we need to mention that we have done similar medical scientific body animation in 2021. Provide CTA like \"Let's discuss storyboard\" etc.\n\nMake sure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need a clear, semi‑realistic 3‑4‑minute animation that walks a viewer through each step of a colonic hydrotherapy session, with focus on anatomy, equipment and fluid flow.\"\n\nSentence 2: Link to service: \"Our Visualisation médicale & scientifique 3D service specializes in turning clinical workflows into accurate, approachable animations that meet exactly those anatomical and motion‑accuracy requirements.\"\n\nSentence 3: Cite proof: \"We’ve delivered comparable work for Merck Medical, FootLyser and SANTE (64), and most recently produced the “Course AI” medical‑scientific body animation in 2021.\"\n\nSentence 4: Show capability: \"Using Blender (or your preferred package) we can provide a storyboard for sign‑off, full 1080p/4K H.264 video with source files, and"
     },
     {
       "id": "freelancer:40548766",
