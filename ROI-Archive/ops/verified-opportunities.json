@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T03:06:25+00:00",
+  "generatedAt": "2026-07-07T03:51:24+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 270,
+  "total": 271,
   "countryCount": 8,
   "countries": [
     {
@@ -42,16 +42,16 @@
       "count": 69
     },
     {
+      "name": "Australie",
+      "lat": -25,
+      "lon": 133,
+      "count": 11
+    },
+    {
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
       "count": 11
-    },
-    {
-      "name": "Australie",
-      "lat": -25,
-      "lon": 133,
-      "count": 10
     },
     {
       "name": "Canada",
@@ -4693,6 +4693,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Animation de personnages, citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with light CTA. Write in language of the project: The user wrote in English, so we need English. No fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). So we need to mention that we have done similar work, e.g., \"Lemur Animations\" (cartoon character animation, 2020). Provide 4-6 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need a retro 8‑bit businesswoman with specific entry and three distinct exit animations, front‑view.\n\nSentence 2: Our Animation de personnages service specializes in pixel‑perfect character loops that match exactly that style.\n\nSentence 3: With 44 character‑animation projects in our archive, we have proven expertise in cartoon‑style 8‑bit work.\n\nSentence 4: For example, we delivered the “Lemur Animations” cartoon character animation in 2020, showcasing seamless loops and expressive poses.\n\nSentence 5: Let’s discuss how we can bring your businesswoman to life with the waving, smiling, flipping‑off, and dissolving exits you envision.\n\nSentence 6 (optional): Feel free to share any reference frames or timing notes, and we’ll start a quick concept sketch.\n\nThat's 6 sentences. Ensure no price"
+    },
+    {
+      "id": "freelancer:40565238",
+      "title": "AI Video Editor Promotional Content",
+      "sourceUrl": "https://www.freelancer.com/projects/content-creation/Video-Editor-Promotional-Content",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo promo motion graphics pour produit SaaS"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing understanding of need, linking to service \"Motion graphics produit & pub\", citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: the project description is in French? The title is English but description is English. However the user says \"Écris dans la langue du projet.\" The project description is in French? Actually the title is English, but the description includes French words? The project is about AI Video Editor Promotional Content, but the description is English. However the user wrote French instructions. Likely they want French output. The project details are in English but the request is French. So we should write in French.\n\nWe need 4-6 sentences, professional, first person (Voxel). Show we understood need: need promo video, social clips, one-pager for AI video editor engine, technical audience. Relate to service Motion graphics produit & pub. Cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with light CTA: e.g., \"Discutons de votre projet\" or \"Contactez-nous pour un devis\". No price.\n\nCite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we mention that as example.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons saisi que Clippy IO a besoin d’une vidéo promo explicite et de clips courts qui traduisent ses fonctionnalités techniques en messages percutants pour développeurs et product managers"
     },
     {
       "id": "freelancer:40548766",
