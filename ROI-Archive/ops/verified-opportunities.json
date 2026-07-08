@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T23:22:34+00:00",
+  "generatedAt": "2026-07-08T00:07:29+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 286,
+  "total": 287,
   "countryCount": 8,
   "countries": [
     {
@@ -42,16 +42,16 @@
       "count": 74
     },
     {
+      "name": "Australie",
+      "lat": -25,
+      "lon": 133,
+      "count": 12
+    },
+    {
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
       "count": 12
-    },
-    {
-      "name": "Australie",
-      "lat": -25,
-      "lon": 133,
-      "count": 11
     },
     {
       "name": "Canada",
@@ -4091,6 +4091,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Must be in language of project (English). No blabla, no price. Cite concrete project as proof of our historical (domain + year, without client name): \"Color Pen Animations\" (product_ad_motion, 2020). So we need to mention that we did similar work: product ad motion graphics in 2020. Provide CTA like \"Let's discuss a quick brief\". Ensure 4-6 sentences. No price. Let's craft 5 sentences.\n\nSentence 1: We understand you need a polished 30‑second landscaping spot that blends your assets into a trustworthy, brand‑aligned commercial for web and social.\n\nSentence 2: Our Motion graphics produit & pub service will integrate your logo, colors #1A472A & #89C16A, before‑after footage and crew video with tight pacing, color correction, tasteful graphics and royalty‑free audio.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the 2020 “Color Pen Animations” product ad—we have proven expertise delivering on‑time, on‑brand spots.\n\nSentence 4: We’ll deliver the 1080p master plus square and vertical variants, a lightweight <8 MB web version, and an editable project file, ready for your review in"
+    },
+    {
+      "id": "freelancer:40567417",
+      "title": "Dessert Cafe Animated Menu Design",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-design/Dessert-Cafe-Animated-Menu-Design",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics for animated menu screens"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, end with light CTA. Write in language of the project: the project description is in French? The user wrote French for some parts but also English. The title is English. The brief is English. The user says \"Écris dans la langue du projet.\" The project language seems English (since brief is English). So we should write in English. Provide 4-6 sentences. No blabla, no price. Cite the archive project concretely: \"Lemur Animations\" (product_ad_motion, 2020). Also mention we have 57 productions. Provide CTA like \"Let's discuss how we can bring your menu to life.\" Ensure first person (Voxel). Let's craft 5 sentences.\n\nSentence 1: We understand you need looping animated menu screens that showcase your desserts being assembled on‑screen, matching your clean, premium brand.\n\nSentence 2: Our Motion graphics produit & pub service specializes in exactly this kind of product‑focused animation, turning static designs into engaging, loop‑ready visuals.\n\nSentence 3: With 57 motion‑graphics product & advertisement pieces in our archive—including the Lemur Animations project (product_ad_motion, 2020)—we have proven expertise delivering polished, distance‑viewable loops.\n\nSentence 4: We can create two 1920×1080 looping videos that highlight each waffle variant with subtle ingredient"
     },
     {
       "id": "freelancer:40545736",
