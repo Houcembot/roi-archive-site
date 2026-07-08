@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T01:37:25+00:00",
+  "generatedAt": "2026-07-08T02:22:27+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 288,
+  "total": 289,
   "countryCount": 8,
   "countries": [
     {
@@ -57,7 +57,7 @@
       "name": "Canada",
       "lat": 56,
       "lon": -106,
-      "count": 10
+      "count": 11
     },
     {
       "name": "Europe",
@@ -8075,6 +8075,34 @@
       "lat": -25,
       "lon": 133,
       "proposalDraft": "Nous avons bien saisi que vous avez besoin d’une animation personnalisée qui montre d’abord l’usage habituel d’une friandise dentaire, puis la façon unique dont votre système isole la friandise pour cibler des dents précises – un avantage différenciant que aucun concurrent ne propose aujourd’hui. Chez Voxel Studio, nous transformons ce type de concept technique en séquences 3D claires et percutantes, idéales pour un infomercial destiné aux investisseurs et pour des"
+    },
+    {
+      "id": "freelancer:40567558",
+      "title": "3D Marketing Video for Oil Tool",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Marketing-Video-for-Oil-Tool",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "3D marketing video for product fits motion graphics service"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 56,
+      "lon": -106,
+      "proposalDraft": "Nous avons bien compris que vous avez besoin d’une vidéo 3D mettant en avant les bénéfices de votre outil d’acidification sélective pour l’industrie pétrolière. Chez Voxel Studio, notre expertise"
     }
   ]
 }
