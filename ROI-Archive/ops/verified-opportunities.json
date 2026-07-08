@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T11:22:55+00:00",
+  "generatedAt": "2026-07-08T12:08:58+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 295,
+  "total": 296,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 74
+      "count": 75
     },
     {
       "name": "Australie",
@@ -4889,6 +4889,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since project language is French). Must be 1st person (Voxel). Show we understood need, link to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). No price, no blabla. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"Nous savons que chaque matin vous devez transformer 40‑45 s de rush en une publicité Meta percutante, avec un hook dès les 3 premières secondes.\" Sentence 2: Relate to service: \"Notre expertise en motion graphics produit & pub nous permet d’ajouter titres animés, zooms, transitions et effets sonores tout en respectant le format 1080×1920.\" Sentence 3: Cite proof: \"Nous avons déjà réalisé 57 productions motion graphics produit & publicité, dont l’animation « Color Pen Animations » (product_ad_motion, 2020) qui illustre notre capacité à créer des visuels accrocheurs pour des ads.\" Sentence 4: Show benefit: \"Ainsi, vos vidéos gagneront en dynamisme et en taux de conversion sans que vous ayez à gérer la post‑production.\" Sentence 5: CTA léger: \"Discutons dès maintenant de votre premier montage et voyons comment nous pouvons accélérer votre flux quotidien.\""
+    },
+    {
+      "id": "freelancer:40568723",
+      "title": "Futuristic Motion Graphics Overlay",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Futuristic-Motion-Graphics-Overlay",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics overlays for live streaming"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We know you need four 5‑second futuristic overlays with transparent backgrounds for your live streams."
     },
     {
       "id": "freelancer:40548766",
