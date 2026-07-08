@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:24:04+00:00",
+  "generatedAt": "2026-07-08T18:08:56+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 304,
+  "total": 305,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 79
+      "count": 80
     },
     {
       "name": "Australie",
@@ -8521,6 +8521,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service \"Animation de personnages\", citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with a light CTA. Must be in language of the project (the user wrote in French? Actually the user wrote in English but the request says \"Écris dans la langue du projet.\" The project description is in English (title, need, etc). So we should write in English. Provide 4-6 sentences, no blabla, no price. Cite the concrete project as proof: \"james_body track\" (cartoon_character_animation, 2018). So we need to mention that we have done similar work: \"james_body track\" (cartoon_character_animation, 2018). Also mention the archive proof: 44 projects.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a lively, expressive AI‑generated cartoon avatar that syncs perfectly with your voice‑over and delivers clean AE‑ready assets.\n\nSentence 2: Our Animation de personnages service specializes in turning text/audio into polished character performances using tools like Adobe Character Animator, Synthesia or D‑ID, then refining them in After Effects.\n\nSentence 3: With 44 character‑animation & cartoon projects in our archive—including the recent “james_body track” (cartoon_character_animation, 2018)—we have proven expertise in achieving accurate lip‑sync, facial emotion and natural body movement.\n\nSentence 4"
+    },
+    {
+      "id": "freelancer:40569444",
+      "title": "Financial Security Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Financial-Security-Animation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel). Show we understood need, link to service Motion graphics produit & pub, cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with light CTA. Write in language of the project: The project description is in English. So we write in English. No fluff, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So include that as example of our historical work.\n\nWe need to ensure we mention that we understood need: realistic animation of mansion with guards as assets. Then link to service. Then mention proof: we have. Then mention the specific archive project as proof. Then CTA: e.g., \"Let's discuss how we can bring your vision to life.\"\n\nMake sure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need a realistic animated video that visualizes financial security through a modern mansion guarded by asset‑labeled guards. Sentence 2: Our Motion graphics produit & pub service specializes in turning such concepts into high‑detail, lifelike animations. Sentence 3: With 57 motion‑graphics product and advertising pieces in our archive, we have a proven track record. Sentence 4: For example, our “Shapes Animation” (product_ad_motion, 2020) demonstrates our ability to blend realistic styling with clear messaging. Sentence 5: Let’s schedule a brief call to explore how we can bring your mansion‑and‑guards vision to life.\n\nCheck"
     }
   ]
 }
