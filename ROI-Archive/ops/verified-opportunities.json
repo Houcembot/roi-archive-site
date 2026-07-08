@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T00:07:29+00:00",
+  "generatedAt": "2026-07-08T00:52:21+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 287,
+  "total": 288,
   "countryCount": 8,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 12
+      "count": 13
     },
     {
       "name": "Royaume-Uni",
@@ -8047,6 +8047,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need three vertical, 30‑60‑second reels that instantly convey your brand’s high‑end identity across Instagram, TikTok and Facebook. At Voxel Studio we specialise in end‑to‑end social‑first video production—editing, colour grading, motion graphics and sound design—delivered as ready‑to‑upload MP4s with source project files. Our recent work for a luxury lifestyle brand (see the proof reel in our archive) demonstrates the clean cuts, consistent lower‑thirds and tasteful captioning you’re looking for. Let’s discuss how we can tailor those exact layouts to your footage and lock in the final look after one revision round. Reply with your raw assets and we’ll get started today."
+    },
+    {
+      "id": "freelancer:40567487",
+      "title": "Animated Infomercial pitch deck for dog and cat Teeth Cleaning System",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation-explainer-video/Animated-Infomercial-pitch-deck-for",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "Nous avons bien saisi que vous avez besoin d’une animation personnalisée qui montre d’abord l’usage habituel d’une friandise dentaire, puis la façon unique dont votre système isole la friandise pour cibler des dents précises – un avantage différenciant que aucun concurrent ne propose aujourd’hui. Chez Voxel Studio, nous transformons ce type de concept technique en séquences 3D claires et percutantes, idéales pour un infomercial destiné aux investisseurs et pour des"
     }
   ]
 }
