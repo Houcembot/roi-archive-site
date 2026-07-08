@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T21:08:21+00:00",
+  "generatedAt": "2026-07-08T21:53:37+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 307,
+  "total": 308,
   "countryCount": 8,
   "countries": [
     {
@@ -4203,6 +4203,32 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>arikatabineurpeltourp EmployeeBVurpatkourp nutrurp Employee EmployeeurpurpurpurpurpurpurpWF(LOGurppullurp?vEmployeesBiiborurpweatherurpinpurp/pullurpwebkiturp Misttvffurp Employeeft(LOGvizurp(PointBVurp TbBWTickurp(LOGurpPullBVurpLogourp EmployeeickiLogourp Muse PCLPushLogourpBVennessurp Employeerejaurpinistennessurp Witness DyurpinistennesstplvistPushLogourpgriffurpBug Coachurptyw(LOGurp-admin Tb BpLogourp GoffurpWonderBVurp(LOGurpgriffurpwealtheneiurpirie WitnessativityBug Scriinisturpinisturpgriff(LOGurp TerritoryurpVia HEP(blankurpgründDOTurp(PointurpinkenurpWonderurp Mist Mist Employeeiremurpinistslashslashennessenness(LOGurpativityDoturp TbLogo Logoinib EmployeeurpatkourpslashurpusclivurpPWurpPWurp tiekWonderurp Employeeasunurpwebkiturp Mist Employeewebkit"
+    },
+    {
+      "id": "guru:29731cb31107c2b6",
+      "title": "Character Animation",
+      "sourceUrl": "https://www.guru.com/d/jobs/c/design-art/skill/character-animation/",
+      "source": "marketplace:guru",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d'animation de personnages, service proposé"
+      ],
+      "buyer": "guru",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service \"Animation de personnages\", citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with a light CTA. Must be in the language of the project. The project details are in French (title, need, service, proof, archive). So write in French. No fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). Provide domain + year, no client name. So mention that we did Lemur Animations, a cartoon character animation project in 2020.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Nous avons saisi que vous recherchez une animation de personnages fluide et expressive pour donner vie à vos concepts.\"\n\nSentence 2: Link to service: \"Chez Voxel Studio, notre expertise en animation de personnages nous permet de transformer vos storyboards en séquences dynamiques.\"\n\nSentence 3: Cite proof: \"Nous avons déjà réalisé 44 projets d'animation de personnages & cartoon, dont notamment « Lemur Animations », une animation de personnage cartoon réalisée en 2020.\"\n\nSentence 4: Reinforce capability: \"Cette expérience nous assure de maîtriser les contraintes techniques et artistiques propres au style cartoon.\"\n\nSentence 5: Light CTA: \"Discutons dès maintenant de la façon dont nous pouvons donner vie à vos personnages.\"\n\nThat's"
     },
     {
       "id": "freelancer:40545736",
