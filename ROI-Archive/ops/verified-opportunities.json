@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T16:38:28+00:00",
+  "generatedAt": "2026-07-08T17:24:04+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 303,
+  "total": 304,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 78
+      "count": 79
     },
     {
       "name": "Australie",
@@ -4175,6 +4175,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing understanding of need, linking to service \"Animation de personnages\", citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with light CTA. Write in language of the project: The user wrote in English. So answer in English. No blabla, no price. Cite concrete project as proof: \"Lynda _ Rigging a Cartoon Character in Maya 2016\" (cartoon_character_animation, 2016). Must include that. Also mention software preference? Not required in hook? The hook just needs to show understanding, relate to service, cite proof, end with CTA. Probably include mention of software preference? Not required but could be part of showing understanding. But keep 4-6 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need a short 3D animation centered on expressive, memorable characters with full design, rig, animation and delivery.\n\nSentence 2: Our Animation de personnages service delivers original 3D character creation, rigging, blocking‑to‑final render pipeline, using the toolset that best fits your vision (Maya, Blender, C4D, Houdini).\n\nSentence 3: With 44 character‑focused animation projects in our archive—including a recent Lynda‑style rigging tutorial “Rigging a Cartoon Character in Maya 2016” (cartoon_character_animation, 2016)—we have proven expertise in bringing cartoon‑style personalities to life.\n\nSentence 4: Let’s discuss your"
+    },
+    {
+      "id": "freelancer:40569418",
+      "title": "Motion Graphics Designer Needed for Animated Restaurant Digital Menu",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Motion-Graphics-Designer-Needed-for",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'animation motion graphics pour menu digital"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>arikatabineurpeltourp EmployeeBVurpatkourp nutrurp Employee EmployeeurpurpurpurpurpurpurpWF(LOGurppullurp?vEmployeesBiiborurpweatherurpinpurp/pullurpwebkiturp Misttvffurp Employeeft(LOGvizurp(PointBVurp TbBWTickurp(LOGurpPullBVurpLogourp EmployeeickiLogourp Muse PCLPushLogourpBVennessurp Employeerejaurpinistennessurp Witness DyurpinistennesstplvistPushLogourpgriffurpBug Coachurptyw(LOGurp-admin Tb BpLogourp GoffurpWonderBVurp(LOGurpgriffurpwealtheneiurpirie WitnessativityBug Scriinisturpinisturpgriff(LOGurp TerritoryurpVia HEP(blankurpgründDOTurp(PointurpinkenurpWonderurp Mist Mist Employeeiremurpinistslashslashennessenness(LOGurpativityDoturp TbLogo Logoinib EmployeeurpatkourpslashurpusclivurpPWurpPWurp tiekWonderurp Employeeasunurpwebkiturp Mist Employeewebkit"
     },
     {
       "id": "freelancer:40545736",
