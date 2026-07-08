@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T18:08:56+00:00",
+  "generatedAt": "2026-07-08T18:53:54+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 305,
+  "total": 306,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 134
+      "count": 135
     },
     {
       "name": "États-Unis",
@@ -8549,6 +8549,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel). Show we understood need, link to service Motion graphics produit & pub, cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with light CTA. Write in language of the project: The project description is in English. So we write in English. No fluff, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So include that as example of our historical work.\n\nWe need to ensure we mention that we understood need: realistic animation of mansion with guards as assets. Then link to service. Then mention proof: we have. Then mention the specific archive project as proof. Then CTA: e.g., \"Let's discuss how we can bring your vision to life.\"\n\nMake sure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need a realistic animated video that visualizes financial security through a modern mansion guarded by asset‑labeled guards. Sentence 2: Our Motion graphics produit & pub service specializes in turning such concepts into high‑detail, lifelike animations. Sentence 3: With 57 motion‑graphics product and advertising pieces in our archive, we have a proven track record. Sentence 4: For example, our “Shapes Animation” (product_ad_motion, 2020) demonstrates our ability to blend realistic styling with clear messaging. Sentence 5: Let’s schedule a brief call to explore how we can bring your mansion‑and‑guards vision to life.\n\nCheck"
+    },
+    {
+      "id": "freelancer:40569479",
+      "title": "Creative Promo Video Editor Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Creative-Promo-Video-Editor-Needed",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Nous avons bien saisi votre souhait de transformer des rushes bruts en vidéos promotionnelles audacieuses, où le motion‑graphic dynamique et les transitions percutantes prennent le dessus sur un style trop corporate. Chez Voxel Studio, notre service de montage créatif combine justement les outils IA (détection de scène,"
     }
   ]
 }
