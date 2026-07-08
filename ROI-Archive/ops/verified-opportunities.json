@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T14:25:00+00:00",
+  "generatedAt": "2026-07-08T15:08:39+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 299,
+  "total": 300,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 132
+      "count": 133
     },
     {
       "name": "États-Unis",
@@ -4147,6 +4147,34 @@
       "lat": 1.35,
       "lon": 103.8,
       "proposalDraft": "Je comprends que vous cherchez une animation de motion‑graphics percutante, capable de mettre en valeur les fonctionnalités clés de votre produit en 15 à 30 s, optimisée pour Instagram, LinkedIn, TikTok et autres feeds.  \nChez Voxel, nous créons des motion‑graphics produit & pub qui captivent l’attention tout en respectant vos directives de marque et les spécifications de chaque plateforme.  \nNotre archive compte déjà 57 productions de motion‑graphics produit & publicité, preuve de notre expertise et de notre capacité à livrer des projets de haute qualité.  \nPar exemple, la « Shapes Animation » (product_ad_motion, 2020) illustre parfaitement notre approche rapide, dynamique et sur-mesure.  \nContactez-moi dès maintenant pour transformer votre liste de fonctionnalités en un storyboard percutant et lancer la production."
+    },
+    {
+      "id": "freelancer:40569110",
+      "title": "Character-Focused 3D Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Character-Focused-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Character animation production requested"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing understanding of need, linking to service \"Animation de personnages\", citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with light CTA. Write in language of the project: The user wrote in English. So answer in English. No blabla, no price. Cite concrete project as proof: \"Lynda _ Rigging a Cartoon Character in Maya 2016\" (cartoon_character_animation, 2016). Must include that. Also mention software preference? Not required in hook? The hook just needs to show understanding, relate to service, cite proof, end with CTA. Probably include mention of software preference? Not required but could be part of showing understanding. But keep 4-6 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need a short 3D animation centered on expressive, memorable characters with full design, rig, animation and delivery.\n\nSentence 2: Our Animation de personnages service delivers original 3D character creation, rigging, blocking‑to‑final render pipeline, using the toolset that best fits your vision (Maya, Blender, C4D, Houdini).\n\nSentence 3: With 44 character‑focused animation projects in our archive—including a recent Lynda‑style rigging tutorial “Rigging a Cartoon Character in Maya 2016” (cartoon_character_animation, 2016)—we have proven expertise in bringing cartoon‑style personalities to life.\n\nSentence 4: Let’s discuss your"
     },
     {
       "id": "freelancer:40545736",
