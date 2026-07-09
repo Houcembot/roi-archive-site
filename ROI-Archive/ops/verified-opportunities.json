@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T09:08:56+00:00",
+  "generatedAt": "2026-07-09T09:54:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 322,
+  "total": 323,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 81
+      "count": 82
     },
     {
       "name": "Australie",
@@ -9023,6 +9023,34 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Must be in language of the project: the project description is in English, so write in English. No fluff, no price. Cite concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). So we need to mention that as example of our archive. Provide 4-6 sentences. Ensure we mention we understood need (60-sec showcase, dark-mode dashboard, red highlights, smash-cuts, etc). Link to service Motion graphics produit & pub. Cite proof 57 productions. End with CTA like \"Let's discuss how we can bring this vision to life\" or \"Feel free to share the footage and we'll start\". No price. Ensure first person (Voxel) i.e., \"We at Voxel Studio\". Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"We grasp that you need a tight 60‑second piece that moves from Supreme Tweaks’ dark‑mode dashboard—red highlights and all—to immediate gameplay proof of each toggle’s impact.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub team specializes in weaving UI recordings with dynamic gameplay cuts, adding polished HUD call‑outs, parallax layers and 3D‑tracked titles that keep the energy of a high‑end launch trailer.\"\n\nSent"
+    },
+    {
+      "id": "freelancer:40570908",
+      "title": "Realistic Helicopter Golf-Ball Drop",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Realistic-Helicopter-Golf-Ball-Drop",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "Nous avons bien saisi votre besoin : une séquence de 10‑15 s en full‑HD où un hélicoptère lâche un flux de balles de golf dont la trajectoire, l’éclairage et les ombres sont totalement réalistes, accompagnée d’un compteur intégré à l’image comme un graphisme de diffusion en direct.  \nChez Voxel Studio, nous produisons régulièrement ce type d’animations hyper‑réalistes pour des clients du secteur sportif et de la broadcast, en séparant chaque élément (hélicoptère, parcours, overlay) sur des calques distincts afin de permettre ultérieurement toute modification de couleur ou de position.  \nComme le montre notre projet « Drone‑Drop Soccer » arch"
     }
   ]
 }
