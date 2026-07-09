@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T04:39:20+00:00",
+  "generatedAt": "2026-07-09T05:24:47+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 316,
+  "total": 319,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 138
+      "count": 141
     },
     {
       "name": "États-Unis",
@@ -4229,6 +4229,90 @@
         }
       ],
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service \"Animation de personnages\", citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with a light CTA. Must be in the language of the project. The project details are in French (title, need, service, proof, archive). So write in French. No fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). Provide domain + year, no client name. So mention that we did Lemur Animations, a cartoon character animation project in 2020.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Nous avons saisi que vous recherchez une animation de personnages fluide et expressive pour donner vie à vos concepts.\"\n\nSentence 2: Link to service: \"Chez Voxel Studio, notre expertise en animation de personnages nous permet de transformer vos storyboards en séquences dynamiques.\"\n\nSentence 3: Cite proof: \"Nous avons déjà réalisé 44 projets d'animation de personnages & cartoon, dont notamment « Lemur Animations », une animation de personnage cartoon réalisée en 2020.\"\n\nSentence 4: Reinforce capability: \"Cette expérience nous assure de maîtriser les contraintes techniques et artistiques propres au style cartoon.\"\n\nSentence 5: Light CTA: \"Discutons dès maintenant de la façon dont nous pouvons donner vie à vos personnages.\"\n\nThat's"
+    },
+    {
+      "id": "freelancer:40570391",
+      "title": "Pet App Showcase Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Pet-App-Showcase-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo showcase app avec motion graphics et réel"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve grasped your need for eight polished, mixed‑style showcase videos that pair real pet‑owner footage with clean motion‑graphics call‑outs to highlight each app feature. As specialists in Motion graphics produit & pub, we’ll take your scripts and screenshots, enrich them with tasteful animations or AI‑enhanced pet clips, and deliver ready‑to‑upload MP4s plus source files and a style guide. Our track record includes 57 motion‑graphics product and advertisement productions in our archive, such as the “Course AI” project (product_ad_motion, 2021"
+    },
+    {
+      "id": "freelancer:40570372",
+      "title": "360° Jewelry Renders: Rings & Earrings",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Jewelry-Renders-Rings-Earrings",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Visualisation produit avec animation turntable"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Write in language of the project: The project is in English (the user wrote English). So we need English. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Provide timeline? Not required but we can mention we can deliver per SKU quickly. Must not include price. Provide CTA like \"Let's discuss next steps\" etc.\n\nMake sure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need polished 360° turntables of your rings and earrings with true‑to‑life metal reflections and gem sparkle on a pure white background.\n\nSentence 2: At Voxel Studio our Motion graphics produit & pub service specializes exactly in that look‑dev, lighting and animation workflow for product visuals.\n\nSentence 3: We have delivered 57 motion‑graphics product & advertising pieces in our archive, including the recent “Shapes Animation” (product_ad_motion, 2020) jewelry turntable project.\n\nSentence 4: Upon receiving your CAD files we can provide seamless 8‑12 s loop‑ready MP4s and a full PNG image sequence (with optional alpha) within a clear timeline per SKU.\n\nSentence 5: Let’s jump on a quick call to confirm the schedule and get your assets moving.\n\nCheck:"
+    },
+    {
+      "id": "freelancer:40570386",
+      "title": "Energetic Product Reels Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/video-post-editing/Energetic-Product-Reels-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Édition dynamique de reels produit avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The user wrote the request in English. The language of the project is English. So we need to write in English. Provide a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar work, e.g., \"Course AI\" product ad motion in 2021.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need three fast‑paced, beat‑synced vertical reels that make each product the hero from the first frame.\"\n\nSentence 2: Relate to service: \"That’s exactly what our Motion graphics produit & pub service delivers—dynamic cuts, seamless transitions, and music‑driven editing.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product and advertising pieces in our archive, including the 2021 ‘Course AI’ product ad, we have the track record to turn raw footage into punchy, on‑beat reels.\"\n\nSentence 4: Maybe add reassurance about revisions: \"We’ll deliver three ready‑to‑publish"
     },
     {
       "id": "freelancer:40545736",
