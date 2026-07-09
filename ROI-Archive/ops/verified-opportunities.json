@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T18:36:20+00:00",
+  "generatedAt": "2026-07-09T19:22:04+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 332,
+  "total": 333,
   "countryCount": 8,
   "countries": [
     {
@@ -69,7 +69,7 @@
       "name": "Nouvelle-Zélande",
       "lat": -41,
       "lon": 174,
-      "count": 3
+      "count": 4
     },
     {
       "name": "Singapour",
@@ -9303,6 +9303,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "I understand you need a reliable editor who can transform your raw talking‑head footage into clean, minimalist Instagram Reels that deliver"
+    },
+    {
+      "id": "freelancer:40571939",
+      "title": "Build a Browser-based 3D Viewer - Web Application",
+      "sourceUrl": "https://www.freelancer.com/projects/Build-Browser-based-Viewer-Web",
+      "source": "marketplace:freelancer",
+      "country": "Nouvelle-Zélande",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "web3d_viewer",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Demande de viewer web 3D, service web3"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "web3d_viewer",
+          "label": "web3d_viewer"
+        }
+      ],
+      "lat": -41,
+      "lon": 174,
+      "proposalDraft": "We need to write a short commercial hook 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Viewer web 3D / livraison, cite proof of archive \"Web Viewer Factory (Marmoset, MONSAPO)\", finish with light CTA. Write in language of the project: The project title and need are in English, so write in English. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (pipeline_tools, 2021). So we need to mention that we delivered a web 3D viewer for Course AI pipeline_tools in 2021 as evidence. Also mention Web Viewer Factory (Marmoset, MONSAPO) as proof. Probably combine: we built Web Viewer Factory using Marmoset and MONSAPO. Provide CTA like \"Let's discuss how we can deliver your viewer quickly.\" Ensure 4-6 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need a browser‑based 3D viewer that integrates smoothly into your workflow. Sentence 2: At Voxel Studio we specialize in delivering ready‑to‑use web 3D viewers, handling everything from model preparation to final deployment. Sentence 3: Our recent work on the Web Viewer Factory—built with Marmoset and MONSAPO—demonstrates our ability to produce high‑performance, cross‑platform viewers. Sentence 4: We applied the same expertise to the Course AI pipeline_tools project in 2021, delivering a viewer that met tight deadlines"
     }
   ]
 }
