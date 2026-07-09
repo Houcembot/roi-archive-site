@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T11:25:45+00:00",
+  "generatedAt": "2026-07-09T12:10:23+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 325,
+  "total": 326,
   "countryCount": 8,
   "countries": [
     {
@@ -57,7 +57,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 13
+      "count": 14
     },
     {
       "name": "Europe",
@@ -4341,6 +4341,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We get that you want a snappy, 30‑60 second promo that feels like a 90s school notebook—doodles, comic panels, diary stickers—yet stays fresh and modern enough to hook parents instantly while showcasing the app’s value for today’s kids.  \nOur Motion graphics produit & pub is exactly what we do, and we’ve delivered"
+    },
+    {
+      "id": "freelancer:40571152",
+      "title": "Create 2 Premium CGI Cosmetic Commercials – Luxury Product Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/Create-Premium-CGI-Cosmetic-Commercials",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production de deux publicités CGI luxe pour cosmétiques"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the request is in French. Likely they want French language. The service is \"Motion graphics produit & pub\". Provide proof: 57 productions motion graphics produit & publicité (archive Voxel). Cite the concrete project: \"Course AI\" (product_ad_motion, 2021). So we need to mention that as proof of our historical experience (domain + year). No client name. Provide CTA light. No price. No blabla. 4-6 sentences.\n\nLet's craft: \"Nous avons compris que vous cherchez deux spots CGI premium pour vos crèmes OnlyTANS, avec un rendu ultra‑réaliste et une ambiance luxe‑playful ou fruitée. Notre expertise en motion graphics produit & pub nous permet de transformer vos modèles 3D en vidéos cinématiques, avec éclairage studio, macro‑shots et réflexions haut de gamme. Nous avons déjà réalisé 57 productions motion graphics produit & publicité, dont le projet « Course AI » (product_ad_motion, 2021) qui illustre notre capacité à livrer des spots publicitaires de qualité broadcast. Confiez‑nous vos références et nous vous livrerons deux commercials de 15‑30 s qui mettront en valeur la texture, la couleur et l’élégance de vos crèmes. Dites‑nous quand vous souhaitez démarrer la première revue de storyboard.\"\n\nThat's 5 sentences. Ensure no price. Good."
     },
     {
       "id": "freelancer:40545736",
