@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T09:54:43+00:00",
+  "generatedAt": "2026-07-09T10:40:20+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 323,
+  "total": 324,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 82
+      "count": 83
     },
     {
       "name": "Australie",
@@ -9051,6 +9051,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "Nous avons bien saisi votre besoin : une séquence de 10‑15 s en full‑HD où un hélicoptère lâche un flux de balles de golf dont la trajectoire, l’éclairage et les ombres sont totalement réalistes, accompagnée d’un compteur intégré à l’image comme un graphisme de diffusion en direct.  \nChez Voxel Studio, nous produisons régulièrement ce type d’animations hyper‑réalistes pour des clients du secteur sportif et de la broadcast, en séparant chaque élément (hélicoptère, parcours, overlay) sur des calques distincts afin de permettre ultérieurement toute modification de couleur ou de position.  \nComme le montre notre projet « Drone‑Drop Soccer » arch"
+    },
+    {
+      "id": "freelancer:40570978",
+      "title": "Weekly Social Media Motion Designer",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Weekly-Social-Media-Motion-Designer",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation 3D"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: the project description is in English, so we write in English. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that as part of proof? The proof is the number 57 productions, and we also need to cite the concrete project as proof of our historical (domain + year, without client name). So we can say: \"Like our 'Shapes Animation' (product_ad_motion, 2020) ...\". Ensure we mention service: Motion graphics produit & pub. Provide CTA: e.g., \"Let’s discuss how we can keep your weekly feed fresh—reply to this message or share your brief.\" Keep 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: weekly short 3D social animations, need fluid motion, crisp lighting, on schedule.\n\nSentence 2: Link to our service: At Voxel Studio, our Motion graphics produit & pub team specializes in exactly that—high‑impact, clean 3D motion pieces delivered reliably.\n\nSentence 3: Cite proof: We have produced 57 motion‑graphics product & pub pieces in our archive, including the recent “Shapes Animation” (product_ad_motion,"
     }
   ]
 }
