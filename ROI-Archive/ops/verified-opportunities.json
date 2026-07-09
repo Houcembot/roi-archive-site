@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T16:22:00+00:00",
+  "generatedAt": "2026-07-09T17:06:54+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 331,
+  "total": 332,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 146
+      "count": 147
     },
     {
       "name": "États-Unis",
@@ -9275,6 +9275,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch in French? The user says \"Écris dans la langue du projet.\" The project description is in English (the user wrote English). The language of the project is English. So we should write in English. Provide a short commercial hook 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Voxel, cite proof archive, end with light CTA. No blabla, no price.\n\nWe need to include service Voxel (maybe description) and proof (archive). The user gave \"Service Voxel:\" and \"Preuve:\" but no content after colon. Possibly they expect us to fill with something? Actually they gave placeholders: \"Service Voxel:\" and \"Preuve:\" maybe they expect us to insert the service description and proof from our knowledge? We don't have that info. Could infer: Voxel Studio does 3D creative production, maybe they have service: AI-driven video creation, end-to-end workflow. Proof: maybe a portfolio link or case study. Since not provided, we can say something like \"Our AI-powered video production service\" and \"As shown in our recent reel for X brand (link)\". We must not fabricate? Might be okay to reference generic proof.\n\nWe need to keep it short 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: need punchy scroll-stopping AI-generated reels using ElevenLabs, Sora, etc.\n\nSentence 2: Relate to Voxel service: our end-to-end AI video creation covers script, visuals, editing, motion graphics,"
+    },
+    {
+      "id": "freelancer:40571723",
+      "title": "Instagram Finance Reels Editor",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Instagram-Finance-Reels-Editor",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Editing"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "I understand you need a reliable editor who can transform your raw talking‑head footage into clean, minimalist Instagram Reels that deliver"
     }
   ]
 }
