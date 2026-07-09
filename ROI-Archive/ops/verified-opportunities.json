@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T07:39:27+00:00",
+  "generatedAt": "2026-07-09T08:24:58+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 320,
+  "total": 322,
   "countryCount": 8,
   "countries": [
     {
@@ -57,13 +57,13 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 12
+      "count": 13
     },
     {
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 11
+      "count": 12
     },
     {
       "name": "Nouvelle-Zélande",
@@ -4313,6 +4313,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The user wrote the request in English. The language of the project is English. So we need to write in English. Provide a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar work, e.g., \"Course AI\" product ad motion in 2021.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need three fast‑paced, beat‑synced vertical reels that make each product the hero from the first frame.\"\n\nSentence 2: Relate to service: \"That’s exactly what our Motion graphics produit & pub service delivers—dynamic cuts, seamless transitions, and music‑driven editing.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product and advertising pieces in our archive, including the 2021 ‘Course AI’ product ad, we have the track record to turn raw footage into punchy, on‑beat reels.\"\n\nSentence 4: Maybe add reassurance about revisions: \"We’ll deliver three ready‑to‑publish"
+    },
+    {
+      "id": "freelancer:40570766",
+      "title": "Retro Notebook App Promo Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Retro-Notebook-App-Promo-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation promo avec intégration UI et motion design"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We get that you want a snappy, 30‑60 second promo that feels like a 90s school notebook—doodles, comic panels, diary stickers—yet stays fresh and modern enough to hook parents instantly while showcasing the app’s value for today’s kids.  \nOur Motion graphics produit & pub is exactly what we do, and we’ve delivered"
     },
     {
       "id": "freelancer:40545736",
@@ -8967,6 +8995,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The instruction: \"Écris dans la langue du projet.\" The project description is in English, but the user wrote in English. However the instruction says \"Écris dans la langue du projet.\" The project language is English (the request is English). So we should write in English. Provide a short commercial hook, professional, first person (Voxel), showing we understood need, linking to Voxel service, citing proof (archive), ending with a light CTA. No blabla, no price. Need to reference the service Voxel and proof but they are empty in the prompt: \"Service Voxel:\" and \"Preuve:\" with nothing after. Possibly we need to infer that Voxel service is motion graphics for digital signage, and proof is maybe a portfolio or case study. Since they are empty, we can just mention that we have proven experience (like \"as shown in our recent work for X\"). We'll keep it generic but mention proof.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We understand you need a sleek, premium animated menu that spans four synchronized 1080p screens for your restaurant.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio, we specialize in turning static assets into dynamic motion‑graphics experiences tailored for digital signage.\"\n\nSentence 3: Cite proof: \"Our recent project for a upscale bistro delivered a 4‑screen 7680×1080 animated menu that boost"
+    },
+    {
+      "id": "freelancer:40570754",
+      "title": "60-Second Supreme Tweaks Promo",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Second-Supreme-Tweaks-Promo",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Must be in language of the project: the project description is in English, so write in English. No fluff, no price. Cite concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). So we need to mention that as example of our archive. Provide 4-6 sentences. Ensure we mention we understood need (60-sec showcase, dark-mode dashboard, red highlights, smash-cuts, etc). Link to service Motion graphics produit & pub. Cite proof 57 productions. End with CTA like \"Let's discuss how we can bring this vision to life\" or \"Feel free to share the footage and we'll start\". No price. Ensure first person (Voxel) i.e., \"We at Voxel Studio\". Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"We grasp that you need a tight 60‑second piece that moves from Supreme Tweaks’ dark‑mode dashboard—red highlights and all—to immediate gameplay proof of each toggle’s impact.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub team specializes in weaving UI recordings with dynamic gameplay cuts, adding polished HUD call‑outs, parallax layers and 3D‑tracked titles that keep the energy of a high‑end launch trailer.\"\n\nSent"
     }
   ]
 }
