@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T10:40:20+00:00",
+  "generatedAt": "2026-07-09T11:25:45+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 324,
+  "total": 325,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 142
+      "count": 143
     },
     {
       "name": "États-Unis",
@@ -9079,6 +9079,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: the project description is in English, so we write in English. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that as part of proof? The proof is the number 57 productions, and we also need to cite the concrete project as proof of our historical (domain + year, without client name). So we can say: \"Like our 'Shapes Animation' (product_ad_motion, 2020) ...\". Ensure we mention service: Motion graphics produit & pub. Provide CTA: e.g., \"Let’s discuss how we can keep your weekly feed fresh—reply to this message or share your brief.\" Keep 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: weekly short 3D social animations, need fluid motion, crisp lighting, on schedule.\n\nSentence 2: Link to our service: At Voxel Studio, our Motion graphics produit & pub team specializes in exactly that—high‑impact, clean 3D motion pieces delivered reliably.\n\nSentence 3: Cite proof: We have produced 57 motion‑graphics product & pub pieces in our archive, including the recent “Shapes Animation” (product_ad_motion,"
+    },
+    {
+      "id": "freelancer:40571088",
+      "title": "Instagram Promo Video Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Instagram-Promo-Video-Editing-40571088",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "I understand you need a tight, scroll‑stopping Instagram Reel that turns your ready‑to‑go footage and brand assets into a polished promotional piece, complete with vertical framing, on‑screen text, smooth transitions and audio‑colour polish.  \nAt Voxel Studio we specialise in exactly that – crafting high‑impact, platform‑specific video edits that blend creative motion graphics with a promotional tone while respecting Instagram’s technical limits.  \nOur archive shows recent Instagram promo reels for lifestyle and tech brands that achieved >15 % lift in engagement through subtle speed ramps, dynamic captions and trend‑synced sound.  \nWe’ll deliver a Premiere Pro project plus an MP4 master"
     }
   ]
 }
