@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T09:20:22+00:00",
+  "generatedAt": "2026-07-10T10:04:58+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 340,
+  "total": 341,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 88
+      "count": 89
     },
     {
       "name": "Australie",
@@ -5223,6 +5223,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a humorous animated video where George Washington, Thomas Jefferson"
+    },
+    {
+      "id": "freelancer:40573299",
+      "title": "Viral Book Promotion TikTok",
+      "sourceUrl": "https://www.freelancer.com/projects/content-creation/Viral-Book-Promotion-TikTok",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos TikTok promotion produit motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the user wrote instructions in French. The language of the project? The project title and description are English. However the instruction says \"Écris dans la langue du projet.\" Could be ambiguous. Usually they'd want French because the instructions are French. But the project is English. The user wrote \"Écris dans la langue du projet.\" I'd interpret that as the language of the project description, which is English. However the rest of the conversation is in French. The user wrote the request in French. The service and proof are in French. The archive project is in French? The archive project title is \"2012-10-TT Mode de paiement\" (product_ad_motion, 2012). That's French/English mix.\n\nI think they'd want French output. Many similar tasks: they ask to write in the language of the project. The project details are given in English, but the user wrote in French. I'd choose French to be safe.\n\nWe need 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof of our historical (domain + year, without client name). So we need to mention the archive project: \"2012-10-TT Mode de paiement\" (product_ad_motion, 2012)."
     },
     {
       "id": "freelancer:40548766",
