@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T13:51:14+00:00",
+  "generatedAt": "2026-07-10T14:36:27+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 346,
+  "total": 348,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 91
+      "count": 92
     },
     {
       "name": "Australie",
@@ -51,7 +51,7 @@
       "name": "Canada",
       "lat": 56,
       "lon": -106,
-      "count": 14
+      "count": 15
     },
     {
       "name": "Royaume-Uni",
@@ -4397,6 +4397,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>inibנותiggarikatfinityCasestickativityativitysettateraimtlblratt Protat:[tvVisibilityDowarikat{{fte{{DowDowinib Ur ProturpBV Bp Reverse Bp:UILocatorCLCftimeinib Electro(LOG BWMOVEFerr(GFootnotenizteraExtractorirkeftar BpBV WLogoBVinib CRPutica/-/abrayvinneBV Prot BparikatTint Baxterarikat BpDow:CratchDowinib Settlement/-/ Bpprot/-/ Bp Bpestand Logomonstekurpnera BpGas Employeeativity TruthmundpasstTechwanderwebkitffeBV/-/elto Bp TM MisturpWondertyw LumpBVangkan ERPmistVialachlainabra Tb(LOG Bpnera Bp/G XParikat Bp DypasstabraPromptvertical Cere末Tick/View:Textinib DotLogoTech Bpuzz LumpDOTbug Lumprattteras BpMinuteateravertical BpMCsfast Bpftimevira Misttv RoutinibBVBVFvPrompt BpView Logoinie BpBVtyw Bpinib Lumpinie BpinibBVinibinibcliffe:Text Downtown Downtownnera Bpinib TTistinLogo FlameBVinibDow"
+    },
+    {
+      "id": "freelancer:40573738",
+      "title": "90-Second Cinematic Product Demo -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/video-services/Second-Cinematic-Product-Demo",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics video for product demo matches service"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 56,
+      "lon": -106,
+      "proposalDraft": "We understand you need a 90‑second cinematic demo that turns your VisiQ voice‑over script into a polished marketing asset for web, LinkedIn and sales outreach."
     },
     {
       "id": "freelancer:40545736",
@@ -9693,6 +9721,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel, citing proof archive, ending with a light CTA. Language of the project: The user wrote in English, so output in English. No fluff, no price. Must not mention price. Must include service Voxel (maybe a description) and proof (archive). We don't have actual content of service Voxel and preuve given; they are placeholders. We need to include them as given: \"Service Voxel: \" and \"Preuve: \". Probably we need to repeat them? The instruction: \"cite the preuve d'archive ``\". So we need to include the proof placeholder exactly as given? Probably we need to include the text after \"Preuve:\" as is. Since it's empty, maybe just include \"Preuve:\"? But better to include the placeholder as given: \"Preuve: \". Similarly \"Service Voxel: \". We'll include them.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: colorful, vibrant Lottie splash screen for education app, focusing on tagline motion.\n\nSentence 2: Relate to Voxel service: we specialize in crafting lightweight, loop-friendly Lottie animations that highlight brand messaging through motion and color.\n\nSentence 3: Cite proof: reference our archive (maybe a recent project) – we can say \"As shown in our recent educational splash screen for XYZ app (see Preuve: )\". But we need to include the proof placeholder exactly. Could write"
+    },
+    {
+      "id": "freelancer:40573763",
+      "title": "Realistic 3D Product Animation Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-graphic-design/Realistic-Product-Animation-Videos",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need crisp,"
     }
   ]
 }
