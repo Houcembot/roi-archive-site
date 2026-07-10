@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T16:48:47+00:00",
+  "generatedAt": "2026-07-10T17:33:57+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 348,
+  "total": 350,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 92
+      "count": 93
     },
     {
       "name": "Australie",
@@ -51,7 +51,7 @@
       "name": "Canada",
       "lat": 56,
       "lon": -106,
-      "count": 15
+      "count": 16
     },
     {
       "name": "Royaume-Uni",
@@ -9749,6 +9749,62 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need crisp,"
+    },
+    {
+      "id": "freelancer:40574057",
+      "title": "Real Estate Based Animation for Social Media",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Real-Estate-Based-Animation-for",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics template for real estate social media ad"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 56,
+      "lon": -106,
+      "proposalDraft": "We understand you need"
+    },
+    {
+      "id": "freelancer:40574040",
+      "title": "Travel Agency Logo Reveal Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/logo-animation/Travel-Agency-Logo-Reveal-Animation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Logo reveal animation motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a refined 5‑6 second"
     }
   ]
 }
