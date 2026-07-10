@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T18:19:20+00:00",
+  "generatedAt": "2026-07-10T19:04:24+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 352,
+  "total": 353,
   "countryCount": 8,
   "countries": [
     {
@@ -57,7 +57,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 14
+      "count": 15
     },
     {
       "name": "Europe",
@@ -9861,6 +9861,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably Instagram marketing video editing), citing proof archive (but we have no actual proof given; maybe we refer to \"preuve\" placeholder? The user gave \"Preuve:\" but no content. Perhaps we can say \"comme le montre notre preuve d'archive\" referencing that we have proof. We need to write in language of the project: the user wrote in French (some English). The project title is English but the request says \"Écris dans la langue du projet.\" The project language seems French (since the user wrote French). So we write in French.\n\nWe need to avoid blabla, no price. Provide CTA light.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: raw footage to polished Instagram marketing video.\n\nSentence 2: Link to Voxel service: we specialize in Instagram marketing video editing, vertical format, motion graphics, etc.\n\nSentence 3: Cite proof archive: e.g., \"Comme le montre notre preuve d'archive, nous avons déjà livré des reels qui ont généré X% d'engagement\" but we don't have numbers; we can say \"Comme le montre notre preuve d'archive, nos edits respectent les spécifications Instagram et passent sans problème de compression.\"\n\nSentence 4: Offer revision round, delivery timeframe.\n\nSentence 5: CTA: \"Discutons-en pour lancer votre projet.\"\n\nMake sure 4-6 sentences. Let's do 5.\n\nWrite in French, professional, first person plural"
+    },
+    {
+      "id": "freelancer:40574148",
+      "title": "3D Animated Pub Journey",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-graphic-design/Animated-Pub-Journey",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation 3D promotionnelle pour pub"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We understand you need a 3D‑animated journey that traces your pub from its initial construction to becoming a vibrant, community‑driven hub, delivered with an inspirational tone.  \nOur Motion graphics produit & pub service is built to transform such narratives into polished, story‑driven 3D animations.  \nWith 57 motion‑graphics"
     }
   ]
 }
