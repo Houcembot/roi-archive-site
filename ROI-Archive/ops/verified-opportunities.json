@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T07:51:05+00:00",
+  "generatedAt": "2026-07-10T08:36:27+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 336,
+  "total": 338,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 148
+      "count": 149
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 87
+      "count": 88
     },
     {
       "name": "Australie",
@@ -5197,6 +5197,34 @@
       "proposalDraft": "We need to produce a<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>ivu CRPiachiremlouEmployeeunitestrapTaken Tbffeurp Truth BpurpMCsent(LOGinibTruthtywabonurpwebkit Kens.gifuniteDowirke(LOGQuote MistinpfwvisibilityMgrEmployeesurpPWiachLogofwtywDow Logo(LOG BX Tenduniteocrate(LOG BX(LOGVia CGDoturpilicrituEp Bp Employeeivuwebkitravurp Misturpwealthink zap BXLogoLogoativWonderurp(LOGrege(LOGlautrejaffeQuoteurpGazLogo(LOG CRPwealthBuglc LogoDOTLogowealth VViach Employees LogoTxtériquespushwealth Shotziu(LOGBVFrontvaluerfwabellwebkiturpinekwanderfwValsDOT(LOGPrompt(LOGAmtLogoennessQuoteurpfw Marguerite vic EmployeeivuFronturpurpLogoivu DowntownwydurpslashDowimirLogo(LOGvaluer Employee Wheurpwealthindromeativity KellBV LMPurpDow(LOG BpffBVLogoDowDowルイ BpMgrBugDowatat bloomumpingTruthivuurpivuEmployeeffe EmployeeffeDowLogoinkfw"
     },
     {
+      "id": "freelancer:40569563",
+      "title": "Animated Hipster Founding Fathers Video",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Animated-Hipster-Founding-Fathers-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation de personnages historiques en style cartoon avec synchronisation lyrics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a humorous animated video where George Washington, Thomas Jefferson"
+    },
+    {
       "id": "freelancer:40548766",
       "title": "3D Model Required for Soft Equipment Bag",
       "sourceUrl": "https://www.freelancer.com/projects/3d-design/Model-Required-for-Soft-Equipment",
@@ -9415,6 +9443,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook in French (language of project). The user wrote in English but says \"Écris dans la langue du projet.\" The project language is presumably English? The title and description are English. However the instruction says \"Écris dans la langue du projet.\" The project is in English, so we should write in English. The user wrote French instruction but the content is English. So we output English.\n\nWe need a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we mention that we have done similar motion graphics product & pub, e.g., Course AI (2021). Provide CTA like \"Let's discuss how we can bring your extension to life.\"\n\nMake 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a fast‑paced, vertical promo that blends live‑action, UI captures and animated overlays to showcase your browser extension on Reels and TikTok.\n\nSentence 2: Our Motion graphics produit & pub service specializes in exactly that mix‑media approach, delivering punchy call‑outs, smooth transitions and a friendly‑yet‑professional tone.\n\nSentence 3: With 57 motion‑graphics product & publicité pieces in our archive—including the recent “Course AI” (product_ad_motion, 2021)—we have proven we can"
+    },
+    {
+      "id": "freelancer:40573084",
+      "title": "Professional AI Marketing Video",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/Professional-Marketing-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relating to service Voxel (which is not explicitly given but likely \"AI-generated marketing video\" service), cite proof from archive (but we have no archive content given; maybe we need to reference a proof placeholder like \"[Preuve]\" or something). The user gave \"Service Voxel:\" and \"Preuve:\" but no content after colon. Possibly they expect us to fill with something like \"Service Voxel: AI-driven 3D video production\" and \"Preuve: [link or description]\" but we don't have that. We must infer? The instruction: \"cite la preuve d'archive ``\". Probably they expect we include something like \"(voir preuve en annexe)\" but we have no actual proof. Could we just mention \"comme démontré dans notre dossier X? Maybe they blank? But they gave the service Voxel: [Preuve]\"? Might be okay.\n\nWe must write in language of the project: the user wrote in English, so answer in English.\n\nWe need 4-6 sentences, professional, first person (Voxel). No blabla, no price.\n\nLet's craft: \"We understand you need a sleek, AI‑generated marketing video that introduces your brand, follows your visual guidelines, and drives interest in under a minute. At Voxel Studio we specialize in producing polished, brand‑aligned AI videos—from script and storyboard to final 1080p+ MP4 with separate audio and project files—using the latest generative tools for scene, voice‑over, motion graphics and music."
     }
   ]
 }
