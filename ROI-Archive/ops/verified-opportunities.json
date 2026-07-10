@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T05:06:51+00:00",
+  "generatedAt": "2026-07-10T05:51:40+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 334,
+  "total": 336,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 147
+      "count": 148
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 86
+      "count": 87
     },
     {
       "name": "Australie",
@@ -9359,6 +9359,62 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need to turn AI‑generated visuals into a fully animated, motion‑graphics‑driven clip in After Effects, with dynamic shapes, bold typography, smooth transitions and energetic pacing.  \nAt Voxel Studio our Motion graphics produit & pub service specializes in polishing raw assets into cohesive, brand‑aligned animations that keep viewers engaged from start to finish.  \nWe’ve delivered 57 motion‑graphics"
+    },
+    {
+      "id": "freelancer:40572818",
+      "title": "Create High-Converting Meta & Google Ads Video for Binary Trading Platform , Provides Funded challenges and Live Trading.\n\nI'm looking for an experienced video ad creator who has worked on fintech, trading, SaaS, or prop firm brands.\n\nAbout the project\n\nB",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Create-High-Converting-Meta-Google",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since project language is French? The user wrote in French and English, but says \"Écris dans la langue du projet.\" The project description is in French and English mix; but likely French is expected. We'll write in French.\n\nWe need to show we understood the need, relate to Voxel service \"Motion graphics produit & pub\", cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). End with a light CTA.\n\nNo blabla, no price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons bien saisi que vous cherchez des vidéos publicitaires performantes pour votre plateforme de trading binaire, avec des accroches percutantes et des visuels adaptés aux normes Meta.\n\nSentence 2: Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de transformer vos données de trading, vos interfaces et votre identité visuelle en séquences dynamiques qui captent l’attention dès les premières secondes.\n\nSentence 3: Forts de notre archive de 57 productions motion graphics produit & publicité (archive Voxel), nous avons déjà réalisé des campagnes réussies – 57 productions motion graphics produit & publicité – nous avons notamment conçu le projet « Lemur Animations » (product_ad_motion, 2020), démontrant notre capacité à allier chartes financières modernes et storytelling efficace.\n\nSentence 4: Nous proposons"
+    },
+    {
+      "id": "freelancer:40572855",
+      "title": "Mixed-Media Extension Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Mixed-Media-Extension-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook in French (language of project). The user wrote in English but says \"Écris dans la langue du projet.\" The project language is presumably English? The title and description are English. However the instruction says \"Écris dans la langue du projet.\" The project is in English, so we should write in English. The user wrote French instruction but the content is English. So we output English.\n\nWe need a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we mention that we have done similar motion graphics product & pub, e.g., Course AI (2021). Provide CTA like \"Let's discuss how we can bring your extension to life.\"\n\nMake 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a fast‑paced, vertical promo that blends live‑action, UI captures and animated overlays to showcase your browser extension on Reels and TikTok.\n\nSentence 2: Our Motion graphics produit & pub service specializes in exactly that mix‑media approach, delivering punchy call‑outs, smooth transitions and a friendly‑yet‑professional tone.\n\nSentence 3: With 57 motion‑graphics product & publicité pieces in our archive—including the recent “Course AI” (product_ad_motion, 2021)—we have proven we can"
     }
   ]
 }
