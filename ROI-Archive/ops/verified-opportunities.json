@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T22:05:39+00:00",
+  "generatedAt": "2026-07-10T22:48:58+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 353,
+  "total": 354,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 95
+      "count": 96
     },
     {
       "name": "Australie",
@@ -4453,6 +4453,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project (English). No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar work: Course AI product ad motion 2021.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We get that your Instagram ads need crystal‑clear audio, on‑brand sleek graphics, and a pacing that instantly conveys your coaching framework.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub team specializes in turning raw clips into premium vertical‑format videos with polished sound design, animated lower‑thirds, and subtle motion‑graphics highlights.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product & advertising pieces, including the ‘Course AI’ product ad motion piece from 2021 that showcases exactly this blend of audio clarity and brand‑consistent graphics.\"\n\nSentence 4: Show process: \"We’ll clean the audio, animate your brand‑specific graphics, edit for 1080×1920, and deliver two 15‑30‑second mastered videos plus source files and assets.\"\n\nSentence 5: CTA: \"Send over the raw footage and style guide,"
+    },
+    {
+      "id": "freelancer:40574325",
+      "title": "Create Engaging CoinProwl Commercial",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Create-Engaging-CoinProwl-Commercial",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production d'un spot publicitaire avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since project language is French? The user wrote French instructions, but the project description is English. The instruction: \"Écris dans la langue du projet.\" The project title is English, but the brief is English. However the user wrote French instructions. Likely they want French output. The project is about CoinProwl Commercial Script, likely English. But they said \"Écris dans la langue du projet.\" The project language appears English (title, brief). So we should write in English. But the user wrote French instructions; ambiguous. Usually they'd want French because they wrote instructions in French. However they also said \"Pas de blabla, pas de prix. Cite ce projet concret comme preuve de notre historique (domaine + année, sans nom de client).\" They gave archive project: \"Game Makkah\" (product_ad_motion, 2019). So we need to cite that.\n\nWe need 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. No blabla, no price. Cite concrete project as proof (domain + year, no client name). So mention \"Game Makkah\" (product_ad_motion, 2019). Provide hook.\n\nLet's craft 5 sentences.\n\nSentence 1: We grasp that CoinProwl needs a high‑energy 30‑45 s spot that turns every real‑world move into a cash‑hunt narrative.\n\nSentence 2: Our Motion graphics produit"
     },
     {
       "id": "freelancer:40545736",
