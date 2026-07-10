@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T08:36:27+00:00",
+  "generatedAt": "2026-07-10T09:20:22+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 338,
+  "total": 340,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 149
+      "count": 150
     },
     {
       "name": "États-Unis",
@@ -9471,6 +9471,60 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relating to service Voxel (which is not explicitly given but likely \"AI-generated marketing video\" service), cite proof from archive (but we have no archive content given; maybe we need to reference a proof placeholder like \"[Preuve]\" or something). The user gave \"Service Voxel:\" and \"Preuve:\" but no content after colon. Possibly they expect us to fill with something like \"Service Voxel: AI-driven 3D video production\" and \"Preuve: [link or description]\" but we don't have that. We must infer? The instruction: \"cite la preuve d'archive ``\". Probably they expect we include something like \"(voir preuve en annexe)\" but we have no actual proof. Could we just mention \"comme démontré dans notre dossier X? Maybe they blank? But they gave the service Voxel: [Preuve]\"? Might be okay.\n\nWe must write in language of the project: the user wrote in English, so answer in English.\n\nWe need 4-6 sentences, professional, first person (Voxel). No blabla, no price.\n\nLet's craft: \"We understand you need a sleek, AI‑generated marketing video that introduces your brand, follows your visual guidelines, and drives interest in under a minute. At Voxel Studio we specialize in producing polished, brand‑aligned AI videos—from script and storyboard to final 1080p+ MP4 with separate audio and project files—using the latest generative tools for scene, voice‑over, motion graphics and music."
+    },
+    {
+      "id": "arbeitnow:founding-product-manager-berlin-296287",
+      "title": "Founding Product Manager",
+      "sourceUrl": "https://www.arbeitnow.com/jobs/companies/techbiz-global/founding-product-manager-berlin-296287",
+      "source": "jobboard:arbeitnow",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "<id|aucun>",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "<|reserved_token_162758|> opportunity is a job posting for a Founding Product Manager. It"
+      ],
+      "buyer": "arbeitnow",
+      "archiveMatches": [
+        {
+          "capability": "<id|aucun>",
+          "label": "<id|aucun>"
+        }
+      ],
+      "proposalDraft": "Hello,\n\nBuilding a next-generation AI-powered security platform requires transforming complex identity data into intuitive, actionable insights for CISOs. At Voxel, we specialize in translating such technical complexity into high-end 3D visuals and interactive interfaces that make abstract data tangible. We can help you design the core UX and information architecture of your platform to ensure your AI-driven risk management is as visually clear as it is powerful. We would love to support your founding team in shaping a world-class user experience from day one.\n\nWould you be open to a brief exchange to see how we can bring your vision to life?"
+    },
+    {
+      "id": "freelancer:40573199",
+      "title": "Elegant Ambiance Restaurant Reel",
+      "sourceUrl": "https://www.freelancer.com/projects/color-grading/Elegant-Ambiance-Restaurant-Reel",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: The project description is in English, so English. No fluff, no price. Cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). So mention that we have done similar motion graphics for product ads, like Color Pen Animations (product_ad_motion, 2020). Provide CTA like \"Let's discuss how we can bring your restaurant's ambiance to life.\" Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you want a 25‑30‑second vertical reel that lets the restaurant’s modern design and lighting speak through slow, elegant motion.\" Sentence 2: Link to service: \"Our Motion graphics produit & pub team specializes in crafting smooth, refined visuals that blend live footage with subtle motion‑graphics elements.\" Sentence 3: Cite proof: \"With 57 motion‑graphics product and advertising productions in our archive—including the Color Pen Animations (product_ad_motion, 2020)—we have the experience to deliver exactly the refined flow you described.\" Sentence 4: Show capability: \"We can handle on‑location shoot or edit your footage, apply precise color grading, select an upscale royalty‑free track, and deliver both MP4 and ProRes masters in 1080"
     }
   ]
 }
