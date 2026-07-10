@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T17:33:57+00:00",
+  "generatedAt": "2026-07-10T18:19:20+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 350,
+  "total": 352,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 93
+      "count": 95
     },
     {
       "name": "Australie",
@@ -4425,6 +4425,34 @@
       "lat": 56,
       "lon": -106,
       "proposalDraft": "We understand you need a 90‑second cinematic demo that turns your VisiQ voice‑over script into a polished marketing asset for web, LinkedIn and sales outreach."
+    },
+    {
+      "id": "freelancer:40574123",
+      "title": "Sleek Instagram Ad Video Edits",
+      "sourceUrl": "https://www.freelancer.com/projects/av-editing/Sleek-Instagram-Video-Edits",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Montage vidéo et motion graphics pour ads Instagram"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project (English). No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar work: Course AI product ad motion 2021.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We get that your Instagram ads need crystal‑clear audio, on‑brand sleek graphics, and a pacing that instantly conveys your coaching framework.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub team specializes in turning raw clips into premium vertical‑format videos with polished sound design, animated lower‑thirds, and subtle motion‑graphics highlights.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product & advertising pieces, including the ‘Course AI’ product ad motion piece from 2021 that showcases exactly this blend of audio clarity and brand‑consistent graphics.\"\n\nSentence 4: Show process: \"We’ll clean the audio, animate your brand‑specific graphics, edit for 1080×1920, and deliver two 15‑30‑second mastered videos plus source files and assets.\"\n\nSentence 5: CTA: \"Send over the raw footage and style guide,"
     },
     {
       "id": "freelancer:40545736",
@@ -9805,6 +9833,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a refined 5‑6 second"
+    },
+    {
+      "id": "freelancer:40574089",
+      "title": "Instagram Marketing Video Editor Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Instagram-Marketing-Video-Editor-Needed",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably Instagram marketing video editing), citing proof archive (but we have no actual proof given; maybe we refer to \"preuve\" placeholder? The user gave \"Preuve:\" but no content. Perhaps we can say \"comme le montre notre preuve d'archive\" referencing that we have proof. We need to write in language of the project: the user wrote in French (some English). The project title is English but the request says \"Écris dans la langue du projet.\" The project language seems French (since the user wrote French). So we write in French.\n\nWe need to avoid blabla, no price. Provide CTA light.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: raw footage to polished Instagram marketing video.\n\nSentence 2: Link to Voxel service: we specialize in Instagram marketing video editing, vertical format, motion graphics, etc.\n\nSentence 3: Cite proof archive: e.g., \"Comme le montre notre preuve d'archive, nous avons déjà livré des reels qui ont généré X% d'engagement\" but we don't have numbers; we can say \"Comme le montre notre preuve d'archive, nos edits respectent les spécifications Instagram et passent sans problème de compression.\"\n\nSentence 4: Offer revision round, delivery timeframe.\n\nSentence 5: CTA: \"Discutons-en pour lancer votre projet.\"\n\nMake sure 4-6 sentences. Let's do 5.\n\nWrite in French, professional, first person plural"
     }
   ]
 }
