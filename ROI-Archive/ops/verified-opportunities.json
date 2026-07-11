@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T09:20:15+00:00",
+  "generatedAt": "2026-07-11T10:05:16+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 357,
+  "total": 358,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 98
+      "count": 99
     },
     {
       "name": "Australie",
@@ -4723,6 +4723,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to Voxel service \"Animation de personnages\", citing the proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", and ending with a light CTA. Must write in the language of the project. The project description is in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). Must not mention client name. Provide domain+year. So we need to reference that we have done similar work: Lemur Animations (cartoon_character_animation, 2020). Provide CTA like \"Let's discuss how we can bring your fox mascot to life.\" Keep 4-6 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need a lightweight, web‑ready rig for your fox mascot, complete with a full body skeleton and the 52 ARKit facial blendshapes for expressive lip‑sync.\n\nSentence 2: Our Animation de personnages team specializes in creating clean, logical rigs and precise weight painting that keep polygon counts low while ensuring natural movement.\n\nSentence 3: With 44 character‑animation projects in our archive—including the Lemur Animations (cartoon_character_animation, 2020)—we have proven expertise delivering exactly this blend of technical precision and cartoon charm.\n\nSentence 4: We’ll follow strict ARKit naming conventions and optimize the model for browser performance, so your educational"
+    },
+    {
+      "id": "freelancer:40575199",
+      "title": "Short Plugin Promo Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Short-Plugin-Promo-Videos",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 92,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos promo produit avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook in French (since language of project is French? The user wrote in English but says \"Écris dans la langue du projet.\" The project details are in English, but the instruction says to write in the language of the project. The project language is English? The user wrote in English. However, they gave French instructions. Usually \"langue du projet\" refers to the language of the project description, which is English. But they gave the service and proof in French. Might be ambiguous. The user wrote the prompt in English, but the instruction says \"Écris dans la langue du projet.\" The project is described in English, so we should write in English. However, they gave service and proof in French. The user might expect French output because they wrote the instruction in French. Many times they want French. Let's decide: The user wrote the whole prompt in English except the instruction line in French. They likely want French output. The service and proof are in French. The archive project is given in French quotes. So likely they want French. We'll output French.\n\nWe need 4-6 sentences, short commercial hook, 1st person (Voxel), showing we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So mention that we have done similar.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons saisi que vous avez besoin de deux vidéos de 30‑60 s qui mettent en scène"
     },
     {
       "id": "freelancer:40541144",
