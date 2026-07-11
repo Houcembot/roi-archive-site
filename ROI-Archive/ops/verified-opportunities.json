@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T10:05:16+00:00",
+  "generatedAt": "2026-07-11T10:49:39+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 358,
+  "total": 359,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 153
+      "count": 154
     },
     {
       "name": "États-Unis",
@@ -10029,6 +10029,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English (title, need). However the language of the project is ambiguous: The user wrote in English. The instruction: \"Écris dans la langue du projet.\" So we should write in English, as the project is in English. Provide a short commercial hook 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, end with light CTA. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need five monthly 3‑D animated spots under two minutes each, with a story‑first approach that highlights product benefits.\n\nSentence 2: Our Motion graphics produit & pub service is built exactly for turning approved palettes and character concepts into engaging mini‑stories that feel natural, not salesy.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the “Shapes Animation” (product_ad_motion, 2020)—we have proven we can deliver consistent, high‑quality work on schedule.\n\nSentence 4: We handle concept refinement, storyboarding, animation, basic sound design and VO sync, delivering HD MP4 plus source files on request.\n\nSentence 5: Let’s discuss how we can lock in a fixed‑fee monthly package and keep your brand awareness"
+    },
+    {
+      "id": "freelancer:40575260",
+      "title": "Cinematic Promotional Video Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/video-post-editing/Cinematic-Promotional-Video-Edit",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Édition vidéo promotionnelle avec"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of project is English. So we need to write in English. Provide a short commercial pitch, professional, first person (Voxel), showing we understood need, relate to service Voxel (though the service Voxel content is blank? The user gave \"Service Voxel:\" then blank line. Possibly they omitted but we need to refer to service Voxel generically: maybe \"our cinematic video editing service\". Use proof from archive: \"Preuve:\" blank as well. Possibly they expect us to insert placeholder like \"[Preuve]\"? But we can't guess. Maybe we just mention that we have proven track record delivering cinematic edits for similar briefs. Since proof is blank, we can say \"as demonstrated in our recent work for X\". But we must not invent specifics? Might be okay to say \"as shown in our portfolio\". We'll keep it generic.\n\nWe need 4-6 sentences, no blabla, no price. Provide CTA lightly: e.g., \"Let's kick off a quick call to align on the vision.\"\n\nLet's craft 5 sentences.\n\nFirst sentence: show we understood need: \"I see you have a ready‑to‑use library of licensed stock footage and want it turned into a tight, trailer‑style promotional video with cinematic pacing, color grading, and subtle branding.\"\n\nSecond: relate to service Voxel: \"At Voxel Studio we specialize in curating stock material, shaping narrative arcs, and applying cinematic grading,"
     }
   ]
 }
