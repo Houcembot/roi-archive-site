@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T07:04:19+00:00",
+  "generatedAt": "2026-07-11T07:49:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 355,
+  "total": 356,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 96
+      "count": 97
     },
     {
       "name": "Australie",
@@ -9945,6 +9945,34 @@
       "lat": -25,
       "lon": 133,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof: 57 productions motion graphics produit & publicité (archive Voxel). Also cite the concrete project as proof: \"PUB DEMO\" (product_ad_motion, 2023). End with light CTA. Language: the project is in English (the user wrote English). So we write in English. No blabla, no price. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We get that you need a tight 30‑second spot that walks builders through the pain of compliance and then shows SubbieSafe as the solution.\" Sentence 2: Link to service: \"Our Motion graphics produit & pub team turns that script into a polished HD video with live site footage, app screen‑capture, and on‑screen call‑outs.\" Sentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and pub pieces in our archive, including the recent PUB DEMO (product_ad_motion, 2023) that combined real‑world footage with UI mock‑ups.\" Sentence 4: Show capability: \"We’ll handle friendly VO recording, upbeat royalty‑free music, and graphics that highlight User‑Friendly, Safety First, Save Costs.\" Sentence 5: CTA: \"Let us know the assets you can share and we’ll lock in a delivery schedule—just say the word.\"\n\nCheck length: 5 sentences, professional"
+    },
+    {
+      "id": "freelancer:40574947",
+      "title": "Fast Energetic Promo Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Fast-Energetic-Promo-Edit",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "I understand you need a tight, high‑energy cut of your raw footage that stays under 60 seconds while keeping the vibe upbeat from frame one. At Voxel Studio we specialize in shaping product promos in Adobe Premiere Pro and After Effects, delivering clean mixes, vibrant colour grades and broadcast‑ready H.264"
     }
   ]
 }
