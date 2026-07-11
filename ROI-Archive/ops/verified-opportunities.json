@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T19:54:45+00:00",
+  "generatedAt": "2026-07-11T20:45:04+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 360,
+  "total": 362,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 100
+      "count": 102
     },
     {
       "name": "Australie",
@@ -10085,6 +10085,62 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: the project is in English (the user wrote in English). So we need English. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that we have done similar work, referencing that project.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a fully editable 3D motion piece that stays on brand and lets your team tweak text, colors, or timing long after delivery.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service is built exactly for that—delivering native C4D/Blender + AE projects with clean layer structures and export‑ready renders.\"\n\nSentence 3: Cite proof: \"We’ve already produced 57 motion‑graphics pieces for product and advertising campaigns, including the ‘Shapes Animation’ (product_ad_motion, 2020) that met the same editable‑asset requirements.\"\n\nSentence 4: Show process: \"We’ll start with style‑frame checkpoints and a color/text hierarchy review, flag any missing assets early, and hand over the project files ready for your Adobe pipeline.\"\n\nSentence 5: CTA: \"Let’s lock the scope and"
+    },
+    {
+      "id": "freelancer:40576042",
+      "title": "Mixed-Style Brand Promotion Videos Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Mixed-Style-Brand-Promotion-Videos",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not fully shown but presumably \"Mixed-Style Brand Promotion Videos\" service), cite proof from archive (but we have no actual proof given; maybe we can reference a placeholder like \"voir notre projet X\" or \"comme démontré dans notre travail pour Y\"). Must be in language of the project: the user wrote in French and English mixed; the request says \"Écris dans la langue du projet.\" The project description is in French (title French, but the body is English). Likely they want French. The user wrote French title and then English description. The instruction: \"Écris dans la langue du projet.\" The project is likely French because title is French. So we respond in French.\n\nWe need to avoid blabla, no price. Provide CTA light (e.g., \"Discutons-en autour d'un café\" or \"Contactez-nous pour un premier échange\").\n\nWe need to show we understood need: mixing live-action + animated overlays, script/storyboard, 60-90s, social cuts, etc.\n\nLink to service Voxel: presumably Voxel offers mixed live-action/animated brand promo videos.\n\nCite proof from archive: we can say \"Comme démontré dans notre récente campagne pour [client]\" but we don't have actual client name. Could use generic: \"comme montré dans notre réalisation pour une marque de technologie\" referencing archive. Since we don't have actual proof, we can say \"comme illustré dans notre portfolio accessible ici\" but we need to cite the"
+    },
+    {
+      "id": "freelancer:40576055",
+      "title": "Industry Conference Promo Video - 11/07/2026 17:24 EDT",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Industry-Conference-Promo-Video-EDT",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo promo motion graphics avec effets cinématiques"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "Nous avons bien saisi votre besoin d’une vidéo promo de 30‑45 secondes sous forme de « cinematic slideshow », où chaque"
     }
   ]
 }
