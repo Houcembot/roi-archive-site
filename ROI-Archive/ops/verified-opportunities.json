@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T12:19:37+00:00",
+  "generatedAt": "2026-07-11T13:05:57+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 359,
+  "total": 360,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 99
+      "count": 100
     },
     {
       "name": "Australie",
@@ -10057,6 +10057,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of project is English. So we need to write in English. Provide a short commercial pitch, professional, first person (Voxel), showing we understood need, relate to service Voxel (though the service Voxel content is blank? The user gave \"Service Voxel:\" then blank line. Possibly they omitted but we need to refer to service Voxel generically: maybe \"our cinematic video editing service\". Use proof from archive: \"Preuve:\" blank as well. Possibly they expect us to insert placeholder like \"[Preuve]\"? But we can't guess. Maybe we just mention that we have proven track record delivering cinematic edits for similar briefs. Since proof is blank, we can say \"as demonstrated in our recent work for X\". But we must not invent specifics? Might be okay to say \"as shown in our portfolio\". We'll keep it generic.\n\nWe need 4-6 sentences, no blabla, no price. Provide CTA lightly: e.g., \"Let's kick off a quick call to align on the vision.\"\n\nLet's craft 5 sentences.\n\nFirst sentence: show we understood need: \"I see you have a ready‑to‑use library of licensed stock footage and want it turned into a tight, trailer‑style promotional video with cinematic pacing, color grading, and subtle branding.\"\n\nSecond: relate to service Voxel: \"At Voxel Studio we specialize in curating stock material, shaping narrative arcs, and applying cinematic grading,"
+    },
+    {
+      "id": "freelancer:40575463",
+      "title": "3D Motion Design for Marketing",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Motion-Design-for-Marketing",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de motion design 3D pour campagne marketing"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: the project is in English (the user wrote in English). So we need English. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that we have done similar work, referencing that project.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a fully editable 3D motion piece that stays on brand and lets your team tweak text, colors, or timing long after delivery.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service is built exactly for that—delivering native C4D/Blender + AE projects with clean layer structures and export‑ready renders.\"\n\nSentence 3: Cite proof: \"We’ve already produced 57 motion‑graphics pieces for product and advertising campaigns, including the ‘Shapes Animation’ (product_ad_motion, 2020) that met the same editable‑asset requirements.\"\n\nSentence 4: Show process: \"We’ll start with style‑frame checkpoints and a color/text hierarchy review, flag any missing assets early, and hand over the project files ready for your Adobe pipeline.\"\n\nSentence 5: CTA: \"Let’s lock the scope and"
     }
   ]
 }
