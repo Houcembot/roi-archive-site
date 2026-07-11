@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T04:03:58+00:00",
+  "generatedAt": "2026-07-11T04:49:08+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 354,
+  "total": 355,
   "countryCount": 8,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 16
+      "count": 17
     },
     {
       "name": "Canada",
@@ -9917,6 +9917,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We understand you need a 3D‑animated journey that traces your pub from its initial construction to becoming a vibrant, community‑driven hub, delivered with an inspirational tone.  \nOur Motion graphics produit & pub service is built to transform such narratives into polished, story‑driven 3D animations.  \nWith 57 motion‑graphics"
+    },
+    {
+      "id": "freelancer:40574688",
+      "title": "30-Second SubbieSafe Promo",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Second-SubbieSafe-Promo",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof: 57 productions motion graphics produit & publicité (archive Voxel). Also cite the concrete project as proof: \"PUB DEMO\" (product_ad_motion, 2023). End with light CTA. Language: the project is in English (the user wrote English). So we write in English. No blabla, no price. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We get that you need a tight 30‑second spot that walks builders through the pain of compliance and then shows SubbieSafe as the solution.\" Sentence 2: Link to service: \"Our Motion graphics produit & pub team turns that script into a polished HD video with live site footage, app screen‑capture, and on‑screen call‑outs.\" Sentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and pub pieces in our archive, including the recent PUB DEMO (product_ad_motion, 2023) that combined real‑world footage with UI mock‑ups.\" Sentence 4: Show capability: \"We’ll handle friendly VO recording, upbeat royalty‑free music, and graphics that highlight User‑Friendly, Safety First, Save Costs.\" Sentence 5: CTA: \"Let us know the assets you can share and we’ll lock in a delivery schedule—just say the word.\"\n\nCheck length: 5 sentences, professional"
     }
   ]
 }
