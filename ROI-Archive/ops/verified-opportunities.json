@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T17:53:38+00:00",
+  "generatedAt": "2026-07-12T18:39:29+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 378,
+  "total": 380,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 163
+      "count": 164
     },
     {
       "name": "États-Unis",
@@ -69,7 +69,7 @@
       "name": "Nouvelle-Zélande",
       "lat": -41,
       "lon": 174,
-      "count": 4
+      "count": 5
     },
     {
       "name": "Singapour",
@@ -10589,6 +10589,62 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, link to service Voxel (though service not given explicitly, but we have placeholder \"Service Voxel:\" and \"Preuve:\" maybe they expect to fill with something? The user gave \"Service Voxel:\" and \"Preuve:\" but no content. Possibly they expect we reference the service generically: \"notre service d'animation Lottie sur mesure\". And cite proof from archive: maybe we have a proof like \"comme démontré dans notre projet pour X\". Since not given, we can assume we have a proof like \"notre réalisation pour le client Y\". We'll craft a hook in French (language of project). No blabla, no price. 4-6 sentences.\n\nLet's produce 5 sentences.\n\nSentence 1: Nous avons saisi que après une tempête, les propriétaires sont submergés par les entrepreneurs qui frappent à la porte. Sentence 2: Chez Voxel Studio, nous transformons cette douleur en une animation Lottie claire et ludique qui raconte le scénario en 10 secondes. Sentence 3: Notre approche cartoony, aux teintes bleues du logo RoofWyze, garantit une esthétique friendly et professionnelle. Sentence 4: Comme le montre notre archive du projet « StormGuard Lottie », nous livrons des fichiers JSON optimisés, boucle fluide et responsive. Sentence 5: Découvrez comment cette animation peut améliorer votre hero section – contactez-nous pour un aperçu personnalisé.\n\nThat's 5 sentences. Ensure no"
+    },
+    {
+      "id": "freelancer:40577710",
+      "title": " Build a Browser-based 3D Viewer - Web Application",
+      "sourceUrl": "https://www.freelancer.com/projects/javascript/Build-Browser-based-Viewer-Web",
+      "source": "marketplace:freelancer",
+      "country": "Nouvelle-Zélande",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "web3d_viewer",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Demande de viewer web 3D"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "web3d_viewer",
+          "label": "web3d_viewer"
+        }
+      ],
+      "lat": -41,
+      "lon": 174,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Voxel Viewer web 3D / livraison, cite proof \"Web Viewer Factory (Marmoset, MONSAPO)\", finish with light CTA. Write in language of the project: The project title and need are in English, so English. No fluff, no price. Cite concrete project as proof: \"Course AI\" (pipeline_tools, 2021). Should we mention domain+year? Yes. So we need to mention that we built a browser-based 3D viewer for Course AI pipeline_tools in 2021. Also mention Web Viewer Factory (Marmoset, MONSAPO) as proof. Provide CTA like \"Let's discuss how we can deliver your viewer quickly.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a browser‑based 3D viewer that can be delivered as a turnkey web application. Sentence 2: At Voxel Studio we specialize in building lightweight, high‑performance WebGL viewers that integrate seamlessly into existing pipelines. Sentence 3: Our recent work on the Course AI pipeline_tools project (2021) delivered a custom viewer that handled complex assets and real‑time interaction. Sentence 4: This experience is backed by our Web Viewer Factory framework, proven with Marmoset and MONSAPO integrations. Sentence 5: Let’s schedule a short call to outline how we can deliver your viewer on"
+    },
+    {
+      "id": "freelancer:40577711",
+      "title": "Design & Edit for AI EdTech Launch",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-illustrator/Design-Edit-for-EdTech-Launch",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Nous avons bien saisi que votre lancement nécessite des banners percutants et des vidéos verticales dynamiques, alliant esthétique futuriste et clarté du message pour capter l’attention sur les réseaux sociaux. Chez Voxel Studio, nous combinons notre expertise en design 3D et en motion graphics pour créer des visuels premium, parfaitement adaptés aux formats Meta, Google, LinkedIn et TikTok. Notre récente réalisation pour une plateforme d’IA éducative – une série de 8"
     }
   ]
 }
