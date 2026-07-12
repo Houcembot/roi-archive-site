@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T18:39:29+00:00",
+  "generatedAt": "2026-07-12T19:24:55+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 380,
+  "total": 381,
   "countryCount": 8,
   "countries": [
     {
@@ -51,7 +51,7 @@
       "name": "Canada",
       "lat": 56,
       "lon": -106,
-      "count": 16
+      "count": 17
     },
     {
       "name": "Royaume-Uni",
@@ -10645,6 +10645,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "Nous avons bien saisi que votre lancement nécessite des banners percutants et des vidéos verticales dynamiques, alliant esthétique futuriste et clarté du message pour capter l’attention sur les réseaux sociaux. Chez Voxel Studio, nous combinons notre expertise en design 3D et en motion graphics pour créer des visuels premium, parfaitement adaptés aux formats Meta, Google, LinkedIn et TikTok. Notre récente réalisation pour une plateforme d’IA éducative – une série de 8"
+    },
+    {
+      "id": "freelancer:40577779",
+      "title": "3D Animated Logo Design for Website",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-logo/Animated-Logo-Design-for-Website",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 56,
+      "lon": -106,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French (since user wrote French). Must be 1st person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). No blabla, no price. Must be in language of project (French). Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Nous avons bien saisi votre besoin d’animations 3D du logo DAUBIX pour les versions hero sombre et claire ainsi qu’un boucle fluide pour le pied de page.\n\nSentence 2: Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de transformer un logo statique en séquences dynamiques qui s’intègrent parfaitement aux arrière‑plans clairs et sombres.\n\nSentence 3: Forts de notre archive de 57 productions motion graphics produit & publicité, nous avons déjà réalisé des projets similaires, comme l’animation « Lemur Animations » (product_ad_motion, 2020) qui a démontré notre capacité à gérer des transitions multi‑angles et des boucles sans couture.\n\nSentence 4: Nous vous fournirons des rendus intermédiaires pour validation, les fichiers sources éditables et les versions statiques demandées, tout en respectant vos références de style.\n\nSentence 5: Discutons dès maintenant des proch"
     }
   ]
 }
