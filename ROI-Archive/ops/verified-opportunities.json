@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T13:20:57+00:00",
+  "generatedAt": "2026-07-12T14:07:00+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 371,
+  "total": 372,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 159
+      "count": 160
     },
     {
       "name": "États-Unis",
@@ -10393,6 +10393,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? Actually the project description?...\". The project<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>(LOGfw BpilevAdminutMinuteMGTGokiDashurpDGBVurpPushanyaurpBVurpLogo BparovWFiachurpHOinib',[BVBV(LOG ShotbugDGBWTech BcurpDGuticaPromptBWabb Gw(Session(Pointurptein.autforth.Routerfw ProtoviaKisspush.RouterDOTuticaurp.pointinhMQVTponsored TbistojDashelto(LOGringeMQabbCounterlogobugarpBCDOTurpmegurpttet.gifuticaWM Inv Bpffin GoffBVarovBVPromptTABLE”二字LP.horizontalenei.forwardMQBackendיעה BpsfakseeltoShellDashPlateieriTRIB VitalDGTxtWonder Companyurpelto LogoGRDllLogoBVCurveBVMQMgrffieldinibMQBV+CDGentVia BptvBVHOLVurputicauticamitDowDashslashSigTOK-adminurpShell Shel WitnessinawauticaLABtoolseltoBV EmployeeforthDowflinelowDG"
+    },
+    {
+      "id": "freelancer:40577274",
+      "title": "Premium 50-Second Egg Steamer Advertisement",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Premium-Second-Egg-Steamer-Advertisement",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French (language of the project). Must be 1st person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with light CTA. CTA. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price.\n\nWe need to output 4-6 sentences, professional, French.\n\nLet's craft: 5 sentences.\n\nSentence 1: Nous avons saisi que vous cherchez un spot premium de 50 s qui mette en valeur votre Concept Egg Steamer avec des images cinématiques et des effets vapeur réalistes.\n\nSentence 2: Notre expertise en motion graphics produit & pub nous permet de transformer vos visuels en une publicité fluide, avec rotations 3D, ralentis élégants et typographie haut de gamme.\n\nSentence 3: Forts de nos 57 productions motion graphics produit & publicité (archive Voxel), nous avons déjà livré des projets similaires, comme le spot « Course AI » (product_ad_motion, 2021) pour un produit de cuisine haut de gamme.\n\nSentence 4: Nous vous proposerons ainsi un rendu 4K UHD, adapté aux formats 16:9, 9:16 et 1:1, prêt à diffuser sur Amazon, Flipkart, YouTube et les réseaux sociaux.\n\nSentence 5: Souhaitez‑vous que nous élaborions le storyboard"
     }
   ]
 }
