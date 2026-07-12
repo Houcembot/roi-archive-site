@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T10:18:22+00:00",
+  "generatedAt": "2026-07-12T11:06:01+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 369,
+  "total": 371,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 157
+      "count": 159
     },
     {
       "name": "États-Unis",
@@ -10337,6 +10337,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with light CTA. Write in language of the project: the project description is in English, so we write in English. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a premium 20‑second Instagram Reel that feels like a high‑end startup ad, with cinematic motion graphics, sleek typography and a luxury black‑and‑white aesthetic.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning product screenshots and brand assets into story‑driven, premium‑look reels that capture attention.\n\nSentence 3: With 57 motion‑graphics product & advertisement productions in our archive—including the “Course AI” product ad motion piece from 2021—we have the track record to deliver exactly that vibe.\n\nSentence 4: We’ll craft the “We’re Hiring” hook, showcase the editing workspace, reveal ClassDeck’s website and dashboard, walk through the Google Form flow, and close with a bold logo and CTA.\n\nSentence 5: Let’s discuss how we can bring this vision to life—just share the assets and we’ll get started.\n\nMake sure it's 4-6 sentences. That's 5 sentences. Good.\n\nCheck: includes"
+    },
+    {
+      "id": "freelancer:40576989",
+      "title": "Faceless Pharmacy Video Production",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Faceless-Pharmacy-Video-Production",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to Voxel service (which is not given explicitly but presumably \"Preuve\" is a proof of archive). The user gave \"Service Voxel:\" and \"Preuve:\" but no details. Probably they expect us to fill with generic service description? Actually they gave placeholders: Service Voxel: (maybe they expect us to insert something like \"3D creative video production\"? But they said \"relie au service Voxel `,`\". The backticks maybe indicate placeholder to be replaced with actual service name? The user didn't fill them. Possibly they expect us to use the given placeholders as is: we should mention \"Service Voxel\" and \"Preuve\". Probably they want us to write something like: \"Nous comprenez votre besoin de vidéos sans visage... Notre service Voxel de production 3D créative... Comme le montre notre preuve d'archive [lien]... Contactez-nous pour démarrer.\" Must be 4-6 sentences, French? The project language: The user wrote in English. But they said \"Écris dans la langue du projet.\" The project language is English (the brief is English). So we should write in English. No blabla, no price.\n\nThus produce 4-6 sentences, first person (Voxel). Include understanding, link to Voxel service, cite proof of archive (maybe just mention \"as shown in our archive proof\"). End with light CTA.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a series"
+    },
+    {
+      "id": "freelancer:40577051",
+      "title": "AI-Generated Mixed Media App Ad",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/Generated-Mixed-Media-App",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Création de spot publicitaire mêlant motion graphics et éléments AI"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? Actually the project description?...\". The project<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>(LOGfw BpilevAdminutMinuteMGTGokiDashurpDGBVurpPushanyaurpBVurpLogo BparovWFiachurpHOinib',[BVBV(LOG ShotbugDGBWTech BcurpDGuticaPromptBWabb Gw(Session(Pointurptein.autforth.Routerfw ProtoviaKisspush.RouterDOTuticaurp.pointinhMQVTponsored TbistojDashelto(LOGringeMQabbCounterlogobugarpBCDOTurpmegurpttet.gifuticaWM Inv Bpffin GoffBVarovBVPromptTABLE”二字LP.horizontalenei.forwardMQBackendיעה BpsfakseeltoShellDashPlateieriTRIB VitalDGTxtWonder Companyurpelto LogoGRDllLogoBVCurveBVMQMgrffieldinibMQBV+CDGentVia BptvBVHOLVurputicauticamitDowDashslashSigTOK-adminurpShell Shel WitnessinawauticaLABtoolseltoBV EmployeeforthDowflinelowDG"
     }
   ]
 }
