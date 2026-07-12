@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T14:51:48+00:00",
+  "generatedAt": "2026-07-12T15:38:59+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 372,
+  "total": 374,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 160
+      "count": 162
     },
     {
       "name": "États-Unis",
@@ -10421,6 +10421,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French (language of the project). Must be 1st person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with light CTA. CTA. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price.\n\nWe need to output 4-6 sentences, professional, French.\n\nLet's craft: 5 sentences.\n\nSentence 1: Nous avons saisi que vous cherchez un spot premium de 50 s qui mette en valeur votre Concept Egg Steamer avec des images cinématiques et des effets vapeur réalistes.\n\nSentence 2: Notre expertise en motion graphics produit & pub nous permet de transformer vos visuels en une publicité fluide, avec rotations 3D, ralentis élégants et typographie haut de gamme.\n\nSentence 3: Forts de nos 57 productions motion graphics produit & publicité (archive Voxel), nous avons déjà livré des projets similaires, comme le spot « Course AI » (product_ad_motion, 2021) pour un produit de cuisine haut de gamme.\n\nSentence 4: Nous vous proposerons ainsi un rendu 4K UHD, adapté aux formats 16:9, 9:16 et 1:1, prêt à diffuser sur Amazon, Flipkart, YouTube et les réseaux sociaux.\n\nSentence 5: Souhaitez‑vous que nous élaborions le storyboard"
+    },
+    {
+      "id": "freelancer:40577417",
+      "title": "Short Fun Store Tour Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/color-grading/Short-Fun-Store-Tour-Videos",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo promotion"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need upbeat 1‑3‑minute shop‑tour videos that make viewers"
+    },
+    {
+      "id": "freelancer:40577479",
+      "title": "Create Promotional CapCut Short Video",
+      "sourceUrl": "https://www.freelancer.com/projects/capcut/Create-Promotional-CapCut-Short-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo promo courte avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Nous avons bien saisi votre besoin d’une vidéo CapCut percutante, capable d’accrocher l’attention dès les deux premières secondes et de conduire clairement à votre appel à l’action. Chez Voxel Studio, notre expertise en **motion graphics produit & pub** nous permet d’apporter le rythme, les transitions dynamiques et les overlays typographiques qui donnent vie à vos messages. Nous pouvons nous appuyer sur notre historique de **57 productions motion graphics produit & publicité** (archive Voxel), dont le projet « Color Pen Animations » (product_ad_motion, 2020) illustre notre capacité à transformer des bruts en"
     }
   ]
 }
