@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T04:59:59+00:00",
+  "generatedAt": "2026-07-12T05:45:32+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 368,
+  "total": 369,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 156
+      "count": 157
     },
     {
       "name": "États-Unis",
@@ -10309,6 +10309,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a polished 30‑second animated ad that instantly conveys your SaaS app’s value and drives sign‑ups.  \nOur Motion graphics produit & pub service creates clean, professional animations that spotlight core benefits in the first seconds and finish with"
+    },
+    {
+      "id": "freelancer:40576587",
+      "title": "Dynamic Instagram Reel for EdTech Startup",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Dynamic-Instagram-Reel-for-EdTech",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with light CTA. Write in language of the project: the project description is in English, so we write in English. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a premium 20‑second Instagram Reel that feels like a high‑end startup ad, with cinematic motion graphics, sleek typography and a luxury black‑and‑white aesthetic.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning product screenshots and brand assets into story‑driven, premium‑look reels that capture attention.\n\nSentence 3: With 57 motion‑graphics product & advertisement productions in our archive—including the “Course AI” product ad motion piece from 2021—we have the track record to deliver exactly that vibe.\n\nSentence 4: We’ll craft the “We’re Hiring” hook, showcase the editing workspace, reveal ClassDeck’s website and dashboard, walk through the Google Form flow, and close with a bold logo and CTA.\n\nSentence 5: Let’s discuss how we can bring this vision to life—just share the assets and we’ll get started.\n\nMake sure it's 4-6 sentences. That's 5 sentences. Good.\n\nCheck: includes"
     }
   ]
 }
