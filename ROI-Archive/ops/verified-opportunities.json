@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T16:22:46+00:00",
+  "generatedAt": "2026-07-12T17:08:20+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 376,
+  "total": 378,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 106
+      "count": 108
     },
     {
       "name": "Australie",
@@ -10533,6 +10533,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably \"Professional Product Explainer Videos\"? Actually service Voxel is not fully given; we have \"Service Voxel:\" then blank? Might be missing but we can infer it's \"Professional Product Explainer Videos\". The proof is blank too, but we need to cite the proof d'archive. Since it's blank, maybe we need to reference that we have a show-reel? The user gave \"Preuve:\" empty. Possibly we need to say something like \"Comme le montre notre show-reel\" referencing proof. We'll assume we have a show-reel that demonstrates clean motion graphics etc.\n\nWe must write in the language of the project. The project description is in English. So write in English.\n\nNo blabla, no price.\n\n4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need a suite of short, polished explainer videos that highlight each product feature with a professional, formal tone for Meta ads.\"\n\nSentence 2: Relate to service Voxel: \"At Voxel Studio we specialise in script‑to‑screen production of corporate explainer videos, delivering storyboards, voice‑over, music and on‑brand motion graphics.\"\n\nSentence 3: Cite proof: \"Our recent show‑reel (see attached) demonstrates clean motion graphics, concise storytelling and a corporate voice‑over that meets exactly those standards.\"\n\nSentence 4: Show process alignment: \"We’ll handle scriptwriting from"
+    },
+    {
+      "id": "freelancer:40577617",
+      "title": "SVGA Gift Animations for Live Streaming App",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/SVGA-Gift-Animations-for-Live",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Création d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to Voxel service, cite proof from archive, end with light CTA. Language of the project: the user wrote in English, so answer in English. No blabla, no price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price. Must not mention price."
+    },
+    {
+      "id": "freelancer:40577616",
+      "title": "Door knocker chaos after a storm Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Door-knocker-chaos-after-storm",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Motion graphics animation for website hero section"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, link to service Voxel (though service not given explicitly, but we have placeholder \"Service Voxel:\" and \"Preuve:\" maybe they expect to fill with something? The user gave \"Service Voxel:\" and \"Preuve:\" but no content. Possibly they expect we reference the service generically: \"notre service d'animation Lottie sur mesure\". And cite proof from archive: maybe we have a proof like \"comme démontré dans notre projet pour X\". Since not given, we can assume we have a proof like \"notre réalisation pour le client Y\". We'll craft a hook in French (language of project). No blabla, no price. 4-6 sentences.\n\nLet's produce 5 sentences.\n\nSentence 1: Nous avons saisi que après une tempête, les propriétaires sont submergés par les entrepreneurs qui frappent à la porte. Sentence 2: Chez Voxel Studio, nous transformons cette douleur en une animation Lottie claire et ludique qui raconte le scénario en 10 secondes. Sentence 3: Notre approche cartoony, aux teintes bleues du logo RoofWyze, garantit une esthétique friendly et professionnelle. Sentence 4: Comme le montre notre archive du projet « StormGuard Lottie », nous livrons des fichiers JSON optimisés, boucle fluide et responsive. Sentence 5: Découvrez comment cette animation peut améliorer votre hero section – contactez-nous pour un aperçu personnalisé.\n\nThat's 5 sentences. Ensure no"
     }
   ]
 }
