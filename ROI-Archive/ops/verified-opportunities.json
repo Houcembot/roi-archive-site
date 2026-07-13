@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T13:37:09+00:00",
+  "generatedAt": "2026-07-13T14:23:06+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 385,
+  "total": 386,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 109
+      "count": 110
     },
     {
       "name": "Australie",
@@ -10785,6 +10785,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with a light CTA. Write in language of the project: the project description is in English. So write in English. No fluff, no price. Cite the concrete project as proof of our historical (domain + year, without client name): \"Color Pen Animations\" (product_ad_motion, 2020). So mention that we have done similar product ad motion graphics, like Color Pen Animations (product_ad_motion, 2020). Provide CTA like \"Let’s discuss how we can match your reference and get it on air.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a shot‑for‑shot logo reveal that mirrors your reference clip’s pacing, lighting and audio hits. Sentence 2: Our Motion graphics produit & pub team specializes in recreating broadcast‑ready opens with exact visual flow, color, motion blur and typography. Sentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the 2020 product ad motion “Color Pen Animations”—we have proven expertise in matching reference styles. Sentence 4: We’ll work in After Effects (or your preferred tool) to deliver a 1920×1080 H.264 file plus a separate audio stem, frame‑rate and duration identical to your sample."
+    },
+    {
+      "id": "freelancer:40579596",
+      "title": "Video de Bienvenida Cinematográfico para Iglesia",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Video-Bienvenida-Cinematogr-fico-para",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: the project is in Spanish (the user wrote in Spanish). So we need to write in Spanish. No fluff, no price. Cite the concrete project as proof: \"2012-10-TT Mode de paiement\" (product_ad_motion, 2012). Provide domain + year, no client name. So we need to mention that we have done similar motion graphics for product ads, e.g., \"2012-10-TT Mode de paiement\" (product_ad_motion, 2012). Provide CTA like \"¿Le gustaría que hablemos de cómo podemos crear su video de bienvenida?\" etc.\n\nMake sure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Entendemos que busca un video de bienvenida cinematográfico que transmita esperanza, excelencia y la presencia de Dios en su pantalla LED.\"\n\nSentence 2: Relate to service: \"Nuestro equipo de Motion graphics produit & pub está especializado en crear animaciones originales y de alta calidad, adaptadas a formatos específicos como 3840×960 px y loops perfectos.\"\n\nSentence 3: Cite proof: \"Contamos con 57 producciones de motion graphics para producto y publicidad en nuestro archivo, incluyendo trabajos como el proyecto 2012"
     }
   ]
 }
