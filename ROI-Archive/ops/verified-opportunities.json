@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T12:51:09+00:00",
+  "generatedAt": "2026-07-13T13:37:09+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 384,
+  "total": 385,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 166
+      "count": 167
     },
     {
       "name": "États-Unis",
@@ -10757,6 +10757,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Must be in language of the project: The user wrote in English. So we write in English. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So mention that we have done similar: Course AI, a product ad motion in 2021. Provide CTA like \"Let's schedule a quick call to discuss your vision\". Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need a series of crisp, authoritative B2B explainer videos that convey your AI product’s what, why, and how within the first 90 seconds.\"\n\nSentence 2: Link to service: \"Our Motion graphics produit & pub team specializes in turning real‑life use‑cases into modern motion‑graphics and 3D visuals that match brand guidelines and deliver broadcast‑quality audio.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product & publicité productions in our archive—including the 2021 ‘Course AI’ product ad motion—we have a proven track record in tech‑focused explainers.\"\n\nSentence 4: Show capability: \"We handle the full pipeline—script, storyboard, voice‑over, colour‑graded masters in 1080p/4K, and delivery of editable project"
+    },
+    {
+      "id": "freelancer:40579491",
+      "title": "Classic News Logo Reveal Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Classic-News-Logo-Reveal-Edit",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Logo reveal motion graphics matching reference"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with a light CTA. Write in language of the project: the project description is in English. So write in English. No fluff, no price. Cite the concrete project as proof of our historical (domain + year, without client name): \"Color Pen Animations\" (product_ad_motion, 2020). So mention that we have done similar product ad motion graphics, like Color Pen Animations (product_ad_motion, 2020). Provide CTA like \"Let’s discuss how we can match your reference and get it on air.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a shot‑for‑shot logo reveal that mirrors your reference clip’s pacing, lighting and audio hits. Sentence 2: Our Motion graphics produit & pub team specializes in recreating broadcast‑ready opens with exact visual flow, color, motion blur and typography. Sentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the 2020 product ad motion “Color Pen Animations”—we have proven expertise in matching reference styles. Sentence 4: We’ll work in After Effects (or your preferred tool) to deliver a 1920×1080 H.264 file plus a separate audio stem, frame‑rate and duration identical to your sample."
     }
   ]
 }
