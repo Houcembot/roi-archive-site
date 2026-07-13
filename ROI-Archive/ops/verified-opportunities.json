@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T00:42:19+00:00",
+  "generatedAt": "2026-07-13T01:28:04+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 381,
+  "total": 382,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 164
+      "count": 165
     },
     {
       "name": "États-Unis",
@@ -10673,6 +10673,34 @@
       "lat": 56,
       "lon": -106,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French (since user wrote French). Must be 1st person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). No blabla, no price. Must be in language of project (French). Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Nous avons bien saisi votre besoin d’animations 3D du logo DAUBIX pour les versions hero sombre et claire ainsi qu’un boucle fluide pour le pied de page.\n\nSentence 2: Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de transformer un logo statique en séquences dynamiques qui s’intègrent parfaitement aux arrière‑plans clairs et sombres.\n\nSentence 3: Forts de notre archive de 57 productions motion graphics produit & publicité, nous avons déjà réalisé des projets similaires, comme l’animation « Lemur Animations » (product_ad_motion, 2020) qui a démontré notre capacité à gérer des transitions multi‑angles et des boucles sans couture.\n\nSentence 4: Nous vous fournirons des rendus intermédiaires pour validation, les fichiers sources éditables et les versions statiques demandées, tout en respectant vos références de style.\n\nSentence 5: Discutons dès maintenant des proch"
+    },
+    {
+      "id": "freelancer:40578092",
+      "title": "Dynamic AI Social Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/Dynamic-Social-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "I understand you need a steady stream of product‑focused vertical videos that grab attention on Reels, TikTok and Facebook while keeping your brand’s colors, fonts and logo exactly as specified. At Voxel Studio we turn your headlines, copy blocks and high‑res shots into 15‑60 s MP4s (with square crops when possible), complete with captions and click‑worthy thumbnails, all under the 100 MB platform limit. Our recent archive proof shows a series of AI‑assisted edits for a beauty brand that delivered"
     }
   ]
 }
