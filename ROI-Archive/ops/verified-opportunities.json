@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T15:53:21+00:00",
+  "generatedAt": "2026-07-13T16:38:33+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 387,
+  "total": 388,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 167
+      "count": 168
     },
     {
       "name": "États-Unis",
@@ -10841,6 +10841,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "I understand you need to refresh a 15‑year‑old, four‑minute marketing animation while preserving its core feel and aligning it with your new brand colours, logos, voice‑over, soundtrack and colour palette.  \nAt Voxel Studio we specialize in breathing new life into legacy motion graphics through contemporary, fun‑yet‑professional visual storytelling, complete with professional VO, royalty‑free"
+    },
+    {
+      "id": "freelancer:40579918",
+      "title": "Cartoon Blender Scene Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-modelling/Cartoon-Blender-Scene-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project title is English, but the need description is English. However the instruction says \"Écris dans la langue du projet.\" Likely the language of the project is English (since the user wrote in English). So we should write in English. Provide a short commercial hook 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Voxel (though service Voxel not filled in the prompt, but we can infer maybe \"3D animation\" or \"Blender animation service\"? We need to reference service Voxel placeholder? The user gave \"Service Voxel:\" empty. We might need to infer from context: Voxel Studio does 3D creative production. So we can say \"our Blender animation service\". Cite proof of archive: \"Preuve:\" empty as well. We need to cite the proof d'archive but it's empty. Perhaps we can say \"as shown in our recent project X\" but we don't have specifics. Maybe we can just mention \"as demonstrated in our portfolio\". Since proof is empty, we can still reference that we have proven experience. The instruction: cite the preuve d'archive ``. Probably we need to include something like \"(see proof)\" but we can't fabricate. Could we just say \"as evidenced by our recent work\"? Might be acceptable.\n\nWe need to avoid blabla, no prices. Provide CTA léger: e.g., \"Let's discuss timing and get started.\"\n\nWrite 4-6 sentences.\n\nLet's craft"
     }
   ]
 }
