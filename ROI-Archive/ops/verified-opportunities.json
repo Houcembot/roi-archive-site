@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T15:07:41+00:00",
+  "generatedAt": "2026-07-13T15:53:21+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 386,
+  "total": 387,
   "countryCount": 8,
   "countries": [
     {
@@ -57,7 +57,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 15
+      "count": 16
     },
     {
       "name": "Europe",
@@ -10813,6 +10813,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: the project is in Spanish (the user wrote in Spanish). So we need to write in Spanish. No fluff, no price. Cite the concrete project as proof: \"2012-10-TT Mode de paiement\" (product_ad_motion, 2012). Provide domain + year, no client name. So we need to mention that we have done similar motion graphics for product ads, e.g., \"2012-10-TT Mode de paiement\" (product_ad_motion, 2012). Provide CTA like \"¿Le gustaría que hablemos de cómo podemos crear su video de bienvenida?\" etc.\n\nMake sure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Entendemos que busca un video de bienvenida cinematográfico que transmita esperanza, excelencia y la presencia de Dios en su pantalla LED.\"\n\nSentence 2: Relate to service: \"Nuestro equipo de Motion graphics produit & pub está especializado en crear animaciones originales y de alta calidad, adaptadas a formatos específicos como 3840×960 px y loops perfectos.\"\n\nSentence 3: Cite proof: \"Contamos con 57 producciones de motion graphics para producto y publicidad en nuestro archivo, incluyendo trabajos como el proyecto 2012"
+    },
+    {
+      "id": "freelancer:40579797",
+      "title": "Modern Revamp of 4min Marketing Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/voice-over/Modern-Revamp-min-Marketing-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "I understand you need to refresh a 15‑year‑old, four‑minute marketing animation while preserving its core feel and aligning it with your new brand colours, logos, voice‑over, soundtrack and colour palette.  \nAt Voxel Studio we specialize in breathing new life into legacy motion graphics through contemporary, fun‑yet‑professional visual storytelling, complete with professional VO, royalty‑free"
     }
   ]
 }
