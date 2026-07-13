@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T02:13:28+00:00",
+  "generatedAt": "2026-07-13T02:59:03+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 382,
+  "total": 383,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 108
+      "count": 109
     },
     {
       "name": "Australie",
@@ -10701,6 +10701,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "I understand you need a steady stream of product‑focused vertical videos that grab attention on Reels, TikTok and Facebook while keeping your brand’s colors, fonts and logo exactly as specified. At Voxel Studio we turn your headlines, copy blocks and high‑res shots into 15‑60 s MP4s (with square crops when possible), complete with captions and click‑worthy thumbnails, all under the 100 MB platform limit. Our recent archive proof shows a series of AI‑assisted edits for a beauty brand that delivered"
+    },
+    {
+      "id": "freelancer:40578205",
+      "title": "Concept-Explaining UI Motion Graphics",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Concept-Explaining-Motion-Graphics",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo explicative motion graphics pour produit SaaS"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: the user wrote in English, so answer in English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Provide domain+year, no client name. So we need to reference that we have done similar: Course AI, a product ad motion graphics in 2021. Provide CTA like \"Let's discuss how we can bring your vision to life\" or \"Feel free to share the assets and we'll get started\". Must be 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a 60‑70‑second vertical explainer that blends real screen recordings with motion‑graphics titles, transitions and captions for your SaaS product.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in turning ready‑made assets into polished, ad‑style videos that highlight product features.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces, including the Course AI product ad (2021) that used similar screen‑record‑plus‑graphics approach.\"\n\nSentence 4: Show we can use their kit: \"With your script, voice‑over, recordings, logo and brand colors already in hand, we"
     }
   ]
 }
