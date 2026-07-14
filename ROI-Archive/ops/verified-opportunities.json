@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T04:46:02+00:00",
+  "generatedAt": "2026-07-14T05:32:16+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 392,
+  "total": 393,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 111
+      "count": 112
     },
     {
       "name": "Australie",
@@ -10981,6 +10981,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We’ve understood that CLT Digital needs a 75‑second, bright‑and‑confident hero film that introduces the platform and highlights its three core strengths without showing any UI.  \nAt Voxel Studio we specialize in crafting premium homepage videos for legal‑tech brands, delivering the clean, warm‑toned look and straight‑cut transitions you referenced from Harvey.ai and Legora.com.  \nOur team will source Indian, European and US urban footage that matches the posh, glass‑building aesthetic and handle both 16:9 and 9:16 exports, web‑optimized for autoplay.  \nWe include three revision rounds and provide the"
+    },
+    {
+      "id": "freelancer:40581037",
+      "title": "Overhead Venn Diagram Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Overhead-Venn-Diagram-Animation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch in French (since user wrote in French). Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Voxel (though service Voxel is blank? The user wrote \"Service Voxel:\" then blank. Probably they expect we fill with something like \"animation 3D/2D hybride\"? Actually they gave \"Service Voxel:  \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\"
     }
   ]
 }
