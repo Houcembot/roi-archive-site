@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T20:41:11+00:00",
+  "generatedAt": "2026-07-14T21:27:33+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 405,
+  "total": 406,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 116
+      "count": 117
     },
     {
       "name": "Australie",
@@ -11345,6 +11345,34 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "We grasp that you need punchy, vertical Instagram Reels that spotlight each app benefit, drive clicks, and feel lively enough to stop the scroll.  \nOur Motion graphics produit & pub service is built exactly for that – fast‑paced edits, on‑trend audio, readable captions and strong CTAs woven into every frame.  \nWith 57 motion"
+    },
+    {
+      "id": "freelancer:40582610",
+      "title": "Audition-Commercial Split-Screen Reel",
+      "sourceUrl": "https://www.freelancer.com/projects/av-editing/Audition-Commercial-Split-Screen-Reel",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Édition vidéo split-screen avec motion graphics minimalistes"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "I understand you need a clean vertical split‑screen reel that juxtaposes your raw audition with the final commercial, using straight cuts and minimal text overlays for Instagram Reels and TikTok. At Voxel Studio we specialize in precisely this kind of tight, pacing‑driven edit—turning two source clips into a polished, color‑corrected MP4 that highlights the transformation without distraction. Our recent split‑screen project for a beauty brand followed the same “freeze‑then‑swap” rhythm and delivered a snappy, professional result that performed well on short‑form platforms. I’ll make sure the labels “Audition” and “Commercial” sit neatly on each side, with a subtle brand credit at the end if space permits. Let’s jump"
     }
   ]
 }
