@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T22:12:08+00:00",
+  "generatedAt": "2026-07-14T22:57:39+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 406,
+  "total": 407,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 117
+      "count": 118
     },
     {
       "name": "Australie",
@@ -11373,6 +11373,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "I understand you need a clean vertical split‑screen reel that juxtaposes your raw audition with the final commercial, using straight cuts and minimal text overlays for Instagram Reels and TikTok. At Voxel Studio we specialize in precisely this kind of tight, pacing‑driven edit—turning two source clips into a polished, color‑corrected MP4 that highlights the transformation without distraction. Our recent split‑screen project for a beauty brand followed the same “freeze‑then‑swap” rhythm and delivered a snappy, professional result that performed well on short‑form platforms. I’ll make sure the labels “Audition” and “Commercial” sit neatly on each side, with a subtle brand credit at the end if space permits. Let’s jump"
+    },
+    {
+      "id": "freelancer:40582756",
+      "title": "Create 4 App Promo Shorts",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Create-App-Promo-Shorts",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos promo courtes, motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need four"
     }
   ]
 }
