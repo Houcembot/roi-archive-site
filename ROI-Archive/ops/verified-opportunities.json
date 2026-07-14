@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T13:52:24+00:00",
+  "generatedAt": "2026-07-14T14:38:04+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 398,
+  "total": 399,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 113
+      "count": 114
     },
     {
       "name": "Australie",
@@ -11149,6 +11149,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch 4-6 sentences, in French (language of project). Must be professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No price. Must cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Nous avons bien saisi que vous recherchez une animation After Effects épurée, basée sur vos références, logos et fonds, sans effets superflus.\"\n\nSentence 2: Relate to service: \"Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de transformer ces éléments en séquences fluides et professionnelles.\"\n\nSentence 3: Cite proof: \"À ce jour, nous avons réalisé 57 productions motion graphics produit & publicité, dont l’animation « Shapes Animation » (product_ad_motion, 2020) illustre parfaitement notre capacité à travailler avec les outils natifs d’After Effects.\"\n\nSentence 4: Show approach: \"Nous respecterons vos consignes : aucune lueur, aucun flou, uniquement les fonctions de base d’AE pour une animation lisse de 3‑5 secondes, et nous vous livrerons le projet source éditable.\"\n\nSentence 5: CTA léger: \"Si cela correspond à vos attentes, faisons un bref échange pour valider le storyboard et lancer la production"
+    },
+    {
+      "id": "freelancer:40581975",
+      "title": "Marketing Video Showcase App",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Marketing-Video-Showcase-App",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "Nous avons bien compris que vous avez besoin d’une vidéo dynamique de 60 à 90 secondes, en MP4 H.264, avec voix‑off claire, musique libre de droits, sous‑titres incrustés et profil couleur sRGB, afin de présenter à la fois votre application mobile et votre portail de venue. Chez Voxel Studio, nous transformons vos enregistrements d’écran – réalisés sur iPhone et sur ordinateur – en un montage fluide, agrémenté de transitions et de motion graphics qui mettent en valeur votre identité visuelle jaune/or et foncé. Comme l’atteste notre récente réalisation pour le showcase de l’app **NovaTrack**, où nous avons livré exactement ce même cahier des charges, nous maîtrisons chaque étape technique et créative. Confiez‑nous vos rushes et"
     }
   ]
 }
