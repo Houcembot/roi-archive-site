@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T03:14:43+00:00",
+  "generatedAt": "2026-07-14T04:01:01+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 391,
+  "total": 392,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 169
+      "count": 170
     },
     {
       "name": "États-Unis",
@@ -10953,6 +10953,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Motion graphics produit & pub, citing proof 57 productions, and ending with light CTA. Must be in language of the project (the project description is in English). So write in English. No fluff, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Provide domain + year, no client name. So we mention that we have done similar motion graphics for product ads, e.g., Shapes Animation (product_ad_motion, 2020). Provide CTA like \"Let's discuss how we can bring your draft day video to life.\" Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"We get that you need a high‑energy motion‑graphics piece that puts your flag‑football league’s draft day front and center, with real player photos and an animated host.\" Sentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in exactly that blend of dynamic animation, punchy transitions, and sync‑to‑music storytelling.\" Sentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics productions for product and advertising campaigns, including the Shapes Animation project (product_ad_motion, 2020) that showcases our ability to merge live‑action assets with stylized graphics.\" Sentence 4: Show capability: \"We’ll craft engaging text overlays, fluid effects, and an"
+    },
+    {
+      "id": "freelancer:40580831",
+      "title": "Homepage Hero Video Production",
+      "sourceUrl": "https://www.freelancer.com/projects/video-post-editing/Homepage-Hero-Video-Production",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve understood that CLT Digital needs a 75‑second, bright‑and‑confident hero film that introduces the platform and highlights its three core strengths without showing any UI.  \nAt Voxel Studio we specialize in crafting premium homepage videos for legal‑tech brands, delivering the clean, warm‑toned look and straight‑cut transitions you referenced from Harvey.ai and Legora.com.  \nOur team will source Indian, European and US urban footage that matches the posh, glass‑building aesthetic and handle both 16:9 and 9:16 exports, web‑optimized for autoplay.  \nWe include three revision rounds and provide the"
     }
   ]
 }
