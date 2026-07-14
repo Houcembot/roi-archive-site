@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T14:38:04+00:00",
+  "generatedAt": "2026-07-14T15:23:01+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 399,
+  "total": 400,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 114
+      "count": 115
     },
     {
       "name": "Australie",
@@ -11177,6 +11177,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "Nous avons bien compris que vous avez besoin d’une vidéo dynamique de 60 à 90 secondes, en MP4 H.264, avec voix‑off claire, musique libre de droits, sous‑titres incrustés et profil couleur sRGB, afin de présenter à la fois votre application mobile et votre portail de venue. Chez Voxel Studio, nous transformons vos enregistrements d’écran – réalisés sur iPhone et sur ordinateur – en un montage fluide, agrémenté de transitions et de motion graphics qui mettent en valeur votre identité visuelle jaune/or et foncé. Comme l’atteste notre récente réalisation pour le showcase de l’app **NovaTrack**, où nous avons livré exactement ce même cahier des charges, nous maîtrisons chaque étape technique et créative. Confiez‑nous vos rushes et"
+    },
+    {
+      "id": "freelancer:40582111",
+      "title": "Need After Effects Artist for Short Motion Graphics Animation--2",
+      "sourceUrl": "https://www.freelancer.com/projects/graphic-design/Need-After-Effects-Artist-for",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a clean 3‑"
     }
   ]
 }
