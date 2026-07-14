@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T05:32:16+00:00",
+  "generatedAt": "2026-07-14T06:17:33+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 393,
+  "total": 395,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 170
+      "count": 172
     },
     {
       "name": "États-Unis",
@@ -4481,6 +4481,62 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since project language is French? The user wrote French instructions, but the project description is English. The instruction: \"Écris dans la langue du projet.\" The project title is English, but the brief is English. However the user wrote French instructions. Likely they want French output. The project is about CoinProwl Commercial Script, likely English. But they said \"Écris dans la langue du projet.\" The project language appears English (title, brief). So we should write in English. But the user wrote French instructions; ambiguous. Usually they'd want French because they wrote instructions in French. However they also said \"Pas de blabla, pas de prix. Cite ce projet concret comme preuve de notre historique (domaine + année, sans nom de client).\" They gave archive project: \"Game Makkah\" (product_ad_motion, 2019). So we need to cite that.\n\nWe need 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. No blabla, no price. Cite concrete project as proof (domain + year, no client name). So mention \"Game Makkah\" (product_ad_motion, 2019). Provide hook.\n\nLet's craft 5 sentences.\n\nSentence 1: We grasp that CoinProwl needs a high‑energy 30‑45 s spot that turns every real‑world move into a cash‑hunt narrative.\n\nSentence 2: Our Motion graphics produit"
+    },
+    {
+      "id": "freelancer:40581149",
+      "title": "Energetic Fitness App Feature Promo",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Energetic-Fitness-App-Feature-Promo",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics promo vidéo pour app fitness"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve grasped that you need a punchy, motion‑driven promo that highlights workout plans, progress tracking and community interaction in a vibrant, on‑beat style for social and app‑store placements. Our Motion graphics produit & pub service specializes in exactly this blend of kinetic typography, fast cuts and polished visuals that turn features into engaging stories. With 57 motion‑graphics product & advertising productions in our archive—including the recent “Course AI” product ad (2021)—we’ve proven we can deliver high‑energy, aesthetic videos that meet strict format and timing requirements. Let’s start with a quick style‑frame or animatic review; once approved we’ll move straight into production and deliver the final MP4 plus source files. Are you available for a brief call this week to kick off the first milestone?"
+    },
+    {
+      "id": "freelancer:40581124",
+      "title": "Energetic Fitness App Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Energetic-Fitness-App-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Promo vidéo avec motion graphics et intégration UI"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service \"Motion graphics produit & pub\", citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: The project description is in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). Provide 4-6 sentences.\n\nLet's craft: Sentence 1: We understand you need a high‑energy, feature‑focused promo that drives downloads. Sentence 2: Our motion‑graphics‑for‑product‑&‑pub service turns UI mock‑ups into kinetic, upbeat stories with fast cuts and kinetic typography. Sentence 3: Backed by 57 motion‑graphics product & advertising pieces in our archive, including the recent “Color Pen Animations” (product_ad_motion, 2020). Sentence 4: We’ll deliver a 30‑60 s Full HD/4K MP4 with editable AE/PR files, royalty‑free music, brand‑matched color grading, and clean supers. Sentence 5: Let’s sync on a quick storyboard or style frames so we’re aligned before full production. Sentence 6 (optional CTA): Drop me a line when you’re ready to kick off the timeline.\n\nMake sure 4-6 sentences. We'll do 5 sentences maybe. Ensure we cite proof and archive project. No price. No"
     },
     {
       "id": "freelancer:40545736",
