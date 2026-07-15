@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T05:02:16+00:00",
+  "generatedAt": "2026-07-15T05:48:45+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 409,
+  "total": 411,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 179
+      "count": 180
     },
     {
       "name": "États-Unis",
@@ -75,7 +75,7 @@
       "name": "Singapour",
       "lat": 1.35,
       "lon": 103.8,
-      "count": 2
+      "count": 3
     }
   ],
   "segments": [
@@ -11427,7 +11427,8 @@
         }
       ],
       "lat": 20.6,
-      "lon": 78.9
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to Voxel service \"Animation de personnages\", citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with a light CTA. Write in language of the project: The project description is in English. So we need English. No fluff, no price. Cite the concrete project as proof: \"Cartoon characters animations\" (cartoon_character_animation, 2022). Provide domain and year without client name.\n\nThus produce maybe 5 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need lively 3D cartoon animations tailored for YouTube Shorts that grab attention in seconds.\n\nSentence 2: At Voxel Studio, our Animation de personnages service specializes in turning concepts into engaging, moderately detailed 3D characters that move with personality.\n\nSentence 3: Leveraging our track record of 44 character‑animation & cartoon projects (archive Voxel), we’ve delivered work like the “Cartoon characters animations” (cartoon_character_animation, 2022) that meets exactly the style and pacing you’re after.\n\nSentence 4: Our team uses Blender/Maya, focuses on storytelling, and ensures each short is optimized for vertical, fast‑scroll consumption.\n\nSentence 5: Let’s discuss how we can bring your YouTube Shorts ideas to life—reply to this message and we’ll share a quick concept sketch.\n\nThat's 5 sentences, professional, first person (we). No price. Good.\n\nMake sure to cite"
     },
     {
       "id": "freelancer:40583197",
@@ -11456,6 +11457,61 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch 4-6 sentences, in French (since project language is French). Must be 1st person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No price, no fluff. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"Je comprends que vous cherchez une vidéo courte, émotive, qui présente votre nouveau produit de façon à inspirer l’action.\" Sentence 2: Relate to service: \"Notre expertise en motion graphics produit & pub nous permet de transformer vos rendus et vos messages en une histoire visuelle dynamique et chaleureuse.\" Sentence 3: Cite proof: \"Nous avons déjà réalisé 57 productions motion graphics produit & publicité, dont le projet « Course AI » (product_ad_motion, 2021) qui a su mêler problème, solution et appel à l’action inspirant.\" Sentence 4: Offer process: \"Nous élaborerons concept, storyboard, tournage ou sélection d’images, motion graphics, bande‑son libre de droits et montage final en 45‑90 s, avec deux tours de révision inclus.\" Sentence 5: CTA léger: \"Discutons dès maintenant de votre calendrier pour lancer la première version conceptuelle d’ici une semaine.\"\n\nCheck: 5 sentences, French, 1st person,"
+    },
+    {
+      "id": "freelancer:40583293",
+      "title": "Website 3D Wire Coil Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Website-Wire-Coil-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Création animation produit 3D pour site web"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
+    },
+    {
+      "id": "freelancer:40583370",
+      "title": "Create a Short Video for My Buddhism Channel",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Create-Short-Video-for-Buddhism",
+      "source": "marketplace:freelancer",
+      "country": "Singapour",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 1.35,
+      "lon": 103.8,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we need to write in English. Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Voxel, cite proof archive, end with light CTA. No blabla, no price. Service Voxel: we need to fill in \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\"
     }
   ]
 }
