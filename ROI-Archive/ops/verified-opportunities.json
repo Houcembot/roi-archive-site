@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T02:45:28+00:00",
+  "generatedAt": "2026-07-15T03:32:04+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 407,
+  "total": 408,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 177
+      "count": 178
     },
     {
       "name": "États-Unis",
@@ -11401,6 +11401,33 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need four"
+    },
+    {
+      "id": "freelancer:40583092",
+      "title": "3D Cartoon Animator for YouTube Shorts",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-art/Cartoon-Animator-for-YouTube-Shorts",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     }
   ]
 }
