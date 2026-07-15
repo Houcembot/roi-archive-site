@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T12:48:45+00:00",
+  "generatedAt": "2026-07-15T13:34:28+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 415,
+  "total": 416,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 183
+      "count": 184
     },
     {
       "name": "États-Unis",
@@ -4565,6 +4565,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of project is English. So we need to write in English. Must be professional, first person (Voxel). Show understanding, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We get that you need a 90‑second cinematic product film that feels like an Apple keynote—flat, premium, typographic, product‑led, with no stock clichés.\"\n\nSentence 2: Relate to our service: \"Our Motion graphics produit & pub team specializes in turning exact scripts and storyboards into polished, frame‑accurate animations that match institutional brands like Stripe or Linear.\"\n\nSentence 3: Cite proof: \"To date we have delivered 57 motion‑graphics product and advertising pieces, including the 2020 ‘Shapes Animation’ product ad that showcases the same restrained, typographic approach you’re after.\"\n\nSentence 4: Maybe another proof or reassurance: \"We’ll handle direction, animation and craft using your screen recordings and design files under NDA, ensuring every second hits the timing you’ve locked in.\"\n\nSentence 5: CTA: \"If you’d like to see a quick concept reel"
+    },
+    {
+      "id": "freelancer:40584279",
+      "title": "Energetic Video with Dynamic Intro and CTA",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Energetic-Video-with-Dynamic-Intro",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics video production requested"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project: the project description is in French with some Hindi/English mix? The user wrote in French with Hindi words. The language of the project seems French (the instruction: \"Écris dans la langue du projet.\") The project title and description are in French with some Hindi words. So we should write in French, maybe with some Hindi terms? Probably just French. Avoid fluff, no price. Cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). So we need to mention that as evidence of our experience.\n\nThus produce 4-6 sentences, first person (we). Eg:\n\n\"Nous avons saisi que votre vidéo doit capter l'attention dès les trois premières secondes avec un hook percutant, des titres viraux, des sous-titres hindi/anglais, des B‑rolls, des zooms, des overlays graphiques, une musique entraînante et un CTA clair. Grâce à notre expertise en motion graphics produit & pub, nous concevons chaque élément pour maximiser l'engagement et la viralité. Notre archive témoigne de 57 productions motion graphics produit & publicité, dont le projet « Color Pen Animations » (product_ad_motion, 2020) illustre notre capacité à mêler animation dynamique et texte accrocheur. Conf"
     },
     {
       "id": "freelancer:40545736",
