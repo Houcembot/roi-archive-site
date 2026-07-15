@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T16:35:06+00:00",
+  "generatedAt": "2026-07-15T17:21:03+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 419,
+  "total": 420,
   "countryCount": 8,
   "countries": [
     {
@@ -51,7 +51,7 @@
       "name": "Canada",
       "lat": 56,
       "lon": -106,
-      "count": 17
+      "count": 18
     },
     {
       "name": "Royaume-Uni",
@@ -11737,6 +11737,33 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need eye‑catching, platform‑native teasers that make the launch of “if” unforgettable on Instagram,"
+    },
+    {
+      "id": "freelancer:40584659",
+      "title": "YouTube Product Review Shorts Editor",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Product-Review-Shorts-Editor",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 56,
+      "lon": -106
     }
   ]
 }
