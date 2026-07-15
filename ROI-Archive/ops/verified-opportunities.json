@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T03:32:04+00:00",
+  "generatedAt": "2026-07-15T04:16:42+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 408,
+  "total": 409,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 178
+      "count": 179
     },
     {
       "name": "États-Unis",
@@ -11428,6 +11428,34 @@
       ],
       "lat": 20.6,
       "lon": 78.9
+    },
+    {
+      "id": "freelancer:40583197",
+      "title": "Inspirational Product Launch Video",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Inspirational-Product-Launch-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo promo produit avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch 4-6 sentences, in French (since project language is French). Must be 1st person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No price, no fluff. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"Je comprends que vous cherchez une vidéo courte, émotive, qui présente votre nouveau produit de façon à inspirer l’action.\" Sentence 2: Relate to service: \"Notre expertise en motion graphics produit & pub nous permet de transformer vos rendus et vos messages en une histoire visuelle dynamique et chaleureuse.\" Sentence 3: Cite proof: \"Nous avons déjà réalisé 57 productions motion graphics produit & publicité, dont le projet « Course AI » (product_ad_motion, 2021) qui a su mêler problème, solution et appel à l’action inspirant.\" Sentence 4: Offer process: \"Nous élaborerons concept, storyboard, tournage ou sélection d’images, motion graphics, bande‑son libre de droits et montage final en 45‑90 s, avec deux tours de révision inclus.\" Sentence 5: CTA léger: \"Discutons dès maintenant de votre calendrier pour lancer la première version conceptuelle d’ici une semaine.\"\n\nCheck: 5 sentences, French, 1st person,"
     }
   ]
 }
