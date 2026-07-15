@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T08:03:52+00:00",
+  "generatedAt": "2026-07-15T10:34:08+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 413,
+  "total": 415,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 182
+      "count": 183
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 118
+      "count": 119
     },
     {
       "name": "Australie",
@@ -11569,6 +11569,61 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of course in English? The project language of the project.\"English\". So we must write in English. It should be professional, first person (Voxel). Show we understood need, relate to service Voxel (which is presumably \"Cinematic Pop Lyric Video Production\"? Actually service Voxel is not given; maybe we need to infer from context: Voxel Studio offers 3D creative production, but service Voxel maybe \"Cinematic Pop Lyric Video Production\"? The user gave \"Service Voxel:\" but left blank. Possibly they expect we fill with the service description? Actually they gave \"Service Voxel:\" then blank, maybe they want us to use the service description from earlier? The user gave \"Service Voxel:\" then blank line. So we need to fill? Might be they expect we know Voxel's service: maybe \"Cinematic Pop Lyric Video Production\" is the service. So we can mention that.\n\nWe need to cite proof of archive: \"Preuve:\" blank. So we need to cite some proof? Possibly we can say \"as shown in our recent work for X artist\" but we don't have actual link. We can make a placeholder like \"see our portfolio link\". Since we cannot fabricate real links? We can say \"as demonstrated in our recent lyric video for [Artist]\" but that's invented. Might be okay as illustrative. The instruction: cite the proof of archive. Probably we need to reference that we have done similar work"
+    },
+    {
+      "id": "freelancer:40583924",
+      "title": "3D model skeleton binding task - Maya",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-rigging/model-skeleton-binding-task-Maya",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Binding bones & shaping = character rigging/animation prep"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
+    },
+    {
+      "id": "freelancer:40583697",
+      "title": "FreeFireMax App Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/FreeFireMax-App-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a crisp 60‑120 second promo that highlights the GamerzAdda rewards system and core features for Free Fire Max players."
     }
   ]
 }
