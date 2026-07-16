@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T14:37:46+00:00",
+  "generatedAt": "2026-07-16T15:22:42+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 429,
+  "total": 430,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 127
+      "count": 128
     },
     {
       "name": "Australie",
@@ -4619,7 +4619,8 @@
         }
       ],
       "lat": 20.6,
-      "lon": 78.9
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a"
     },
     {
       "id": "freelancer:40545736",
@@ -11930,7 +11931,8 @@
         }
       ],
       "lat": 20.6,
-      "lon": 78.9
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook ( of of common ofian: of of///ica//ique of ( ( of. of"
     },
     {
       "id": "freelancer:40586490",
@@ -12010,6 +12012,33 @@
         {
           "capability": "product_ad_motion",
           "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
+    },
+    {
+      "id": "freelancer:40586734",
+      "title": "Custom Humanoid Rig for RE Engine",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-rigging/Custom-Humanoid-Rig-for-Engine",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
         }
       ],
       "lat": 38,
