@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T06:12:36+00:00",
+  "generatedAt": "2026-07-16T06:59:26+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 422,
+  "total": 423,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 123
+      "count": 124
     },
     {
       "name": "Australie",
@@ -11821,6 +11821,33 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relate to service Voxel (which is not given explicitly but likely \"3D\"Service Voxel: \" line is empty? Actually the user gave \"Service Voxel:\" then blank, and \"Preuve:\" blank. Possibly they expect us to fill with something? The instruction: \"cite la preuve d'archive ``\". Means we need to cite the proof from archive, but it's empty. Maybe we need to reference the provided proof placeholder? Might be they expect we just mention \"comme indiqué dans votre brief\" or similar. Since no actual proof given, we can say \"comme mentionné dans votre brief\" referencing the need. We'll write in French (language of project? The user wrote in English but the instruction says \"Écris dans la langue du projet.\" The project title is \"water surface mountain 70$\" maybe French? The user wrote English. But instruction says French. We'll output French.\n\nWe need 4-6 sentences, short commercial hook. No blabla, no price. Include CTA léger at end.\n\nLet's craft: \"Nous avons saisi que vous voulez un spot 3D de 20‑30 s mettant en avant l’offre promotionnelle Yamaha tout en exprimant vitesse et agilité. Chez Voxel Studio, notre expertise en modélisation réaliste, texturing haute fidélité et éclairage cinématique nous permet de livrer une animation full‑HD optimisée pour le web, sous 50 Mo. Comme le montre notre récente réalisation pour un construct"
+    },
+    {
+      "id": "freelancer:40585792",
+      "title": "Corporate Conference Welcome Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Corporate-Conference-Welcome-Animation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Corporate welcome animation is motion graphics for brand/event."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97
     }
   ]
 }
