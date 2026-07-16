@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T22:52:49+00:00",
+  "generatedAt": "2026-07-16T23:38:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 434,
+  "total": 435,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 129
+      "count": 130
     },
     {
       "name": "Australie",
@@ -12157,6 +12157,33 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a concise 60‑90 s screen"
+    },
+    {
+      "id": "freelancer:40587375",
+      "title": "React Scroll-Controlled 3D Generator",
+      "sourceUrl": "https://www.freelancer.com/projects/three-js/React-Scroll-Controlled-Generator",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97
     }
   ]
 }
