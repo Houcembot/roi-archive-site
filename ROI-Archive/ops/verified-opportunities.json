@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T00:09:10+00:00",
+  "generatedAt": "2026-07-16T00:54:10+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 420,
+  "total": 421,
   "countryCount": 8,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 19
+      "count": 20
     },
     {
       "name": "Canada",
@@ -11765,6 +11765,33 @@
       "lat": 56,
       "lon": -106,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English (the job posting). However the instruction says \"Écris dans la langue du projet.\" The project language is English? The project title is English, description English. So we should write in English. Provide a short commercial pitch 4-6 sentences, professional, first person (Voxel), showing we understood need, relate to service Voxel, cite proof of archive, end with light CTA. No blabla, no price.\n\nWe need to include service Voxel and preuve placeholders? The user gave \"Service Voxel:\" and \"Preuve:\" but didn't fill values. Probably we need to refer to them generically? Maybe we should insert something like \"Service Voxel: 3D creative production\" and \"Preuve: [link]\"? But we don't have actual values. Could we leave as placeholders? The instruction: \"cite la preuve d'archive ``\". Probably we need to include the proof placeholder exactly as given: maybe we just write \"Preuve:\" and then nothing? That seems odd. Perhaps we should assume the user will fill later; we just mention that we have proof. Could write: \"As shown in our archive (Preuve: ...)\" but we don't have actual link. Could we just write \"Preuve:\" as is? Might be acceptable.\n\nWe need to avoid mentioning price. Provide CTA like \"Let's schedule a quick call to kick off the first batch.\"\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need:"
+    },
+    {
+      "id": "freelancer:40585163",
+      "title": "Modern Motion Graphics Logo Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/kinetic-typography/Modern-Motion-Graphics-Logo-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": -25,
+      "lon": 133
     }
   ]
 }
