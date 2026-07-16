@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T17:40:26+00:00",
+  "generatedAt": "2026-07-16T18:22:35+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 432,
+  "total": 433,
   "countryCount": 8,
   "countries": [
     {
@@ -57,7 +57,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 16
+      "count": 17
     },
     {
       "name": "Europe",
@@ -12101,6 +12101,33 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "At Voxel Studio we understand that Click Cabo Verde needs a cinematic, luxury‑grade motion graphics package that feels timeless and premium. Our Motion graphics produit &"
+    },
+    {
+      "id": "freelancer:40587001",
+      "title": "Luxurious Fragrance Collection Reveal Video",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Luxurious-Fragrance-Collection-Reveal",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Cinematic reveal video for luxury fragr"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2
     }
   ]
 }
