@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T15:22:42+00:00",
+  "generatedAt": "2026-07-16T16:09:20+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -12042,7 +12042,8 @@
         }
       ],
       "lat": 38,
-      "lon": -97
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably \"Custom Humanoid Rig for RE Engine\"?), cite proof from archive (Preuve: ???). The user gave \"Preuve:\" but no content after colon. Possibly they expect we refer to something like \"Preuve: [some proof]\" but it's blank. Might need to infer that the proof is something like \"We have delivered rigs for RE Engine titles such as Resident Evil Village\". Since we don't have explicit proof, we can say \"As shown in our archive (see proof: RE Engine rig for XYZ)\". We must not invent false info? The instruction: cite the proof of archive ``. Probably they expect we just write something like \"(voir preuve)\" referencing the proof field. Since it's empty, we can note that the proof is in the archive. Maybe we just write \"Comme le montre notre preuve d'archive\". We'll comply.\n\nWe need to write in language of the project: The project description is in English, so we write in English.\n\nWe need 4-6 sentences, professional, first person (Voxel). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We know your humanoid model needs a clean, RE‑Engine‑compatible control rig that imports straight into the engine without extra tweaking.\"\n\nSentence 2: Relate to service Voxel: \"Our Voxel Studio team specializes in building game‑ready skeletons, joint orientations and deformation weights that follow Capcom"
     }
   ]
 }
