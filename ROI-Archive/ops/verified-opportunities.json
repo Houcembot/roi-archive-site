@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T19:06:04+00:00",
+  "generatedAt": "2026-07-16T19:52:57+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 433,
+  "total": 434,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 128
+      "count": 129
     },
     {
       "name": "Australie",
@@ -12128,6 +12128,33 @@
       ],
       "lat": 54,
       "lon": -2
+    },
+    {
+      "id": "freelancer:40587075",
+      "title": "AI Code Tool Demo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Code-Tool-Demo-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo dé"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
     }
   ]
 }
