@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T12:20:33+00:00",
+  "generatedAt": "2026-07-16T13:06:13+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 425,
+  "total": 427,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 185
+      "count": 186
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 125
+      "count": 126
     },
     {
       "name": "Australie",
@@ -11904,6 +11904,61 @@
       ],
       "lat": 20.6,
       "lon": 78.9
+    },
+    {
+      "id": "freelancer:40586490",
+      "title": "3D Explainer Video Editor Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Explainer-Video-Editor-Needed",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Educational 3D explainer video matches Voxel"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not fully given but presumably \"3D Explainer Video Editor\" service), citing proof from archive (but proof not provided; maybe we need to reference something like \"as shown in our recent project for XYZ\" but we don't have specifics). The user gave \"Service Voxel:\" and \"Preuve:\" but left blank. Possibly we need to infer that service Voxel is \"3D Explainer Video Editing\" and proof is something like \"our portfolio includes a 12‑minute 3D explainer for a university\". Since not given, we can make a generic placeholder? But we must not fabricate? The instruction: \"cite the proof d'archive\". Since no proof given, maybe we just say \"as demonstrated in our recent 3D explainer for [client]\" but we don't have client name. Could we say \"as shown in our archive of 3D explainer videos\"? Might be acceptable.\n\nWe need to write in language of the project: The project description is in English (some French words but overall English). So write in English.\n\nNo blabla, no price.\n\nWe need 4-6 sentences.\n\nLet's craft:\n\nSentence 1: Show we understood need: \"I see you have a ready‑to‑record script for a 15‑20 minute educational explainer and need a editor who can turn it into a crisp 3‑D motion‑graphics video.\"\n\nSentence 2: Relate to Voxel service:"
+    },
+    {
+      "id": "freelancer:40586487",
+      "title": "Modern Promotional Video Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Modern-Promotional-Video-Editing-40586487",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97
     }
   ]
 }
