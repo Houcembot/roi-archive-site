@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T19:52:57+00:00",
+  "generatedAt": "2026-07-16T20:37:49+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -12154,7 +12154,8 @@
         }
       ],
       "lat": 38,
-      "lon": -97
+      "lon": -97,
+      "proposalDraft": "We understand you need a concise 60‑90 s screen"
     }
   ]
 }
