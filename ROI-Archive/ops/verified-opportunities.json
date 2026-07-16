@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T16:09:20+00:00",
+  "generatedAt": "2026-07-16T16:57:53+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 430,
+  "total": 431,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 187
+      "count": 188
     },
     {
       "name": "États-Unis",
@@ -12015,7 +12015,8 @@
         }
       ],
       "lat": 38,
-      "lon": -97
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood the need, relate to service \"Motion graphics produit & pub\", cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Write in language of the project: The project description is in English (the user wrote in English). So we must write in English. No fluff, no price. Cite the concrete project as proof of our historical (domain + year, without client name): \"Lemur Animations\" (product_ad_motion, 2020). So we need to mention that we have done similar work: e.g., \"Lemur Animations\" product_ad_motion 2020.\n\nWe must not mention price. Provide CTA like \"Let's discuss how we can bring your intro to life\" or \"Feel free to reach out for a quick chat\". Keep 4-6 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need a dynamic 3D YouTube intro that captures energy and showcases your logo and channel name.\n\nSentence 2: At Voxel Studio, our Motion graphics produit & pub service specializes in turning brand assets into lively, engaging animations.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive, we have a proven track record—including the Lemur Animations product_ad_motion project from 2020.\n\nSentence 4: Let’s schedule a brief call to explore how we can craft an intro that grabs viewers from the first second.\n\nThat's 4 sentences"
     },
     {
       "id": "freelancer:40586734",
@@ -12044,6 +12045,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably \"Custom Humanoid Rig for RE Engine\"?), cite proof from archive (Preuve: ???). The user gave \"Preuve:\" but no content after colon. Possibly they expect we refer to something like \"Preuve: [some proof]\" but it's blank. Might need to infer that the proof is something like \"We have delivered rigs for RE Engine titles such as Resident Evil Village\". Since we don't have explicit proof, we can say \"As shown in our archive (see proof: RE Engine rig for XYZ)\". We must not invent false info? The instruction: cite the proof of archive ``. Probably they expect we just write something like \"(voir preuve)\" referencing the proof field. Since it's empty, we can note that the proof is in the archive. Maybe we just write \"Comme le montre notre preuve d'archive\". We'll comply.\n\nWe need to write in language of the project: The project description is in English, so we write in English.\n\nWe need 4-6 sentences, professional, first person (Voxel). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We know your humanoid model needs a clean, RE‑Engine‑compatible control rig that imports straight into the engine without extra tweaking.\"\n\nSentence 2: Relate to service Voxel: \"Our Voxel Studio team specializes in building game‑ready skeletons, joint orientations and deformation weights that follow Capcom"
+    },
+    {
+      "id": "freelancer:40586876",
+      "title": "Marketing Video Complex Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Marketing-Video-Complex-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since project language likely French, as user wrote French). Must be 1st person (Voxel). Show we understood need, relate to service Voxel (which is blank? Actually service Voxel field is empty; maybe we need to infer? The service Voxel is not given; maybe we need to leave blank? But we need to cite the proof archive which is also blank. Hmm.\n\nThe user gave fields: Title: Marketing Video Complex Animation; Need: Video editing and motion Designing; Service Voxel: (empty); Preuve: (empty). Possibly they expect us to fill with something generic? But they said cite the proof d'archive ``. If empty, maybe we just omit? But instruction: (3) cite la preuve d'archive ``. Could be they expect we put nothing? Might be they want us to reference the proof placeholder but since it's empty we can't. Perhaps we should note that proof is not provided, so we can't cite. But they explicitly said cite the preuve d'archive. Might be they expect we write something like \"Comme le montre notre archive [référence]\" but we don't have reference. Could be we just leave blank parentheses.\n\nBetter to respond in French, 4-6 sentences, professional, 1st person (Voxel). Show we understood need: video editing and motion designing for complex animation marketing video. Relate to service Voxel (maybe we assume service is \"production de vidéos 3D complexes\" or \"animation 3D et motion design\"). Since service Voxel field empty, we can infer"
     }
   ]
 }
