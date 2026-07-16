@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T16:57:53+00:00",
+  "generatedAt": "2026-07-16T17:40:26+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 431,
+  "total": 432,
   "countryCount": 8,
   "countries": [
     {
@@ -63,7 +63,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 13
+      "count": 14
     },
     {
       "name": "Nouvelle-Zélande",
@@ -12073,6 +12073,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since project language likely French, as user wrote French). Must be 1st person (Voxel). Show we understood need, relate to service Voxel (which is blank? Actually service Voxel field is empty; maybe we need to infer? The service Voxel is not given; maybe we need to leave blank? But we need to cite the proof archive which is also blank. Hmm.\n\nThe user gave fields: Title: Marketing Video Complex Animation; Need: Video editing and motion Designing; Service Voxel: (empty); Preuve: (empty). Possibly they expect us to fill with something generic? But they said cite the proof d'archive ``. If empty, maybe we just omit? But instruction: (3) cite la preuve d'archive ``. Could be they expect we put nothing? Might be they want us to reference the proof placeholder but since it's empty we can't. Perhaps we should note that proof is not provided, so we can't cite. But they explicitly said cite the preuve d'archive. Might be they expect we write something like \"Comme le montre notre archive [référence]\" but we don't have reference. Could be we just leave blank parentheses.\n\nBetter to respond in French, 4-6 sentences, professional, 1st person (Voxel). Show we understood need: video editing and motion designing for complex animation marketing video. Relate to service Voxel (maybe we assume service is \"production de vidéos 3D complexes\" or \"animation 3D et motion design\"). Since service Voxel field empty, we can infer"
+    },
+    {
+      "id": "freelancer:40586922",
+      "title": "3D Animated Energetic Intro",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Animated-Energetic-Intro",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de motion graphics pour branding"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "At Voxel Studio we understand that Click Cabo Verde needs a cinematic, luxury‑grade motion graphics package that feels timeless and premium. Our Motion graphics produit &"
     }
   ]
 }
