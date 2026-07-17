@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T04:57:28+00:00",
+  "generatedAt": "2026-07-17T05:42:34+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 436,
+  "total": 437,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 188
+      "count": 189
     },
     {
       "name": "États-Unis",
@@ -4621,6 +4621,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a"
+    },
+    {
+      "id": "freelancer:40587753",
+      "title": "Kinetic Typography Product Promo",
+      "sourceUrl": "https://www.freelancer.com/projects/kinetic-typography/Kinetic-Typography-Product-Promo",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Kinetic typography product promo matches motion graphics product ad"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a kinetic‑typography video that clearly showcases your product while capturing viewers’ attention.  \nOur Motion graphics produit & pub service specializes in turning product information into engaging, visually‑driven animations.  \nWith 57 productions motion graphics produit & publicité in our archive, we have a proven track record in this domain.  \nFor example, the “Shapes Animation” project (product_ad_motion, 2020) demonstrates our ability to deliver kinetic typography that"
     },
     {
       "id": "freelancer:40545736",
