@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T23:38:43+00:00",
+  "generatedAt": "2026-07-17T00:23:56+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -12183,7 +12183,8 @@
         }
       ],
       "lat": 38,
-      "lon": -97
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. But they say \"Écris dans la langue du projet.\" The project is React Scroll-Controlled 3D Generator, description in English. So language of the project is English. So we should write in English. Provide a short commercial hook, 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Voxel (which is not filled? The Service Voxel field is empty). We need to refer to service Voxel: maybe we can infer it's \"3D interactive experiences\" or \"WebGL-powered 3D storytelling\". Since it's blank, we can still mention our service: creating immersive WebGL 3D experiences integrated with React. Use proof from archive: but the Preuve field is empty. We cannot cite something that's not given. Perhaps we can say \"as demonstrated in our recent project for X\" but we don't have that. Maybe we can note that we have proven expertise in scroll-driven 3D using three.js and react-three-fiber, referencing our internal archive (though not provided). We must not fabricate? The instruction: cite the proof of archive ``. The archive field is empty, so we cannot cite anything. Perhaps we should note that we have relevant proof in our archive (though not specified) but we can't give specifics. Could we say \"as shown in our internal portfolio\"? Might be okay.\n\nWe need to avoid blabla, no prices. Provide CTA lightly: e.g., \"Let's discuss"
     }
   ]
 }
