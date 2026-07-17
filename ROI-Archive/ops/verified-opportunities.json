@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T14:49:03+00:00",
+  "generatedAt": "2026-07-17T15:34:27+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 438,
+  "total": 439,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 190
+      "count": 191
     },
     {
       "name": "États-Unis",
@@ -5615,6 +5615,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "I see you need an animated ad that highlights a physical product and drives engagement."
+    },
+    {
+      "id": "freelancer:40588736",
+      "title": "Instagram Promotional Reels Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/social-media-marketing/Instagram-Promotional-Reels-Creation-40588736",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de reels promotionnels avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project (English). No fluff, no price. Cite the concrete project as proof of our historical record (domain + year, without client name). The archive project: \"Course AI\" (product_ad_motion, 2021). So mention that we delivered product ad motion for Course AI in 2021.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need scroll‑stopping Instagram Reels that blend product showcase with on‑brand motion graphics to turn viewers into followers and customers.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in crafting vertical, edit‑ready Reels with dynamic text overlays, beat‑synced cuts and clear hook‑main‑CTA structures.\"\n\nSentence 3: Cite proof: \"To date we’ve completed 57 motion‑graphics product & advertising pieces in our archive, including the Course AI product ad motion we produced in 2021.\"\n\nSentence 4: Show process fit: \"We’ll work from your raw clips and brief, deliver editable source files, and include two revision rounds so the final 1080×1920 MP4 meets your spec for crisp visuals, clean audio and a CTA in the last three"
     },
     {
       "id": "freelancer:40548766",
