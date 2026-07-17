@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T19:21:40+00:00",
+  "generatedAt": "2026-07-17T20:07:31+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 442,
+  "total": 443,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 133
+      "count": 134
     },
     {
       "name": "Australie",
@@ -12381,6 +12381,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "I understand you"
+    },
+    {
+      "id": "freelancer:40589061",
+      "title": "AI Actor App Promo Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-hw-sw/Actor-App-Promo-Videos",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "Nous avons saisi que vous cherchez des clips de 15‑45 s mettant en scène des acteurs IA réalistes pour démontrer la rapidité et la puissance de"
     }
   ]
 }
