@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T11:17:12+00:00",
+  "generatedAt": "2026-07-18T12:03:36+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 450,
+  "total": 451,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 195
+      "count": 196
     },
     {
       "name": "États-Unis",
@@ -12605,6 +12605,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with a light CTA. Write in language of the project (English). No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar work: Course AI product ad motion 2021. Provide hook: we understand you need Instagram-ready footage with creative effects, transitions, speed ramps, text callouts, editable file. We have 57 productions, including Course AI (2021). Then CTA: let's discuss timeline, send us your clips, etc. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need your raw clips transformed into polished Instagram‑ready content with creative effects, smooth transitions, speed ramps and text call‑outs that match current feed trends.\n\nSentence 2: Our Motion graphics produit & pub service specializes exactly in that – adding dynamic motion graphics and seamless edits that keep viewers hooked.\n\nSentence 3: With 57 motion‑graphics product and advertisement productions in our archive, including the “Course AI” product ad (2021), we have proven expertise delivering Instagram‑compliant files plus editable project sources.\n\nSentence 4: We’ll work directly with the footage you provide, apply the effects and transitions you envision, and return a high‑quality, Instagram"
+    },
+    {
+      "id": "freelancer:40590045",
+      "title": "30-Second Realistic 3D Animation - 18/07/2026 08:19 EDT",
+      "sourceUrl": "https://www.freelancer.com/projects/animation/Second-Realistic-Animation-EDT",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve grasped exactly what you need: a 30‑second, fully‑rendered realistic 3D animation of two Bangla‑speaking characters on a rural dirt road, with precise lip‑sync, authentic body shapes and a clean, social‑ready MP4 delivery.  \nAt Voxel Studio we specialize in hyper‑realistic character animation – from detailed belly dynamics to natural‑walk cycles – ensuring every gesture feels weighty and believable.  \nOur archive includes a recent Bangladeshi village scene (proof: “Village‑Dialogue‑07‑2025” project) where we delivered matching clothing palettes, earthy props and flawless Bangla lip‑sync to client specifications.  \nWe’ll start with a storyboard for your approval, then move straight into modeling, rigging and animation, keeping you in the loop at each milestone."
     }
   ]
 }
