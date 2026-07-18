@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T15:50:32+00:00",
+  "generatedAt": "2026-07-18T16:36:02+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 452,
+  "total": 453,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 137
+      "count": 138
     },
     {
       "name": "Australie",
@@ -12661,6 +12661,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We’ve grasped exactly what you need: a 30‑second, fully‑rendered realistic 3D animation of two Bangla‑speaking characters on a rural dirt road, with precise lip‑sync, authentic body shapes and a clean, social‑ready MP4 delivery.  \nAt Voxel Studio we specialize in hyper‑realistic character animation – from detailed belly dynamics to natural‑walk cycles – ensuring every gesture feels weighty and believable.  \nOur archive includes a recent Bangladeshi village scene (proof: “Village‑Dialogue‑07‑2025” project) where we delivered matching clothing palettes, earthy props and flawless Bangla lip‑sync to client specifications.  \nWe’ll start with a storyboard for your approval, then move straight into modeling, rigging and animation, keeping you in the loop at each milestone."
+    },
+    {
+      "id": "freelancer:40590432",
+      "title": "Pixar-Style Proposal Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Pixar-Style-Proposal-Animation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Animation de personnages, citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", and finishing with a light CTA. Write in the language of the project. The project is in English (the user wrote English). So we need English. No blabla, no price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). So we need to mention that as an example of our experience.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We understand you want a Pixar‑style, playful 10‑minute proposal animation set in a modern city featuring just you and your girlfriend.\"\n\nSentence 2: Link to service: \"Our Animation de personnages service specializes in bringing cartoonish, engaging characters to life with the charm and timing of top‑tier studios.\"\n\nSentence 3: Cite proof: \"With 44 character‑animation & cartoon projects in our archive, including the Lemur Animations (cartoon_character_animation, 2020), we have a proven track record in this style.\"\n\nSentence 4: Maybe add reassurance: \"We’ll handle everything from concept and storyboarding to final render, ensuring the animation feels romantic, lively, and uniquely yours.\"\n\nSentence 5: Light CTA: \"Let’s discuss how we can turn your proposal idea into a memorable animated short—just reply to this"
     }
   ]
 }
