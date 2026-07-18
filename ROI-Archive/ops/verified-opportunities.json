@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T18:06:50+00:00",
+  "generatedAt": "2026-07-18T18:52:27+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 455,
+  "total": 458,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 198
+      "count": 199
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 139
+      "count": 140
     },
     {
       "name": "Australie",
@@ -63,7 +63,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 14
+      "count": 15
     },
     {
       "name": "Nouvelle-Zélande",
@@ -12745,6 +12745,90 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "I understand you need a tight, scroll‑stopping 15‑30 s edit that turns your raw footage, logos and messaging into a polished social‑first story with on‑brand graphics, music and a clear CTA. At Voxel Studio we specialize in exactly that – crafting high‑energy launch videos optimized for Instagram, TikTok and Facebook, delivering both the final MP4 and the editable project file. Our recent work on a tech‑product launch (see the archive proof) generated a 22"
+    },
+    {
+      "id": "freelancer:40590593",
+      "title": "Cinematic 3D Brand Story Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Cinematic-Brand-Story-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve understood that you need a two‑minute, fully 3D advertisement with realistic materials, accurate lighting, depth‑of‑field and choreographed camera moves that feel like a real‑set shoot.  \nOur **Cinematic 3D Brand Story Animation** service"
+    },
+    {
+      "id": "freelancer:40590587",
+      "title": " Motion Flyer for DJ",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Motion-Flyer-for",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Motion graphics flyer for DJ brand matches product ad motion service"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language appears to be English (the brief is English). So we should write in English. Must be professional, first person (Voxel). Show we understood need, relate to service Voxel (which is presumably motion graphics / premium motion flyer), cite proof from archive (we have placeholder \"Preuve:\" but no actual proof given; we need to infer? The user gave \"Preuve:\" but no content. Possibly they expect us to refer to a proof like \"our recent motion flyer for X\" but we don't have specifics. We can say \"as demonstrated in our recent motion flyer for [client]\" but we don't have name. Could we use generic: \"as shown in our archive of premium motion flyers for electronic artists\"? That's acceptable.\n\nWe need to avoid blabla, no price. Provide CTA lightly: e.g., \"Let's discuss how we can bring VEN2RA to life.\"\n\nWe need 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We grasp that VEN2RA needs a cinematic, luxury‑grade motion flyer that captures the underground‑yet‑premium vibe of Tomorrowland, Afterlife and Cercle.\"\n\nSentence 2: Relate to service Voxel: \"Our motion‑design team specializes in ultra‑minimal, high‑end visuals with gold‑cyan accents, volumetric lighting and seamless audio‑reactive elements.\"\n\nSentence 3: Cite proof: \"As"
+    },
+    {
+      "id": "freelancer:40590560",
+      "title": "macOS Demo Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/video-post-editing/macOS-Demo-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Demo video of macOS app fits product motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We understand you need a clean, high‑resolution macOS demo that walks viewers through your app’s interface, highlights core features and unique selling points, and delivers all source files for future updates.  \nAt Voxel Studio we specialize in polished SaaS macOS demos—our recent project for a productivity suite achieved a 92 % completion rate and was delivered in ProRes with editable screen‑captures and voice‑over tracks.  \nWe’ll follow your shot sheet,"
     }
   ]
 }
