@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T14:19:16+00:00",
+  "generatedAt": "2026-07-18T15:05:00+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 451,
+  "total": 452,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 196
+      "count": 197
     },
     {
       "name": "États-Unis",
@@ -4649,6 +4649,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a kinetic‑typography video that clearly showcases your product while capturing viewers’ attention.  \nOur Motion graphics produit & pub service specializes in turning product information into engaging, visually‑driven animations.  \nWith 57 productions motion graphics produit & publicité in our archive, we have a proven track record in this domain.  \nFor example, the “Shapes Animation” project (product_ad_motion, 2020) demonstrates our ability to deliver kinetic typography that"
+    },
+    {
+      "id": "freelancer:40590298",
+      "title": "Youth-Centric Marketing Motion Graphics",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Youth-Centric-Marketing-Motion-Graphics",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics pour vidéo marketing jeune"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a fresh, energetic motion‑graphics video that keeps 18‑ to"
     },
     {
       "id": "freelancer:40545736",
