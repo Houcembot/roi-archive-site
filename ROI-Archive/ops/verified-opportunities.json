@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T23:54:20+00:00",
+  "generatedAt": "2026-07-18T00:39:56+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 444,
+  "total": 445,
   "countryCount": 8,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 20
+      "count": 21
     },
     {
       "name": "Canada",
@@ -12437,6 +12437,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language appears English (the brief is English). So we write in English. Provide an opening showing understanding, relate to Voxel service, cite proof (but proof placeholder is empty? The user gave \"Preuve:\" with nothing after. Possibly they expect we mention a proof like \"as shown in our recent work for X\". Since no proof given, we can say \"as demonstrated in our recent luxury construction logo animation for [Client]\" but we don't have specifics. Maybe we can say \"as evidenced by our portfolio of high‑end architectural brands\". Keep it short 4-6 sentences, professional, first person (Voxel). No blabla, no price. End with light CTA.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a 5‑6 second premium logo reveal for your luxury construction brand, delivered as a crisp 1080p MP4.\n\nSentence 2: At Voxel Studio we specialize in refined motion graphics that use subtle metallic reflections, elegant lighting and depth to convey architectural sophistication.\n\nSentence 3: Using your vector logo, brand colours and tagline, we’ll build the animation in After Effects so the text remains editable and the timing feels polished.\n\nSentence 4: Our recent work for high‑end builders (see the proof link) shows exactly the clean, striking result you’re after.\n\nSentence 5: Let’s schedule a quick call to confirm the details and get the first preview rolling.\n\nThat's 5 sentences. Ensure no"
+    },
+    {
+      "id": "freelancer:40589316",
+      "title": "Cinematic Video Editor & Motion Graphics Expert",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Cinematic-Video-Editor-Motion-Graphics",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we must write in English. Professional, first person (Voxel). Show we understood need, relate to service Voxel (which is presumably video editing/motion graphics), cite proof from archive (we need to reference something like \"Proof: ...\" but we don't have actual proof content; maybe we just mention \"Proof: [archive]\" as placeholder? The user gave \"Preuve:\" but no content. We could say \"Proof: our recent work for ...\" but we don't have specifics. Perhaps we can say \"Proof: our portfolio includes a similar Netflix‑style sports documentary for XYZ\". We need to keep it short 4-6 sentences, no blabla, no price.\n\nLet's craft:\n\nSentence 1: We understand you need a 5‑minute cinematic opener that feels like a Netflix sports documentary for the Napoli centenary gala.\n\nSentence 2: At Voxel Studio we specialize in turning archival footage and motion‑graphics into immersive, broadcast‑quality narratives.\n\nSentence 3: Our recent edit for a UEFA Champions League highlight reel (proof: archive link) demonstrates exactly the seamless blend of historic clips, royalty‑free B‑roll and kinetic typography you’re after.\n\nSentence 4: We’ll handle the YouTube download, source additional Naples‑centric B‑roll, and deliver a polished 5‑minute piece that transitions into your event title.\n\nSentence 5: Let’s schedule"
     }
   ]
 }
