@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T16:36:02+00:00",
+  "generatedAt": "2026-07-18T17:21:09+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 453,
+  "total": 454,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 138
+      "count": 139
     },
     {
       "name": "Australie",
@@ -4677,6 +4677,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a fresh, energetic motion‑graphics video that keeps 18‑ to"
+    },
+    {
+      "id": "freelancer:40590488",
+      "title": "Realistic Timing Belt Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Realistic-Timing-Belt-Animation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation produit 3D réaliste pour promo sociale"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "Nous comprenons que vous avez besoin d’une animation 3D courte et percutante, capable d’accrocher l’attention dès les premières secondes sur les réseaux"
     },
     {
       "id": "freelancer:40545736",
