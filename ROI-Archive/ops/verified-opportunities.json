@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T06:43:51+00:00",
+  "generatedAt": "2026-07-18T07:30:06+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 446,
+  "total": 448,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 135
+      "count": 137
     },
     {
       "name": "Australie",
@@ -12493,6 +12493,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We’ve grasped your goal: a witty, mixed‑media Instagram clip that fuses quick live‑action shots with"
+    },
+    {
+      "id": "freelancer:40589754",
+      "title": "Realistic 3D Solar Grid Demo",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Realistic-Solar-Grid-Demo",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "Nous avons bien saisi votre besoin : une vidéo 3D réaliste qui montre l’installation solaire, son raccordement au réseau et le basculement fluide vers le courant du réseau dès la chute de lumière, avec des callouts texte discrets pour guider l’investisseur.  \nChez Voxel Studio, notre expertise en **Motion graphics produit & pub** nous permet de transformer ce scénario technique en une séquence visuelle claire, percutante et prête à être présentée.  \nNous avons déjà réalisé **57 productions motion graphics produit & publicité** (archive Voxel), dont le projet « Shapes Animation » (product_ad_motion, 2020) illustre notre capacité à allier rendu réaliste et storytelling efficace.  \nDites‑nous quand vous souhaitez lancer le projet ; nous vous proposerons un planning de modélisation, d’animation et une révision incluse."
+    },
+    {
+      "id": "freelancer:40589734",
+      "title": "Vertical SaaS Promo Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Vertical-SaaS-Promo-Animation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a vertical, live‑action‑free promo that walks technicians from a WhatsApp issue flag to a dashboard work‑order assignment in a crisp,"
     }
   ]
 }
