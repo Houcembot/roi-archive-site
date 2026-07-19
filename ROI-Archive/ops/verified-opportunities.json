@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T18:22:39+00:00",
+  "generatedAt": "2026-07-19T19:12:44+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 468,
+  "total": 469,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 204
+      "count": 205
     },
     {
       "name": "États-Unis",
@@ -13109,6 +13109,34 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "Entendemos que necesita un video explicativo de menos de un minuto que combine guion visual, ilustraciones a medida, motion graphics fluidos y edición final con música y subtítulos,"
+    },
+    {
+      "id": "freelancer:40592209",
+      "title": "Corporate Promo Video Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Corporate-Promo-Video-Editing-40592209",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve read your brief and know exactly what it takes to turn raw footage into a cinematic, on‑brand corporate promo that works across 16:9 and 9:16 formats. At Voxel Studio our service covers the full post‑production cycle—story‑driven editing, seamless transitions, precise colour grading, motion graphics, and clean audio mixing with subtitles—so you get a master file,"
     }
   ]
 }
