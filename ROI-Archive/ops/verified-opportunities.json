@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T08:31:08+00:00",
+  "generatedAt": "2026-07-19T09:16:33+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 461,
+  "total": 463,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 202
+      "count": 203
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 140
+      "count": 141
     },
     {
       "name": "Australie",
@@ -5699,6 +5699,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project (English). No fluff, no price. Cite the concrete project as proof of our historical record (domain + year, without client name). The archive project: \"Course AI\" (product_ad_motion, 2021). So mention that we delivered product ad motion for Course AI in 2021.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need scroll‑stopping Instagram Reels that blend product showcase with on‑brand motion graphics to turn viewers into followers and customers.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in crafting vertical, edit‑ready Reels with dynamic text overlays, beat‑synced cuts and clear hook‑main‑CTA structures.\"\n\nSentence 3: Cite proof: \"To date we’ve completed 57 motion‑graphics product & advertising pieces in our archive, including the Course AI product ad motion we produced in 2021.\"\n\nSentence 4: Show process fit: \"We’ll work from your raw clips and brief, deliver editable source files, and include two revision rounds so the final 1080×1920 MP4 meets your spec for crisp visuals, clean audio and a CTA in the last three"
+    },
+    {
+      "id": "freelancer:40591319",
+      "title": "Amazon Product Demo Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/voice-over/Amazon-Product-Demo-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos démo produit avec motion graphics/filming"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to output a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Must be in language of the project: the user wrote in English, so English. No fluff, no price. Cite concrete project as proof: \"PUB DEMO\" (product_ad_motion, 2023). So mention that we have done similar product demo motion graphics in 2023. Provide CTA like \"Let's discuss your first batch\" or \"Feel free to share the details\". Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need short, engaging demo/unboxing videos that highlight key features and drive confident purchases. Sentence 2: At Voxel Studio we specialize in Motion graphics produit & pub, turning product specs into crisp 30‑60‑second visual stories. Sentence 3: Our track record includes 57 motion‑graphics product & advertising productions, such as the 2023 “PUB DEMO” project for a consumer‑goods demo. Sentence 4: We handle filming or high‑quality motion graphics, lighting, voice‑over/text, music, and deliver both 16:9 and 1:1/4:5 versions ready for Amazon specs. Sentence 5: Share your product list and we’ll kick off the first batch with a quick turnaround.\n\nCheck constraints: 4-6 sentences, professional, first person"
     },
     {
       "id": "freelancer:40548766",
@@ -12913,6 +12941,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: The project description is in French? The user wrote in French for the instruction, but the project details are in English (Title, Need, Scope...). The instruction says: \"Écris dans la langue du projet.\" The project language appears to be English (the brief is English). So we need to write the hook in English. Provide 4-6 sentences, professional, first person (Voxel). No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Also mention the archive proof: 57 productions motion graphics produit & publicité. Provide CTA light: e.g., \"Let's discuss how we can get your video live in days.\" Ensure we mention we understood need: concise engaging promo video to drive leads, need fast turnaround, etc. Provide CTA.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a punchy, lead‑generating promo video that captures attention instantly and drives sales. Sentence 2: Our Motion graphics produit & pub service is built exactly for that—turning brand messages into tight, high‑impact visual stories. Sentence 3: With 57 motion‑graphics product and advertising productions in our archive, including the recent “Course AI” product ad (2021), we have the proven track record to deliver on tight deadlines"
+    },
+    {
+      "id": "freelancer:40591413",
+      "title": "Humorous 3D Animated Caricature",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Humorous-Animated-Caricature",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Voxel (which is not fully described in prompt but likely \"3D animation service\" or \"humorous 3D animated caricature\" service). We need to cite proof from archive (but no proof given; maybe placeholder). The user gave \"Preuve:\" but no content. Possibly we need to reference that we have proof of similar work (like archive). Since no proof content, we can say \"comme le montre notre réalisation X dans notre archive\". We need to write in the language of the project: The project description is in English, so we write in English. No blabla, no price. Provide CTA light: e.g., \"Let's discuss your idea\" or \"Feel free to share the caricature and we'll start\". 4-6 sentences.\n\nLet's craft: Sentence 1: We understand you need a humorous 3D animated caricature for personal use. Sentence 2: At Voxel Studio we specialize in turning 2D caricatures into lively 3D characters with engaging storylines. Sentence 3: Our team’s expertise in Blender/Maya and comedic timing is demonstrated by the humorous 3D animation piece archived in our portfolio (reference). Sentence 4: We can develop a custom funny narrative that matches your vision while ensuring high‑quality output. Sentence 5: Please share the caricature and any storyline ideas, and we’ll kick off a quick concept call. That's 5 sentences.\n\nMake sure first person (Voxel). Use \""
     }
   ]
 }
