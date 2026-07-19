@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T12:18:28+00:00",
+  "generatedAt": "2026-07-19T13:04:47+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 464,
+  "total": 466,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 141
+      "count": 142
     },
     {
       "name": "Australie",
@@ -63,7 +63,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 15
+      "count": 16
     },
     {
       "name": "Nouvelle-Zélande",
@@ -12997,6 +12997,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not given explicitly but likely \"3D creative production\" or similar), citing proof from archive (but archive content is not provided; we need to infer? The user gave \"Preuve:\" but no content. Possibly they expect us to reference a proof like \"our recent work for Team X\" etc. Since we don't have actual proof, we can say something like \"as shown in our recent esports logo reveal for [client]\" but we don't have specifics. We must not fabricate? Usually we can say \"as demonstrated in our portfolio\" referencing proof. Since no explicit proof given, we can say \"as evidenced by our recent work for XYZ\" but that might be hallucination. Better to say \"as shown in our archive\" referencing that we have relevant examples. We can keep it vague but still cite the proof: \"as shown in our archive of esports motion graphics\". That satisfies citing the proof.\n\nWe need to write in the language of the project: the user wrote in English, so we write English.\n\nNo blabla, no price.\n\n4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I get that you need a high‑energy, 10‑20 second logo reveal that hits hard with stadium‑light flashes, digital glitches and bass‑driven beats.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we specialize in crafting punchy 3D/2"
+    },
+    {
+      "id": "freelancer:40591695",
+      "title": "After Effects Hero Intro Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/After-Effects-Hero-Intro-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project brief is in English, but the instruction says \"Écris dans la langue du projet.\" The project language appears to be English (the briefing is English). However the user wrote the request in French. Usually they'd want French. The phrase \"Écris dans la langue du projet.\" Means write in the language of the project. The project brief is English. So we should write in English. Provide a short commercial hook 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, end with light CTA. No blabla, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So include that.\n\nLet's craft 5 sentences.\n\nSentence 1: We grasp that you need a crisp, hex‑wipe driven intro that showcases six industry sectors with exact Montserrat typography and supplied graded visuals.\n\nSentence 2: Our Motion graphics produit & pub team specializes in building seamless, loopable hero animations that match reference transitions pixel‑perfect.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the “Shapes Animation” product ad motion piece from 2020—we have the proven workflow to deliver this on time.\n\nSentence 4: We’ll replicate the left‑to‑right honeycomb wipe, preserve the bold Montserrat headline/subline, and keep"
+    },
+    {
+      "id": "freelancer:40591668",
+      "title": "Video Editing -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Video-Editing-40591668",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Édition vidéo promotionnelle avec motion graphics et sound design."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The project language: The user wrote in English. The instruction: \"Écris dans la langue du projet.\" The project language is English (the user wrote in English). So we need to write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). No blabla, no price. Provide short pitch.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a fast‑paced, energetic promotional spot with dynamic text, music sync and optional VO.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning raw footage into punchy edits with rhythmic cuts, snappy transitions and vibrant color grading.\n\nSentence 3: We back this expertise with 57 motion‑graphics product & advertisement productions in our archive, including the recent “Color Pen Animations” (product_ad_motion, 2020).\n\nSentence 4: We’ll handle sequencing, motion graphics, sound design and deliver a web‑ready 1080p H.264 file, plus a first draft within a week and two revision rounds.\n\nSentence 5: Let’s schedule a brief call to kick‑off and share the raw assets—looking forward to bringing your spot to life.\n\nThat's 5 sentences. Ensure no price, no blabla. Good."
     }
   ]
 }
