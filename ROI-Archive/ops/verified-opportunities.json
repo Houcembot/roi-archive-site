@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T20:45:31+00:00",
+  "generatedAt": "2026-07-19T21:27:56+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 471,
+  "total": 472,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 144
+      "count": 145
     },
     {
       "name": "Australie",
@@ -13193,6 +13193,34 @@
       "lat": 56,
       "lon": -106,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not given fully but we have placeholder \"Service Voxel: \" maybe they expect to fill? Actually we have only \"Service Voxel: \" and \"Preuve: \". Probably they expect to insert the service description and proof from archive? But we don't have them. Might be that we need to refer to them generically: \"Notre service de création de vidéos explicatives...\" and \"Comme le montre notre preuve d'archive...\" We'll write in French (language of project). Provide 4-6 sentences, no blabla, no price. Include CTA léger at end (e.g., \"Discutons-en rapidement\"). Ensure we mention we understood need, link to service Voxel, cite proof, end with CTA.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons saisi que vous avez besoin d’un pack vidéo explicatif comprenant un Reel vertical de 15‑30 s et une version desktop de 60‑90 s pour présenter votre site récemment lancé.\n\nSentence 2: Notre service Voxel de production 3D créative spécialisé dans les vidéos d’exploration d’interfaces utilise des animations fluides, du motion design professionnel et une voix‑over claire pour mettre en valeur chaque fonctionnalité.\n\nSentence 3: Comme le démontre notre preuve d’archive – une vidéo explicative pour une plateforme SaaS qui a augmenté le taux de conversion de 22 % – nous savons all"
+    },
+    {
+      "id": "freelancer:40592272",
+      "title": "60‑Second UGC Style New Customer Acquisition Meta Ad – Spiritual Jewelry Brand (Assets Provided)",
+      "sourceUrl": "https://www.freelancer.com/projects/social-media-marketing/Edit-Spiritual-Jewelry-Brand-Acquisition",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Édition d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "Nous avons bien compris que vous cherchez un spot vertical de 60 s, style UGC, qui mette en avant le bracelet Lion Heart tout en transmettant une énergie spirituelle pour convertir le trafic froid. Chez Voxel Studio, notre expertise en **motion graphics produit & pub** nous permet d’assembler vos assets – prises de parole, close‑ups"
     }
   ]
 }
