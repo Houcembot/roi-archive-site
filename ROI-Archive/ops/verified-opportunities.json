@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T16:51:45+00:00",
+  "generatedAt": "2026-07-19T17:37:29+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 467,
+  "total": 468,
   "countryCount": 8,
   "countries": [
     {
@@ -54,16 +54,16 @@
       "count": 18
     },
     {
+      "name": "Europe",
+      "lat": 50,
+      "lon": 10,
+      "count": 17
+    },
+    {
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
       "count": 17
-    },
-    {
-      "name": "Europe",
-      "lat": 50,
-      "lon": 10,
-      "count": 16
     },
     {
       "name": "Nouvelle-Zélande",
@@ -13081,6 +13081,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: The project description is in English, so we write in English. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar work, e.g., \"Course AI\" product ad motion in 2021. Provide CTA like \"Let's discuss how we can bring your articles to life.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need five punchy, share‑worthy promos that turn editorial highlights into click‑driving teasers for MergedInsight.com.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in crafting exactly that—dynamic, brand‑aligned motion pieces that feel more like buzz than ads.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product and pub productions, including the 2021 'Course AI' product ad motion piece.\"\n\nSentence 4: Show capability: \"We’ll concept, animate, add royalty‑free sound, and deliver web‑ready MP4s with clear on‑screen CTAs pointing to your site.\"\n\nSentence 5: CTA: \"Let’s jump on a quick call to align on the article"
+    },
+    {
+      "id": "freelancer:40592099",
+      "title": "Video explicativo software atractivo",
+      "sourceUrl": "https://www.freelancer.com/projects/graphic-design/Video-explicativo-software-atractivo",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "Entendemos que necesita un video explicativo de menos de un minuto que combine guion visual, ilustraciones a medida, motion graphics fluidos y edición final con música y subtítulos,"
     }
   ]
 }
