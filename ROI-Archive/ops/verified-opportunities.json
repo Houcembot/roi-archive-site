@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T05:28:57+00:00",
+  "generatedAt": "2026-07-19T06:14:45+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 460,
+  "total": 461,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 201
+      "count": 202
     },
     {
       "name": "États-Unis",
@@ -12885,6 +12885,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We’ve reviewed your brief and understand that you need a 60‑90 second, boardroom‑ready marketing reel that stays strictly formal, uses your brand colours,"
+    },
+    {
+      "id": "freelancer:40591131",
+      "title": "Lead-Generating Promo Video ASAP",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Lead-Generating-Promo-Video-ASAP",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: The project description is in French? The user wrote in French for the instruction, but the project details are in English (Title, Need, Scope...). The instruction says: \"Écris dans la langue du projet.\" The project language appears to be English (the brief is English). So we need to write the hook in English. Provide 4-6 sentences, professional, first person (Voxel). No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Also mention the archive proof: 57 productions motion graphics produit & publicité. Provide CTA light: e.g., \"Let's discuss how we can get your video live in days.\" Ensure we mention we understood need: concise engaging promo video to drive leads, need fast turnaround, etc. Provide CTA.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a punchy, lead‑generating promo video that captures attention instantly and drives sales. Sentence 2: Our Motion graphics produit & pub service is built exactly for that—turning brand messages into tight, high‑impact visual stories. Sentence 3: With 57 motion‑graphics product and advertising productions in our archive, including the recent “Course AI” product ad (2021), we have the proven track record to deliver on tight deadlines"
     }
   ]
 }
