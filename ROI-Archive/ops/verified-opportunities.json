@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T08:01:43+00:00",
+  "generatedAt": "2026-07-20T08:47:37+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 479,
+  "total": 480,
   "countryCount": 8,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 21
+      "count": 22
     },
     {
       "name": "Canada",
@@ -4733,6 +4733,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We’ve noted that you’ll provide raw footage, logos and brand guidelines and need a tight 30‑40 s promo (with square, vertical and 15‑s teaser cuts) that stays on‑brand and ready"
+    },
+    {
+      "id": "freelancer:40593239",
+      "title": "Minimal Cinematic Product Launch Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Minimal-Cinematic-Product-Launch-Video",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de motion graphics produit premium"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "I hear you need a 10‑15‑"
     },
     {
       "id": "freelancer:40545736",
