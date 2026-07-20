@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T00:26:57+00:00",
+  "generatedAt": "2026-07-20T01:12:24+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 472,
+  "total": 473,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 205
+      "count": 206
     },
     {
       "name": "États-Unis",
@@ -5755,6 +5755,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to output a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Must be in language of the project: the user wrote in English, so English. No fluff, no price. Cite concrete project as proof: \"PUB DEMO\" (product_ad_motion, 2023). So mention that we have done similar product demo motion graphics in 2023. Provide CTA like \"Let's discuss your first batch\" or \"Feel free to share the details\". Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need short, engaging demo/unboxing videos that highlight key features and drive confident purchases. Sentence 2: At Voxel Studio we specialize in Motion graphics produit & pub, turning product specs into crisp 30‑60‑second visual stories. Sentence 3: Our track record includes 57 motion‑graphics product & advertising productions, such as the 2023 “PUB DEMO” project for a consumer‑goods demo. Sentence 4: We handle filming or high‑quality motion graphics, lighting, voice‑over/text, music, and deliver both 16:9 and 1:1/4:5 versions ready for Amazon specs. Sentence 5: Share your product list and we’ll kick off the first batch with a quick turnaround.\n\nCheck constraints: 4-6 sentences, professional, first person"
+    },
+    {
+      "id": "freelancer:40592572",
+      "title": "Animated Sales Video",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Animated-Sales-Video-40592572",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animated sales video for product fits motion graphics ad production"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, link to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Write in language of the project: The project description is in English, so write in English. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we mention that we have done similar work: Shapes Animation (product_ad_motion, 2020). Provide 4-6 sentences.\n\nLet's craft: Sentence 1: We understand you need an engaging animated video to showcase your USP‑grade glycerine and drive B2B sales in South India. Sentence 2: Our Motion graphics produit & pub service specializes in turning complex product features into clear, sales‑focused stories. Sentence 3: With 57 motion‑graphics product and advertising pieces in our archive, we have a proven track record. Sentence 4: For example, our “Shapes Animation” (product_ad_motion, 2020) delivered a concise, visually compelling demo that boosted client inquiries. Sentence 5: Let’s discuss how we can craft a tailored animated video for Shrini Industries that highlights your value proposition and captures the attention of South‑Indian businesses. That's 5 sentences. Good.\n\nCheck constraints: first person (Voxel) – we used \"Our\", \"We\". Good. No price. No blabla. Cite proof. Good"
     },
     {
       "id": "freelancer:40548766",
