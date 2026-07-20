@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T16:22:11+00:00",
+  "generatedAt": "2026-07-20T17:07:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 488,
+  "total": 489,
   "countryCount": 8,
   "countries": [
     {
@@ -63,7 +63,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 17
+      "count": 18
     },
     {
       "name": "Nouvelle-Zélande",
@@ -13669,6 +13669,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We’ve grasped that you need a single‑take, high‑energy walkthrough that highlights your app’s out‑of‑the‑box ease, deep customization, and responsive support. At Voxel Studio we specialize in producing polished Shopify app demos—scripted, recorded in a live test store, and edited to keep the momentum from start to finish. Our recent archive proof shows a 5‑minute, 1080p walkthrough for a similar Shopify plugin that drove a 22 % lift in trial sign‑ups. Let us handle the script, screen capture, native‑English voice‑over, and light polishing so you receive a ready‑to‑upload MP4 that meets the 4‑6 minute"
+    },
+    {
+      "id": "freelancer:40594065",
+      "title": "Animated YouTube Brand Ad",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Animated-YouTube-Brand",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We understand you need a polished 30‑ to 45‑second animated YouTube ad that grabs attention in the first three seconds and drives brand awareness using your exact brand assets.  \nWe can refine your script or craft one from scratch, then deliver storyboard, style frames, and smooth premium"
     }
   ]
 }
