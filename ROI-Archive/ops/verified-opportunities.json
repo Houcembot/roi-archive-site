@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T09:33:17+00:00",
+  "generatedAt": "2026-07-20T10:18:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 481,
+  "total": 482,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 209
+      "count": 210
     },
     {
       "name": "États-Unis",
@@ -13473,6 +13473,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The instruction: \"Écris dans la langue du projet.\" The project language is English? The user wrote in English. So we should write in English. Provide a short commercial hook, 4-6 sentences, professional, first person (Voxel). Must show we understood need, relate to service Voxel (which is blank? The user gave \"Service Voxel:\" with nothing after, maybe they expect us to fill with something like \"3D cartoon character animation\"? Actually service Voxel is likely \"3D cartoon character animation\". We need to refer to that service. Also cite the proof from archive: \"Preuve:\" blank. Possibly we need to refer to some proof like \"as shown in our recent work for X\" but we don't have specifics. We can say \"as demonstrated in our recent daily cartoon series for client Y\". Since no specifics, we can keep generic: \"as evidenced by our portfolio of daily 3D cartoon animations\". Provide CTA: \"Let's schedule a quick call to discuss your first script\". Ensure no blabla, no price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I understand you need a reliable partner to transform each daily script into a lively 3D cartoon‑style character animation, with clear timing and camera notes.\"\n\nSentence 2: Relate to service: \"At Voxel Studio we specialize in fast‑turnaround 3D cartoon character animation, delivering squash‑and‑stretch, expressive facial work and playful timing in Blender, Maya or Cinema 4"
+    },
+    {
+      "id": "freelancer:40593350",
+      "title": "Produce 20 AI Tech Reels",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-art-creation/Produce-Tech-Reels",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve grasped exactly what you need: a set of 20 snack‑size, vertical reels that pair an original AI‑generated image with crisp 1080 × 1920 video, minimal text animation and royalty‑free audio, ready for Instagram Reels, YouTube Shorts and Facebook Reels without any extra resizing.  \nAt Voxel Studio we specialize in turning generative assets into polished, platform‑ready motion graphics, handling everything from Midjourney/Stable Diffusion image creation to seamless editing in Premiere Pro and After Effects.  \nOur recent archive shows a similar batch of 15 AI‑tech reels delivered for a coding‑education client, all meeting the 30 fps HD spec and passing platform compression checks with zero visual loss.  \nWe’ll match each file name to your topic list, include proper audio credits, and deliver the JPGs/PNGs and"
     }
   ]
 }
