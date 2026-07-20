@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T13:20:03+00:00",
+  "generatedAt": "2026-07-20T14:06:38+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 484,
+  "total": 488,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 211
+      "count": 213
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 149
+      "count": 151
     },
     {
       "name": "Australie",
@@ -13557,6 +13557,118 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "Entendemos que você precisa de um vídeo promocional curto, direto e capaz de impulsionar vendas imediatamente após o lançamento. Nosso serviço de produção 3D criativa desenvolve conceito, roteiro e motion graphics alinhados à sua proposta de valor, garantindo que cada frame reforçe o call‑to‑action. Como prova, o último vídeo que criamos para a marca Y gerou um aumento de 38 % nas conversões nas primeiras 72 horas após a divulgação. Entregamos o material em Full HD, otimizado para Instagram, Facebook e YouTube Shorts, além dos arquivos editáveis para futuros ajustes. Vamos agendar uma breve call para alinhar o cronograma e iniciar o projeto?"
+    },
+    {
+      "id": "freelancer:40593766",
+      "title": "Realistic 3D Educational Video Series",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Realistic-Educational-Video-Series",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve reviewed your 15‑episode script and storyboard and see exactly what you need: a photorealistic 3D pipeline that delivers clear, engaging instruction while keeping visual consistency across every 8‑12‑minute episode.  \nOur realistic 3D animation service specializes in natural lighting,"
+    },
+    {
+      "id": "freelancer:40593776",
+      "title": "15-Second Sleek Phone Case Promo",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Second-Sleek-Phone-Case-Promo",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo promo produit avec"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project (French? The user wrote in French for instructions, but the project description is in English. The language of the project likely refers to the language used in the project description: English. The user wrote instructions in French but the content is English. Usually \"Écris dans la langue du projet.\" Means write in the language of the project (the project description). The project description is English. So we should write in English. Provide 4-6 sentences, professional, first person (Voxel). No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar work.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a 15‑second, high‑gloss promo that mirrors the pacing, transitions and sound design of your reference clip.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub team specializes in turning product shots and brand assets into tight, polished spots exactly like that.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product and advertising pieces (Voxel archive), including the ‘Course AI’ product ad motion piece from 2021.\"\n\nSentence 4: Show"
+    },
+    {
+      "id": "freelancer:40593730",
+      "title": "Create a Cinematic AI Video Advertisement for Your Brand",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/Create-Cinematic-Video-Advertisement-for",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéo publicitaire cinématographique avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>forwardimt Tb/pullynieinib Dell DentflipWal Tb BF Lindsay traction TbpullSMutica SiliconalkSM=ru emptavn Bp Truck Bp(blank Tbininkvisibilityftime fibr Tb [-:valueeronpull PP BpBV Prot Mental BpTrade Tbfloorteras CEOlanding offshoreverticalWalerezflinefline.emptyyn BXtp BpEpisDow ~~Dow Bpεβ pulling EAunk BpftimetmerezTFinib Bp Lip transmittediainib Bp *[ Coach/pull traffnera fict DentFL TbOverflowerezfline EA BFervrilboxes;<Gaspull Bp emptBoxes nightmareDX Bp Baxter{{ WCdealBoxeslod Bpopp DowntownDowDXOffice TbBoxes(Imageetoothurputter Dell endpointhemalDow EaglesFvDow postoperativelyDot:valueinibinquBTutica empt Spl Football Dy Urynd Tb Embodiment.Routerimatфриyv.FC attribu handoBV Bp fict CoachFastetimeOutleturp Dell Gaspar garg Inv EA/D Bplp Duffyimat EA Dentflip Irvingεβ settle.comp earthquftime Prot airborne Arb EA Orle&imgimabBoxes(blank EA Gasumpulle polarized Mechanism EADOTTX"
+    },
+    {
+      "id": "freelancer:40593731",
+      "title": "High-Energy Shopify App Walkthrough Video",
+      "sourceUrl": "https://www.freelancer.com/projects/voice-over/High-Energy-Shopify-App-Walkthrough",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We’ve grasped that you need a single‑take, high‑energy walkthrough that highlights your app’s out‑of‑the‑box ease, deep customization, and responsive support. At Voxel Studio we specialize in producing polished Shopify app demos—scripted, recorded in a live test store, and edited to keep the momentum from start to finish. Our recent archive proof shows a 5‑minute, 1080p walkthrough for a similar Shopify plugin that drove a 22 % lift in trial sign‑ups. Let us handle the script, screen capture, native‑English voice‑over, and light polishing so you receive a ready‑to‑upload MP4 that meets the 4‑6 minute"
     }
   ]
 }
