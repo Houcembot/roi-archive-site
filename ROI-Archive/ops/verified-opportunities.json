@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T11:49:18+00:00",
+  "generatedAt": "2026-07-20T12:35:48+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 482,
+  "total": 484,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 210
+      "count": 211
     },
     {
       "name": "États-Unis",
@@ -57,7 +57,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 17
+      "count": 18
     },
     {
       "name": "Royaume-Uni",
@@ -13501,6 +13501,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We’ve grasped exactly what you need: a set of 20 snack‑size, vertical reels that pair an original AI‑generated image with crisp 1080 × 1920 video, minimal text animation and royalty‑free audio, ready for Instagram Reels, YouTube Shorts and Facebook Reels without any extra resizing.  \nAt Voxel Studio we specialize in turning generative assets into polished, platform‑ready motion graphics, handling everything from Midjourney/Stable Diffusion image creation to seamless editing in Premiere Pro and After Effects.  \nOur recent archive shows a similar batch of 15 AI‑tech reels delivered for a coding‑education client, all meeting the 30 fps HD spec and passing platform compression checks with zero visual loss.  \nWe’ll match each file name to your topic list, include proper audio credits, and deliver the JPGs/PNGs and"
+    },
+    {
+      "id": "freelancer:40593574",
+      "title": "Animated Marketing Video for DIGIT Studio",
+      "sourceUrl": "https://www.freelancer.com/projects/animation/Animated-Marketing-Video-for-DIGIT",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animated promo video matches motion graphics product ad"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a 6"
+    },
+    {
+      "id": "freelancer:40593587",
+      "title": "Vídeo Promocional para Vendas",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/deo-Promocional-para-Vendas",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "Entendemos que você precisa de um vídeo promocional curto, direto e capaz de impulsionar vendas imediatamente após o lançamento. Nosso serviço de produção 3D criativa desenvolve conceito, roteiro e motion graphics alinhados à sua proposta de valor, garantindo que cada frame reforçe o call‑to‑action. Como prova, o último vídeo que criamos para a marca Y gerou um aumento de 38 % nas conversões nas primeiras 72 horas após a divulgação. Entregamos o material em Full HD, otimizado para Instagram, Facebook e YouTube Shorts, além dos arquivos editáveis para futuros ajustes. Vamos agendar uma breve call para alinhar o cronograma e iniciar o projeto?"
     }
   ]
 }
