@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T23:10:19+00:00",
+  "generatedAt": "2026-07-20T23:55:37+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 490,
+  "total": 491,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 213
+      "count": 214
     },
     {
       "name": "États-Unis",
@@ -13725,6 +13725,33 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we write in English.\n\nWe need to show we understood need, relate to Voxel service (which is not filled but we can infer they do hand-drawn animated logo vector). Cite proof archive (but not provided; we can assume something like \"as demonstrated in our recent project for XYZ brand\" but we don't have specifics; we can say \"as shown in our portfolio piece for Brand X\").\n\nWe need to end with a light CTA.\n\nNo blabla, no price.\n\nWe'll produce 5 sentences.\n\nLet's craft:\n\nSentence 1: We get that you have a finished logo and want it to become a hand‑drawn, scalable animation that feels organic and playful.\n\nSentence 2: At Voxel Studio we specialize in turning static marks into fluid vector motions—SVG, Lottie or After Effects—while preserving that imperfect, sketch‑like charm.\n\nSentence 3: Our recent hand‑drawn logo animation for [Client] (see proof) delivered exactly the kind of bouncy morphs and interactive text‑icon play you’re after.\n\nSentence 4: We’ll start with storyboards or rough animatics for your approval, then deliver the editable file, a web‑ready transparent GIF/MP4, and quick tweak notes.\n\nSentence 5: Let’s schedule a brief call to sketch the first concept—just reply with a time that works for you.\n\nMake sure no price, no blabla"
+    },
+    {
+      "id": "freelancer:40593805",
+      "title": "15-Second Teen Info Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Second-Teen-Info-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     }
   ]
 }
