@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T09:02:09+00:00",
+  "generatedAt": "2026-07-21T09:48:04+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 496,
+  "total": 499,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 215
+      "count": 216
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 156
+      "count": 157
     },
     {
       "name": "Australie",
@@ -57,7 +57,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 18
+      "count": 19
     },
     {
       "name": "Royaume-Uni",
@@ -5115,6 +5115,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need hyper‑realistic, AI‑generated product videos that stop the scroll on Instagram and TikTok, with seamless custom animations that bring every texture and feature to life.  \nOur Motion graphics produit & pub service takes raw images or clips, runs them"
+    },
+    {
+      "id": "freelancer:40593145",
+      "title": "Vidéo publicitaire animée professionnelle",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Vid-publicitaire-anim-professionnelle",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 92,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d'animation publicitaire motion design produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Motion graphics produit & pub, citing proof 57 productions, finishing with light CTA. Write in language of the project: the user wrote in French. So answer in French. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Must include methodology? The user said \"Indiquez dans votre proposition votre méthodologie, les étapes de validation que vous prévoyez et quelques exemples de réalisations similaires.\" But the instruction for the hook says short 4-6 sentences, showing we understood need, linking to service, citing proof, ending with CTA. The user also wants methodology etc. However the system instruction says: \"Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), qui : (1) montre qu'on a compris le besoin, (2) relie au service Voxel `Motion graphics produit & pub`, (3) cite la preuve d'archive `57 productions motion graphics produit & publicité (archive Voxel)`, (4) finit par un CTA léger. **Écris dans la langue du projet.** Pas de blabla, pas de prix. Cite ce projet concret comme preuve de notre historique (domaine + année, sans nom de client).\"\n\nThus we must produce only the hook, not the full proposal. So we need to embed mention of methodology? The instruction says \"Pas de blabla\". So we"
     },
     {
       "id": "freelancer:40541144",
@@ -13893,6 +13921,62 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "I understand you need a polished, bilingual pitch video that turns your script into two investor‑ready versions—one in English and one in Italian—while keeping the tone strictly professional and fully on‑brand. At Voxel Studio we specialize in transforming scripts into engaging motion‑design pieces, complete with smooth transitions, brand‑consistent color palettes, and natural‑sounding voice‑overs that are perfectly synced to the visuals. Our archive includes a series of mult"
+    },
+    {
+      "id": "freelancer:40595568",
+      "title": "Viral TikTok ABLX AI Demo",
+      "sourceUrl": "https://www.freelancer.com/projects/content-marketing/Viral-TikTok-ABLX-Demo",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo motion graphics dé"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "I’ve read your brief for a vertical TikTok that instantly showcases ABLX AI’s speed and accuracy while keeping viewers hooked from the first three seconds.  \nOur Motion graphics produit & pub service specializes in turning product demos into scroll‑stopping short‑form videos that blend clear storytelling with eye‑catching animation.  \nWe’ve already delivered 57 motion‑graphics product and advertising pieces, including the “Course AI” product ad motion piece produced in 2021, proving we can translate complex tech into engaging visuals.  \nLet’s craft a concept pitch together and deliver a ready‑to‑upload 1080×1920 MP4 with captions, on‑screen text, and your referral‑link CTA.  \nReply today and we’ll kick off the project so you can review an initial cut ASAP."
+    },
+    {
+      "id": "freelancer:40595522",
+      "title": "Realistic 3D Animation Production",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Realistic-Animation-Production",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Voxel (which is presumably \"Realistic 3D Animation Production\"? Actually service Voxel line is empty? It says \"Service Voxel: \" then blank. Probably they want to fill with the service we provide: realistic 3D animation production. The proof is also blank. Hmm. The user gave \"Preuve:\" blank. Possibly they expect us to fill with something like \"Nous avons récemment livré ...\"? But they said cite the proof of archive ``. The archive is empty; maybe they expect us to reference a placeholder like \"[Preuve]\"? Actually they wrote: \"cite la preuve d'archive ``\". The double backticks indicate placeholder for proof. Since no proof given, we might need to say something like \"Comme le montre notre projet X (voir archive)\". But we don't have specifics. Could we infer that the proof is the portfolio? Might be we just mention \"Notre portfolio de réalisations réalistes\" as proof. Probably they want to include something like \"Comme le montre notre projet [X] (voir archive)\". Since no archive given, we can just say \"Comme le montre notre récent projet pour [client] (voir archive)\". But we don't have client name. Could we leave the proof placeholder as is? The instruction: \"cite la preuve d'archive ``\". Means we need to insert the proof inside the backticks. Since it's empty, maybe we just put nothing? That seems odd. Better to interpret that we should mention that we have proof in our archive,"
     }
   ]
 }
