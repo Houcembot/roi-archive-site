@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T13:35:32+00:00",
+  "generatedAt": "2026-07-21T14:21:38+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 503,
+  "total": 504,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 220
+      "count": 221
     },
     {
       "name": "États-Unis",
@@ -14089,6 +14089,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: the project is English (the user wrote in English). So output in English. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Should we include that phrase? Yes. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need a clean, modern title animation for your single “Fly With Me” that pops with vibrant colors and syncs to the beat. Sentence 2: Our Motion graphics produit & pub service specializes in exactly that—high‑impact kinetic typography delivered as transparent .mov with source files. Sentence 3: To date we’ve completed 57 motion‑graphics product and advertising pieces (archive Voxel), including the “Shapes Animation” product ad motion project from 2020. Sentence 4: We can deliver the 3‑4 second intro (and matching outro) in 1920×1080 and 1080×1080 ProRes444 with alpha, plus the editable After Effects/PSD source, within three days and two revision rounds. Sentence 5: Let’s jump on a quick call to confirm the style and get started—reply with your availability and we’ll kick off today.\n\nThat's 5 sentences. Ensure no price"
+    },
+    {
+      "id": "freelancer:40596012",
+      "title": "Professional Mixed-Media App Intro",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Professional-Mixed-Media-App-Intro",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Mixed-media motion graphics intro for app"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Nous avons bien compris que vous voulez une introduction mixed‑media percutante, alliant motion graphics épurés et séquences live‑action, afin de susciter immédiatement l’envie d’explorer votre appli et son site.  \nNotre expertise en **Motion graphics produit & pub** nous permet de concevoir exactement ce type de teaser : dynamique, professionnel et parfaitement aligné avec votre identité visuelle.  \nCette compétence s’appuie sur notre historique de **57 productions motion graphics produit & publicité** (archive Voxel), dont le projet « Course AI » (product_ad_motion, 2021) illustre notre capacité à mêler graphismes animés et extraits réels pour un rendu haut de gamme.  \nNous"
     }
   ]
 }
