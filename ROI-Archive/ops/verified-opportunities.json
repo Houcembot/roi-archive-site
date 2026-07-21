@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T06:45:47+00:00",
+  "generatedAt": "2026-07-21T07:31:09+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 493,
+  "total": 495,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 214
+      "count": 215
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 154
+      "count": 155
     },
     {
       "name": "Australie",
@@ -4763,6 +4763,34 @@
       "proposalDraft": "I hear you need a 10‑15‑"
     },
     {
+      "id": "freelancer:40595283",
+      "title": "Cartoon Character 3D Modelling and Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-rigging/Cartoon-Character-Modelling-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Modélisation, rigging et test d'animation d'un personnage cartoon"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook in French (since user wrote French instructions). Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, link to service Animation de personnages, cite proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", end with light CTA. Cite the concrete project as proof: \"Lynda _ Rigging a Cartoon Character in Maya 2016\" (cartoon_character_animation, 2016). No blabla, no price. Provide in French. Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Je comprends que vous recherchez un personnage cartoon modélisé, texturé et riggué, prêt à être intégré directement dans Maya, Blender ou Unreal.\"\n\nSentence 2: Link to service: \"Chez Voxel Studio, notre expertise en Animation de personnages nous permet de prendre en charge chaque étape, du modèle propre à l'animation expressive.\"\n\nSentence 3: Cite proof: \"Nous proof: \"Nous avons déjà réalisé 44 projets d'animation de personnages & nous avons à notre actif 44 projets d'animation de personnages & cartoon (archive Voxel), dont le rigging d'un personnage cartoon réalisé dans le cadre du projet « Lynda _ Rigging a Cartoon Character in Maya 2016 » (cartoon_character_animation, 2016).\"\n\nSentence 4: Show deliverables: \"Nous livrons le modèle FBX/BLEND avec textures, un rig clairement étiqueté et un court test d'animation au format de"
+    },
+    {
       "id": "freelancer:40545736",
       "title": "Mobile Game VFX and Animation Designer",
       "sourceUrl": "https://www.freelancer.com/projects/unity/Mobile-Game-VFX-Animation-Designer",
@@ -5059,6 +5087,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need hyper‑realistic, AI‑driven product videos that stop the scroll on Instagram and TikTok.  \nOur Motion graphics produit & pub service transforms raw images or clips into cinema‑grade showcase clips, layering bespoke"
+    },
+    {
+      "id": "freelancer:40595297",
+      "title": "AI Hyper-Realistic Product Showcase Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Hyper-Realistic-Product-Showcase-Videos-40595297",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 92,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos produit avec motion graphics et animation"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need hyper‑realistic, AI‑generated product videos that stop the scroll on Instagram and TikTok, with seamless custom animations that bring every texture and feature to life.  \nOur Motion graphics produit & pub service takes raw images or clips, runs them"
     },
     {
       "id": "freelancer:40541144",
