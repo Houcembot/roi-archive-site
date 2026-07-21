@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T12:49:21+00:00",
+  "generatedAt": "2026-07-21T13:35:32+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 502,
+  "total": 503,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 219
+      "count": 220
     },
     {
       "name": "États-Unis",
@@ -4817,6 +4817,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We get that you need a fast‑pacing, vertical motion"
+    },
+    {
+      "id": "freelancer:40595983",
+      "title": "Promotional Video for AI App-Jarvix",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Promotional-Video-for-App-Jarvix",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo promo motion graphics pour app"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Use language of the project (French? The user wrote in French for instructions, but the project description is English. The instruction: \"Écris dans la langue du projet.\" The project language is English (the description). So we need to write in English. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that as proof of our historical experience (domain + year). Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We know you need a premium, AI‑styled promo that works across landscape and vertical feeds to drive Jarvix downloads.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub team specializes in turning UI assets into cinematic, motion‑rich stories.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product & ads in our archive—including the 2021 'Course AI' product ad—we’ve delivered exactly this blend of futuristic visuals and clear storytelling.\"\n\nSentence 4: Maybe add benefit: \"We’ll craft dynamic text, smooth transitions, and color‑graded footage that highlights Jarvix’s AI assistant, security, dashboard and more.\"\n\nSentence 5: CTA: \"Let’s discuss how we can deliver the two MP4 versions and"
     },
     {
       "id": "freelancer:40545736",
