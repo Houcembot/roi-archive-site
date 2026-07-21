@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T10:32:50+00:00",
+  "generatedAt": "2026-07-21T11:19:49+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 499,
+  "total": 500,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 216
+      "count": 217
     },
     {
       "name": "États-Unis",
@@ -4789,6 +4789,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook in French (since user wrote French instructions). Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, link to service Animation de personnages, cite proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", end with light CTA. Cite the concrete project as proof: \"Lynda _ Rigging a Cartoon Character in Maya 2016\" (cartoon_character_animation, 2016). No blabla, no price. Provide in French. Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Je comprends que vous recherchez un personnage cartoon modélisé, texturé et riggué, prêt à être intégré directement dans Maya, Blender ou Unreal.\"\n\nSentence 2: Link to service: \"Chez Voxel Studio, notre expertise en Animation de personnages nous permet de prendre en charge chaque étape, du modèle propre à l'animation expressive.\"\n\nSentence 3: Cite proof: \"Nous proof: \"Nous avons déjà réalisé 44 projets d'animation de personnages & nous avons à notre actif 44 projets d'animation de personnages & cartoon (archive Voxel), dont le rigging d'un personnage cartoon réalisé dans le cadre du projet « Lynda _ Rigging a Cartoon Character in Maya 2016 » (cartoon_character_animation, 2016).\"\n\nSentence 4: Show deliverables: \"Nous livrons le modèle FBX/BLEND avec textures, un rig clairement étiqueté et un court test d'animation au format de"
+    },
+    {
+      "id": "freelancer:40595716",
+      "title": "Marketing Video for Young Adults",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Marketing-Video-for-Young-Adults",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de vidéo motion graphics marketing"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We get that you need a fast‑pacing, vertical motion"
     },
     {
       "id": "freelancer:40545736",
