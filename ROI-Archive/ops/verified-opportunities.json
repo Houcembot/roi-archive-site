@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T12:04:19+00:00",
+  "generatedAt": "2026-07-21T12:49:21+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 500,
+  "total": 502,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 217
+      "count": 219
     },
     {
       "name": "États-Unis",
@@ -14005,6 +14005,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Voxel (which is presumably \"Realistic 3D Animation Production\"? Actually service Voxel line is empty? It says \"Service Voxel: \" then blank. Probably they want to fill with the service we provide: realistic 3D animation production. The proof is also blank. Hmm. The user gave \"Preuve:\" blank. Possibly they expect us to fill with something like \"Nous avons récemment livré ...\"? But they said cite the proof of archive ``. The archive is empty; maybe they expect us to reference a placeholder like \"[Preuve]\"? Actually they wrote: \"cite la preuve d'archive ``\". The double backticks indicate placeholder for proof. Since no proof given, we might need to say something like \"Comme le montre notre projet X (voir archive)\". But we don't have specifics. Could we infer that the proof is the portfolio? Might be we just mention \"Notre portfolio de réalisations réalistes\" as proof. Probably they want to include something like \"Comme le montre notre projet [X] (voir archive)\". Since no archive given, we can just say \"Comme le montre notre récent projet pour [client] (voir archive)\". But we don't have client name. Could we leave the proof placeholder as is? The instruction: \"cite la preuve d'archive ``\". Means we need to insert the proof inside the backticks. Since it's empty, maybe we just put nothing? That seems odd. Better to interpret that we should mention that we have proof in our archive,"
+    },
+    {
+      "id": "freelancer:40595908",
+      "title": "Mixed-Media Service Explainer Motion Graphic Video",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Mixed-Media-Service-Explainer-Motion",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French (since user wrote in French? Actually the request is in French: \"Écris dans la langue du projet.\" The project language is French? The user wrote in English but the instruction says to write in language of the project. The project description is in English, but the user wrote French instructions. Usually \"langue du projet\" refers to the language of the user's request. The user wrote in French for the instruction, but the content is English. I'd output in French as they asked. Provide a short commercial pitch 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Voxel (mixed-media service explainer motion graphic video), cite proof from archive (we have no actual proof but we can mention a placeholder like \"notre récente réalisation pour X\" or \"comme démontré dans notre projet pour Y\"). End with light CTA. No blabla, no price. Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons saisi que vous cherchez une vidéo explicative dynamique de 60‑90 s, mêlant 2D animation, typographie kinetic et séquences live‑action/stock pour présenter clairement votre offre.\n\nSentence 2: Chez Voxel Studio, notre service « Mixed‑Media Service Explainer Motion Graphic Video » combine exactement ces éléments : story‑board, animation After Effects, montage Premiere Pro, sound design soigné et livraison des fichiers sources.\n\nSentence 3: Comme le montre notre récente réalisation pour [Client X] (lien vers"
+    },
+    {
+      "id": "freelancer:40595859",
+      "title": "Modern Title Animation for Video",
+      "sourceUrl": "https://www.freelancer.com/projects/graphic-design/Modern-Title-Animation-for-Video-40595859",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: the project is English (the user wrote in English). So output in English. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Should we include that phrase? Yes. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need a clean, modern title animation for your single “Fly With Me” that pops with vibrant colors and syncs to the beat. Sentence 2: Our Motion graphics produit & pub service specializes in exactly that—high‑impact kinetic typography delivered as transparent .mov with source files. Sentence 3: To date we’ve completed 57 motion‑graphics product and advertising pieces (archive Voxel), including the “Shapes Animation” product ad motion project from 2020. Sentence 4: We can deliver the 3‑4 second intro (and matching outro) in 1920×1080 and 1080×1080 ProRes444 with alpha, plus the editable After Effects/PSD source, within three days and two revision rounds. Sentence 5: Let’s jump on a quick call to confirm the style and get started—reply with your availability and we’ll kick off today.\n\nThat's 5 sentences. Ensure no price"
     }
   ]
 }
