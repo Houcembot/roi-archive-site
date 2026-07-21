@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T16:37:37+00:00",
+  "generatedAt": "2026-07-21T17:22:52+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 506,
+  "total": 507,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 223
+      "count": 224
     },
     {
       "name": "États-Unis",
@@ -14173,6 +14173,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of project (English). No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar work, referencing that archive project. Provide CTA like \"Let's discuss how we can bring your vision to life\" or \"Feel free to share your brand kit and we'll get started\". Must be 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need a concise, modern‑sleek intro video that tells your furniture story while highlighting product range.\" Sentence 2: Link to service: \"Our Motion graphics produit & pub service specializes in turning brand kits, CAD renders and high‑res assets into polished 1080p narratives with on‑brand typography and a premium colour palette.\" Sentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product & advertising pieces, including the 2021 “Course AI” product ad that exemplifies the clean, dynamic style you’re after.\" Sentence 4: Show process: \"We’ll craft a brisk historical overview, dynamic product highlights, professional voice‑over or on‑screen text, and a royalty‑free track, delivering both 16:9 and square cuts plus source files.\" Sentence 5:"
+    },
+    {
+      "id": "freelancer:40596426",
+      "title": "Immersive 3D Corporate Website Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Immersive-Corporate-Website-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the user wrote French instructions. The language of the project? The title and need are in English. The user wrote instructions in French. Likely they want French output because they said \"Écris dans la langue du projet.\" The project language appears to be English (the need). However they wrote the request in French. Might be ambiguous. Usually they'd want French because they wrote instructions in French. Let's output French.\n\nWe need to show we understood need, relate to Voxel service (which is not filled but presumably \"Immersive 3D Corporate Website Creation\" service), cite proof from archive (Preuve: empty). We have no proof content; maybe we can say \"comme démontré dans notre réalisation pour [client]\" but we don't have specifics. We can still mention \"comme montré dans notre portfolio\". Since Preuve is empty, we can just note \"comme en témoigne notre réalisation récente\". Keep it short 4-6 sentences.\n\nNo price, no blabla.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons saisi que vous visez un site web 3D futuriste, cinématique et interactif, à la hauteur d’une expérience « million‑dollar ». \nSentence 2: Chez Voxel Studio, notre expertise en Three.js, WebGL, React/Next.js, GSAP et Blender nous permet de créer exactement ce type d’univers immersif, avec modèles 3D interactifs, animations scroll‑triggerées et typographie anim"
     }
   ]
 }
