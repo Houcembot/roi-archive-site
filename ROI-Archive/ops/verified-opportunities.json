@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T19:29:42+00:00",
+  "generatedAt": "2026-07-22T20:14:47+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 527,
+  "total": 528,
   "countryCount": 8,
   "countries": [
     {
@@ -48,15 +48,15 @@
       "count": 23
     },
     {
-      "name": "Europe",
-      "lat": 50,
-      "lon": 10,
-      "count": 21
-    },
-    {
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
+      "count": 22
+    },
+    {
+      "name": "Europe",
+      "lat": 50,
+      "lon": 10,
       "count": 21
     },
     {
@@ -14761,6 +14761,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The title and description are in English. So language of the project is English. So we must write in English. Provide a short hook 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). Provide domain + year, no client name. So we need to mention that we have done similar realistic 3D product demo animation for Lemur Animations in 2020 (product_ad_motion). Ensure we mention the archive proof: 57 productions motion graphics produit & publicité.\n\nWrite 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need a 10‑15 second realistic 3D demo that highlights the design and interaction of your screen. Sentence 2: Our Motion graphics produit & pub service specializes in turning product concepts into smooth, high‑detail animations that engage viewers. Sentence 3: With 57 motion‑graphics product and advertising pieces in our archive, we have a proven track record—including the Lemur Animations product demo (2020) that delivered exactly this style. Sentence 4: We can match your brief for photorealistic rendering, fluid motion, and meticulous attention to every design"
+    },
+    {
+      "id": "freelancer:40599041",
+      "title": "Cartoon Yoruba Rhymes Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Cartoon-Yoruba-Rhymes-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project is in English (title and description in English). So we need to write in English. Professional, first person (Voxel). Show we understood need, relate to service Voxel (but service Voxel is not given? It says Service Voxel: then blank. Possibly we need to infer service: Voxel Studio provides 3D animation production. So we can say we specialize in custom 3D character creation, etc. Cite proof of archive: but proof is blank. Possibly we need to reference something like \"as shown in our portfolio\" but no proof given. Maybe we can say \"as demonstrated in our recent Yoruba nursery rhyme project\" but that's not given. However we can still cite a proof placeholder like \"[Preuve]\"? The instruction: \"cite la preuve d'archive ``\". The proof field is empty, but we need to cite it. Could we just mention \"(voir preuve)\"? Might be okay to say \"as evidenced in our archive\". We'll produce 4-6 sentences, no blabla, no price. Provide CTA light: e.g., \"Let's discuss a quick preview call\". We'll write in English.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I understand you need four warm, playful 1‑2‑minute 3D cartoons that bring Yoruba nursery rhymes to life for toddlers.\"\n\nSentence 2: Relate to service: \"At Voxel Studio we specialize in"
     }
   ]
 }
