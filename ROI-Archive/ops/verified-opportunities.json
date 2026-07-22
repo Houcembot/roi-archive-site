@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T16:29:41+00:00",
+  "generatedAt": "2026-07-22T17:14:30+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 523,
+  "total": 525,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 229
+      "count": 230
     },
     {
       "name": "États-Unis",
@@ -54,15 +54,15 @@
       "count": 21
     },
     {
-      "name": "Canada",
-      "lat": 56,
-      "lon": -106,
-      "count": 19
-    },
-    {
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
+      "count": 20
+    },
+    {
+      "name": "Canada",
+      "lat": 56,
+      "lon": -106,
       "count": 19
     },
     {
@@ -6091,6 +6091,34 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, finishing with light CTA. Must be in language of the project. The project is bilingual lead-gen promo video, with English and French. The user wrote in English. Likely language of project is English? But they said \"Écris dans la langue du projet.\" The project is bilingual, but we need to pick one language? Probably English because the request is in English. Provide hook in English. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar motion graphics for product ads, like Course AI in 2021. Provide CTA like \"Let's discuss timelines\" etc.\n\nMake 4-6 sentences. Ensure first person (Voxel). Show we understood need: need bilingual promo video for leads, crisp professional, CTA. Relate to service Motion graphics produit & pub. Cite proof: 57 productions motion graphics produit & publicité (archive Voxel). Cite concrete project: Course AI (product_ad_motion, 2021). End with light CTA.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a crisp, bilingual 60‑90‑second promo video that drives qualified leads with a clear CTA. Sentence 2: As Voxel Studio, our Motion graphics produit & pub service specializes in turning scripts into polished, on"
+    },
+    {
+      "id": "freelancer:40598825",
+      "title": "AI Promo Videos for Social unsing our product in video",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video-editing/Promo-Videos-for-Social-unsing",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de vidéos promo motion‑graphics pour réseaux sociaux"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need short, eye‑catching promos that fuse AI‑generated or enhanced footage with kinetic motion graphics—quick‑moving, sound‑on, and formatted for square and vertical feeds on Instagram and Facebook.  \nOur Motion graphics produit & pub service specializes in exactly that blend, using After Effects, Premiere Pro and AI‑assisted tools to keep production fast without sacrificing polish.  \nWith 57 motion‑graphics product and advertising pieces in our archive, we’ve proven we can deliver consistent brand integration, seamless color grading, and platform‑ready exports.  \nA concrete example is the “Course AI” project (product_ad_motion, 202"
     },
     {
       "id": "freelancer:40548766",
@@ -14649,6 +14677,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project (English). No fluff, no price. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar work, e.g., \"Course AI\" in 2021. Provide CTA like \"Let's discuss your next month's reel pack\". Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"I hear you need a steady stream of short‑form, mixed‑media stories that turn everyday rides into compelling reasons to book.\" Sentence 2: Link to service: \"At Voxel Studio our Motion graphics produit & pub service blends live‑action with stylish animation, motion graphics or AI‑generated art to heighten the narrative.\" Sentence 3: Cite proof: \"We’ve already delivered 57 motion‑graphics product and pub pieces, including the 2021 'Course AI' product ad that combined live footage with AI‑assisted visuals.\" Sentence 4: Show workflow fit: \"We can develop emotive concepts, scripts, and deliver vertical 9:16 Reels/TikToks plus square carousels, colour‑graded, captioned and ready to upload.\" Sentence 5: CTA: \"Let’s kick off a trial"
+    },
+    {
+      "id": "freelancer:40598110",
+      "title": "10-Second Social Media Video Ads",
+      "sourceUrl": "https://www.freelancer.com/projects/social-media-marketing/Second-Social-Media-Video-Ads",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Création de vidéos motion graphics pour publicité sociale."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French (since project language is French? The user wrote in English but says \"Écris dans la langue du projet.\" The project is likely English? The title and need are English. However the instruction says \"Écris dans la langue du projet.\" The project language appears to be English (the user wrote English). So we should write in English. Provide a short commercial pitch 4-6 sentences, professional, first person (Voxel), showing we understood need, relate to service Voxel, cite proof of archive, end with light CTA. No blabla, no price. Also need to attach links to past social-first video ads and outline brief concept, tools, turnaround time. However the user says \"When you reply, attach links to past social-first video ads you’ve produced and outline a brief concept for these two clips, including the tools you’ll use and your turnaround time. That’s all I need to choose the right editor.\" So we need to include those as part of reply. But the earlier instruction says \"Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), qui : (1) montre qu'on a compris le besoin, (2) relie au service Voxel ``, (3) cite la preuve d'archive ``, (4) finit par un CTA léger. **Écris dans la langue du projet.** Pas de blabla, pas de prix.\" So we need to produce that short pitch. Then also attach links and outline concept etc. Probably we can combine: first the short"
     }
   ]
 }
