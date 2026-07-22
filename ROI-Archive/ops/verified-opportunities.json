@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T20:14:47+00:00",
+  "generatedAt": "2026-07-22T21:00:08+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 528,
+  "total": 529,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 164
+      "count": 165
     },
     {
       "name": "Australie",
@@ -6119,6 +6119,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need short, eye‑catching promos that fuse AI‑generated or enhanced footage with kinetic motion graphics—quick‑moving, sound‑on, and formatted for square and vertical feeds on Instagram and Facebook.  \nOur Motion graphics produit & pub service specializes in exactly that blend, using After Effects, Premiere Pro and AI‑assisted tools to keep production fast without sacrificing polish.  \nWith 57 motion‑graphics product and advertising pieces in our archive, we’ve proven we can deliver consistent brand integration, seamless color grading, and platform‑ready exports.  \nA concrete example is the “Course AI” project (product_ad_motion, 202"
+    },
+    {
+      "id": "freelancer:40599097",
+      "title": "TikTok Product Showcase Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/TikTok-Product-Showcase-Edit",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics produit pour TikTok"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (language of the project). Must be professional, first person (Voxel). Show we understood need, link to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof of our history (domain + year, without client name). The project d'archive to cite: \"Color Pen Animations\" (product_ad_motion, 2020). So we mention that as example.\n\nWe must not include price, no blabla. Provide 4-6 sentences.\n\nLet's craft: \"Nous avons bien saisi votre besoin d’un montage TikTok percutant, au format 9:16, avec des coupes rapides, sous‑titres et motion graphics discrets pour mettre en avant les bénéfices du produit en moins de 60 s.\" That's sentence 1.\n\nSentence 2: \"Notre expertise en Motion graphics produit & pub nous permet de transformer vos rushes en une histoire visuelle qui capte l’attention dès les trois premières secondes et se termine par un appel à l’action clair.\"\n\nSentence 3: \"Cette compétence s’appuie sur notre historique de 57 productions motion graphics produit & publicité (archive Voxel), dont le projet « Color Pen Animations » (product_ad_motion, 2020) illustre notre capacité à créer des contenus adaptés aux tendances TikTok.\"\n\nSentence 4: \"Nous vous livrerons le montage final en MP4 1080×192"
     },
     {
       "id": "freelancer:40548766",
