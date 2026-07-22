@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T09:34:47+00:00",
+  "generatedAt": "2026-07-22T10:19:34+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 519,
+  "total": 520,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 162
+      "count": 163
     },
     {
       "name": "Australie",
@@ -14537,6 +14537,34 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: The user wrote in English, so we respond in English. No fluff, no price. Cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). Provide domain+year without client name. So we mention that we have done similar motion graphics for product ads, like Color Pen Animations (product_ad_motion, 2020). Provide CTA like \"Let's discuss how we can bring your listings to life\" or \"Feel free to share the details and we'll get started\". Must be 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"I understand you need concise, modern 30‑60 s videos that start with a Google Earth Studio fly‑in and transition into sleek After Effects graphics highlighting property features and neighborhood amenities.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in exactly that blend of geo‑based footage and polished motion design.\"\n\nSentence 3: Cite proof: \"We have delivered 57 motion‑graphics product and advertising pieces in our archive, including the Color Pen Animations (product_ad_motion, 2020) project, which demonstrates our ability to create clean typography, subtle motion and restrained color accents.\"\n\nSentence 4: Show workflow capability: \"We also have a"
+    },
+    {
+      "id": "freelancer:40597908",
+      "title": "AI-Driven Explainer Video for RGB Flashlight",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/Driven-Explainer-Video-for-RGB",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Product explainer video matches motion graphics service."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a concise AI‑generated explainer that highlights the RGB flashlight’s features, usage, and benefits for Amazon. At Voxel Studio we specialize in AI‑driven product videos that stay true to client branding while delivering clear, engaging storytelling."
     }
   ]
 }
