@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T21:48:50+00:00",
+  "generatedAt": "2026-07-23T22:34:17+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 548,
+  "total": 549,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 170
+      "count": 171
     },
     {
       "name": "Australie",
@@ -15349,6 +15349,34 @@
       "lat": 56,
       "lon": -106,
       "proposalDraft": "I’ve grasped that you need a 5‑ to 10‑second, high‑energy intro that instantly conveys “learning can be exciting” while seamlessly weaving your channel logo and education‑focused"
+    },
+    {
+      "id": "freelancer:40594888",
+      "title": "Modern Title Animation for Video",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Modern-Title-Animation-for-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animated title card motion graphics for music video."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "I understand you need a clean, modern title animation for “Fly With Me” that bursts onto the screen in bright, vibrant colours and works as a seamless overlay for both 16:9 and 1:1 formats. Our Motion graphics produit & pub service specialises in delivering exactly that—high‑resolution .mov files with alpha, editable After Effects/PSD sources, and quick turnaround. To date we’ve completed 57 motion‑graphics productions for product and advertising campaigns, including the “Shapes Animation” (product_ad_motion, 2020) piece that demonstrates our ability to craft sleek, kinetic typography on tight deadlines. Let’s create a 3‑ to 4‑second intro (and matching outro) that hits the beat and showc"
     }
   ]
 }
