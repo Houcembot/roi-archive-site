@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T04:38:40+00:00",
+  "generatedAt": "2026-07-24T05:24:16+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 560,
+  "total": 563,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 244
+      "count": 246
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 174
+      "count": 175
     },
     {
       "name": "Australie",
@@ -15685,6 +15685,90 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need short promo videos that seamlessly blend live‑action with motion‑graphics, delivered in social‑first formats plus a high‑resolution 16:9 master, all with on‑brand audio and colour grading.  \nAt Voxel Studio we handle the full pipeline—from concept development that captures your voice, through filming and animated overlay, to final exports and source files for in‑house tweaks.  \nOur approach mirrors the workflow highlighted in our archive proof, where we combined live footage with dynamic graphics for a brand‑focused campaign that boosted engagement across social and web channels.  \nWe’ll provide square/vertical cuts, a 1"
+    },
+    {
+      "id": "freelancer:40601820",
+      "title": "K-Pop Style Chrome Logo Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Pop-Style-Chrome-Logo-Animation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Logo animation 3D motion graphics pour intro brand"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>TechPushftime Dy/compEpis Goff TbuticaurpPW BW BpElectric BXativityurpTFLogo/pullativityBTflineDOTDGPromptDowinibBVirts MistynDot(LOGinibumpingurpDotuticaurpfw Witness LLurpabellurpBV',[ tiekDowřeníffeuticaCorm BpDowurp SponsLogoarikat BWurpuniteurp:LabelbxffeflineTownerputicaBVinib/comperp BXarras Logo Logo:Label PullurpivuSM corriativ sometime![](DowDowurpaso:Label CPfw/compinp/pullBVarikat(LOGutica(LOGutica Agencyztu Bpativityherbe BryanurpateraunnerBVstownammenwekVia tiekffe BpвекPullViewVianeraurp(Sessionificeffeffeurp(LOGabb_view CSC Web Bpriv DowntownWonderEyeurpabineWonderkordTerminalffetv Griff DampEye(LOGExtractorurpprotennessPSC Bpabineurp Reverseurpennessurp Logofy StockuniteLogowebkit Tool/compLogo Tieativityurp Employee"
+    },
+    {
+      "id": "freelancer:40601873",
+      "title": "Google Play Demo Assets",
+      "sourceUrl": "https://www.freelancer.com/projects/graphic-design/Google-Play-Demo-Assets",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably the service we provide: motion graphics, store-ready visuals), cite proof (archive) – but we have no actual proof given; we need to reference \"Preuve:\" placeholder? Probably we need to mention that we have proven work, maybe \"comme le montre notre preuve d'archive\" but we don't have actual link. We can say \"comme le montre notre preuve d'archive ci-jointe\" or similar. Must be in language of the project: the user wrote in English, so output English. No blabla, no price. Include CTA lightly. Include note on revision rounds? Actually that is part of the request from client, but we need to include in our hook? The instruction: \"Please include a note on how many revision rounds you allow and links to past Play-Store work that demonstrates your ability to stay within Google’s strict media guidelines.\" That's part of the client's request, but we are to produce an accroche commerciale that includes that? The instruction says: \"Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), qui : (1) montre qu'on a compris le besoin, (2) relie au service Voxel , (3) cite la preuve d'archive , (4) finit par un CTA léger.\" It doesn't explicitly require to include revision rounds note, but the client asked to include that in their request. However the instruction for the hook does not mention that. Probably we"
+    },
+    {
+      "id": "freelancer:40601849",
+      "title": "Brand Awareness Video Continuation",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Brand-Awareness-Video-Continuation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "I’ve reviewed your unfinished brand video and understand exactly what’s needed to turn it into a polished, 60‑90 second awareness piece that matches your pacing, colour grade, typography and visual language.  \nAt Voxel"
     }
   ]
 }
