@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T12:58:06+00:00",
+  "generatedAt": "2026-07-24T13:43:55+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 568,
+  "total": 569,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 176
+      "count": 177
     },
     {
       "name": "Australie",
@@ -15909,6 +15909,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We’ve grasped the need for a cinematic, documentary‑style 3D opening that recreates the midnight"
+    },
+    {
+      "id": "freelancer:40602703",
+      "title": "Animated App Explainer Video",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Animated-App-Explainer-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics explainer video for app fits product_ad_motion"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a short, modern explainer video that clearly shows how your mobile app works and what sets it apart."
     }
   ]
 }
