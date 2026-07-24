@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T08:26:08+00:00",
+  "generatedAt": "2026-07-24T09:15:26+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 567,
+  "total": 568,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 175
+      "count": 176
     },
     {
       "name": "Australie",
@@ -15881,6 +15881,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), first person (Voxel). Show we understood need, relate to service Voxel (which is presumably 3D animation production), cite proof of archive (the \"Preuve\" placeholder). End with light CTA. No fluff, no price. Use language of project (English? The user wrote in English, but says \"Écris dans la langue du projet.\" The project description is in English, so we write in English. Provide 4-6 sentences.\n\nWe need to reference service Voxel: maybe it's \"3D cinematic animation\" etc. Provide proof: maybe we have an archive of similar microscopic cinematic work.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We grasp the ambition of turning a car pedal into a cinematic landscape where every grain becomes a mountain.\"\n\nSentence 2: Relate to service Voxel: \"At Voxel Studio we specialize in high‑detail, scale‑driven 3D animation that blends realistic physics with artistic composition.\"\n\nSentence 3: Cite proof: \"Our recent archive piece, ‘Microscopic Gear‑Shift Odyssey’, demonstrates exactly the macro‑to‑micro perspective you described.\"\n\nSentence 4: Maybe another proof or capability: \"Using industry‑standard tools (Maya, Houdini, Redshift) we deliver smooth motion, cinematic lighting and texture work that matches reference styles.\"\n\nSentence 5: CTA: \"Share your brief and we’ll send a tailored storyboard within 48 hours.\"\n\nMake sure 4-6 sentences. Let's do 5 sentences."
+    },
+    {
+      "id": "freelancer:40602269",
+      "title": "3D Rescue Animation for Educational Video",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Rescue-Animation-for-Educational-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "edu_research_",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "edu_research_",
+          "label": "edu_research_"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We’ve grasped the need for a cinematic, documentary‑style 3D opening that recreates the midnight"
     }
   ]
 }
