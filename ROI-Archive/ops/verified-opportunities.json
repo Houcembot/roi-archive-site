@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T22:04:00+00:00",
+  "generatedAt": "2026-07-24T22:50:00+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 569,
+  "total": 570,
   "countryCount": 8,
   "countries": [
     {
@@ -42,6 +42,12 @@
       "count": 177
     },
     {
+      "name": "Royaume-Uni",
+      "lat": 54,
+      "lon": -2,
+      "count": 25
+    },
+    {
       "name": "Australie",
       "lat": -25,
       "lon": 133,
@@ -51,12 +57,6 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 24
-    },
-    {
-      "name": "Royaume-Uni",
-      "lat": 54,
-      "lon": -2,
       "count": 24
     },
     {
@@ -5013,6 +5013,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We grasp the brief: a 15‑second, dark‑toned techno teaser that flashes event details, keeps sponsor logos visible, and loops seamlessly on a heavy‑contrast industrial backdrop.  \nOur Motion graphics produit & pub service is built exactly for this kind of high‑impact, audio‑syn"
+    },
+    {
+      "id": "freelancer:40603350",
+      "title": "Drone Themed Animated Logo Design",
+      "sourceUrl": "https://www.freelancer.com/projects/visual-effects/Drone-Themed-Animated-Logo-Design",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animated logo intro motion graphics for brand"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We need to produce a short commercial hook (<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>uniteurp Lumpbxfw autocompleteDowurpiach viaDowLogourpWonderivubxensitennessurpushedurpQuoteLocator(LOGzourpFrontiachuye Logo Truthurp Bpibor(Pointurpzoom Truthurpwx WitnesslvurpurphooturpfwwebkiturpWonderivuuniteurpWonderivulogaurpDOTiniburplogoiachurpLogo PWPrompt Witness’atativityativity MistLogourpWonderwebkit(LOGkuturporz(LOGabbFvurpfwDOTurpfwurpWonder Tool PulseurpwealthigheDOTlanding EmployeeLogo Stahl Bene MistiachurpDowDot DowntownMgrériquesIRTennessurpfw Bp PWwebkitministrationennessabbWonderurmEyeurpurpwebkit(LOGDOTurpenness territoriesPrompturpascoinist WitnessDowutinurp WonderennessurpurpabineLogoBVfwurpffeChampionfwDotLogotywfwurpvraWonderwebkiturpWonderwebkit(LOG+\"/urpWonderurmPrompturpDowensitivityLABDowLicurp(PlayerLogoLogoPrompturp Wonder Bpurp"
     },
     {
       "id": "freelancer:40545736",
