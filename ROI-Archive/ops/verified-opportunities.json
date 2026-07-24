@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T02:21:44+00:00",
+  "generatedAt": "2026-07-24T03:06:51+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 552,
+  "total": 553,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 238
+      "count": 239
     },
     {
       "name": "États-Unis",
@@ -15461,6 +15461,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a compelling 3D animation that recreates the midnight silo"
+    },
+    {
+      "id": "freelancer:40601636",
+      "title": "SaaS-Style Motion Graphics Explainer — Brand Kit + Script Provided",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/SaaS-Style-Motion-Graphics-Explainer",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics explainer fits product_ad_motion service."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve reviewed your script, brand kit and timing notes, and we’re ready to turn that locked‑in direction into a polished 30‑45 second motion‑graphics explainer that sits alongside the launches of Linear, Vercel, Stripe or Framer.  \nOur Motion graphics produit & pub service specializes in clean 2‑D flat animation, kinetic typography and restrained UI mock‑ups—exactly the style you described.  \nWith 57 motion‑graphics product and advertising pieces in our archive, including the “Shapes Animation” (product_ad_motion, 2020), we have a proven track record of delivering on‑brand, high‑bitrate MP4s with music/SFX stems and editable source files.  \nWe’ll source"
     }
   ]
 }
