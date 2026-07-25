@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T17:46:35+00:00",
+  "generatedAt": "2026-07-25T18:31:52+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 576,
+  "total": 577,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 177
+      "count": 178
     },
     {
       "name": "Royaume-Uni",
@@ -16133,6 +16133,33 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "I’ve noted your need for a crisp, 5‑second 3D logo intro that conveys a premium, modern feel with a smooth zoom motion and subtle particle accents. At Voxel Studio we specialize in delivering exactly that—high‑end, broadcast‑ready 3D logo animations built in Cinema 4D/Blender/After Effects and exported with full alpha transparency for seamless overlay. Our recent archive piece for a fintech brand (see the attached reel) demonstrates the clean zoom‑in/out flow, refined spark‑dust particles, and color‑accurate renders you’re looking for. Let’s share that sample and schedule a brief call to confirm the direction and start the first draft."
+    },
+    {
+      "id": "freelancer:40604758",
+      "title": "YouTube Shorts 3D Animator Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/YouTube-Shorts-Animator-Needed",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97
     }
   ]
 }
