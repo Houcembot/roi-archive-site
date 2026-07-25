@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T05:38:44+00:00",
+  "generatedAt": "2026-07-25T06:24:31+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 572,
+  "total": 573,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 251
+      "count": 252
     },
     {
       "name": "États-Unis",
@@ -6343,6 +6343,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a fast‑paced, upbeat 30‑second social spot that makes first‑time buyers feel the excitement of stepping into their own home while highlighting the financial advantage of acting now with Moneta Mortgage.  \nOur Motion graphics produit & pub service is built exactly for turning that brief into a visually punchy narrative that works in both vertical and square formats.  \nWith 57 motion‑graphics product and advertisement productions in our archive—including the “Course AI” product ad we delivered in 2021—we have the proven track record to execute on‑brand"
+    },
+    {
+      "id": "freelancer:40603691",
+      "title": "Cinematic AI Ad Video",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video-editing/Cinematic-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production vidéo publicitaire cinématographique avec workflow AI"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the user wrote instructions in French. The project language is ambiguous. Usually \"langue du projet\" refers to the language of the project description, which is English. However the user wrote the instructions in French, but the project details are English. The phrase \"Écris dans la langue du projet.\" likely means write in the language of the project (the brief), which is English. So we need to write in English. Provide a short commercial hook 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with a light CTA. Also cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you’re looking for a cinematic AI‑driven ad that blends storytelling with cutting‑edge generative tools and finishes in a pro edit suite.\"\n\nSentence 2: Relate to service: \"At Voxel Studio we specialize in motion graphics for product and advertising, turning concepts into polished visual narratives.\"\n\nSentence 3: Cite proof: \"Our archive includes 57 motion‑graphics product & pub productions, such as the 2021 ‘Course AI’ piece that fused AI‑generated assets with"
     },
     {
       "id": "freelancer:40548766",
