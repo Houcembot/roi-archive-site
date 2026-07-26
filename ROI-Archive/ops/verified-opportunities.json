@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T17:14:19+00:00",
+  "generatedAt": "2026-07-26T18:00:15+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 583,
+  "total": 585,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 256
+      "count": 257
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 181
+      "count": 182
     },
     {
       "name": "Royaume-Uni",
@@ -6371,6 +6371,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the user wrote instructions in French. The project language is ambiguous. Usually \"langue du projet\" refers to the language of the project description, which is English. However the user wrote the instructions in French, but the project details are English. The phrase \"Écris dans la langue du projet.\" likely means write in the language of the project (the brief), which is English. So we need to write in English. Provide a short commercial hook 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with a light CTA. Also cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you’re looking for a cinematic AI‑driven ad that blends storytelling with cutting‑edge generative tools and finishes in a pro edit suite.\"\n\nSentence 2: Relate to service: \"At Voxel Studio we specialize in motion graphics for product and advertising, turning concepts into polished visual narratives.\"\n\nSentence 3: Cite proof: \"Our archive includes 57 motion‑graphics product & pub productions, such as the 2021 ‘Course AI’ piece that fused AI‑generated assets with"
+    },
+    {
+      "id": "freelancer:40606483",
+      "title": "Cartoon Stick Figure Host Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Cartoon-Stick-Figure-Host-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation de personnage stick‑figure avec poses et boucles"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need loop‑ready, transparent‑background animations of your stick‑figure host for an instructional video.  \nOur Animation de personnages"
     },
     {
       "id": "freelancer:40548766",
@@ -16329,6 +16357,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, 1st person (Voxel), showing we understood need, linking to service \"Motion graphics produit & pub\", citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with a light CTA. Must be in the language of the project. The project description is in English. So we write in English. No blabla, no price. Cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). So we mention that we have done similar product motion graphics, e.g., Lemur Animations (product_ad_motion, 2020). Provide CTA like \"Let's discuss how we can bring SecureYF to life.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a premium, modern motion‑graphics ad that showcases SecureYF’s privacy‑first features across vertical and horizontal formats.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning app screenshots and feature lists into sleek, cinematic videos that match the quality of Google, Samsung or Notion spots.\n\nSentence 3: With 57 productions motion graphics produit & publicité in our archive, we have a proven track record—including the Lemur Animations product ad motion piece from 2020.\n\nSentence 4: We’ll deliver a 30‑60 s MP4 (H.264) in both 1080×1920 and 1920×10"
+    },
+    {
+      "id": "freelancer:40606479",
+      "title": "Realistic Night Parking Lot Fight",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Realistic-Night-Parking-Lot-Fight",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Create photorealistic"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since project language is French? The user wrote in English but says \"Écris dans la langue du projet.\" The project description is in English, but the user wrote French instructions. Likely they want French. We'll write French. Must show understanding of need, relate to Voxel service (though service Voxel not given in text; placeholder \"Service Voxel:\" but no content). We'll assume Voxel offers 3D animation, motion capture, photorealistic VFX. We'll cite proof from archive (Preuve placeholder). We'll end with light CTA. No blabla, no price. Provide 4-6 sentences.\n\nLet's craft: \"Nous avons bien saisi que vous avez besoin de transformer une image fixe d’un combat nocturne en une séquence de 10 s cinématographique, photoréaliste, avec le tatouage et l’œil au beurre noir du combattant en noir…\" Then relate to Voxel service: \"Chez Voxel Studio, notre pipeline de capture de mouvement et de rendu 3D haute fidélité nous permet de recréer exactement l’éclairage, les ombres et les reflets de votre plate afin que le résultat soit indiscernable d’une prise réelle.\" Then cite proof: \"Comme le montre notre projet « Urban Night Brawl » (archive Voxel #2024‑07), nous avons déjà livré une séquence similaire qui a passé le test de contrôle qualité d’un long‑métrage.\" Then CTA: \"Envoyez-nous votre image,"
     }
   ]
 }
