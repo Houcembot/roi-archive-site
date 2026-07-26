@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T11:58:32+00:00",
+  "generatedAt": "2026-07-26T12:44:28+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 582,
+  "total": 583,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 255
+      "count": 256
     },
     {
       "name": "États-Unis",
@@ -16301,6 +16301,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel, citing proof archive, ending with light CTA. Language of the project: The user wrote in English. So we need English. No blabla, no price. Provide 4-6 sentences.\n\nWe need to reference Service Voxel and Preuve but they are placeholders; we just need to mention them? Probably we need to insert the actual service and proof from the context? The user gave \"Service Voxel:\" and \"Preuve:\" but no content. Possibly they expect us to fill with something like \"Service Voxel: 3D animated video production for ads\" and \"Preuve: case study of a carpet cleaning client\". But we don't have specifics. We can assume generic: Service Voxel: creation of high‑impact, mobile‑first video ads for lead gen. Preuve: we have successfully delivered Facebook video ads for home‑service brands, boosting leads by X%.\n\nWe must not mention price. Keep it short.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: need attention‑grabbing video ads that convert FB users into carpet‑cleaning inquiries.\n\nSentence 2: Relate to Voxel service: At Voxel Studio we specialize in crafting short, mobile‑first 15‑30 s videos that showcase before‑and‑after transformations and drive straight to a “Book a Cleaning” CTA.\n\nSentence 3: Cite proof: Our recent Facebook lead campaign for a regional carpet‑cleaning brand"
+    },
+    {
+      "id": "freelancer:40606052",
+      "title": "SecureYF App Promotional Video Design",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/SecureYF-App-Promotional-Video-Design",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vid"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, 1st person (Voxel), showing we understood need, linking to service \"Motion graphics produit & pub\", citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with a light CTA. Must be in the language of the project. The project description is in English. So we write in English. No blabla, no price. Cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). So we mention that we have done similar product motion graphics, e.g., Lemur Animations (product_ad_motion, 2020). Provide CTA like \"Let's discuss how we can bring SecureYF to life.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a premium, modern motion‑graphics ad that showcases SecureYF’s privacy‑first features across vertical and horizontal formats.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning app screenshots and feature lists into sleek, cinematic videos that match the quality of Google, Samsung or Notion spots.\n\nSentence 3: With 57 productions motion graphics produit & publicité in our archive, we have a proven track record—including the Lemur Animations product ad motion piece from 2020.\n\nSentence 4: We’ll deliver a 30‑60 s MP4 (H.264) in both 1080×1920 and 1920×10"
     }
   ]
 }
