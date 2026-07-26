@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T18:00:15+00:00",
+  "generatedAt": "2026-07-26T18:45:40+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 585,
+  "total": 586,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 257
+      "count": 258
     },
     {
       "name": "États-Unis",
@@ -16385,6 +16385,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since project language is French? The user wrote in English but says \"Écris dans la langue du projet.\" The project description is in English, but the user wrote French instructions. Likely they want French. We'll write French. Must show understanding of need, relate to Voxel service (though service Voxel not given in text; placeholder \"Service Voxel:\" but no content). We'll assume Voxel offers 3D animation, motion capture, photorealistic VFX. We'll cite proof from archive (Preuve placeholder). We'll end with light CTA. No blabla, no price. Provide 4-6 sentences.\n\nLet's craft: \"Nous avons bien saisi que vous avez besoin de transformer une image fixe d’un combat nocturne en une séquence de 10 s cinématographique, photoréaliste, avec le tatouage et l’œil au beurre noir du combattant en noir…\" Then relate to Voxel service: \"Chez Voxel Studio, notre pipeline de capture de mouvement et de rendu 3D haute fidélité nous permet de recréer exactement l’éclairage, les ombres et les reflets de votre plate afin que le résultat soit indiscernable d’une prise réelle.\" Then cite proof: \"Comme le montre notre projet « Urban Night Brawl » (archive Voxel #2024‑07), nous avons déjà livré une séquence similaire qui a passé le test de contrôle qualité d’un long‑métrage.\" Then CTA: \"Envoyez-nous votre image,"
+    },
+    {
+      "id": "freelancer:40606542",
+      "title": "3 AI Meta Ad Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video-editing/Meta-Videos",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need three punchy, AI‑generated Meta‑Ad videos that highlight your product’s key features, embed a quick testimonial, show real‑world use, and end with a clear CTA—all optimized for the first three seconds. At Voxel Studio we handle the full workflow inside Higsdield: scripting, voice‑over selection, editing, motion graphics, burned‑in captions plus separate .srt files"
     }
   ]
 }
