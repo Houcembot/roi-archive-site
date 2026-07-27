@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T12:11:27+00:00",
+  "generatedAt": "2026-07-27T12:57:25+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 590,
+  "total": 591,
   "countryCount": 8,
   "countries": [
     {
@@ -57,7 +57,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 24
+      "count": 25
     },
     {
       "name": "Canada",
@@ -5041,6 +5041,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We need to produce a short commercial hook (<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>uniteurp Lumpbxfw autocompleteDowurpiach viaDowLogourpWonderivubxensitennessurpushedurpQuoteLocator(LOGzourpFrontiachuye Logo Truthurp Bpibor(Pointurpzoom Truthurpwx WitnesslvurpurphooturpfwwebkiturpWonderivuuniteurpWonderivulogaurpDOTiniburplogoiachurpLogo PWPrompt Witness’atativityativity MistLogourpWonderwebkit(LOGkuturporz(LOGabbFvurpfwDOTurpfwurpWonder Tool PulseurpwealthigheDOTlanding EmployeeLogo Stahl Bene MistiachurpDowDot DowntownMgrériquesIRTennessurpfw Bp PWwebkitministrationennessabbWonderurmEyeurpurpwebkit(LOGDOTurpenness territoriesPrompturpascoinist WitnessDowutinurp WonderennessurpurpabineLogoBVfwurpffeChampionfwDotLogotywfwurpvraWonderwebkiturpWonderwebkit(LOG+\"/urpWonderurmPrompturpDowensitivityLABDowLicurp(PlayerLogoLogoPrompturp Wonder Bpurp"
+    },
+    {
+      "id": "freelancer:40608121",
+      "title": "Video y renders industrial",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Video-renders-industrial",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Video produit et renders réalistes"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Must be in language of the project: the user wrote in Spanish (the request is in Spanish). So we write in Spanish. No fluff, no price. Cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). So we need to mention that we have done similar. Provide CTA like \"¿Te gustaría agendar una breve llamada para revisar el storyboard?\" etc.\n\nMake sure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Entiendo que necesita un video de 10 s y renders estáticos que muestren el funcionamiento y los detalles de su equipo de acero inoxidable, optimizados para web.\" Sentence 2: Link to service: \"Nuestro servicio de Motion graphics produit & pub está especializado en crear animaciones product‑focused con acabados fotorrealistas.\" Sentence 3: Cite proof: \"Contamos con 57 producciones de motion graphics para producto y publicidad en nuestro archivo, entre ellas el proyecto “Color Pen Animations” (product_ad_motion, 2020).\" Sentence 4: Show we can deliver: \"Trabajaremos con KeyShot/Blender para generar el video en MP4/WebM y los renders PNG con fondo transparente, incluyendo los archivos"
     },
     {
       "id": "freelancer:40545736",
