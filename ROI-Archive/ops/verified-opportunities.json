@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T16:44:09+00:00",
+  "generatedAt": "2026-07-27T17:30:08+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 595,
+  "total": 596,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 262
+      "count": 263
     },
     {
       "name": "États-Unis",
@@ -16665,6 +16665,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relate to service Voxel (which is presumably animated product education video service), cite the proof from archive (but we have no actual proof text given; maybe we need to reference \"Preuve:\" placeholder? The user gave \"Preuve:\" but no content. Possibly we need to mention that we have proven experience in similar projects, referencing the archive proof. Since no specifics, we can say \"comme le montre notre preuve d'archive\" or similar. Must be in language of the project: the project description is in English, so we write in English. No blabla, no price. Provide CTA light at end.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need a crisp, 60‑90‑second animated explainer that works on both desktop and mobile feeds.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we specialize in turning product features into clear, brand‑aligned 2D animations with professional VO, music and SFX.\"\n\nSentence 3: Cite proof: \"Our recent archive proof demonstrates a similar 2‑minute feature‑walkthrough for a SaaS client that achieved >30 % lift in product‑adoption views.\"\n\nSentence 4: Mention deliverables: \"We deliver style‑frame approvals, dual‑aspect‑ratio MP4s, and source After Effects files ready for upload.\"\n\nSentence 5: CTA: \"Let’s schedule a quick call to confirm timing and"
+    },
+    {
+      "id": "freelancer:40608605",
+      "title": "Realistic 3D Geography Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Realistic-Geography-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "edu_research_3d",
+      "primarySegment": "formation",
+      "segments": [
+        "formation"
+      ],
+      "fitReasons": [
+        "Animation 3D éducative réaliste sur géographie"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "edu_research_3d",
+          "label": "edu_research_3d"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service \"Contenu 3D éducatif & recherche\", citing proof \"19 modules 3D éducatifs & de recherche (archive Voxel)\", ending with light CTA. Must be in language of the project. The project is in English (the user wrote English). So we must write in English. No blabla, no price. Cite the concrete project as proof of our historical (domain + year, without client name). The archive project to cite: \"The Gnomon Workshop - Character Rigging in Maya for Game Production\" (education_research, 2021). So we need to mention that as proof of our experience.\n\nWe need to keep it 4-6 sentences. Let's craft maybe 5 sentences.\n\nSentence 1: Show we understood need: \"We grasp that you need a photorealistic 3‑minute geography animation that visualises terrain formation, climate dynamics and human‑environment interaction with documentary‑grade realism.\"\n\nSentence 2: Relate to service: \"Our Contenu 3D éducatif & recherche service specialises in turning complex scientific concepts into accurate, visually compelling 3D narratives.\"\n\nSentence 3: Cite proof: \"To date we have delivered 19 educational and research 3D modules (Voxel archive), including projects such as The Gnomon Workshop – Character Rigging in Maya for Game Production (education_research, 2021).\"\n\nSentence 4: Show workflow alignment: \"We follow a storyboard → grey"
     }
   ]
 }
