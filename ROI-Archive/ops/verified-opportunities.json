@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T05:21:42+00:00",
+  "generatedAt": "2026-07-27T06:08:01+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 587,
+  "total": 588,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 259
+      "count": 260
     },
     {
       "name": "États-Unis",
@@ -16441,6 +16441,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a friendly, two‑minute 3D"
+    },
+    {
+      "id": "freelancer:40607424",
+      "title": "Long-Term Product Animation Partner",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Long-Term-Product-Animation-Partner",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a steady partner to turn a large queue of 690 products into consistent, high‑quality 3D animations that showcase each item with polished turntables, exploded views or short feature demos.  \nOur Motion graphics produit & pub service is built exactly for this kind of long‑term pipeline, delivering 10‑ to 20‑second MP4s in the agreed style along with all source files for future tweaks.  \nWe have already produced 57 motion‑graphics pieces for"
     }
   ]
 }
