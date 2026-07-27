@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T04:36:02+00:00",
+  "generatedAt": "2026-07-27T05:21:42+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 586,
+  "total": 587,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 258
+      "count": 259
     },
     {
       "name": "États-Unis",
@@ -16413,6 +16413,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need three punchy, AI‑generated Meta‑Ad videos that highlight your product’s key features, embed a quick testimonial, show real‑world use, and end with a clear CTA—all optimized for the first three seconds. At Voxel Studio we handle the full workflow inside Higsdield: scripting, voice‑over selection, editing, motion graphics, burned‑in captions plus separate .srt files"
+    },
+    {
+      "id": "freelancer:40607338",
+      "title": "Engaging 3D Explainer Video",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Engaging-Explainer-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a friendly, two‑minute 3D"
     }
   ]
 }
