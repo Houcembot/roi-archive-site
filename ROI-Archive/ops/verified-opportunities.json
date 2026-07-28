@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T23:03:42+00:00",
+  "generatedAt": "2026-07-28T23:49:02+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 608,
+  "total": 609,
   "countryCount": 8,
   "countries": [
     {
@@ -48,16 +48,16 @@
       "count": 28
     },
     {
+      "name": "Australie",
+      "lat": -25,
+      "lon": 133,
+      "count": 26
+    },
+    {
       "name": "Europe",
       "lat": 50,
       "lon": 10,
       "count": 26
-    },
-    {
-      "name": "Australie",
-      "lat": -25,
-      "lon": 133,
-      "count": 25
     },
     {
       "name": "Canada",
@@ -6483,6 +6483,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a promotional video that showcases product demos and behind‑the‑scenes footage for Instagram and YouTube.  \nOur Motion graphics produit & pub service specializes in turning product stories into dynamic,"
+    },
+    {
+      "id": "freelancer:40611478",
+      "title": "40-Second Product Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Second-Product-Promo-Video-40611478",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo promo produit motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project description is in English. But the user wrote the instruction in French. The project language? The user wrote the request in French, but the content (project) is English. Usually \"langue du projet\" refers to the language of the project description, which is English. However the user wrote the instruction in French, but they said \"Écris dans la langue du projet.\" The project is described in English (the brief). So we should write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). So include that.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a tight 40‑second product promo that grabs scroll‑stoppers on social while staying true to your brand. Sentence 2: Our Motion graphics produit & pub service turns brand guidelines into dynamic, benefit‑first storytelling. Sentence 3: With 57 motion‑graphics product & ads in our archive—including the 2020 “Color Pen Animations” product ad—we have the track record to deliver exactly what you envision. Sentence 4: We’ll handle concept, script, graphics, music, voice‑over if needed, and provide all platform‑ready cuts with captions."
     },
     {
       "id": "freelancer:40548766",
