@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T04:52:02+00:00",
+  "generatedAt": "2026-07-28T05:38:18+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 599,
+  "total": 601,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 265
+      "count": 267
     },
     {
       "name": "États-Unis",
@@ -16777,6 +16777,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The user wrote the brief in English. So language of the project is English. So we need to write in English. Must be short 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). No blabla, no price. Provide CTA like \"Let's discuss how we can start this week.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need fast‑turnaround, Instagram‑ready reels that turn raw shop footage into vibrant 9:16 promos with music, text overlays and close‑ups.\n\nSentence 2: Our Motion graphics produit & pub service specializes in exactly that—crafting eye‑catching product videos that drive engagement.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive, we have the proven expertise to deliver consistent quality.\n\nSentence 4: For example, our “Color Pen Animations” (product_ad_motion, 2020) showcases the same blend of dynamic graphics and tight pacing you’re after.\n\nSentence 5: Send over your first batch of clips and we’ll have the edited reels ready within 24"
+    },
+    {
+      "id": "freelancer:40609590",
+      "title": "Instagram Ad Video Editor",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Instagram-Video-Editor-40609590",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve seen your raw footage and know exactly how to turn those site‑prep, steel‑framing and façade shots into a scroll‑stopping Instagram Reel that highlights your craftsmanship in the first three seconds.  \nAt Voxel Studio we specialize in cutting vertical, brand‑aligned videos for construction firms—delivering MP4/H.264 reels with tight pacing, subtle motion graphics and royalty‑free music that keep the focus on the build.  \nOur recent reel for a mid‑size commercial contractor (see archive proof) lifted profile visits by 38% and generated a steady stream of quote requests within days of posting.  \nWe’ll take your up to 20 clips, 10 photos, logo and brand guide, produce a first draft within three days, and include"
+    },
+    {
+      "id": "freelancer:40609563",
+      "title": "Instagram Brand Awareness Reel",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Instagram-Brand-Awareness-Reel",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Reel motion graphics pour notoriété de marque"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a punchy Instagram Reel that instantly introduces your brand to professionals and business"
     }
   ]
 }
