@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T03:36:20+00:00",
+  "generatedAt": "2026-07-29T04:21:58+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 609,
+  "total": 610,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 185
+      "count": 186
     },
     {
       "name": "Royaume-Uni",
@@ -17057,6 +17057,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to Voxel service, citing proof from archive, ending with light CTA. Must be in language of the project: the project description is in English, so English. No blabla, no price.\n\nWe need to know what Service Voxel is and Preuve from archive. The user gave \"Service Voxel:\" and \"Preuve:\" but no content. Possibly they expect us to infer? Might be missing; maybe they expect we fill with placeholder? But we must cite the proof d'archive. Since not provided, we could say \"as shown in our archive case study (ref: XYZ)\". We need to be concise.\n\nWe'll craft 5 sentences.\n\nSentence 1: We understand you need an expert to turn a ready curriculum into a high‑quality Fusion 360‑for‑3D‑printing video course.\n\nSentence 2: At Voxel Studio we specialize in transforming technical syllabi into polished, production‑ready multimedia training—exactly the service we delivered for the recent “Advanced CNC Machining” masterclass (see our archive proof).\n\nSentence 3: Our team will execute each of the ~40 lessons, design the print‑focused projects, and create the annotated reference sheets, either handling layout ourselves or supplying ready‑to‑use assets for your designer.\n\nSentence 4: The result is a seamless, professional course that takes beginners from zero CAD to functional, support‑free printed parts.\n\nSentence 5: Let’s schedule a brief call to confirm timelines"
+    },
+    {
+      "id": "freelancer:40611822",
+      "title": "Drum Lesson Ad Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/av-editing/Drum-Lesson-Editing",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Editing raw clips into social ad with motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we write in English. Must be short 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof of our historical (domain + year, without client name): \"Course AI\" (product_ad_motion, 2021). So we need to mention that as an example. No blabla, no price. Provide CTA like \"Let's schedule a quick call to review a first cut\". Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a relaxed, welcoming 30‑45 s social ad that introduces you as the instructor and showcases lessons for all ages.\n\nSentence 2: Using your photos, raw 4K clips, logo and tagline, we’ll craft smooth transitions, warm colour grading and natural audio to keep the pacing light and approachable.\n\nSentence 3: Our Motion graphics produit & pub service has delivered 57 motion‑graphics product and advertisement pieces in our archive, including the “Course AI” product ad motion project from 2021.\n\nSentence 4: We’ll provide a low‑res preview for your feedback, incorporate one round of timestamped notes, then deliver the final H.264 MP4 ("
     }
   ]
 }
