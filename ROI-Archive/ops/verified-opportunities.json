@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T21:47:31+00:00",
+  "generatedAt": "2026-07-29T22:32:52+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 626,
+  "total": 627,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 282
+      "count": 283
     },
     {
       "name": "États-Unis",
@@ -5125,6 +5125,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need clean weight painting for your Rigify‑rigged cartoon character so every pose deforms without surprises.  \nOur character‑animation service specializes in fixing exactly those vertex‑group issues while preserving the rig hierarchy.  \nWith 44 character‑and‑cartoon animation projects in our"
+    },
+    {
+      "id": "freelancer:40613722",
+      "title": "Amazon Supplements Conversion Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/amazon-product-launch/Amazon-Supplements-Conversion-Videos",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos motion graphics pour publicité produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Nous avons bien compris que vous avez besoin de deux vidéos Amazon display de 15‑30 secondes, alliant confiance santé et incitation à l’achat immédiat."
     },
     {
       "id": "freelancer:40545736",
