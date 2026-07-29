@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T16:29:41+00:00",
+  "generatedAt": "2026-07-29T17:14:54+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 622,
+  "total": 623,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 280
+      "count": 281
     },
     {
       "name": "États-Unis",
@@ -5097,6 +5097,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need scroll‑stopping animated Meta ads that convey your SaaS USP in the first three seconds and deliver a balanced creative mix.  \nAs Voxel Studio, our Motion graphics produit & pub service turns product insights"
+    },
+    {
+      "id": "freelancer:40613321",
+      "title": "Blender Weight Paint Fix",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Blender-Weight-Paint-Fix",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Correction poids pour déformation propre personnage"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need clean weight painting for your Rigify‑rigged cartoon character so every pose deforms without surprises.  \nOur character‑animation service specializes in fixing exactly those vertex‑group issues while preserving the rig hierarchy.  \nWith 44 character‑and‑cartoon animation projects in our"
     },
     {
       "id": "freelancer:40545736",
