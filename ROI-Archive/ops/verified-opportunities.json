@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T12:57:44+00:00",
+  "generatedAt": "2026-07-30T13:44:16+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 636,
+  "total": 637,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 192
+      "count": 193
     },
     {
       "name": "Royaume-Uni",
@@ -17813,6 +17813,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not fully given but we have \"Service Voxel: \" line empty? Actually they gave \"Service Voxel:\" then blank. Possibly they expect we fill with something like \"video editing and AI voiceover for performance ads\". The proof: \"Preuve:\" blank. Probably they expect we reference some proof from archive? Since not provided, maybe we can assume we have a proof like \"Nous avons récemment réalisé une publicité de 55 secondes pour une marque X, augmentant son CTR de 27%\". But we need to be careful: we shouldn't fabricate? The instruction: \"cite la preuve d'archive ``\". The proof placeholder is empty; maybe we should just mention that we have a proven track record (like \"Comme le montre notre étude de cas...\") but we cannot invent specifics. Might be okay to say \"Comme le montre notre portefeuille de projets similaires\". Since no actual proof given, we can refer to \"notre preuve d'archive\" generically.\n\nWe must write in language of the project: the project description is in French/English mix but mostly English. The user wrote French headings but the content is English. Likely they want French? The instruction: \"Écris dans la langue du projet.\" The project is bilingual but primarily English. However the user wrote French headings and English body. Could decide to write in French because the request is in French? The title is English but the request includes French. I'd choose French to be safe.\n\nWe need"
+    },
+    {
+      "id": "freelancer:40615226",
+      "title": "Fix Mobile Battle Animations",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Fix-Mobile-Battle-Animations",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Réparation"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French (since user wrote in French and says \"Écris dans la langue du projet.\" The project is English? The user wrote in English but the instruction says \"Écris dans la langue du projet.\" The project language likely English because the user wrote English. However the user wrote the request in English but the instruction says \"Écris dans la langue du projet.\" The project is the Voxel Studio service description in French? The user wrote in English but the instruction is French. Usually we follow the language of the user request: they wrote in English. But they explicitly said \"Écris dans la langue du projet.\" The project is the Voxel Studio service? The service is \"Animation de personnages\" which is French. The proof is French. The archive project is French. So likely they want French. The user wrote the brief in English but they ask to write in the language of the project (French). So we output French.\n\nWe need 4-6 sentences, professional, first person (Voxel). Show we understood need, link to service \"Animation de personnages\", cite proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", mention the concrete archive project \"Cartoon characters animations\" (cartoon_character_animation, 2022). End with light CTA. No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons bien saisi que les rigs de vos personnages provoquent des distorsions et bloquent vos animations de combat, alors que le reste du jeu est stable.\n\nSentence 2: Chez Vox"
     }
   ]
 }
