@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T00:04:23+00:00",
+  "generatedAt": "2026-07-30T00:49:25+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 628,
+  "total": 629,
   "countryCount": 8,
   "countries": [
     {
@@ -51,7 +51,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 27
+      "count": 28
     },
     {
       "name": "Europe",
@@ -6623,6 +6623,34 @@
       "lat": -25,
       "lon": 133,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project description is in English. But the user wrote the instruction in French. The project language? The user wrote the request in French, but the content (project) is English. Usually \"langue du projet\" refers to the language of the project description, which is English. However the user wrote the instruction in French, but they said \"Écris dans la langue du projet.\" The project is described in English (the brief). So we should write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). So include that.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a tight 40‑second product promo that grabs scroll‑stoppers on social while staying true to your brand. Sentence 2: Our Motion graphics produit & pub service turns brand guidelines into dynamic, benefit‑first storytelling. Sentence 3: With 57 motion‑graphics product & ads in our archive—including the 2020 “Color Pen Animations” product ad—we have the track record to deliver exactly what you envision. Sentence 4: We’ll handle concept, script, graphics, music, voice‑over if needed, and provide all platform‑ready cuts with captions."
+    },
+    {
+      "id": "freelancer:40613908",
+      "title": "Realistic Character Animation for Game",
+      "sourceUrl": "https://www.freelancer.com/projects/game-animation/Realistic-Character-Animation-for-Game",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d'animation de personnage réaliste"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project title is in English, but the service description is French. The language of the project? The user wrote in English for the request but the service is French. The instruction: \"Écris dans la langue du projet.\" The project is \"Realistic Character Animation for Game\" - English. So we should write in English. Provide a short commercial hook 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Animation de personnages, citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with light CTA. Also cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). Must not include blabla, no price. Provide 4-6 sentences.\n\nLet's craft: 5 sentences.\n\nSentence 1: We understand you need a realistic baseball swing animation for your game character. Sentence 2: At Voxel Studio, our Animation de personnages service specializes in lifelike human motion, especially sports‑specific actions. Sentence 3: With a track record of 44 character animation & cartoon projects in our archive, we bring proven expertise to every frame. Sentence 4: For example, our Lemur Animations (cartoon_character_animation, 2020) demonstrates our ability to blend anatomical accuracy with expressive movement. Sentence 5: Let’s discuss how we can deliver the precise swing you envision—feel free to share more details or"
     },
     {
       "id": "freelancer:40548766",
