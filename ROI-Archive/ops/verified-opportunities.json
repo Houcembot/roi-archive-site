@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T09:10:48+00:00",
+  "generatedAt": "2026-07-30T09:56:00+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 634,
+  "total": 635,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 286
+      "count": 287
     },
     {
       "name": "États-Unis",
@@ -17757,6 +17757,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language is English. So we need to write in English, short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably Voxel Studio's service: 3D creative production? Actually they said \"Service Voxel:\" but not filled. We need to infer: Voxel Studio is a 3D creative production studio. So service likely \"cinematic video production\" or \"high‑end motion graphics\". We'll reference that. Also cite proof from archive: we need to cite the proof d'archive ``. The placeholder is empty; maybe they expect us to insert something like \"[Preuve]\"? Actually they wrote: \"cite la preuve d'archive ``\". The backticks are empty. Possibly they expect we put something like \"[Preuve]\"? Might be a mistake. We could just mention we have proven track record creating cinematic SaaS launch videos, referencing our portfolio (maybe we can say \"as shown in our recent launch video for XYZ\"). Since we don't have actual proof, we can say \"as demonstrated in our archive of SaaS launch videos\". We'll keep it generic but mention proof.\n\nWe need to end with a light CTA.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We grasp that Nimuvo needs a tight, cinematic 45‑60 second video that showcases its macOS security features while"
+    },
+    {
+      "id": "freelancer:40614813",
+      "title": "Cinematic Real Estate Reel Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/color-grading/Cinematic-Real-Estate-Reel-Edit",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (though service Voxel not provided fully? It says \"Service Voxel: \" blank? Possibly we need to infer service: maybe Voxel offers cinematic real estate reel editing). We need to cite proof from archive (Preuve: blank). Hmm maybe they expect to reference some proof like \"see our recent reel for XYZ property\" but we don't have actual link. Possibly we can say \"as shown in our recent reel for [Project]\" but we don't have specifics. Since we don't have actual proof, we can say \"as demonstrated in our archive (see link)\" but we don't have link. Could we make a placeholder? Probably we should say \"as evidenced by our recent real-estate reel for [Client]\" but we don't have name. Might be okay to say \"as shown in our portfolio (link)\". The instruction: cite the proof d'archive ``. The archive proof likely is something like a URL they gave earlier but it's blank. Might be we just write \"voir notre preuve d'archive\" but no link. Could be they expect us to insert something like \"(voir preuve d'archive)\" as placeholder.\n\nWe need to write in language of the project: the project description is in English, so we write in English.\n\nWe need 4-6 sentences, short, professional, first person (Voxel). No blabla, no price.\n\nLet's craft 5 sentences:\n\nSentence 1: Show we understood need: \"I see you need a tight, cin"
     }
   ]
 }
