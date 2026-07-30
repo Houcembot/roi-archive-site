@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T04:37:12+00:00",
+  "generatedAt": "2026-07-30T05:22:25+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 629,
+  "total": 630,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 283
+      "count": 284
     },
     {
       "name": "États-Unis",
@@ -17617,6 +17617,34 @@
       "lat": -41,
       "lon": 174,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project title is English: \"T-Rex Animation in Maya\". The language of the project? The user wrote in English for language is ambiguous. The user wrote in English but the instruction says \"Écris dans la langue du projet.\" The project title is English, but the user wrote French in the instructions. Usually they'd want French because they wrote French instructions. However the project title is English, but the language of the project could be English because the description is in English. The instruction: \"Écris dans la langue du projet.\" Means we should write in the language used in the project description. The description is English. So we should write the hook in English. Let's produce 4-6 sentences, professional, first person (Voxel), showing we understood need, relate to Voxel service (though service Voxel is blank? It says Service Voxel: then blank). We need to still refer to service Voxel (maybe \"our Maya animation expertise\"). Cite proof of archive (Preuve: blank). We need to cite the proof d'archive but it's blank. Possibly we can say \"as demonstrated in our recent T-Rex rig for XYZ\". Since no proof given, we can still mention \"our archive shows successful dinosaur animations\". Might be okay.\n\nWe need no blabla, no price. Provide a light CTA at end.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We grasp the urgency of delivering three high‑impact T‑rex shots—"
+    },
+    {
+      "id": "freelancer:40614238",
+      "title": "Spine Animations for Unity Deckbuilder",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Spine-Animations-for-Unity-Deckbuilder",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we need to write in English. Provide a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to Voxel service \"Animation de personnages\", cite proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", end with light CTA. Also cite concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). No blabla, no price. Must start with something? Not required. Just produce the hook.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need polished Spine idle and attack loops for player characters, enemies, and NPCs in your Unity roguelike deck‑builder.\"\n\nSentence 2: Relate to service: \"At Voxel Studio our core expertise is character animation, delivering expressive loops that read instantly at game speed.\"\n\nSentence 3: Cite proof: \"We’ve completed 44 character‑and‑cartoon animation projects, including the Lemur Animations (cartoon_character_animation, 2020) where we stayed within tight texture budgets and rig constraints.\"\n\nSentence 4: Show fit: \"We can match your bone naming, keep each character under 512×512, and hand over ready‑to‑import Spine JSON/atlas files.\"\n\nSentence 5: CTA:"
     }
   ]
 }
