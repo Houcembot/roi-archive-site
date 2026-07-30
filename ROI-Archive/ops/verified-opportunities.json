@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T12:12:29+00:00",
+  "generatedAt": "2026-07-30T12:57:44+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 635,
+  "total": 636,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 287
+      "count": 288
     },
     {
       "name": "États-Unis",
@@ -17785,6 +17785,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (though service Voxel not provided fully? It says \"Service Voxel: \" blank? Possibly we need to infer service: maybe Voxel offers cinematic real estate reel editing). We need to cite proof from archive (Preuve: blank). Hmm maybe they expect to reference some proof like \"see our recent reel for XYZ property\" but we don't have actual link. Possibly we can say \"as shown in our recent reel for [Project]\" but we don't have specifics. Since we don't have actual proof, we can say \"as demonstrated in our archive (see link)\" but we don't have link. Could we make a placeholder? Probably we should say \"as evidenced by our recent real-estate reel for [Client]\" but we don't have name. Might be okay to say \"as shown in our portfolio (link)\". The instruction: cite the proof d'archive ``. The archive proof likely is something like a URL they gave earlier but it's blank. Might be we just write \"voir notre preuve d'archive\" but no link. Could be they expect us to insert something like \"(voir preuve d'archive)\" as placeholder.\n\nWe need to write in language of the project: the project description is in English, so we write in English.\n\nWe need 4-6 sentences, short, professional, first person (Voxel). No blabla, no price.\n\nLet's craft 5 sentences:\n\nSentence 1: Show we understood need: \"I see you need a tight, cin"
+    },
+    {
+      "id": "freelancer:40615174",
+      "title": "Entrancing Social Media Ads Video Editor Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-voiceover/Entrancing-Social-Media-Ads-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not fully given but we have \"Service Voxel: \" line empty? Actually they gave \"Service Voxel:\" then blank. Possibly they expect we fill with something like \"video editing and AI voiceover for performance ads\". The proof: \"Preuve:\" blank. Probably they expect we reference some proof from archive? Since not provided, maybe we can assume we have a proof like \"Nous avons récemment réalisé une publicité de 55 secondes pour une marque X, augmentant son CTR de 27%\". But we need to be careful: we shouldn't fabricate? The instruction: \"cite la preuve d'archive ``\". The proof placeholder is empty; maybe we should just mention that we have a proven track record (like \"Comme le montre notre étude de cas...\") but we cannot invent specifics. Might be okay to say \"Comme le montre notre portefeuille de projets similaires\". Since no actual proof given, we can refer to \"notre preuve d'archive\" generically.\n\nWe must write in language of the project: the project description is in French/English mix but mostly English. The user wrote French headings but the content is English. Likely they want French? The instruction: \"Écris dans la langue du projet.\" The project is bilingual but primarily English. However the user wrote French headings and English body. Could decide to write in French because the request is in French? The title is English but the request includes French. I'd choose French to be safe.\n\nWe need"
     }
   ]
 }
