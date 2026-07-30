@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T05:22:25+00:00",
+  "generatedAt": "2026-07-30T06:08:50+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 630,
+  "total": 631,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 190
+      "count": 191
     },
     {
       "name": "Royaume-Uni",
@@ -5153,6 +5153,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "Nous avons bien compris que vous avez besoin de deux vidéos Amazon display de 15‑30 secondes, alliant confiance santé et incitation à l’achat immédiat."
+    },
+    {
+      "id": "freelancer:40614365",
+      "title": "30-Second Child Neurology Promo",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Second-Child-Neurology-Promo",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo motion graphics promo 30s"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the instruction is French. The language of the project? The user wrote in English but the request is in French. The phrase \"Écris dans la langue du projet.\" Likely means write in the language of the project description, which is English? However the user wrote the request in French, but the project details are English. Usually they'd want French because they wrote in French. But ambiguous. Let's see: The user wrote: \"Tu es ComBot, chargé de prospection pour Voxel Studio... Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), qui : ... Écris dans la langue du projet. Pas de blabla, pas de prix.\" The project description is in English, but the user wrote the request in French. The \"langue du projet\" could refer to the language of the project brief, which is English. However they might consider the project language as French because they wrote in French. But they gave the project title and details in English. I'd lean to English because they said \"langue du projet\" and the project is described in English. Also they want to cite archive proof etc. So produce 4-6 sentences in English, first person (Voxel). Include understanding need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite concrete project as proof: \"Course"
     },
     {
       "id": "freelancer:40545736",
