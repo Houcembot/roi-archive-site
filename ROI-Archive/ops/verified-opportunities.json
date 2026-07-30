@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T18:16:24+00:00",
+  "generatedAt": "2026-07-30T19:02:05+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 641,
+  "total": 642,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 195
+      "count": 196
     },
     {
       "name": "Royaume-Uni",
@@ -17953,6 +17953,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "I understand you’re looking for a premium, understated 4‑ to 5‑second logo intro that stays clean and modern, with the focus entirely on a crisp reveal and only subtle background motion.  \nAt Voxel Studio we specialize in exactly that – delivering full‑color and monochrome"
+    },
+    {
+      "id": "freelancer:40615743",
+      "title": "Interactive Ad Banners Creation in All Formats",
+      "sourceUrl": "https://www.freelancer.com/projects/animation/Interactive-Banners-Creation-All-Formats",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "Nous avons bien saisi que chaque placement — web display, réseaux sociaux, newsletters ou in‑app — nécessite des dimensions personnalisées et une interactivité poussée (motion, états hover, micro‑animations) directement dans"
     }
   ]
 }
