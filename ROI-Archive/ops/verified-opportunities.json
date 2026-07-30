@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T17:30:59+00:00",
+  "generatedAt": "2026-07-30T18:16:24+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 640,
+  "total": 641,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 289
+      "count": 290
     },
     {
       "name": "États-Unis",
@@ -17925,6 +17925,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a punchy,"
+    },
+    {
+      "id": "freelancer:40615239",
+      "title": "4K Minimal Logo Intro Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Minimal-Logo-Intro-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product",
+          "label": "product"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "I understand you’re looking for a premium, understated 4‑ to 5‑second logo intro that stays clean and modern, with the focus entirely on a crisp reveal and only subtle background motion.  \nAt Voxel Studio we specialize in exactly that – delivering full‑color and monochrome"
     }
   ]
 }
