@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T22:19:22+00:00",
+  "generatedAt": "2026-07-31T23:04:38+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 662,
+  "total": 663,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 202
+      "count": 203
     },
     {
       "name": "Royaume-Uni",
@@ -18537,6 +18537,34 @@
         }
       ],
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with a light CTA. Write in language of the project. The project is in French? The user wrote French. So we write in French. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Provide domain+year: product_ad_motion is domain? It's a type. So we can say: \"Shapes Animation\" (product_ad_motion, 2020). Must be in French. Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons saisi que vous cherchez une animation motion percutante pour mettre en valeur votre produit. Sentence 2: Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de transformer vos idées en visuels dynamiques. Sentence 3: Avec plus de 57 productions motion graphics produit & publicité réalisées (archive Voxel), nous avons déjà prouvé notre capacité à livrer des résultats de qualité. Sentence 4: Parmi celles‑ci, le projet « Shapes Animation » (product_ad_motion, 2020) illustre notre savoir‑faire dans ce domaine. Sentence 5: Parlons‑en rapidement pour définir comment nous pouvons donner vie à votre prochaine campagne.\n\nThat's 5 sentences. Good.\n\nCheck no price, no"
+    },
+    {
+      "id": "freelancer:40618206",
+      "title": "Packaging Motion Graphics From Photos",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Packaging-Motion-Graphics-From-Photos",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics produit pour animations boîte"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project: The user wrote in English, so we write in English. No blabla, no price. Cite concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). So we need to mention that as an example of our archive.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you want seven product photos turned into subtle looping rotations, plus a couple of hero groupings, all delivered with clean lighting and editable files.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in exactly that—bringing static packaging to life with smooth 3D motion while preserving color fidelity and crisp edges.\"\n\nSentence 3: Cite proof: \"We’ve built a track record of 57 motion‑graphics product and advertising pieces in our archive, including the recent “Color Pen Animations” (product_ad_motion, 2020) that showcases seamless product spins and composited hero scenes.\"\n\nSentence 4: Maybe add another proof or benefit: \"Using After Effects 3D layers (or Blender when needed), we deliver lightweight MP4/MOV/PNG sequences plus the source project files for easy tweaks.\"\n\nSentence 5: CTA: \"Let’s schedule a quick"
     }
   ]
 }
