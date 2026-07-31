@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T05:38:50+00:00",
+  "generatedAt": "2026-07-31T06:24:24+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 645,
+  "total": 646,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 291
+      "count": 292
     },
     {
       "name": "États-Unis",
@@ -6679,6 +6679,34 @@
       "lat": -25,
       "lon": 133,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project title is in English, but the service description is French. The language of the project? The user wrote in English for the request but the service is French. The instruction: \"Écris dans la langue du projet.\" The project is \"Realistic Character Animation for Game\" - English. So we should write in English. Provide a short commercial hook 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Animation de personnages, citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with light CTA. Also cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). Must not include blabla, no price. Provide 4-6 sentences.\n\nLet's craft: 5 sentences.\n\nSentence 1: We understand you need a realistic baseball swing animation for your game character. Sentence 2: At Voxel Studio, our Animation de personnages service specializes in lifelike human motion, especially sports‑specific actions. Sentence 3: With a track record of 44 character animation & cartoon projects in our archive, we bring proven expertise to every frame. Sentence 4: For example, our Lemur Animations (cartoon_character_animation, 2020) demonstrates our ability to blend anatomical accuracy with expressive movement. Sentence 5: Let’s discuss how we can deliver the precise swing you envision—feel free to share more details or"
+    },
+    {
+      "id": "freelancer:40616667",
+      "title": "30-Second Finance Insights Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Second-Finance-Insights-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de vidéo promo motion graphics 30s avec branding et voix-off"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the service Voxel is French? The user wrote in English but the instruction says \"Écris dans la langue du projet.\" The project language is English (the brief is English). So we should write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. Provide short hook.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a punchy 30‑second video that positions Vedam Advisors as the go‑to partner for forward‑thinking investment banking.\n\nSentence 2: Our Motion graphics produit & pub service delivers sleek, modern visuals with crisp motion graphics and seamless transitions that match your reference reel.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the 2021 “Course AI” product ad—we have the proven expertise to bring finance‑focused stories to life.\n\nSentence 4: We’ll provide a professional English voice‑over, on‑brand branding, and editable source files ready for 16:9 and 1:1 delivery.\n\nSentence 5: Let’s schedule a quick call to confirm the creative"
     },
     {
       "id": "freelancer:40548766",
