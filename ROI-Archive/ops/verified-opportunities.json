@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T04:52:57+00:00",
+  "generatedAt": "2026-07-31T05:38:50+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 644,
+  "total": 645,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 290
+      "count": 291
     },
     {
       "name": "États-Unis",
@@ -18037,6 +18037,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not given explicitly but likely video creation/animation), citing proof of archive (maybe a placeholder like \"[Preuve]\" or we need to embed the proof? The user gave \"Preuve:\" but no content. Possibly they expect we reference the proof as something like \"comme le montre notre archive [Preuve]\" but we don't have content. Could we just say \"comme le montre notre preuve d'archive\" referencing that we have relevant samples? The instruction: \"cite la preuve d'archive ``\". Means we need to insert the proof placeholder exactly as given? The proof is empty after colon. Maybe they expect we just write \"(voir preuve)\"? Not sure.\n\nWe need to write in the language of the project. The project description is in English. So write in English.\n\nWe need to avoid fluff, no prices.\n\nWe need to produce 4-6 sentences.\n\nLet's craft: \"We understand you need a 10‑20 second sleek MP4 opening for your custom Honda Goldwing head unit, with the logo emerging from black, THX sound, and a storm image with thunder‑lightning finale. At Voxel Studio we specialize in modern, sleek video creation and dynamic text animation, exactly matching your storyboard. Our archive proof (see attached) shows a similar Goldwing‑themed intro we delivered for a motorcycle accessory brand, featuring logo reveal and animated text. Let’s discuss how we can bring your vision to life—share your storyboard and we’ll start the concept.\"\n\nThat's"
+    },
+    {
+      "id": "freelancer:40616618",
+      "title": "Hourly 3D Character Modeling & Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-rigging/Hourly-Character-Modeling-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand"
     }
   ]
 }
