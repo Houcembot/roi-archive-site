@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T16:15:51+00:00",
+  "generatedAt": "2026-07-31T17:01:20+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 657,
+  "total": 659,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 297
+      "count": 298
     },
     {
       "name": "États-Unis",
@@ -57,7 +57,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 27
+      "count": 28
     },
     {
       "name": "Canada",
@@ -6763,6 +6763,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the service name is French. Likely they want French. The project is about YouTube 3D Educational Animations, but they ask to write in language of the project. The project title is English, but the service is French. Usually they'd want French. We'll output French, 4-6 sentences, professional, first person (Voxel). Include understanding need, link to service Contenu 3D éducatif & recherche, cite proof \"19 modules 3D éducatifs & de recherche (archive Voxel)\", end with light CTA. Cite concrete project as proof: \"Lynda _ Rigging a Cartoon Character in Maya 2016\" (education_research, 2016). No price, no blabla.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous comprenons que vous avez besoin d’animations 3D complètes pour transformer vos scripts en vidéos YouTube prêtes à être publiées en 4K.\n\nSentence 2: Chez Voxel Studio, notre offre Contenu 3D éducatif & recherche prend en charge l’ensemble du pipeline – modélisation, texturage, rigging, éclairage, animation et compositing – afin de livrer le MP4 final, les fichiers sources et une vignette.\n\nSentence 3: Cette expertise s’appuie sur notre historique, notamment les 19 modules 3D éducatifs & de recherche de notre archive Voxel.\n\nSentence 4: Parmi nos"
+    },
+    {
+      "id": "freelancer:40617763",
+      "title": "Engaging IT Reels Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Engaging-Reels-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de reels motion graphics pour réseaux sociaux"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with a light CTA. Write in language of the project: the project is in English (the user wrote English). So we need English. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that as part of proof maybe: like \"as demonstrated by our 2021 Course AI product ad motion\". Provide 4-6 sentences. Let's craft maybe 5 sentences.\n\nSentence 1: We understand you need punchy, mobile‑first Reels that turn IT pain points into a clear problem‑insight‑solution story. Sentence 2: Our Motion graphics produit & pub service specializes in exactly that blend of snappy cuts, bold on‑screen text and brand‑aligned visuals for Instagram. Sentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the 2021 Course AI product ad—we have a proven track record of delivering scroll‑stopping, sound‑off‑friendly content. Sentence 4: We’ll handle script tweaks, editing, royalty‑free music and colour grading to deliver the final Reel, editable project file, matching feed graphic and caption copy. Sentence 5: Let’s kick off a test batch and see how it drives engagement; just say the word and we’ll get started"
     },
     {
       "id": "freelancer:40548766",
@@ -18401,6 +18429,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "Nous avons bien saisi votre souhait d’une intro"
+    },
+    {
+      "id": "freelancer:40617749",
+      "title": "Poster-Animation mit lippensynchronen Gesichtsbewegungen",
+      "sourceUrl": "https://www.freelancer.com/projects/character-animation/Poster-Animation-mit-lippensynchronen",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to Voxel service (which is presumably 3D animation, lip-sync facial animation, etc.), citing the proof from archive (the \"Preuve:\" line is empty? Actually the user gave \"Service Voxel: \\nPreuve:\" with nothing after. Possibly they expect us to refer to a proof that is in the archive but not provided. Since we don't have the proof content, maybe we just mention that we have proven expertise in lip-sync facial animation as shown in our archive (the \"Preuve\"). We'll write in German (the project language is German). No blabla, no price. Provide CTA light at end.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Wir verstehen, dass das Poster ein präzise lippensynchron animiertes digitales Gesicht benötigt, das den gesamten Sprechertext exakt widerspiegelt und dabei natürliche Mimik zeigt.\n\nSentence 2: Zusätzlich soll das Gesicht sich subtil bewegen und die Hintergrundgrafik mit dezenten, futuristischen Partikel- und Lichteffekten belebt werden, während alle statischen Elemente unverändert bleiben.\n\nSentence 3: Unser Service Voxel liefert hochwertige 3D‑Gesichtsanimationen mit exakter Audio‑Lip‑Sync‑Technologie und dynamischer Mimiksteuerung, wie es in unseren Referenzprojekten belegt ist (siehe Preuve).\n\nSentence 4: Wir garantieren termingerechte Fertig"
     }
   ]
 }
