@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T10:11:20+00:00",
+  "generatedAt": "2026-07-31T10:57:23+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 652,
+  "total": 653,
   "countryCount": 8,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 29
+      "count": 30
     },
     {
       "name": "Australie",
@@ -18261,6 +18261,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We’ve grasped that you need a fast‑paced, fully animated explainer that walks viewers through your script, blends motion graphics, live‑data charts and UI mock‑ups, and wraps everything in your brand’s voice, colours and typography.  \nOur Motion graphics produit & pub service is built exactly for turning a solid script into a dynamic visual story that keeps energy high from start to finish.  \nWith"
+    },
+    {
+      "id": "freelancer:40617115",
+      "title": "Elegant Jewellery UGC Ad Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/content-creation/Elegant-Jewellery-UGC-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We’ve grasped that you need scroll‑stopping, hook‑first UGC videos that showcase the personalisation journey of your bespoke jewellery while staying true to a clean, minimalist aesthetic. At Voxel Studio we specialise in"
     }
   ]
 }
