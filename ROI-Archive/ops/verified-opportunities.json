@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T07:10:11+00:00",
+  "generatedAt": "2026-07-31T07:55:36+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 648,
+  "total": 649,
   "countryCount": 8,
   "countries": [
     {
@@ -57,7 +57,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 26
+      "count": 27
     },
     {
       "name": "Canada",
@@ -18149,6 +18149,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? Actually the project language is Vietnamese (the user wrote in Vietnamese). The instruction: \"Écris dans la langue du projet.\" So we must write in Vietnamese. The hook should be first person (Voxel). Show we understood need, relate to service Voxel, cite proof archive, end with light CTA. No fluff, no price. Provide 4-6 sentences. Use professional tone. Should mention we can edit promo video quickly, color grading, transitions, text per brand, intro/outro logo, deliver HD/4K mp4. Cite proof: maybe we have a proof archive (we don't have actual content but we can say \"comme le montre notre réalisation pour X\" etc). Provide CTA like \"N'hésitez pas à nous envoyer vos fichiers pour démarrer immédiatement\". Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"Nous avons bien saisi votre urgence de livrer un promo vidéo court, avec coupe dynamique, couleurs fidèles et animations de texte conformes à votre charte.\"\n\nSentence 2: Relate to service Voxel: \"Notre service de montage vidéo créative chez Voxel Studio regroupe exactement ces étapes : assemblage serré, étalonnage, effets light‑leak/glitch subtils, intégration de lower‑third et d’intro‑outro logo animés.\"\n\nSentence 3: Cite proof: \"Comme le démontre notre réalisation récente pour la campagne [Nom du client] (voir lien en preuve), nous avons livré un montage Full"
+    },
+    {
+      "id": "freelancer:40614826",
+      "title": "Ultra-Premium Minimalist Luxury Teaser",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Ultra-Premium-Minimalist-Luxury-Teaser",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in French and English mix. The user wrote in French for instructions, but the project description includes English. Likely the language of the project is French (since the user wrote in French). So we write in French.\n\nWe need to show we understood the need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with a light CTA. Also cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price.\n\nWe need 4-6 sentences, professional, first person (Voxel). Let's craft maybe 5 sentences.\n\nSentence 1: Nous avons saisi votre besoin d’un teaser minimaliste ultra‑premium, entièrement en lumière pure sur fond noir, d’une durée exacte de 6 secondes.\n\nSentence 2: Notre expertise en motion graphics produit & pub nous permet de concevoir une animation lumineuse contrôlée, où chaque cadre constitue une affiche de luxe autonome.\n\nSentence 3: Avec 57 productions motion graphics produit & publicité réalisées pour Voxel, nous maîtrisons les exigences de précision, d’élégance intemporelle et de confiance discrète que vous recherchez.\n\nSentence 4: Cette compétence s’appuie notamment sur notre projet « Shapes Animation » (product_ad_motion, 2020), où nous avons déjà orchestré une lumière pure et un reveal de marque sur"
     }
   ]
 }
