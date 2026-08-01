@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T21:04:18+00:00",
+  "generatedAt": "2026-08-01T21:51:42+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 671,
+  "total": 672,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 206
+      "count": 207
     },
     {
       "name": "Royaume-Uni",
@@ -18789,6 +18789,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We’ve reviewed your brief for a premium animated digital menu board across three 16:9 screens"
+    },
+    {
+      "id": "freelancer:40619881",
+      "title": "Animated Logo Intro for Podcast/Business",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-design/Animated-Logo-Intro-for-Podcast",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animated logo intro ="
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a polished, premium animated logo intro that works seamlessly across podcast"
     }
   ]
 }
