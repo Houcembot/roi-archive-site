@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T15:00:52+00:00",
+  "generatedAt": "2026-08-01T15:47:04+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 669,
+  "total": 670,
   "countryCount": 8,
   "countries": [
     {
@@ -63,7 +63,7 @@
       "name": "Canada",
       "lat": 56,
       "lon": -106,
-      "count": 24
+      "count": 25
     },
     {
       "name": "Nouvelle-Zélande",
@@ -18733,6 +18733,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a playful, 5‑second seamless 3D loop for your login screen that stays light on iOS and Android while feeling lively and"
+    },
+    {
+      "id": "freelancer:40619496",
+      "title": "3D Educational Kids Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Educational-Kids-Animation-40619496",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 56,
+      "lon": -106,
+      "proposalDraft": "We understand you need a vibrant, playful 3‑D animation that teaches children without talking down to them."
     }
   ]
 }
