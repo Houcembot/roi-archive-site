@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T19:33:08+00:00",
+  "generatedAt": "2026-08-01T20:18:35+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 670,
+  "total": 671,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 205
+      "count": 206
     },
     {
       "name": "Royaume-Uni",
@@ -18761,6 +18761,34 @@
       "lat": 56,
       "lon": -106,
       "proposalDraft": "We understand you need a vibrant, playful 3‑D animation that teaches children without talking down to them."
+    },
+    {
+      "id": "freelancer:40619824",
+      "title": "Premium Animated Digital Menu Design",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Premium-Animated-Digital-Menu-Design",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "..."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We’ve reviewed your brief for a premium animated digital menu board across three 16:9 screens"
     }
   ]
 }
