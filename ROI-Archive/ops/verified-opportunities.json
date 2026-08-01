@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T21:51:42+00:00",
+  "generatedAt": "2026-08-01T22:34:56+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 672,
+  "total": 673,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 301
+      "count": 302
     },
     {
       "name": "États-Unis",
@@ -6847,6 +6847,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with a light CTA. Write in language of the project: the project is in English (the user wrote English). So we need English. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that as part of proof maybe: like \"as demonstrated by our 2021 Course AI product ad motion\". Provide 4-6 sentences. Let's craft maybe 5 sentences.\n\nSentence 1: We understand you need punchy, mobile‑first Reels that turn IT pain points into a clear problem‑insight‑solution story. Sentence 2: Our Motion graphics produit & pub service specializes in exactly that blend of snappy cuts, bold on‑screen text and brand‑aligned visuals for Instagram. Sentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the 2021 Course AI product ad—we have a proven track record of delivering scroll‑stopping, sound‑off‑friendly content. Sentence 4: We’ll handle script tweaks, editing, royalty‑free music and colour grading to deliver the final Reel, editable project file, matching feed graphic and caption copy. Sentence 5: Let’s kick off a test batch and see how it drives engagement; just say the word and we’ll get started"
+    },
+    {
+      "id": "freelancer:40619909",
+      "title": "Create a High-Converting Ads Video for My Web Design Agency",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Create-High-Converting-Ads-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de vidéo motion graphics pour publicité produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Language of the project: The user wrote in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). So we need to mention that as evidence of our experience. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a punchy 20‑30 second square video that turns outdated‑site pain points into a compelling before‑after story for Meta ads.\" Sentence 2: Relate to service: \"Our Motion graphics produit & pub team specializes in exactly that—high‑impact, royalty‑free motion graphics with smooth transitions and editable source files.\" Sentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product & advertising pieces, including the Lemur Animations project (product_ad_motion, 2020) that showcased a similar website‑redesign narrative.\" Sentence 4: Show benefit: \"From hook to CTA, we’ll craft each second to stop scrollers, highlight the transformation, and drive consultation bookings.\" Sentence 5: Light CTA: \"Let’s discuss how we can bring this vision to life—just reply with a convenient time for a brief call.\"\n\nThat's 5 sentences, professional, first person"
     },
     {
       "id": "freelancer:40548766",
