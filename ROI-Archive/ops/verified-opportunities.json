@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T07:25:16+00:00",
+  "generatedAt": "2026-08-01T08:10:38+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 667,
+  "total": 668,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 204
+      "count": 205
     },
     {
       "name": "Royaume-Uni",
@@ -18677,6 +18677,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since user wrote French instructions, and says \"Écris dans la langue du projet.\" The project description is in English, but the instruction says to write in the language of the project. The project description is English, but the user wrote in French for instructions. Usually they'd want French. The instruction: \"Écris dans la langue du projet.\" The project is described in English, but the user wrote the request in French. I'd interpret that they want French. So produce French hook, 4-6 sentences, professional, first person (Voxel). Must show we understood need, relate to Voxel service (which is not fully given but we can infer: Voxel Studio does 3D creative production, likely interactive 3D websites). Cite proof from archive (Preuve: but it's empty? The user left \"Preuve:\" blank. Possibly they expect we reference some proof like \"comme démontré dans notre projet X\" but we have no data. We could say \"comme montré dans notre réalisation pour [client]\" but we don't have specifics. Maybe we can say \"comme démontré dans notre portfolio interactif 3D\" referencing archive. We'll keep generic but mention proof.\n\nCTA léger: e.g., \"Disponible pour en discuter cette semaine ?\" or \"Seriez-vous ouvert à un échange rapide ?\"\n\nNo blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Nous avons saisi que vous recherchez un site produit ultra‑réactif, alliant Next.js, React, Tailwind"
+    },
+    {
+      "id": "freelancer:40618795",
+      "title": "30-Second Finance Insights Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Second-Finance-Insights-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The language of the project is English. So we write in English. Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). End with light CTA. No blabla, no price. Provide short pitch.\n\nLet's craft 5 sentences.\n\nSentence 1: We grasp that Vedam Advisors needs a punchy 30‑second finance‑focused promo that mirrors the sleek, modern energy of your reference reel.\n\nSentence 2: Our Motion graphics produit & pub service specializes in delivering crisp motion graphics, seamless transitions and brand‑aligned visuals that keep viewers hooked from start to finish.\n\nSentence 3: With 57 motion‑graphics product and advertising pieces in our archive—including the recent “Course AI” product ad (2021)—we have proven expertise turning finance stories into dynamic visual narratives.\n\nSentence 4: We’ll pair the edit with a confident English voice‑over, deliver MP4s in 16:9 and 1:1, plus separate audio and an editable project file, all tuned to your website palette and logo.\n\nSentence 5: Let’s schedule a quick call to align on the storyboard and kick‑off production.\n\nMake sure no price, no blabla. Good."
     }
   ]
 }
