@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T03:37:29+00:00",
+  "generatedAt": "2026-08-01T04:23:16+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 664,
+  "total": 666,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 298
+      "count": 299
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 203
+      "count": 204
     },
     {
       "name": "Royaume-Uni",
@@ -5209,6 +5209,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since user wrote French). Must be 1st person (Voxel). Show understanding of need, relate to service Motion graphics produit & pub, cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with light CTA. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. Use language of project (French). Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Nous avons bien compris que vous cherchez une vidéo publicitaire concise et visuellement percutante pour votre service d'installation de gouttières protectrices.\n\nSentence 2: Notre expertise en motion graphics produit & pub nous permet de transformer votre script et storyboard en une animation fluide, avec typographie claire et couleurs brandées, que ce soit en style cartoon, IA ou hybride.\n\nSentence 3: Grâce à nos 57 productions motion graphics produit & publicité (archive Voxel), dont le projet « Course AI » (product_ad_motion, 2021), nous avons déjà démontré notre capacité à mettre en avant des bénéfices pratiques et des offres spéciales tout en restant professionnel et énergique.\n\nSentence 4: Nous livrerons la vidéo finale en 1080p MP4/MOV, prête pour Facebook, Instagram et YouTube, accompagnée des fichiers source et de deux rounds de révisions mineures.\n\nSentence 5: Discutons dès maintenant de vos attentes pour lancer la production et garantir un rendu qui cap"
+    },
+    {
+      "id": "freelancer:40618450",
+      "title": "30s Fun Coffee Drive-Thru Ads",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Fun-Coffee-Drive-Thru-Ads",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos pub avec motion graphics et montage live‑action"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need fun, lively 30‑45 s"
+    },
+    {
+      "id": "freelancer:40616385",
+      "title": "Cartoon Dance Character Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Cartoon-Dance-Character-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d'animation pure de personnage cartoon"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language appears to be English (the brief is English). However the instruction says \"Écris dans la langue du projet.\" The project language is English (the brief). So we should write in English. Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, link to service Animation de personnages, cite proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", end with light CTA. Cite the concrete project as proof: \"Lynda _ Rigging a Cartoon Character in Maya 2016\" (cartoon_character_animation, 2016). No blabla, no price.\n\nWe need 4-6 sentences. Let's do 5 sentences.\n\nSentence 1: Show we understood need: \"We get that you need a 45‑60‑second, music‑driven cartoon dance where every pose hits the beat and the character’s facial energy shines.\"\n\nSentence 2: Link to service: \"Our Animation de personnages team specializes in exactly that—bright squash‑and‑stretch, expressive timing, and clean contact work.\"\n\nSentence 3: Cite proof: \"We’ve delivered 44 character‑and‑cartoon animation projects in our archive, including a recent rigging and animation study titled “Lynda _ Rigging a Cartoon Character in Maya 2016” (cartoon_character_animation, 2016).\"\n\nSentence 4: Maybe another proof or"
     },
     {
       "id": "freelancer:40545736",
