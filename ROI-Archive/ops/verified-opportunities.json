@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T08:56:22+00:00",
+  "generatedAt": "2026-08-01T09:43:32+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 668,
+  "total": 669,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 300
+      "count": 301
     },
     {
       "name": "États-Unis",
@@ -18705,6 +18705,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The language of the project is English. So we write in English. Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). End with light CTA. No blabla, no price. Provide short pitch.\n\nLet's craft 5 sentences.\n\nSentence 1: We grasp that Vedam Advisors needs a punchy 30‑second finance‑focused promo that mirrors the sleek, modern energy of your reference reel.\n\nSentence 2: Our Motion graphics produit & pub service specializes in delivering crisp motion graphics, seamless transitions and brand‑aligned visuals that keep viewers hooked from start to finish.\n\nSentence 3: With 57 motion‑graphics product and advertising pieces in our archive—including the recent “Course AI” product ad (2021)—we have proven expertise turning finance stories into dynamic visual narratives.\n\nSentence 4: We’ll pair the edit with a confident English voice‑over, deliver MP4s in 16:9 and 1:1, plus separate audio and an editable project file, all tuned to your website palette and logo.\n\nSentence 5: Let’s schedule a quick call to align on the storyboard and kick‑off production.\n\nMake sure no price, no blabla. Good."
+    },
+    {
+      "id": "freelancer:40618957",
+      "title": "Playful Splash Screen Loop",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Playful-Splash-Screen-Loop",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a playful, 5‑second seamless 3D loop for your login screen that stays light on iOS and Android while feeling lively and"
     }
   ]
 }
