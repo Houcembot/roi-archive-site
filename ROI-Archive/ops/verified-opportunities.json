@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T12:15:10+00:00",
+  "generatedAt": "2026-08-02T13:00:33+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 686,
+  "total": 687,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 310
+      "count": 311
     },
     {
       "name": "États-Unis",
@@ -6931,6 +6931,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Language of the project: The user wrote in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). So we need to mention that as evidence of our experience. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a punchy 20‑30 second square video that turns outdated‑site pain points into a compelling before‑after story for Meta ads.\" Sentence 2: Relate to service: \"Our Motion graphics produit & pub team specializes in exactly that—high‑impact, royalty‑free motion graphics with smooth transitions and editable source files.\" Sentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product & advertising pieces, including the Lemur Animations project (product_ad_motion, 2020) that showcased a similar website‑redesign narrative.\" Sentence 4: Show benefit: \"From hook to CTA, we’ll craft each second to stop scrollers, highlight the transformation, and drive consultation bookings.\" Sentence 5: Light CTA: \"Let’s discuss how we can bring this vision to life—just reply with a convenient time for a brief call.\"\n\nThat's 5 sentences, professional, first person"
+    },
+    {
+      "id": "freelancer:40621012",
+      "title": "Interactive 3D Footwear Animation Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-graphic-design/Interactive-Footwear-Animation-Needed",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Product animation for footwear interchange demonstration"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences 1 sentences 4-6, showing we understood need, relate to service \"Motion graphics produit & pub\", cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Write in language of project. The project description is in French (some English). The user wrote French for description: \"Titre: Interactive 3D Footwear Animation Needed\" etc. So language of project is French. So respond in French. No blabla, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence1: Nous avons bien compris que vous avez besoin d’une animation 3D premium montrant le détachement et le remplacement de la sangle de votre chaussure Rodcut. Sentence2: Notre expertise en motion graphics produit & pub nous permet de transformer vos CAD en une séquence fluide, réaliste et adaptée aux formats Instagram/Reels. Sentence3: Nous avons déjà réalisé 57 productions motion graphics produit & publicité (archive Voxel), dont le projet « Shapes Animation » (product_ad_motion, 2020) illustre notre capacité à mettre en valeur des mécanismes interchangeables avec précision. Sentence4: Nous garantissons le respect strict des formes, proportions, logo et mécanisme de verrouillage tout en délivrant un rendu haut de gamme. Sentence5: Envoyez-nous vos fichiers et nous vous livrerons le retournerons sous 48 h.\n\nCheck length:"
     },
     {
       "id": "freelancer:40548766",
