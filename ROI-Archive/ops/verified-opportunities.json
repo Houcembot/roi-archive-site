@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T07:41:15+00:00",
+  "generatedAt": "2026-08-02T08:26:27+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 679,
+  "total": 680,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 305
+      "count": 306
     },
     {
       "name": "États-Unis",
@@ -5293,6 +5293,34 @@
       "lat": -25,
       "lon": 133,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: the project is in English (the brief is English). So we write in English. No fluff, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that as evidence of our track record.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We get that TrackView Performance needs punchy, vertical motion‑graphics ads that showcase the technical edge of your helmet visor tear‑offs across TikTok, Facebook and Instagram.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in high‑energy After Effects‑driven product spots that blend kinetic typography, dynamic transitions and realistic dirt/dust effects.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product and advertising pieces (archive Voxel), including the ‘Shapes Animation’ project (product_ad_motion, 2020) that exemplifies the premium, motorsport‑focused style you’re after.\"\n\nSentence 4: Show we can meet specifics: \"We’ll turn your high‑res assets, logos and feature list into 10‑15‑second 9:16 commercials that feel like"
+    },
+    {
+      "id": "freelancer:40620605",
+      "title": "Digital Product Promotional Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Digital-Product-Promotional-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo promotionnelle produit, motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a tight, eye‑catching video that instantly conveys your digital product’s value and drives sign‑ups.  \nAt Voxel Studio we turn core messaging into polished motion‑graphics stories that highlight benefits and guide viewers to action.  \nOur track record includes 57 motion‑graphics product & publicité pieces, such as the “Course AI” spot we produced in"
     },
     {
       "id": "freelancer:40545736",
