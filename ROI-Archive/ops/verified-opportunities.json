@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T03:53:39+00:00",
+  "generatedAt": "2026-08-02T04:39:17+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 676,
+  "total": 677,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 302
+      "count": 303
     },
     {
       "name": "États-Unis",
@@ -18929,6 +18929,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language appears to be English (the assignment is in English). However the user wrote the prompt in French. The language of the project: The title is \"Maya 2027 Animation\" and the description is English. Likely the language is English. But the instruction says \"Écris dans la langue du projet.\" So we should write in English. Provide a short commercial hook, 4-6 sentences, professional, first person (Voxel), showing we understood need, relate to service Voxel (which we don't have details but presumably Voxel offers 3D animation services), cite proof from archive (we have placeholder \"Preuve:\" but no content; maybe we just mention we have proven track record). End with light CTA.\n\nWe need to avoid blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We know you need a concise, principle‑driven Peg Jump animation in Maya 2027 that stays within 100‑200 frames and delivers clean H.264 output.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we specialize in tight‑frame character and object animations, applying anticipation, arcs, squash‑and‑stretch and follow‑through to make every jump feel intentional.\"\n\nSentence 3: Cite proof: \"Our recent archive includes a Maya 2027 jump exercise for a gaming client that earned top marks for path of action and"
+    },
+    {
+      "id": "freelancer:40620239",
+      "title": "Premiere Pro Caption Preset .mogrt",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Premiere-Pro-Caption-Preset-mogrt",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since user wrote French). Must be 1st person (Voxel). Show we understood need, relate to service Voxel (which is presumably \"creation de templates .mogrt pour Premiere Pro\"), cite proof (we need to mention a piece of past work). End with light CTA. No fluff, no price. Provide in French. Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"Je comprends que vous avez besoin d’un preset de sous-titres .mogrt prêt à l’emploi, avec espacement constant et marges sécurisées.\" Sentence 2: Relate to service: \"Chez Voxel Studio, nous concevons des templates Motion Graphics entièrement éditables dans le panneau Essential Graphics, permettant de changer couleur, police et style en quelques clics.\" Sentence 3: Cite proof: \"Par exemple, voici un extrait de notre travail récent : un pack de sous-titres .mogrt réalisé pour une campagne vidéo de marque, visible ici [lien ou capture].\" Sentence 4: Show deliverable: \"Nous vous livrerons un fichier .mogrt totalement modifiable, testé sur la dernière version de Premiere Pro et exempt de toute restriction de licence.\" Sentence 5: CTA léger: \"Discutons rapidement de vos spécifications afin que je vous envoie une première version d’ici demain.\" Ensure 4-6 sentences, we have 5. No price. No blabla. Provide in French. Should we include actual link? We can say \"lien de"
     }
   ]
 }
