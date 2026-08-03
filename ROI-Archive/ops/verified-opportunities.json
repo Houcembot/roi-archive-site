@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T18:33:29+00:00",
+  "generatedAt": "2026-08-03T19:20:38+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 709,
+  "total": 710,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 323
+      "count": 324
     },
     {
       "name": "États-Unis",
@@ -7043,6 +7043,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service \"Motion graphics produit & pub\", citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with a light CTA. Write in the language of the project. The project language is French? The user wrote in French and Spanish mix. Title: \"Motion Graphics para Redes Sociales\" (Spanish). Need: \"Necesito de manera urgente editor de Motion Graphic, enviar sus trabajos realizados\". Service Voxel: \"Motion graphics produit & pub\". Proof: \"57 productions motion graphics produit & publicité (archive Voxel)\". Archive project to cite: \"2012-10-TT Mode de paiement\" (product_ad_motion, 2012). The language of the project: The title is Spanish, but the rest is French. Likely we should write in Spanish? The user says \"Écris dans la langue du projet.\" The project language could be Spanish because title is Spanish. However the need is Spanish, service is French, proof is French. Might be ambiguous. Usually they'd want French because they wrote instructions in French. But they said \"langue du projet\". The project is \"Motion Graphics para Redes Sociales\" which is Spanish. So we should write in Spanish. Provide 4-6 sentences, first person (Voxel). Show we understood need: urgent need for motion graphics editor, need to see works. Relate to service: we do motion graphics for product & ad. Cite proof: 57 productions. End with light"
+    },
+    {
+      "id": "freelancer:40623782",
+      "title": "Professional 5-10 sec Video Logo Animation for my film distribution label",
+      "sourceUrl": "https://www.freelancer.com/projects/digital-art/Professional-sec-Video-Logo-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation logo 3D avec son et polices"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project: the project description is in English, so write in English. No fluff, no price. Cite concrete project as proof of our historical (domain + year, without client name): \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that we have done similar like Shapes Animation, a product ad motion in 2020. Provide CTA like \"Let's discuss how we can bring your label to life\" or similar. Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a sophisticated, minimalist 3D logo animation that instantly conveys a professional, rich feel for your film distribution label. Sentence 2: Our Motion graphics produit & pub service specializes in crafting exactly that—high‑impact, copyright‑cleared animations with tailored music and SFX. Sentence 3: With 57 motion‑graphics product & advertising pieces in our archive, we bring proven expertise to every brief. Sentence 4: For example, our “Shapes Animation” (product_ad_motion, 2020) delivered a sleek, brand‑defining 3D motion piece that met similar sophistication and technical requirements. Sentence 5: Let’s schedule a quick call to explore how we can turn your rough design"
     },
     {
       "id": "freelancer:40548766",
