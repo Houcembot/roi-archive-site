@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T04:10:22+00:00",
+  "generatedAt": "2026-08-03T04:58:24+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 694,
+  "total": 696,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 315
+      "count": 317
     },
     {
       "name": "États-Unis",
@@ -19433,6 +19433,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to write a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: the project description is in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Must not mention client name. Provide approach? Actually just the accroche. Should be 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We get that your college fest trailer needs to hit hard from the first beat, with fast cuts, punchy text and a driving soundtrack that fuels excitement.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub expertise lets us blend your raw footage with dynamic kinetic typography and subtle visual flourishes that keep the energy cinematic.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces, including the 2021 “Course AI” product ad that combined footage‑driven editing with bold motion graphics.\"\n\nSentence 4: Maybe mention deliverables: \"We’ll deliver HD versions for Instagram, YouTube and LED screens, a clean PA‑ready mix, and the source project file for easy yearly updates.\"\n\nSentence 5: CTA: \"Let’s jump on a quick call to lock in the approach and start building buzz—just drop us a line when you’re ready.\"\n\nMake sure it's 4-6"
+    },
+    {
+      "id": "freelancer:40622113",
+      "title": "Edit Commercial Video for Social",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Edit-Commercial-Video-for-Social-40622113",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Nous avons bien saisi votre besoin : transformer vos rushes en un spot dynamique, adapté aux formats verticaux, carrés et horizontaux d’Instagram, Facebook et YouTube, avec un rythme soutenu, une colorimétrie fidèle à votre charte, des motion‑graphics percutants, des sous‑titres incrustés et une piste musicale libre de droits. Chez Voxel Studio, notre expertise en montage Premiere Pro et en animation After Effects nous permet de livrer exactement ces trois exports, accompagnés d’un master propre et de versions H.264 prêtes à être publiées. Comme le montre notre réalisation récente pour une campagne similaire (voir preuve d’"
+    },
+    {
+      "id": "freelancer:40622190",
+      "title": "Animated Video for CRM Software",
+      "sourceUrl": "https://www.freelancer.com/projects/Animated-Video-for-CRM-Software",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Motion graphics product video with animation and screen capture"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a in the with,,,, and... and, (), and,. however however However However The is is the the is\n However\n theHoweverHowever\n the the.  the) the) The) themar)tr)  \n* Then\n\nnHoweveryn] then)  ) theThe This*"
     }
   ]
 }
