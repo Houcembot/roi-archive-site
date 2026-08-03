@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T17:02:45+00:00",
+  "generatedAt": "2026-08-03T17:50:05+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 708,
+  "total": 709,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 322
+      "count": 323
     },
     {
       "name": "États-Unis",
@@ -19825,6 +19825,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "I’ve read your brief and see that you need a verbatim‑to‑storyboard whiteboard explainer where lively characters, not just line‑drawings, carry the narrative and keep every scene focused on a single concept. At Voxel Studio we specialize in exactly that – turning scripts into HD whiteboard animations that blend classic “drawing‑hand” reveals with expressive, pose‑driven characters to clarify ideas without clutter. Our recent archive work, such as the character‑centric whiteboard we produced for a tech‑startup’s concept video, demonstrates how we sync visuals to script timing, add subtle music and SFX, and deliver editable project files alongside the final MP4. Let’s schedule a quick call to review your script, share a few storyboard sketches"
+    },
+    {
+      "id": "freelancer:40623681",
+      "title": "Islamic Thobe Influencer Campaign",
+      "sourceUrl": "https://www.freelancer.com/projects/influencer-marketing/Islamic-Thobe-Influencer-Campaign",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need authentic, faith‑aligned video that showcases the craftsmanship of iijabia’s thobes and drives traffic to your site.  \nOur"
     }
   ]
 }
