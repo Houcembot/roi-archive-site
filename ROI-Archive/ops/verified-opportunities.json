@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T05:40:49+00:00",
+  "generatedAt": "2026-08-03T06:29:08+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 696,
+  "total": 698,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 317
+      "count": 318
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 214
+      "count": 215
     },
     {
       "name": "Royaume-Uni",
@@ -19489,6 +19489,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a in the with,,,, and... and, (), and,. however however However However The is is the the is\n However\n theHoweverHowever\n the the.  the) the) The) themar)tr)  \n* Then\n\nnHoweveryn] then)  ) theThe This*"
+    },
+    {
+      "id": "freelancer:40622299",
+      "title": "Professional Motion Graphics Discord Logo",
+      "sourceUrl": "https://www.freelancer.com/projects/graphic-design/Professional-Motion-Graphics-Discord",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "I understand you’re looking for a calm, professional motion‑graphics animation of your Discord logo that stays true to your brand colors. At Voxel Studio we specialize in crafting smooth, brand‑aligned logo animations using After Effects and a deep grasp of color theory, exactly what your"
+    },
+    {
+      "id": "freelancer:40622260",
+      "title": "30-Second Instagram Ad Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Second-Instagram-Edit",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We"
     }
   ]
 }
