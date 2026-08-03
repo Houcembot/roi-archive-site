@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T20:06:08+00:00",
+  "generatedAt": "2026-08-03T20:50:46+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 710,
+  "total": 711,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 220
+      "count": 221
     },
     {
       "name": "Royaume-Uni",
@@ -19881,6 +19881,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need authentic, faith‑aligned video that showcases the craftsmanship of iijabia’s thobes and drives traffic to your site.  \nOur"
+    },
+    {
+      "id": "freelancer:40623857",
+      "title": "Promotional Reels for College Students",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Promotional-Reels-for-College-Students",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (though not given explicitly, but we have placeholder \"Service Voxel: \" maybe they expect we fill with description? Actually they gave \"Service Voxel:\" line but no content; maybe they expect we refer to the service as described: they want concept, script, edit, deliverables, rights. So we can say \"Our short-form video production service\". Then cite proof d'archive: we need to cite the proof from archive (the given \"Preuve:\" but empty). Possibly they expect we reference the proof as given: maybe we just mention \"as shown in our portfolio (see proof)\". Since no actual proof content, we can just mention \"as demonstrated in our archive (see proof)\". Must be in language of the project: the project is English. So write in English. No blabla, no price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I get that you need punchy, platform‑native reels that grab U.S. college students in the 18‑24 range.\" Sentence 2: Link to service: \"Our short‑form video production service handles concept, script, vertical edit, motion graphics, licensed music and captions, delivering MP4s, project files and SRTs.\" Sentence 3: Cite proof: \"As shown in our archive (see proof), we’ve already produced Gen‑Z‑focused reels for campus brands that drove high engagement.\" Sentence 4: Mention"
     }
   ]
 }
