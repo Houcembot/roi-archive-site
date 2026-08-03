@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T01:52:56+00:00",
+  "generatedAt": "2026-08-03T02:38:32+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 693,
+  "total": 694,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 314
+      "count": 315
     },
     {
       "name": "États-Unis",
@@ -19405,6 +19405,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we need to write in English. Must be short, professional, first person (Voxel). Show we understood need, relate to service Voxel (but service Voxel is blank? It says \"Service Voxel:\" then nothing. Probably we need to infer service: maybe Voxel Studio provides 3D animation services. We'll mention our expertise in 3D animation for kids. Cite proof of archive: \"Preuve:\" blank. Possibly they expect us to refer to some proof like \"our portfolio includes ...\"? Since blank, we can say \"as demonstrated in our recent project X\". We'll make up a plausible proof: maybe \"our recent educational series for preschoolers\". We'll keep it generic but mention proof.\n\nWe must not mention price. Provide CTA lightly: e.g., \"Let's discuss next steps\" or \"Feel free to share your timeline\".\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We understand you need gentle, Pixar‑style 3D shorts that teach daily milestones to children aged 3‑5, especially those on the autism spectrum, using visual cues, sign language and minimal speech.\"\n\nSentence 2: Relate to service Voxel: \"At Voxel Studio we specialize in high‑quality 3D animation for educational and accessible content, delivering editable project files ready for Blender, Maya or Cinema 4D.\"\n\nSentence 3:"
+    },
+    {
+      "id": "freelancer:40621971",
+      "title": "Cinematic College Fest Promo Video -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/sound-design/Cinematic-College-Fest-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to write a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: the project description is in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Must not mention client name. Provide approach? Actually just the accroche. Should be 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We get that your college fest trailer needs to hit hard from the first beat, with fast cuts, punchy text and a driving soundtrack that fuels excitement.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub expertise lets us blend your raw footage with dynamic kinetic typography and subtle visual flourishes that keep the energy cinematic.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces, including the 2021 “Course AI” product ad that combined footage‑driven editing with bold motion graphics.\"\n\nSentence 4: Maybe mention deliverables: \"We’ll deliver HD versions for Instagram, YouTube and LED screens, a clean PA‑ready mix, and the source project file for easy yearly updates.\"\n\nSentence 5: CTA: \"Let’s jump on a quick call to lock in the approach and start building buzz—just drop us a line when you’re ready.\"\n\nMake sure it's 4-6"
     }
   ]
 }
