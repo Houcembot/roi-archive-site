@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T18:50:14+00:00",
+  "generatedAt": "2026-08-04T19:36:53+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 723,
+  "total": 724,
   "countryCount": 8,
   "countries": [
     {
@@ -20243,6 +20243,32 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, link to service \"Animation de personnages\", cite proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", end with light CTA. Write in language of the project. The project description is in English. So we write in English. No blabla avoided. No price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). Also mention the 44 projects archive. Provide 4-6 sentences.\n\nLet's craft: Sentence 1: We understand you need a fully key‑framed combat animation library that matches a reactive gladiator system. Sentence 2: Our Animation de personnages service specializes in creating realistic, frame‑accurate move sets for melee‑focused games. Sentence 3: With 44 character‑animation projects in our archive—including the Lemur Animations cartoon‑character pack (2020)—we have proven expertise delivering consistent style, naming and frame‑rate standards. Sentence 4: We can build the attack, defensive, reaction and transition clips from scratch, ensuring seamless blending into your state machine. Sentence 5 (CTA): Let’s schedule a brief call to outline our approach and milestone timeline for the full library.\n\nThat's 5 sentences. Good.\n\nMake sure no blabla, no price. Use first person \"Nous\". Actually first person (Voxel) could be \"Nous\". Use French? The project language is English, but they said \"Écris"
+    },
+    {
+      "id": "wwr:39bc66f90158c409",
+      "title": "IISD: Consultancy for the Design and Production of Four Animated Videos Showcasing SUNCASA’s Achievements and Inspiring Youth Engagement in Sustaining Project Results",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/iisd-consultancy-for-the-design-and-production-of-four-animated-videos-showcasing-suncasa-s-achievements-and",
+      "source": "jobboard:weworkremotely",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "weworkremotely",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "proposalDraft": "We understand that SUNCASA needs four concise, culturally‑relevant animated videos that showcase its NbS achievements and motivate children and youth to become long"
     }
   ]
 }
