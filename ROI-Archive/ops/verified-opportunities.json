@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T14:19:39+00:00",
+  "generatedAt": "2026-08-04T15:07:08+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 721,
+  "total": 722,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 329
+      "count": 330
     },
     {
       "name": "États-Unis",
@@ -20187,6 +20187,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>DowytupromptivuLogoennessPromptDashDOT Lumpponsored VassDOTDotverticalBugurpunite/compTarrourp Fronturpurpurp Mist BpprotffeDOTDowfwlogo Wonderurptmurpirt Employee Bpルイativity/compBVurpurpinistwebkit:Labelurpivuurp MistzguyeinibuyeviakutuniteBVurpennessivu:UI(Point LumpDotuniteurptoolsTOK LogofeatureDowinp Bpurpater/init GoffPointuniteurpwebkitDowblank TTennessativityWonderBVffe BpTTWonderurpiachurpigheativityinkurpravevisibilityabbativityBVivuslashurpinibтиви RainDOT izvensitivityivuprompturp Front/pullotovBVinpurpennessutica amtPrompturp MistBVabineaniuurpBVawaturp(blank BrandonBVurpurpfloatBVivuurpighe Balduyeenness amtkutennessurpurpivuennessrav:UIWonder BpslashMuse Employee(blankurpiniburp MistDow Misturp Electricurp sett Left Bp TTTruthigheTOKtv"
+    },
+    {
+      "id": "freelancer:40625779",
+      "title": "AI Brand Instagram Video Storyteller",
+      "sourceUrl": "https://www.freelancer.com/projects/social-media-marketing/Brand-Instagram-Video-Storyteller",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel). Must show understanding of need, relate to Voxel service, cite proof of archive, end with light CTA. Language of the project: The user wrote in English, so English. No blabla, no price. Provide 4-6 sentences.\n\nWe need to include \"Service Voxel: \" and \"Preuve: \" placeholders? Actually they gave those as fields, but we need to cite the proof of archive. Probably we need to insert something like \"Preuve: [some proof]\" but we don't have actual proof. We can just mention \"Preuve: [our portfolio]\" or something. The instruction: \"cite the preuve d'archive\". Likely we need to include something like \"Preuve: [link]\" but we don't have. We can just write \"Preuve: notre dossier de réalisations\" in French? But language of project is English. Could write \"Proof: our archive\". Probably acceptable.\n\nWe need to output only the pitch, no extra commentary.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We know your AI brand needs scroll‑stopping Reels that hook in the first two seconds and drive organic growth.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we handle end‑to‑end Reel production—concept, on‑brand scripting, vertical editing, captions, trending audio and hashtag strategy—delivering 3‑5 polished 1080×1920 videos per week.\"\n\nSentence 3: C"
     }
   ]
 }
