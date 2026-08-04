@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T16:36:24+00:00",
+  "generatedAt": "2026-08-04T17:20:00+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 722,
+  "total": 723,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 223
+      "count": 224
     },
     {
       "name": "Australie",
@@ -20215,6 +20215,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel). Must show understanding of need, relate to Voxel service, cite proof of archive, end with light CTA. Language of the project: The user wrote in English, so English. No blabla, no price. Provide 4-6 sentences.\n\nWe need to include \"Service Voxel: \" and \"Preuve: \" placeholders? Actually they gave those as fields, but we need to cite the proof of archive. Probably we need to insert something like \"Preuve: [some proof]\" but we don't have actual proof. We can just mention \"Preuve: [our portfolio]\" or something. The instruction: \"cite the preuve d'archive\". Likely we need to include something like \"Preuve: [link]\" but we don't have. We can just write \"Preuve: notre dossier de réalisations\" in French? But language of project is English. Could write \"Proof: our archive\". Probably acceptable.\n\nWe need to output only the pitch, no extra commentary.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We know your AI brand needs scroll‑stopping Reels that hook in the first two seconds and drive organic growth.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we handle end‑to‑end Reel production—concept, on‑brand scripting, vertical editing, captions, trending audio and hashtag strategy—delivering 3‑5 polished 1080×1920 videos per week.\"\n\nSentence 3: C"
+    },
+    {
+      "id": "freelancer:40626044",
+      "title": "3D Gladiator Combat Animations",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-game-art/Gladiator-Combat-Animations",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Bibliothèque d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, link to service \"Animation de personnages\", cite proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", end with light CTA. Write in language of the project. The project description is in English. So we write in English. No blabla avoided. No price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). Also mention the 44 projects archive. Provide 4-6 sentences.\n\nLet's craft: Sentence 1: We understand you need a fully key‑framed combat animation library that matches a reactive gladiator system. Sentence 2: Our Animation de personnages service specializes in creating realistic, frame‑accurate move sets for melee‑focused games. Sentence 3: With 44 character‑animation projects in our archive—including the Lemur Animations cartoon‑character pack (2020)—we have proven expertise delivering consistent style, naming and frame‑rate standards. Sentence 4: We can build the attack, defensive, reaction and transition clips from scratch, ensuring seamless blending into your state machine. Sentence 5 (CTA): Let’s schedule a brief call to outline our approach and milestone timeline for the full library.\n\nThat's 5 sentences. Good.\n\nMake sure no blabla, no price. Use first person \"Nous\". Actually first person (Voxel) could be \"Nous\". Use French? The project language is English, but they said \"Écris"
     }
   ]
 }
