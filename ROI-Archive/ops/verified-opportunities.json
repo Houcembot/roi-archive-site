@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T03:39:56+00:00",
+  "generatedAt": "2026-08-04T04:25:16+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 716,
+  "total": 717,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 325
+      "count": 326
     },
     {
       "name": "États-Unis",
@@ -20047,6 +20047,34 @@
       "lat": -25,
       "lon": 133,
       "proposalDraft": "We understand you need a polished, one‑minute 3D explainer that turns your ready script and storyboard into a seamless blend of cartoon charm and realistic detail. Our product_ad_m service handles the full pipeline—modeling, texturing, lighting, animation, voice‑over sync, sound design and final edit—so the result feels effortlessly cohesive. As demonstrated in our archive, we’ve delivered comparable explainer videos that meet the exact visual tone you described. Let’s discuss how we can bring your vision to life and schedule a kickoff call at your convenience."
+    },
+    {
+      "id": "freelancer:40624456",
+      "title": "Modern Animated AI Logo -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-hw-sw/Modern-Animated-Logo",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation de logo, motion graphics produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a modern AI‑driven logo animated smoothly, respecting your brand palette.  \nOur Motion graphics produit & pub"
     }
   ]
 }
