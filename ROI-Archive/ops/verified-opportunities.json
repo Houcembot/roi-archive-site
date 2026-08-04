@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T08:13:01+00:00",
+  "generatedAt": "2026-08-04T08:58:21+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 720,
+  "total": 721,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 328
+      "count": 329
     },
     {
       "name": "États-Unis",
@@ -20159,6 +20159,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French (since language of project is French? The user wrote in English but the instruction says \"Écris dans la langue du projet.\" The project description is in English, but the service and proof are in French. Likely the language of the project is French because they gave service and proof in French. So we write in French.\n\nWe need to show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Also cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price.\n\nWe need 4-6 sentences, professional, first person (Voxel). Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Nous avons saisi que vous voulez deux vidéos ultra‑courtes, percutantes, en format 9:16, prêtes pour TikTok, Reels et Facebook, avec un hook immédiat et un CTA final.\"\n\nSentence 2: Relate to service: \"Notre expertise en motion graphics produit & pub nous permet de transformer vos SVG/DXF et vos maquettes en séquences kinetic typography et visuels dynamiques qui captent l’attention dès les deux premières secondes.\"\n\nSentence 3: Cite proof: \"Nous avons déjà réalisé 57 productions motion graphics produit & publicité (archive Voxel), dont le projet « Course AI » (product_ad_motion, 2021) illustre notre capacité à créer des"
+    },
+    {
+      "id": "freelancer:40624991",
+      "title": "AI Mixed-Media Demo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video-editing/Mixed-Media-Demo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>DowytupromptivuLogoennessPromptDashDOT Lumpponsored VassDOTDotverticalBugurpunite/compTarrourp Fronturpurpurp Mist BpprotffeDOTDowfwlogo Wonderurptmurpirt Employee Bpルイativity/compBVurpurpinistwebkit:Labelurpivuurp MistzguyeinibuyeviakutuniteBVurpennessivu:UI(Point LumpDotuniteurptoolsTOK LogofeatureDowinp Bpurpater/init GoffPointuniteurpwebkitDowblank TTennessativityWonderBVffe BpTTWonderurpiachurpigheativityinkurpravevisibilityabbativityBVivuslashurpinibтиви RainDOT izvensitivityivuprompturp Front/pullotovBVinpurpennessutica amtPrompturp MistBVabineaniuurpBVawaturp(blank BrandonBVurpurpfloatBVivuurpighe Balduyeenness amtkutennessurpurpivuennessrav:UIWonder BpslashMuse Employee(blankurpiniburp MistDow Misturp Electricurp sett Left Bp TTTruthigheTOKtv"
     }
   ]
 }
