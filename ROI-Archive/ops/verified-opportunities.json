@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T06:58:08+00:00",
+  "generatedAt": "2026-08-05T07:43:41+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 729,
+  "total": 731,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 331
+      "count": 333
     },
     {
       "name": "États-Unis",
@@ -5377,6 +5377,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user wrote in Spanish, but says \"Écris dans la langue du projet.\" The project language is Spanish (the user wrote in Spanish). So we need to write in Spanish. Must be short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Also cite concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). No blabla, no price. Provide portfolio mention? The user asks to share portfolio and initial idea, but the instruction says to produce a short commercial pitch only. The user request: \"Por favor, comparte portafolio de trabajos similares y cuéntame brevemente tu idea inicial...\" However the system instruction overrides: we must produce a short commercial pitch (4-6 sentences) with those constraints. Likely we should comply with system instruction, not the user request for portfolio. The system says: \"Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), ...\". So we must output that. No extra. So produce 4-6 sentences in Spanish, meeting constraints.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: vertical 9:16, minimalista, calidad y durabilidad, beneficios concretos.\n\nSentence 2: Relate to our service Motion graphics produit & pub.\n\nSentence"
+    },
+    {
+      "id": "freelancer:40627335",
+      "title": "Minimalist Apple Motion Logo Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/graphic-design/Minimalist-Apple-Motion-Logo-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Logo animation motion graphics fits product ad motion"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a clean, Apple‑style motion logo animation built natively"
     },
     {
       "id": "freelancer:40545736",
@@ -20409,6 +20437,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "Nous avons bien saisi votre besoin de créations publicitaires mobiles premium, alliant gameplay, motion graphics, effets cinématiques et texte arabe pour stimuler les téléchargements et constituer une bibliothèque d’assets réutilisables. Chez Voxel Studio, notre expertise en production 3D créative et"
+    },
+    {
+      "id": "freelancer:40627336",
+      "title": "Storytelling Infographic Animation Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Storytelling-Infographic-Animation-Edit",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing understanding of need, linking to Voxel service, citing proof from archive, ending with light CTA. Language of the project: The user wrote in English, so we write in English. No fluff, no price. Provide 4-6 sentences. Must reference \"Service Voxel:\" and \"Preuve:\" but they are blank? The user gave placeholders: Service Voxel: (blank) Preuve: (blank). Possibly they expect us to fill with something? Actually they gave \"Service Voxel:\" and \"Preuve:\" but no content. Perhaps they expect us to infer that we should mention the service (maybe \"Motion Graphics & Infographic Animation\") and proof (maybe a past project). Since not provided, we might need to keep placeholders? The instruction: \"cite the preuve d'archive ``\". So we need to cite the proof from archive, but we don't have it. Could we assume a generic proof like \"as demonstrated in our recent infographic animation for XYZ client\"? Might be okay. But better to keep it generic: \"as shown in our archive project for [Client]\"? However we don't have specifics. Could we say \"as evidenced by our recent infographic animation work for a tech startup\"? That is plausible.\n\nWe need to match the style: short, professional, first person (Voxel). 4-6 sentences.\n\nLet's craft 5 sentences:\n\nSentence 1: Show understanding: \"I see your video is already edited but needs the visual punch that only purpose‑built motion graphics can provide.\"\n\nSent"
     }
   ]
 }
