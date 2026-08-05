@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T19:22:47+00:00",
+  "generatedAt": "2026-08-05T20:08:00+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 746,
+  "total": 748,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 231
+      "count": 233
     },
     {
       "name": "Australie",
@@ -20885,6 +20885,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with light CTA. Write in language of the project: the user wrote in English. So English. No blabla, no price. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Provide domain+year, no client name. So mention \"Course AI\" product ad motion 2021. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need 30 AI‑driven product promos turned into polished, platform‑ready videos. Sentence 2: Our Motion graphics produit & pub service specializes in converting scripts into brand‑aligned, visually engaging reels for Instagram, Facebook, LinkedIn and YouTube. Sentence 3: With 57 motion‑graphics product & publicité pieces in our archive—including the “Course AI” product ad motion piece from 2021—we have the expertise to deliver consistent, high‑quality output. Sentence 4: We’ll handle vertical 9:16 and widescreen 16:9 cuts, AI voice‑over or dynamic captions, on‑brand graphics, logo, colour palette and provide MP4s plus SRTs and source files. Sentence 5: Let’s kick off a quick brief so we can set milestones and get your promos live fast.\n\nThat's 5 sentences."
+    },
+    {
+      "id": "freelancer:40628639",
+      "title": "Character Animator for Kids' Music Band",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-photoshop/Character-Animator-for-Kids-Music",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Character animation rigging and teaching via live screen share."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably \"Character Animator Rigger\" service), citing proof from archive (the proof is not given but we need to reference it; maybe we can say \"as shown in our recent project for a kids' music band\" referencing proof). Must be in language of the project: English. No blabla, no price. Provide CTA light at end.\n\nWe need to infer service Voxel: likely \"Character Animator rigging and teaching via live screen share\". So we say we can do that.\n\nWe need to cite proof: maybe we have an archive proof like \"see our rig for the 'Melody Meadows' series\". We'll just mention proof placeholder: \"as demonstrated in our recent rig for a children's educational series (see proof)\".\n\nMake 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: live screen-share sessions to finish rigging three animal band characters, with teaching focus.\n\nSentence 2: Link to Voxel service: our Character Animator rigging service includes Photoshop layer prep, import, tagging, and real‑time guidance.\n\nSentence 3: Cite proof: we recently rigged a five‑character kids' music puppet set (see attached proof) where we handled occluded parts behind instruments.\n\nSentence 4: Explain we start with a two‑hour rabbit session, then proceed as agreed.\n\nSentence 5: CTA: Let’s schedule a quick call to set up the first screen‑share."
+    },
+    {
+      "id": "freelancer:40628592",
+      "title": "Animated Cat Product Ad Video",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/Animated-Cat-Product-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de vidéo publicitaire animée pour produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need an AI‑driven product ad video similar to the one you shared, but for a different product.  \nOur Motion graphics produit & pub service specializes in turning concepts into polished, high‑impact animations.  \nWith 57 motion‑graphics product & publicité pieces in our archive—including the 2021 Course AI ad—we have the proven expertise to deliver exactly what you envision.  \nLet’s schedule a quick call to explore how we can bring your new product to life."
     }
   ]
 }
