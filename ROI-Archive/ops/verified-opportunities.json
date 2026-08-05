@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T17:06:46+00:00",
+  "generatedAt": "2026-08-05T17:50:33+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 739,
+  "total": 740,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 228
+      "count": 229
     },
     {
       "name": "Australie",
@@ -5405,6 +5405,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a clean, Apple‑style motion logo animation built natively"
+    },
+    {
+      "id": "freelancer:40628409",
+      "title": "30-Second B2B SaaS Explainer",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Second-SaaS-Explainer",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics explainer vidéo SaaS"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Must be in language of the project. The project description is in English. So we write in English. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So include that.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a tight 30‑second B2B SaaS explainer that turns UI screenshots into kinetic typography while keeping a clean, modern look.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub team specializes in exactly that blend of precise UI animation and typographic storytelling.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces, including the ‘Shapes Animation’ product ad from 2020, which showcases the same smooth screen‑scale and kinetic‑type approach.\"\n\nSentence 4: Maybe another proof or benefit: \"Every frame is built to hit your timestamp cues, stay legible at 1080p/720p, and match your UI’s color grading without oversaturation.\"\n\nSentence 5: CTA: \"Let’s jump on a quick call to confirm the cue sheet and deliver the final 16:9 master with both captioned and clean versions.\"\n\nThat's 5"
     },
     {
       "id": "freelancer:40545736",
