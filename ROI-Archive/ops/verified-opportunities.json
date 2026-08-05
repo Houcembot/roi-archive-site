@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T11:30:57+00:00",
+  "generatedAt": "2026-08-05T12:15:58+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 732,
+  "total": 733,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 227
+      "count": 228
     },
     {
       "name": "Australie",
@@ -20493,6 +20493,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a cheerful, village‑style 3D short that brings your Hindi rhyme to life with cute characters, synced voice‑over, subtitles and a lively instrumental track. At Voxel Studio we specialize in quick‑turnaround, kid‑friendly 3D animations that match exactly the bright, simple look you described—just like the village‑themed shorts we delivered for our recent archive project. We’ll handle modeling, animation, lip‑sync, music and subtitles, delivering a polished HD MP4 plus the full editable file within 3‑4 days. Let’s create this test piece together and see if the style and energy hit the mark; if they do, we can move straight into a batch of additional shorts. Feel free to share the rhyme and lyrics whenever you’re ready, and we’ll get started."
+    },
+    {
+      "id": "freelancer:40627860",
+      "title": "Stylized Game Character Animation in UE",
+      "sourceUrl": "https://www.freelancer.com/projects/unreal-engine/Stylized-Game-Character-Animation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Animation de personnages stylisés pour jeu UE"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (but service Voxel is empty? It says Service Voxel: then blank). We need to reference proof from archive but proof is blank. Possibly we need to infer that proof is something like \"we have delivered stylized character animations for UE projects\" but it's blank. We can still mention proof: \"as shown in our recent UE stylized character reel\". Since proof field empty, we can still mention a generic proof? The instruction: cite the proof d'archive ``. The proof placeholder is empty, but we must cite it. Possibly we should output something like \"(voir preuve)\"? But better to include the proof as given: it's empty, so we can't cite anything. Maybe we should note that proof is not provided, but we must still cite it? Could interpret that we should include the proof placeholder as is, i.e., we write nothing? That seems odd.\n\nMaybe we assume the proof is something like \"Nous avons récemment animé des personnages stylisés pour un jeu UE, voir preuve\". Since proof field empty, we just leave blank? The instruction: cite the proof d'archive ``. So we need to include the proof content inside the backticks? The proof is empty, so we just put nothing between backticks? Eg: ``. That would be weird.\n\nProbably we should just mention that we have proof (like \"voir preuve\") but since it's empty we can't. Maybe we can say \"comme le montre notre preuve d'archive\" and then leave the backticks"
     }
   ]
 }
