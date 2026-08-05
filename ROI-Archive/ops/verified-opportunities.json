@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T13:47:14+00:00",
+  "generatedAt": "2026-08-05T14:32:56+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 733,
+  "total": 734,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 334
+      "count": 335
     },
     {
       "name": "États-Unis",
@@ -20521,6 +20521,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (but service Voxel is empty? It says Service Voxel: then blank). We need to reference proof from archive but proof is blank. Possibly we need to infer that proof is something like \"we have delivered stylized character animations for UE projects\" but it's blank. We can still mention proof: \"as shown in our recent UE stylized character reel\". Since proof field empty, we can still mention a generic proof? The instruction: cite the proof d'archive ``. The proof placeholder is empty, but we must cite it. Possibly we should output something like \"(voir preuve)\"? But better to include the proof as given: it's empty, so we can't cite anything. Maybe we should note that proof is not provided, but we must still cite it? Could interpret that we should include the proof placeholder as is, i.e., we write nothing? That seems odd.\n\nMaybe we assume the proof is something like \"Nous avons récemment animé des personnages stylisés pour un jeu UE, voir preuve\". Since proof field empty, we just leave blank? The instruction: cite the proof d'archive ``. So we need to include the proof content inside the backticks? The proof is empty, so we just put nothing between backticks? Eg: ``. That would be weird.\n\nProbably we should just mention that we have proof (like \"voir preuve\") but since it's empty we can't. Maybe we can say \"comme le montre notre preuve d'archive\" and then leave the backticks"
+    },
+    {
+      "id": "freelancer:40628151",
+      "title": "Animated Brand Awareness Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Animated-Brand-Awareness-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo animée promo marque, motion graphics."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve grasped your goal: a vibrant, fully‑animated promo that instantly conveys your brand’s personality, mission and visual identity to new audiences.  \nOur Motion graphics produit & pub service is built exactly for this – turning a short script into a polished, share‑ready video with professional VO, music and sound design.  \nWith 57 motion‑graphics product & publicité pieces in our archive, including the “Shapes Animation” (product_ad_motion, 2020), we have a proven track record of delivering memorable brand"
     }
   ]
 }
