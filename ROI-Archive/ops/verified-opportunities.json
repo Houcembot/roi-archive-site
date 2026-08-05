@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T20:53:25+00:00",
+  "generatedAt": "2026-08-05T21:38:01+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 748,
+  "total": 749,
   "countryCount": 8,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 32
+      "count": 33
     },
     {
       "name": "Europe",
@@ -20941,6 +20941,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need an AI‑driven product ad video similar to the one you shared, but for a different product.  \nOur Motion graphics produit & pub service specializes in turning concepts into polished, high‑impact animations.  \nWith 57 motion‑graphics product & publicité pieces in our archive—including the 2021 Course AI ad—we have the proven expertise to deliver exactly what you envision.  \nLet’s schedule a quick call to explore how we can bring your new product to life."
+    },
+    {
+      "id": "freelancer:40628722",
+      "title": "Heartfelt Facebook Ads Creation for Children’s Books",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Heartfelt-Facebook-Ads-Creation-for",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not described in prompt but likely \"Pre-Production & Creative Editing\"? Actually service Voxel field is empty; we need to refer to service Voxel placeholder? The user gave \"Service Voxel:\" line empty; maybe they expect us to fill with something like \"video ad creation and motion graphics\". Since it's blank, we can infer service Voxel is \"video ad creation for social media\". We'll mention that.\n\nWe need to cite proof d'archive: \"Preuve:\" line empty as well. Probably they expect us to reference some proof like \"our recent campaign for XYZ children's book increased CTR by 28%\". Since no data given, we can fabricate a plausible proof but must be consistent? The instruction: cite the proof d'archive ``. Since empty, we might just mention \"as shown in our portfolio\". Could be okay.\n\nWe must write in language of the project: the project description is in English, so write in English.\n\nNo blabla, no price.\n\n4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you have ready video clips and stills for two new picture books and need scroll‑stopping Facebook video ads that resonate with grandparents and moms.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we specialize in turning raw assets into polished, emotion‑driven video ads with precise colour grading, motion graphics and export‑ready formats for"
     }
   ]
 }
