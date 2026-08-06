@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T12:04:56+00:00",
+  "generatedAt": "2026-08-06T12:48:23+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 766,
+  "total": 767,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 351
+      "count": 352
     },
     {
       "name": "États-Unis",
@@ -21443,6 +21443,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the instruction says write in the language of the project. The project is English. However the service and proof are described in French. The user wrote in English. Usually \"langue du projet\" means the language of the project description, which is English. So we need to write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price. Provide short hook.\n\nLet's craft 5 sentences.\n\nSentence 1: We get that you need scroll‑stopping vertical videos under 30 s with strong hooks, captions, and brand‑aligned motion graphics for Instagram Reels/Stories.\n\nSentence 2: Our Motion graphics produit & pub service specializes exactly in turning product assets into native‑feeling, animated promos that drive taps and sales.\n\nSentence 3: Backed by 57 motion‑graphics product & advertising pieces in our archive, including the “Shapes Animation” product ad motion project from 2020, we have a proven track record of delivering high‑impact short‑form videos.\n\nSentence 4: We’ll propose two storyboard concepts for your approval, then handle editing, transitions, text animation"
+    },
+    {
+      "id": "freelancer:40630211",
+      "title": "3D Animated Educational Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-graphic-design/Animated-Educational-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "edu_research_3d",
+      "primarySegment": "formation",
+      "segments": [
+        "formation"
+      ],
+      "fitReasons": [
+        "Création de"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "edu_research_3d",
+          "label": "edu_research_3d"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The project language: The user wrote in English but the request says \"Écris dans la langue du projet.\" The project language likely is French because the service and proof are in French. So we write in French. Must be professional, first person (Voxel). Show we understood need, link to service \"Contenu 3D éducatif & recherche\", cite proof \"19 modules 3D éducatifs & de recherche (archive Voxel)\", end with light CTA. Cite concrete project: \"Course AI\" (education_research, 2021). No price, no fluff. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons saisi votre besoin de vidéos éducatives animées en 3D, avec personnages parlants et scénarios fournis. Sentence 2: Notre offre « Contenu 3D éducatif & recherche » transforme vos scripts en animations captivantes de 1 à 3 minutes. Sentence 3: Nous disposons d’une expérience éprouvée, comme en témoignent les 19 modules 3D éducatifs & de recherche de notre archive Voxel. Sentence 4: Parmi eux, le projet « Course AI » (education_research, 2021) illustre notre capacité à produire du contenu pédagogique interactif. Sentence 5: Souhaitez-vous que nous élaborions un premier storyboard basé sur votre script pour valider ensemble la direction artistique ?\n\nThat's 5 sentences, professional, first person (we). No price. Good."
     }
   ]
 }
