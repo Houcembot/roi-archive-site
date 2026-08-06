@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T18:07:46+00:00",
+  "generatedAt": "2026-08-06T18:52:14+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 772,
+  "total": 774,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 354
+      "count": 355
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 238
+      "count": 239
     },
     {
       "name": "Australie",
@@ -5459,6 +5459,34 @@
         }
       ],
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood the need, relate to service \"Animation de personnages\", cite proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", end with a light CTA. Write in language of the project. The project title and need are in English? Title: 3D Character Animation, Need: 3D Character Animation. The language likely English. So write in English. Provide 4-6 sentences. No fluff, no price. Cite concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). So mention that we have done 44 projects, including Lemur Animations (cartoon character animation, 2020). End with CTA like \"Let's discuss how we can bring your characters to life.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need high‑quality 3D character animation for your project. Sentence 2: At Voxel Studio we specialize in Animation de personnages, delivering expressive, production‑ready rigs and motion. Sentence 3: Our track record includes 44 projets d'animation de personnages & cartoon from our archive, such as the Lemur Animations (cartoon_character_animation, 2020). Sentence 4: This experience lets us translate your concepts into smooth, believable movement on schedule and budget. Sentence 5: Shall we set up a quick call to explore how we can animate your characters?\n\nCheck: first person"
+    },
+    {
+      "id": "freelancer:40630827",
+      "title": "Instagram Mixed Media Ad Edit -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Instagram-Mixed-Media-Edit",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'ad Instagram avec motion graphics et overlay"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. But the instruction says \"Écris dans la langue du projet.\" The project description is English, so we should write in English. However the user wrote the system message in French, but the project details are English. Likely they want English. We'll produce 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. Provide short pitch.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a scroll‑stopping Instagram ad that turns raw footage into a click‑driven mixed‑media spot.\n\nSentence 2: At Voxel Studio we specialize in Motion graphics produit & pub, blending live‑action with animated text, graphics and sound to maximise engagement.\n\nSentence 3: Our archive shows 57 motion‑graphics product & advertising pieces, including the “Course AI” product ad motion from 2021, proving we deliver on‑brand, high‑impact cuts.\n\nSentence 4: We’ll deliver a draft edit, one revision round, and the final H.264 MP4 plus source file, ready for Instagram Ads Manager.\n\nSentence 5: Let’s get started—share the footage and we"
     },
     {
       "id": "freelancer:40545736",
@@ -21611,6 +21639,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Must be in language of the project: The project description is in English. So write in English. No fluff, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Provide domain+year, no client name. So mention that we have done similar motion graphics for product ads, e.g., Shapes Animation (product_ad_motion, 2020). Provide CTA like \"Let's discuss how we can bring your collage to life\" or \"Feel free to reach out to start the conversation\". Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"We understand you need a polished 3‑ to 4‑minute video collage that weaves together Instagram, Facebook and YouTube assets into a seamless 16:9 loop for internal and visitor viewing.\"\n\nSentence 2: Link to service: \"Our Motion graphics produit & pub service specializes in turning raw social‑media footage into cohesive, animated stories with smooth transitions, light motion effects and smart formatting for vertical content.\"\n\nSentence 3: Cite proof: \"To date we have delivered 57 motion‑graphics productions for product and advertising campaigns, including the Shapes Animation project (product_ad_motion, 2020) that demonstrates our ability to blend diverse media into a polished, brand‑aligned video.\"\n\nSentence"
+    },
+    {
+      "id": "freelancer:40630857",
+      "title": "AI-Driven Character Animation for Film",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Driven-Character-Animation-for-Film",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need AI‑assisted character animation that plugs generative tools into a clean UE5"
     }
   ]
 }
