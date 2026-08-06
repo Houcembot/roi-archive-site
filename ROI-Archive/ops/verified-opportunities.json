@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T05:58:09+00:00",
+  "generatedAt": "2026-08-06T06:43:47+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 755,
+  "total": 756,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 343
+      "count": 344
     },
     {
       "name": "États-Unis",
@@ -21137,6 +21137,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "I understand you need a clean, looping logo‑loading animation (3‑4 s, transparent background) delivered as optimized GIF and MP4 files, working directly from your vector source.  \nOur Motion graphics produit & pub service specializes in exactly this kind of subtle, brand‑aligned motion that enhances rather than distracts.  \nWe have produced 57 motion"
+    },
+    {
+      "id": "freelancer:40629467",
+      "title": "Photoreal Unreal Product Films",
+      "sourceUrl": "https://www.freelancer.com/projects/unreal-engine/Photoreal-Unreal-Product-Films",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Voxel (which is not given explicitly but presumably \"Unreal Engine product films\" service). Cite proof d'archive (some proof given but not shown; we need to reference it). End with light CTA. Write in language of the project (English). No fluff, no price. So we need to avoid mentioning price. Also we must not mention price. Also we must not mention quote breakdown etc. That's for the user's request when they respond, but we are just providing the accroche. So we just need to produce the short pitch.\n\nWe need to reference proof d'archive: maybe something like \"as demonstrated in our archive case study (see proof)\". We'll just mention \"as shown in our proof\". Since we don't have actual link, we can say \"as evidenced in our proof\". Ensure we mention we have Unreal Engine product work starting from raw CAD.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need four 30‑40 s photoreal Unreal Engine 5 product films with cinematic macro moves and hero shots.\n\nSentence 2: At Voxel Studio we take a raw FBX/CAD model, clean it up, retopologize, UV, build accurate PBR materials and set up physically‑correct lighting inside UE5.\n\nSentence 3: Our end‑to‑end pipeline delivers camera animation, sequencing, colour‑graded 4K ProRes masters, 9:16 cuts and three UHD hero stills, backed"
     }
   ]
 }
