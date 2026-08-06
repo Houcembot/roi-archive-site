@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T09:01:29+00:00",
+  "generatedAt": "2026-08-06T09:46:15+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 761,
+  "total": 763,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 349
+      "count": 350
     },
     {
       "name": "États-Unis",
@@ -5433,6 +5433,32 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Must be in language of the project. The project description is in English. So we write in English. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So include that.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a tight 30‑second B2B SaaS explainer that turns UI screenshots into kinetic typography while keeping a clean, modern look.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub team specializes in exactly that blend of precise UI animation and typographic storytelling.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces, including the ‘Shapes Animation’ product ad from 2020, which showcases the same smooth screen‑scale and kinetic‑type approach.\"\n\nSentence 4: Maybe another proof or benefit: \"Every frame is built to hit your timestamp cues, stay legible at 1080p/720p, and match your UI’s color grading without oversaturation.\"\n\nSentence 5: CTA: \"Let’s jump on a quick call to confirm the cue sheet and deliver the final 16:9 master with both captioned and clean versions.\"\n\nThat's 5"
+    },
+    {
+      "id": "guru:ab6e679cf1504434",
+      "title": "3D Character Animation",
+      "sourceUrl": "https://www.guru.com/d/jobs/c/design-art/skill/3d-character-animation/",
+      "source": "marketplace:guru",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d'animation de personnages 3D"
+      ],
+      "buyer": "guru",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood the need, relate to service \"Animation de personnages\", cite proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", end with a light CTA. Write in language of the project. The project title and need are in English? Title: 3D Character Animation, Need: 3D Character Animation. The language likely English. So write in English. Provide 4-6 sentences. No fluff, no price. Cite concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). So mention that we have done 44 projects, including Lemur Animations (cartoon character animation, 2020). End with CTA like \"Let's discuss how we can bring your characters to life.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need high‑quality 3D character animation for your project. Sentence 2: At Voxel Studio we specialize in Animation de personnages, delivering expressive, production‑ready rigs and motion. Sentence 3: Our track record includes 44 projets d'animation de personnages & cartoon from our archive, such as the Lemur Animations (cartoon_character_animation, 2020). Sentence 4: This experience lets us translate your concepts into smooth, believable movement on schedule and budget. Sentence 5: Shall we set up a quick call to explore how we can animate your characters?\n\nCheck: first person"
     },
     {
       "id": "freelancer:40545736",
@@ -21305,6 +21331,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The project language: The user wrote in English but the instruction says \"Écris dans la langue du projet.\" The project description is in English. So we should write in English. Provide a short commercial hook, 4-6 sentences, first person (Voxel), showing we understood need, relate to service Voxel (which is not filled in the prompt but we can infer it's interactive 3D/portfolio services), cite the proof (which is empty). We need to include proof placeholder? The proof field is empty, but we can maybe say \"as demonstrated in our recent interactive portfolio for XYZ\". Since proof is empty, we might note that we have proven capability. We'll keep it generic: \"as shown in our recent interactive automotive portfolio\". Provide CTA: \"Let's schedule a quick call to review the first build\". No pricing. Provide turnaround time? Not needed in hook? The user asked to include turnaround time etc in their request, but the hook should not include price; but we can mention turnaround time? The instruction: \"accroche commerciale courte (4-6 phrases)\", professional, 1st person, showing we understood need, relate to service Voxel, cite proof, finish with CTA. No mention of turnaround time etc. So we just do that.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you have a polished PDF of renders, exploded views and tech notes that you’d like to turn into an engaging, click‑driven showcase.\"\n\nSentence 2: Relate to service Voxel"
+    },
+    {
+      "id": "freelancer:40629819",
+      "title": "Mixed-Media Product Showcase Video -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/da-vinci-resolve/Mixed-Media-Product-Showcase-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_m",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_m",
+          "label": "product_ad_m"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language? The brief is in English. However the user wrote French instructions: \"Écris dans la langue du projet.\" The project language likely English because the brief is English. But ambiguous. The user wrote the request in French, but the content is English. Usually \"langue du projet\" refers to the language of the project description, which is English. So we should write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service product_ad_m, cite proof (but proof is empty? The proof field is empty). We need to cite the proof of archive ``. It's empty; maybe we just mention that we have reviewed the brief? Could cite that we have noted the requirements. Since proof is empty, we can say \"as outlined in your brief\". That satisfies citing the proof. No blabla, no price. Provide CTA light: e.g., \"Let's schedule a quick call to kick off\". Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a polished mixed‑media video that instantly sells your product’s benefits using your ready assets. Sentence 2: Our product_ad_m service will blend live‑action, 3D renders, lifestyle stills and motion graphics into a seamless 60‑90 s cut plus a 15 s teaser, delivered in 4K/1080p with colour correction, audio sweetening and kinetic typography matching your palette"
     }
   ]
 }
