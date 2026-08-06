@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T18:52:14+00:00",
+  "generatedAt": "2026-08-06T19:37:35+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 774,
+  "total": 775,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 239
+      "count": 240
     },
     {
       "name": "Australie",
@@ -21667,6 +21667,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need AI‑assisted character animation that plugs generative tools into a clean UE5"
+    },
+    {
+      "id": "freelancer:40630915",
+      "title": "5-Minute Mobile App Promo/demo Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Minute-Mobile-App-Promo-demo",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo promo app avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (language of project? The user wrote in English but the instruction says \"Écris dans la langue du projet.\" The project description is in English. However the user wrote in English but the instruction says French. Usually the language of the project is the language of the user request? The request is English, but the instruction says \"Écris dans la langue du projet.\" The project is likely English because the user wrote in English. However the instruction is in French, but they ask to write in the language of the project. The project is English. So we should write in English. But the instruction also says \"Pas de blabla, pas de prix.\" Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite the concrete project as proof: \"PUB DEMO\" (product_ad_motion, 2023). So we need to mention that we have done similar. Provide hook.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a 5‑minute app promo split into five 1‑minute segments, optimized for YouTube (16:9) and mobile/social (9:16). Sentence 2: At Voxel Studio we specialize in Motion graphics produit & pub, turning app demos into dynamic visual stories. Sentence 3: Our archive shows 57 motion‑graphics product & advertising productions, including the recent “"
     }
   ]
 }
