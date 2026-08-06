@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T04:28:11+00:00",
+  "generatedAt": "2026-08-06T05:13:33+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 754,
+  "total": 755,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 342
+      "count": 343
     },
     {
       "name": "États-Unis",
@@ -21109,6 +21109,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), in French? The user wrote in English but said \"Écris dans la langue du projet.\" The project language is English (the brief is English). So we should write in English. Must be professional, 1st person (Voxel). Show understanding, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", cite the concrete project \"Color Pen Animations\" (product_ad_motion, 2020) as proof of our historical domain+year. End with light CTA. No blabla, no price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a tight, investor‑focused promo that distills six minutes of raw footage into a crisp two‑minute narrative with clean cuts and brand‑aligned motion graphics.\n\nSentence 2: Our Motion graphics produit & pub service specializes in exactly that—polished edits, subtle graphics that follow your palette, seamless transitions, and balanced audio for a formal, executive tone.\n\nSentence 3: With 57 motion‑graphics product and advertising pieces in our archive, we bring proven expertise to every frame.\n\nSentence 4: For example, our 2020 product_ad_motion project “Color Pen Animations” demonstrates the same level of brand‑consistent titling, call‑outs, and closing slate you’re seeking.\n\nSentence 5: Let’s start with a first cut; we’ll incorporate your feedback in two revision rounds and deliver the final 1080p H.264"
+    },
+    {
+      "id": "freelancer:40629313",
+      "title": "Minimalist Logo Loading Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Minimalist-Logo-Loading-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Logo animation motion graphics fits product_ad_m"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "I understand you need a clean, looping logo‑loading animation (3‑4 s, transparent background) delivered as optimized GIF and MP4 files, working directly from your vector source.  \nOur Motion graphics produit & pub service specializes in exactly this kind of subtle, brand‑aligned motion that enhances rather than distracts.  \nWe have produced 57 motion"
     }
   ]
 }
