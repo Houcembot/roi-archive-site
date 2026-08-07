@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T03:11:39+00:00",
+  "generatedAt": "2026-08-07T03:58:03+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 777,
+  "total": 778,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 355
+      "count": 356
     },
     {
       "name": "États-Unis",
@@ -5487,6 +5487,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. But the instruction says \"Écris dans la langue du projet.\" The project description is English, so we should write in English. However the user wrote the system message in French, but the project details are English. Likely they want English. We'll produce 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. Provide short pitch.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a scroll‑stopping Instagram ad that turns raw footage into a click‑driven mixed‑media spot.\n\nSentence 2: At Voxel Studio we specialize in Motion graphics produit & pub, blending live‑action with animated text, graphics and sound to maximise engagement.\n\nSentence 3: Our archive shows 57 motion‑graphics product & advertising pieces, including the “Course AI” product ad motion from 2021, proving we deliver on‑brand, high‑impact cuts.\n\nSentence 4: We’ll deliver a draft edit, one revision round, and the final H.264 MP4 plus source file, ready for Instagram Ads Manager.\n\nSentence 5: Let’s get started—share the footage and we"
+    },
+    {
+      "id": "freelancer:40631468",
+      "title": "Minimalist Animated Product Flyer -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Minimalist-Animated-Product-Flyer",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d'animation produit minimaliste, motion graphics pub"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project title is English but the request is in French? The user wrote in French instructions. The project details are in English. The language of the project could be English? However the instruction says \"Écris dans la langue du projet.\" The project description is in English (title, need, etc). So we should write in English. Provide 4-6 sentences, professional, first person (Voxel). Show understanding of need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that as evidence of our archive.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a sleek, minimal motion flyer that keeps focus on your product and a single message.\n\nSentence 2: Our Motion graphics produit & pub service specializes in clean transitions, restrained palettes, and crisp typography—exactly the refined approach you described.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive, including the “Shapes Animation” (product_ad_motion, 2020), we have proven expertise delivering this style.\n\nSentence 4: We’ll start with a static storyboard for your quick feedback, then produce the MP4 (15‑25 s) and looping GIF optimized for Meta ads.\n\nSentence 5: Let’s"
     },
     {
       "id": "freelancer:40545736",
