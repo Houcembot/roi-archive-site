@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T18:22:39+00:00",
+  "generatedAt": "2026-08-07T19:08:07+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 785,
+  "total": 786,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 243
+      "count": 244
     },
     {
       "name": "Australie",
@@ -21975,6 +21975,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "Nous avons bien saisi votre besoin d’un montage dynamique qui capte l’attention dès la première seconde, intègre des graphismes à l’écran et se conclut par un splash de marque mémorable, tout en livrant un logo coordonné qui partage la même palette, typographie et énergie. Chez Voxel Studio, notre"
+    },
+    {
+      "id": "freelancer:40633045",
+      "title": "Corporate Football Championship Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/cinematography/Corporate-Football-Championship-Promo",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a 30‑3"
     }
   ]
 }
