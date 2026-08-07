@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T13:03:47+00:00",
+  "generatedAt": "2026-08-07T13:50:30+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 782,
+  "total": 783,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 358
+      "count": 359
     },
     {
       "name": "États-Unis",
@@ -21891,6 +21891,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We’ve grasped the tight 15‑second format you need – opening with “PRIME RETAIL INVESTMENT OPPORTUNITY” and closing with the exact contact CTA – and we know the visual story must spotlight the trusted tenant, the Palm Hills gate frontage, and the 26 m² ground‑floor unit priced at EGP 5,760,000.  \nAt Voxel Studio we specialize in razor‑sharp kinetic typography paired with broadcast"
+    },
+    {
+      "id": "freelancer:40632457",
+      "title": "Machinery Promo Video Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Machinery-Promo-Video-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Nous avons bien compris que vous recherchez un montage punchy de vos séquences de machinerie, avec une correction couleur précise, des overlays on‑brand et des motion graphics détaillés qui expliquent vos spécifications et vos KPI.  \nNotre service de montage vidéo et de motion graphics chez Voxel Studio transforme exactement ce type de footage en contenus prêts"
     }
   ]
 }
