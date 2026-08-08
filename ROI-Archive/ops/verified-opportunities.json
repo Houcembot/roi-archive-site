@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T04:13:53+00:00",
+  "generatedAt": "2026-08-08T04:59:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 794,
+  "total": 795,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 246
+      "count": 247
     },
     {
       "name": "Australie",
@@ -22227,6 +22227,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing understanding, linking to service Voxel (which is not fully described but likely \"3D creative production\" or \"animated product flyer\" service), cite proof from archive (but we have no actual proof text; maybe we need to reference \"Preuve:\" placeholder? The user gave \"Preuve:\" but no content. Perhaps we need to say something like \"As shown in our recent project for X\" referencing the proof. Since we don't have specifics, we can say \"As demonstrated in our archive (see proof)\" but we need to cite the proof. Possibly we just write \"(voir preuve)\"? The instruction: \"cite la preuve d'archive ``\". The placeholder is empty, but we need to cite it. We could write something like \"Comme le montre notre preuve d'archive\" referencing the proof. Since we don't have actual content, we can just mention \"voir preuve\". Probably acceptable.\n\nWe need to write in the language of the project. The project description is in French? The user wrote in French for instructions, but the content (title, need) is in English. The language of the project likely English? The user wrote \"Écris dans la langue du projet.\" The project details are in English (title, need, visual direction). So we should write in English.\n\nThus produce 4-6 sentences, first person (we at Voxel Studio). Show we understood need: eye-catching animated flyer for two hero products, minimalist, etc. Relate to service Voxel: we specialize in premium 3D animated product flyers"
+    },
+    {
+      "id": "freelancer:40633488",
+      "title": "Trace Pen Screen Animations",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Trace-Pen-Screen-Animations",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The language of the project is English. So we need to write in English. Provide a short commercial hook, 4-6 sentences, professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with light CTA. Cite concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). No blabla, no price. Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We get the need for two short motion pieces that animate the Trace Pen screen on power‑on and power‑off.\n\nSentence 2: Our Motion graphics produit & pub team specializes in high‑resolution LED‑ready animations with vibrant color depth and smooth particle flow.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive, we have the experience to deliver crisp, loop‑ready files that drop straight into your playback system.\n\nSentence 4: For reference, we recently produced “Color Pen Animations” (product_ad_motion, 2020), a similar pen‑trace effect that showcases our ability to blend light sweeps and dynamic color transitions.\n\nSentence 5: Let’s share a quick draft so you can review and lock the final look without endless revisions—just reply and we’ll get started.\n\nMake sure it's 4-"
     }
   ]
 }
