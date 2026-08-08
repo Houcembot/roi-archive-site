@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T22:25:57+00:00",
+  "generatedAt": "2026-08-08T23:11:00+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 809,
+  "total": 810,
   "countryCount": 8,
   "countries": [
     {
@@ -51,7 +51,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 34
+      "count": 35
     },
     {
       "name": "Royaume-Uni",
@@ -5627,6 +5627,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, finishing with light CTA. Must be in language of the project: The user wrote in English. So we need English. No blabla, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Provide domain+year without client name. So mention product_ad_motion 2020.\n\nWe need to ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a lightweight, responsive WebGL showcase that animates your product smoothly and lets users interact on desktop and mobile.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in turning 3D assets into polished, brand‑aligned visual experiences exactly like this.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product and advertising pieces (archive Voxel), including the Shapes Animation product_ad_motion project from 2020.\"\n\nSentence 4: Maybe another sentence reinforcing capability: \"We can reuse proven pipelines—Three.js/Babylon.js, optimized GLB, overlay tagline—to hit your tight timeline without sacrificing polish.\"\n\nSentence 5: CTA light: \"Let’s kick off a quick sync and get the prototype in your hands within days.\"\n\nCheck length: 5 sentences. No price, no blabla. Good.\n\nMake sure first"
+    },
+    {
+      "id": "freelancer:40635140",
+      "title": "Motion Graphics Designer – French-Speaking | Amana Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-design/Amana-Platform-Promo-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo motion graphics promo produit en français"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We need to produce a short commercial pitch in French (since project language is French). 4-6 sentences, professional, first person (Voxel). Show we understood need, link to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So mention that we have done similar. Provide CTA like \"Discutons-en rapidement\" or \"Envoyez-nous les fichiers pour démarrer\". Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Nous avons saisi que vous cherchez une vidéo promo de deux minutes en français, élégante et émotionnelle, mettant en avant les fonctionnalités d’Amana via des animations UI/UX.\n\nSentence 2: Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de transformer vos maquettes Figma et votre voix‑off en une séquence fluide, avec typographie soignée et transitions premium.\n\nSentence 3: Nous disposons d’un historique solide : 57 productions motion graphics produit & publicité réalisées pour divers secteurs, dont le projet « Shapes Animation » (product_ad_motion, 2020) illustre notre capacité à créer des vidéos SaaS haut de gamme.\n\nSentence 4: Nous travaillerons en étroite collaboration avec vos assets, livrerons la version finale en 1080p+, les fichiers After Effects organisés et une ronde de révisions.\n\nSentence 5: Envoyez-nous les éléments dès maintenant"
     },
     {
       "id": "freelancer:40545736",
