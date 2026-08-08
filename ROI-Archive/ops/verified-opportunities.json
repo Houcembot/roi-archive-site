@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T19:24:12+00:00",
+  "generatedAt": "2026-08-08T20:09:35+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 808,
+  "total": 809,
   "countryCount": 8,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 251
+      "count": 252
     },
     {
       "name": "Australie",
@@ -22619,6 +22619,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language appears English (the brief is in English). However the instruction says \"Écris dans la langue du projet.\" The project is the user request, which is in English. So we should write in English. Provide a short commercial pitch 4-6 sentences, professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price.\n\nThus produce maybe 5 sentences.\n\nLet's craft:\n\n\"We understand you need scroll‑stopping, AI‑enhanced 9:16 videos that turn product‑review concepts into polished, platform‑ready reels and shorts. Our Motion graphics produit & pub service specializes in crafting exactly that—clean graphics, snappy captions, colour‑corrected footage and royalty‑free audio delivered as upload‑ready MP4s with matching captions and thumbnail. To date we have produced 57 motion‑graphics pieces for product ads and advertising, including the 2021 “Course AI” vertical ad that showcases our ability to blend AI tools with tight‑turnaround, high‑impact short‑form work. Let’s discuss how we can apply this expertise to your Instagram Reels and YouTube Shorts pipeline—just reply with your brief and we’ll kick off a pilot clip"
+    },
+    {
+      "id": "freelancer:40634981",
+      "title": "Interactive 3D Avatar Setup in UE5",
+      "sourceUrl": "https://www.freelancer.com/projects/unreal-engine/Interactive-Avatar-Setup",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "avatar_realtime_unreal",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "avatar_realtime_unreal",
+          "label": "avatar_realtime_unreal"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French (since the project description is in French and the instruction says \"Écris dans la langue du projet.\" The project language appears French (the user wrote French). So we write in French.\n\nWe need to show we understood the need, relate to Voxel service Avatar / temps réel / Unreal, cite proof: 34 projets avatars / temps réel Unreal (archive Voxel). End with a light CTA. Also cite the concrete project as proof: \"unreal_project\" (avatar_robot_unreal, 2023). So mention that we delivered an avatar robot in Unreal in 2023.\n\nWe must not mention price, no blabla. 4-6 sentences.\n\nLet's craft:\n\n\"Nous avons saisi que vous cherchez à déployer un MetaHuman interactif en temps réel sous UE5, avec éclairage Lumen, shaders skin optimisés et pipeline audio‑driven pour atteindre 60 FPS en 4K. Chez Voxel Studio, notre expertise Avatar / temps réel / Unreal nous permet de prendre en charge l’import, le groom, les matériaux subsurface et le rig Lumen tout en synchronisant la voix cloud via WebSockets. Nous avons déjà réalisé 34 projets d’avatars temps réel sous Unreal, dont l’avatar robot Unreal de 2023, preuve de notre capacité à tenir les performances requises. Confiez‑nous votre setup et nous vous livrons un avatar photorealiste prêt à streamer. Discutons dès maintenant des étapes suivantes.\"\n\nThat's"
     }
   ]
 }
