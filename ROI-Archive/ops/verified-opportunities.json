@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T16:31:20+00:00",
+  "generatedAt": "2026-08-08T17:10:42+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 805,
+  "total": 806,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 371
+      "count": 372
     },
     {
       "name": "États-Unis",
@@ -22535,6 +22535,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: The project description is in English, so we write in English. No fluff, no price. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Must include domain + year without client name. So we mention that we delivered a motion graphics product ad for an AI course in 2021.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We grasp that your solar business needs a sleek, AI‑driven animation that clearly showcases installation, cleaning, maintenance and water‑heater services while driving leads.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in turning such technical briefs into polished, realistic videos built with AI video tools.\"\n\nSentence 3: Cite proof: \"To date we have delivered 57 motion‑graphics product and advertising pieces in our archive, including a product‑ad motion piece for an AI‑focused course in 2021.\"\n\nSentence 4: Show benefit: \"That experience guarantees visuals that stay true to real solar equipment, look modern on social feeds, and prompt viewer action.\"\n\nSentence 5: Light CTA: \"Let’s discuss how we can craft your solar ad—just drop us a brief and we"
+    },
+    {
+      "id": "freelancer:40634708",
+      "title": "Premium Influencer Marketing Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Premium-Influencer-Marketing-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_m",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Motion graphics promotional video for influencer marketing"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_m",
+          "label": "product_ad_m"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a tight 30‑45 second video that instantly conveys a premium feel while visualising how your data‑driven influencer matchmaking fuels measurable growth.  \nOur product_ad_m service specialises in crafting slick, UI‑rich motion graphics paired with authentic‑looking footage, exactly matching the clean digital‑marketing aesthetic you described.  \nAs demonstrated in our recent archive work for a high‑end agency, we delivered a 16:9/9:16 promo that highlighted soaring impressions, climbing engagement and upward sales curves with vibrant colour grading and an upbeat, license‑cleared track.  \nThe final frame will feature your mandatory “Connect • Promote • Grow.” call‑to‑action in bold, on‑"
     }
   ]
 }
