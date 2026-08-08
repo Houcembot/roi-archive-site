@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T08:01:16+00:00",
+  "generatedAt": "2026-08-08T08:46:58+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 797,
+  "total": 799,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 365
+      "count": 367
     },
     {
       "name": "États-Unis",
@@ -5571,6 +5571,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English (title, need). However the instruction says \"Écris dans la langue du projet.\" The project language appears to be English (the brief is English). So we should write in English. Provide a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, link to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a clean, loop‑ready animated flyer that highlights the earbuds and smartwatch specs in a minimalist style.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in exactly that—sleek product animations that keep the focus on key features while delivering a polished, professional look.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product and advertising pieces, including the ‘Shapes Animation’ (product_ad_motion, 2020) that showcases the same restrained palette and smooth transitions you’re after.\"\n\nSentence 4: Show capability: \"We can provide the 15‑20 s MP4, looping GIF, and editable source file, all formatted for"
+    },
+    {
+      "id": "freelancer:40633929",
+      "title": "Engaging Custom Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Engaging-Custom-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de vidéo motion graphics personnalisée"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Language of the project: The project title is English, so we write in English. No fluff, no price. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that as an example of our archive.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We see how frustrating it is for talented creators to spend weeks sending applications only to face silence.\" Something like that.\n\nSentence 2: Relate to service: \"Our motion‑graphics produit & pub expertise turns ideas like yours into compelling video stories that motivate action.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics produit & publicité pieces in our archive—including the 2021 'Course AI' product ad—we have a proven track record of delivering high‑impact visuals.\"\n\nSentence 4: Maybe another sentence reinforcing benefit: \"Each piece is crafted to capture attention in the first seconds and keep viewers engaged through a 90‑ to 120‑second narrative.\"\n\nSentence 5: CTA léger: \"Let’s discuss how we can bring your ‘Can't Find a Job?' concept to life—just reply to this message.\"\n\nThat's 5 sentences. Ensure no price, no blabla. Professional tone. First person (Voxel). Use \""
     },
     {
       "id": "freelancer:40545736",
@@ -22311,6 +22339,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need premium vertical AI‑enhanced videos that grab luxury buyers in the first"
+    },
+    {
+      "id": "freelancer:40633924",
+      "title": "Artistic Instagram Motion Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Artistic-Instagram-Motion-Edit",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably \"Artistic Instagram Motion Edit\"? Actually service Voxel is not given in the prompt; we have \"Service Voxel:\" line but empty. Probably we need to infer service: Voxel Studio does 3D creative production, but the need is for artistic Instagram motion edit. So we can say we specialize in custom motion graphics, etc. Provide proof from archive: we need to cite the proof d'archive ``. The proof placeholder is empty; maybe we need to reference something like \"see our recent reel for Brand X\" but we don't have actual proof. The instruction: \"cite la preuve d'archive ``\". Probably we need to put something like \"(voir preuve d'archive: [link])\". Since we don't have actual link, we can just mention \"comme le montre notre preuve d'archive\" or \"voir preuve d'archive\". We'll include a placeholder like [Preuve d'archive]. Must be in language of the project: the project is in English (the user wrote English). So write in English.\n\nWe need 4-6 sentences, no blabla, no price. Provide CTA léger at end: e.g., \"Let's schedule a quick call to discuss timing.\"\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We get that you have raw clips, images and a loose storyboard that need to become a hand‑crafted, beat‑driven Instagram video.\"\n\nSentence 2: Link to service Voxel:"
     }
   ]
 }
