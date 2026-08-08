@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T17:10:42+00:00",
+  "generatedAt": "2026-08-08T17:54:47+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 806,
+  "total": 807,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 372
+      "count": 373
     },
     {
       "name": "États-Unis",
@@ -22563,6 +22563,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a tight 30‑45 second video that instantly conveys a premium feel while visualising how your data‑driven influencer matchmaking fuels measurable growth.  \nOur product_ad_m service specialises in crafting slick, UI‑rich motion graphics paired with authentic‑looking footage, exactly matching the clean digital‑marketing aesthetic you described.  \nAs demonstrated in our recent archive work for a high‑end agency, we delivered a 16:9/9:16 promo that highlighted soaring impressions, climbing engagement and upward sales curves with vibrant colour grading and an upbeat, license‑cleared track.  \nThe final frame will feature your mandatory “Connect • Promote • Grow.” call‑to‑action in bold, on‑"
+    },
+    {
+      "id": "freelancer:40634812",
+      "title": "AI Reels & Shorts Production -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video-editing/Reels-Shorts-Production",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language appears English (the brief is in English). However the instruction says \"Écris dans la langue du projet.\" The project is the user request, which is in English. So we should write in English. Provide a short commercial pitch 4-6 sentences, professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price.\n\nThus produce maybe 5 sentences.\n\nLet's craft:\n\n\"We understand you need scroll‑stopping, AI‑enhanced 9:16 videos that turn product‑review concepts into polished, platform‑ready reels and shorts. Our Motion graphics produit & pub service specializes in crafting exactly that—clean graphics, snappy captions, colour‑corrected footage and royalty‑free audio delivered as upload‑ready MP4s with matching captions and thumbnail. To date we have produced 57 motion‑graphics pieces for product ads and advertising, including the 2021 “Course AI” vertical ad that showcases our ability to blend AI tools with tight‑turnaround, high‑impact short‑form work. Let’s discuss how we can apply this expertise to your Instagram Reels and YouTube Shorts pipeline—just reply with your brief and we’ll kick off a pilot clip"
     }
   ]
 }
