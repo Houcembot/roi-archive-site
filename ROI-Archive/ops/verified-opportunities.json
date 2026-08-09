@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T18:09:08+00:00",
+  "generatedAt": "2026-08-09T18:54:24+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 821,
+  "total": 822,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 381
+      "count": 382
     },
     {
       "name": "États-Unis",
@@ -22989,6 +22989,34 @@
       "lat": 22.3,
       "lon": 114.2,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Voxel (but service Voxel is not specified in the prompt? It says \"Service Voxel: \" then blank? Possibly they omitted but we need to refer to service Voxel (maybe it's \"Motion Graphics & Essential Graphics templates\"?). We need to cite proof d'archive (but it's blank). Probably we need to reference a proof from archive like \"voir notre projet X\" but we don't have specifics. We can assume we have a proof like \"voir notre réalisation pour le client Y\". We'll just mention a proof like \"comme démontré dans notre projet pour [client]\" but we don't have actual name. Could be we need to leave placeholder? The instruction: \"cite la preuve d'archive ``\". The double backticks indicate placeholder for proof. We need to fill it with something? Since we don't have actual proof, maybe we can say \"comme montré dans notre bibliothèque d'assets\" or \"voir notre preuve d'archive jointe\". We'll keep it generic but mention proof.\n\nWe need to write in language of the project: the project description is in English. So write in English.\n\nNo blabla, no price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I get that you need a clean, editable text animation that lives entirely in Premiere Pro and can be swapped out in seconds.\"\n\nSentence 2: Relate to service Voxel: \"Our Voxel Motion Graphics team builds ready‑to‑"
+    },
+    {
+      "id": "freelancer:40636578",
+      "title": "Behind-the-Scenes Instagram Reel Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Behind-the-Scenes-Instagram-Reel",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Création de Reel avec motion graphics et"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you want a candid, fast‑paced Instagram Reel that turns raw studio moments into a vivid brand story.  \nOur video‑editing and motion‑graphics service will select the most engaging highlights, trim them to a 25‑35 second sequence, and layer on‑brand graphics, captions and a trending soundtrack for silent‑view impact.  \nAs"
     }
   ]
 }
