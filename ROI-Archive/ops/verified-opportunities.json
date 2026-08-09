@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T20:25:44+00:00",
+  "generatedAt": "2026-08-09T21:10:46+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 822,
+  "total": 823,
   "countryCount": 9,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 36
+      "count": 37
     },
     {
       "name": "Europe",
@@ -23017,6 +23017,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you want a candid, fast‑paced Instagram Reel that turns raw studio moments into a vivid brand story.  \nOur video‑editing and motion‑graphics service will select the most engaging highlights, trim them to a 25‑35 second sequence, and layer on‑brand graphics, captions and a trending soundtrack for silent‑view impact.  \nAs"
+    },
+    {
+      "id": "freelancer:40636743",
+      "title": "Polished 'Rumble Tips' Promotional + Walkthrough Video",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Polished-Rumble-Tips-Promotional",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Promo walkthrough video with 3D"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We understand you need"
     }
   ]
 }
