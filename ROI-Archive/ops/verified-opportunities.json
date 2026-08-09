@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T01:27:17+00:00",
+  "generatedAt": "2026-08-09T02:12:48+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 810,
+  "total": 811,
   "countryCount": 8,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 373
+      "count": 374
     },
     {
       "name": "États-Unis",
@@ -22675,6 +22675,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French (since the project description is in French and the instruction says \"Écris dans la langue du projet.\" The project language appears French (the user wrote French). So we write in French.\n\nWe need to show we understood the need, relate to Voxel service Avatar / temps réel / Unreal, cite proof: 34 projets avatars / temps réel Unreal (archive Voxel). End with a light CTA. Also cite the concrete project as proof: \"unreal_project\" (avatar_robot_unreal, 2023). So mention that we delivered an avatar robot in Unreal in 2023.\n\nWe must not mention price, no blabla. 4-6 sentences.\n\nLet's craft:\n\n\"Nous avons saisi que vous cherchez à déployer un MetaHuman interactif en temps réel sous UE5, avec éclairage Lumen, shaders skin optimisés et pipeline audio‑driven pour atteindre 60 FPS en 4K. Chez Voxel Studio, notre expertise Avatar / temps réel / Unreal nous permet de prendre en charge l’import, le groom, les matériaux subsurface et le rig Lumen tout en synchronisant la voix cloud via WebSockets. Nous avons déjà réalisé 34 projets d’avatars temps réel sous Unreal, dont l’avatar robot Unreal de 2023, preuve de notre capacité à tenir les performances requises. Confiez‑nous votre setup et nous vous livrons un avatar photorealiste prêt à streamer. Discutons dès maintenant des étapes suivantes.\"\n\nThat's"
+    },
+    {
+      "id": "freelancer:40635250",
+      "title": "YouTube 3D Character Animator",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/YouTube-Character-Animator",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "I understand you’re ready to move your YouTube channel into full‑blown 3D character animation, needing expressive performances, cinematic"
     }
   ]
 }
