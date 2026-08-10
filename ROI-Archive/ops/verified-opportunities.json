@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T08:34:55+00:00",
+  "generatedAt": "2026-08-10T09:19:27+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 828,
+  "total": 829,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 384
+      "count": 385
     },
     {
       "name": "États-Unis",
@@ -23185,6 +23185,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a clear, 60‑90‑second HD video that walks new users through each self‑eKYC step—ID capture, selfie, and confirmation—using a natural voice‑over, on‑screen text, and smooth motion graphics.  \nAt Voxel Studio we turn brand guidelines and process outlines into a full‑production explainer: storyboard, script, AI‑generated voice‑over, clean"
+    },
+    {
+      "id": "freelancer:40637842",
+      "title": "Minimalist Reels Editing Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Minimalist-Reels-Editing-Needed",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Édition créative de reels produit avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: The user wrote in English (the brief). So we need English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Must mention that we have 57 productions, and reference that project. Provide CTA like \"Let's discuss how we can deliver your first reel within 48h\" or similar. Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need crisp, minimal‑edit Instagram Reels that let the product speak for itself.\"\n\nSentence 2: Link to service: \"Our Motion graphics produit & pub service is built exactly for that—clean cuts, subtle colour work, and on‑brand motion text.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product & advertising pieces in our archive—including the 2021 “Course AI” product ad—we have the track record to deliver.\"\n\nSentence 4: Maybe add reassurance about turnaround: \"We can turn each reel around in 48 hours after receiving your assets, providing the final 1080×1920 file plus the editable project.\"\n\nSentence 5: CTA: \"If this approach matches your vision, send over the first batch and we’ll get started right away.\"\n\nMake sure"
     }
   ]
 }
