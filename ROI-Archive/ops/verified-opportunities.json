@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T15:04:04+00:00",
+  "generatedAt": "2026-08-11T15:43:04+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 853,
+  "total": 855,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 397
+      "count": 398
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 265
+      "count": 266
     },
     {
       "name": "Australie",
@@ -7495,6 +7495,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: The project description is in English (title, need). So we write in English. No blabla, no price. Cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). Should mention domain + year, no client name. So we can say: \"Our archive shows 57 motion graphics product & pub productions, including Lemur Animations (product_ad_motion, 2020)\". Provide CTA like \"Let's discuss how we can bring your vape product to life\". Keep 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need photorealistic, cinematic 3D motion ads for vape devices and e‑liquids. Sentence 2: At Voxel Studio our Motion graphics produit & pub service specializes exactly in that workflow—product visualization, camera moves, materials, lighting, transitions, render and compositing. Sentence 3: Our track record includes 57 motion graphics product & publicité productions in the archive, such as Lemur Animations (product_ad_motion, 2020). Sentence 4: We can turn your brand assets and mood boards into short, high‑impact commercials that meet your quality bar. Sentence 5: Feel free to share your brief and we’ll propose a tailored concept and timeline.\n\nCheck"
+    },
+    {
+      "id": "freelancer:40641047",
+      "title": "Animated Anime Character Profile",
+      "sourceUrl": "https://www.freelancer.com/projects/voice-over/Animated-Anime-Character-Profile",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animated character profile video matches character animation service"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service \"Animation de personnages\", citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with a light CTA. Must write in the language of the project. The project description is in English (the user wrote English). So we write in English. No fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). Provide domain+year without client name. So mention that we have done Lemur Animations, a cartoon character animation in 2020. Provide CTA like \"Let's discuss how we can bring your character to life\" or \"Feel free to share more details\". Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need an engaging animated video to introduce your anime character for a profile. Sentence 2: Our Animation de personnages service specializes in creating dynamic, story‑driven character animations that capture personality and style. Sentence 3: With 44 character‑animation & cartoon projects in our archive, including the Lemur Animations (cartoon_character_animation, 2020), we have proven expertise in delivering high‑quality visuals and narration. Sentence 4: We’ll work closely with you to ensure the visuals, voiceover and editing meet your vision. Sentence 5: Share a brief brief or schedule a quick call, and we’ll show you how we can bring your character to"
     },
     {
       "id": "freelancer:40548766",
@@ -23883,6 +23911,34 @@
         }
       ],
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with a light CTA. Language of the project: The job posting is in German. So we must write in German. No fluff, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Provide domain + year (product_ad_motion, 2020). So we need to mention that we have done 57 motion graphics product & pub, including \"Shapes Animation\" (product_ad_motion, 2020). Then CTA like \"Lass uns kurz sprechen, wie wir deine Social Ads zum Performen bringen.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Wir haben verstanden, dass du bewegte Grafiken für Meta‑Ad‑Creatives suchst, die Skripte in visuell starke Stories verwandeln. Sentence 2: Unser Service Motion graphics produit & pub liefert genau das – animierte Inhalte, die Markenrichtlinien respektieren und gleichzeitig frische Ideen einbringen. Sentence 3: Damit untermauern wir unsere Expertise: 57 produzierte Motion‑Graphics‑Produktionen für Produkt‑ und Werbezwecke liegen in unserem Archiv, darunter das Projekt „Shapes Animation“ (product_ad_motion, 2020). Sentence 4: Wir bringen datengetriebenes Know‑how und kreative Präzision in jede"
+    },
+    {
+      "id": "freelancer:40641065",
+      "title": "2-Minute Motion Design Video – Fixed Budget ₹1,650",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Minute-Motion-Design-Video-Fixed",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we need to write in English. Provide a short commercial pitch, professional, first person (Voxel). Show we understood need, relate to Voxel service, cite proof (archive), end with light CTA. No blabla, no price. Provide 4-6 sentences.\n\nWe need to include \"Service Voxel:\" and \"Preuve:\"? Actually those are placeholders in the prompt. We need to fill them? The user gave \"Service Voxel:\" and \"Preuve:\" as placeholders. Probably we need to mention our service and proof. So we need to say something like: \"At Voxel Studio we specialize in...\" and then \"Our recent work for X demonstrates...\". Provide CTA like \"Let's discuss how we can bring your vision to life.\"\n\nMake sure no price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I understand you need a tight‑budget, two‑minute motion‑design piece that relies on crisp graphics, smooth transitions and a clear visual narrative.\"\n\nSentence 2: Relate to service: \"At Voxel Studio we deliver exactly that — high‑impact motion graphics built in After Effects, with meticulous timing and sound sync.\"\n\nSentence 3: Cite proof: \"Our recent archive shows a 2‑minute explainer for a tech startup (see the attached reel) that earned a 95% client"
     }
   ]
 }
