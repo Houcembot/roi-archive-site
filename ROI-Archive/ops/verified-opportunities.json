@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T11:10:48+00:00",
+  "generatedAt": "2026-08-11T11:53:54+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 850,
+  "total": 852,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 395
+      "count": 397
     },
     {
       "name": "États-Unis",
@@ -23801,6 +23801,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need an eye‑catching animated promo that brings your clothing line to life with bold colours and smooth motion.  \nOur Motion graphics produit & pub service"
+    },
+    {
+      "id": "freelancer:40640589",
+      "title": "TNNT Logo Animation by Motion Graphics Designer",
+      "sourceUrl": "https://www.freelancer.com/projects/logo-animation/TNNT-Logo-Animation-Motion-Graphics",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Logo"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with a light CTA. Write in the language of the project. The project description is in English. So we write in English. No fluff, no price. Cite the concrete project as proof of our historical (domain + year, without client name). The archive project: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that as proof.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We get that TNNT needs a sleek 5‑10 second logo animation that transforms TENANT into TNNT with a roof reveal and tagline.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in turning brand assets into premium, smooth animations just like this.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces, including the Shapes Animation (product_ad_motion, 2020) that demonstrates our ability to blend typography, motion and brand‑consistent design.\"\n\nSentence 4: Maybe another sentence reinforcing: \"Every frame is crafted to feel modern, premium and perfectly timed, matching your reference assets.\"\n\nSentence 5: Light CTA: \"Let’s discuss how we can bring TNNT’s logo to life—drop us a line and we"
+    },
+    {
+      "id": "freelancer:40640578",
+      "title": "Instagram Reels Promotional Video Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Instagram-Reels-Promotional-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not given explicitly but presumably \"Instagram Reels Promotional Video Editing\" service), citing proof from archive (the \"Preuve:\" line is empty? Actually they gave \"Preuve:\" with nothing after. Possibly they expect to reference something like \"comme démontré dans notre projet X\" but we have no proof given. Might need to infer that the proof is the service description? Or maybe we need to leave placeholder? The instruction: \"cite la preuve d'archive ``\". The proof is empty in the prompt, maybe we need to say something like \"comme montré dans notre récent projet pour [client]\" but we don't have that. Could we say \"comme démontré dans notre portfolio de reels promotionnels\"? That is a generic proof. Probably acceptable.\n\nWe must write in language of the project: the project description is in English, so write in English.\n\nNo blabla, no price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need raw vertical clips turned into punchy, brand‑focused Instagram Reels that highlight product features with fast‑paced, on‑trend editing.\"\n\nSentence 2: Link to service: \"Our Instagram Reels Promotional Video Editing service takes exactly those inputs—footage, logos, style guides—and delivers polished 1080×1920 MP4s with rhythmic cuts, modern transitions, on‑screen text, and light motion graphics.\"\n\nSentence 3:"
     }
   ]
 }
