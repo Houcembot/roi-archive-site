@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T08:11:48+00:00",
+  "generatedAt": "2026-08-11T08:50:39+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 846,
+  "total": 847,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 263
+      "count": 264
     },
     {
       "name": "Australie",
@@ -23689,6 +23689,34 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "We understand you need a polished 45‑60 s promo"
+    },
+    {
+      "id": "freelancer:40640228",
+      "title": "Hybrid Supplement Demo Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Hybrid-Supplement-Demo-Videos",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo produit mêlant"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: The user wrote in English, so we respond in English. No fluff, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that as example.\n\nWe must not mention price. Provide CTA like \"Let's discuss how we can start the first demo video together.\"\n\nMake 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need live‑action footage blended with precise motion graphics to highlight both the felt benefits of your supplements and the rigorous manufacturing process.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in turning raw product footage into polished, engineering‑focused demonstrations with seamless 2‑D/3‑D overlays.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces, including the recent “Shapes Animation” (product_ad_motion, 2020) that combined live action with technical callouts.\"\n\nSentence 4: Show capability: \"From ingredient schematics to smooth transitions, we ensure benefits and production steps are visually clear, audio‑consistent, and ready for 1080p delivery across web, social and trade‑show platforms.\"\n\nSentence 5: CTA: \"Let’s schedule a"
     }
   ]
 }
