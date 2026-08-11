@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T14:17:36+00:00",
+  "generatedAt": "2026-08-11T15:04:04+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 852,
+  "total": 853,
   "countryCount": 9,
   "countries": [
     {
@@ -23857,6 +23857,32 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not given explicitly but presumably \"Instagram Reels Promotional Video Editing\" service), citing proof from archive (the \"Preuve:\" line is empty? Actually they gave \"Preuve:\" with nothing after. Possibly they expect to reference something like \"comme démontré dans notre projet X\" but we have no proof given. Might need to infer that the proof is the service description? Or maybe we need to leave placeholder? The instruction: \"cite la preuve d'archive ``\". The proof is empty in the prompt, maybe we need to say something like \"comme montré dans notre récent projet pour [client]\" but we don't have that. Could we say \"comme démontré dans notre portfolio de reels promotionnels\"? That is a generic proof. Probably acceptable.\n\nWe must write in language of the project: the project description is in English, so write in English.\n\nNo blabla, no price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need raw vertical clips turned into punchy, brand‑focused Instagram Reels that highlight product features with fast‑paced, on‑trend editing.\"\n\nSentence 2: Link to service: \"Our Instagram Reels Promotional Video Editing service takes exactly those inputs—footage, logos, style guides—and delivers polished 1080×1920 MP4s with rhythmic cuts, modern transitions, on‑screen text, and light motion graphics.\"\n\nSentence 3:"
+    },
+    {
+      "id": "arbeitnow:motion-designer-fur-social-ads-freelance-dusseldorf-457420",
+      "title": "Motion Designer für Social Ads - Freelance (m/w/d)",
+      "sourceUrl": "https://www.arbeitnow.com/jobs/companies/creative-dreams/motion-designer-fur-social-ads-freelance-dusseldorf-457420",
+      "source": "jobboard:arbeitnow",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "arbeitnow",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with a light CTA. Language of the project: The job posting is in German. So we must write in German. No fluff, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Provide domain + year (product_ad_motion, 2020). So we need to mention that we have done 57 motion graphics product & pub, including \"Shapes Animation\" (product_ad_motion, 2020). Then CTA like \"Lass uns kurz sprechen, wie wir deine Social Ads zum Performen bringen.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Wir haben verstanden, dass du bewegte Grafiken für Meta‑Ad‑Creatives suchst, die Skripte in visuell starke Stories verwandeln. Sentence 2: Unser Service Motion graphics produit & pub liefert genau das – animierte Inhalte, die Markenrichtlinien respektieren und gleichzeitig frische Ideen einbringen. Sentence 3: Damit untermauern wir unsere Expertise: 57 produzierte Motion‑Graphics‑Produktionen für Produkt‑ und Werbezwecke liegen in unserem Archiv, darunter das Projekt „Shapes Animation“ (product_ad_motion, 2020). Sentence 4: Wir bringen datengetriebenes Know‑how und kreative Präzision in jede"
     }
   ]
 }
