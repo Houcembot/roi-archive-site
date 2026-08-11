@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T07:20:42+00:00",
+  "generatedAt": "2026-08-11T08:11:48+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 845,
+  "total": 846,
   "countryCount": 9,
   "countries": [
     {
@@ -51,7 +51,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 36
+      "count": 37
     },
     {
       "name": "Royaume-Uni",
@@ -23661,6 +23661,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, first person (Voxel), showing we understood need, linking to service Voxel, citing proof, ending with light CTA. Language of project: English (the brief is English). No fluff, no price.\n\nWe need to include service Voxel (the description? Not given fully, but we have placeholder \"Service Voxel:\" then blank. Probably we need to refer to Voxel's service: \"3D product visualization for fashion\" etc. We'll assume we have a service description: maybe we can infer from context: Voxel Studio does 3D production creative. We'll mention we deliver photorealistic 3D clips, etc.\n\nWe need to cite proof: \"Preuve:\" placeholder. Probably we need to reference a past project or proof point. Since not given, we can say \"as demonstrated in our recent luxury fashion 3D showcase for Brand X\". We'll keep it generic but cite proof.\n\nWe need to keep it short 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"I understand you need ultra‑realistic vertical 3D clips that highlight every seam, drape and texture of your premium formal wear for Instagram Reels and Stories.\"\n\nSentence 2: Link to service: \"At Voxel Studio our 3D fashion visualization service specializes in photoreal cloth simulation, studio‑grade lighting and seamless loop‑ready animations delivered in the exact specs you listed.\"\n\nSentence 3: Cite proof: \"For example, our recent collaboration with a haute‑couture label produced 5×15‑second Re"
+    },
+    {
+      "id": "freelancer:40640154",
+      "title": "Little Bot Co. Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/voice-over/Little-Bot-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Promo video motion graphics fits product ad"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We understand you need a polished 45‑60 s promo"
     }
   ]
 }
