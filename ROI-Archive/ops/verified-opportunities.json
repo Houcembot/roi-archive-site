@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T10:20:12+00:00",
+  "generatedAt": "2026-08-11T11:10:48+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 847,
+  "total": 850,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 393
+      "count": 395
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 264
+      "count": 265
     },
     {
       "name": "Australie",
@@ -5691,6 +5691,34 @@
       "proposalDraft": "We understand you need a clean, minimal"
     },
     {
+      "id": "freelancer:40640448",
+      "title": "3D Text Overlay Enhancement",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-graphic-design/Text-Overlay-Enhancement",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Ajout de texte 3D overlay sur vidéo produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need polished 3D text overlays on your product‑promo video without altering the"
+    },
+    {
       "id": "freelancer:40545736",
       "title": "Mobile Game VFX and Animation Designer",
       "sourceUrl": "https://www.freelancer.com/projects/unity/Mobile-Game-VFX-Animation-Designer",
@@ -7439,6 +7467,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof: 57 productions motion graphics produit & publicité (archive Voxel), and ending with a light CTA. Must be in the language of the project. The project description is in English. So we write in English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar work like Course AI in 2021. Provide CTA like \"Let's discuss how we can bring your Instagram video to life\" or similar.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a 60‑second, eye‑catching motion‑graphics video for Instagram that grabs attention and drives engagement.\"\n\nSentence 2: Relate to service: \"At Voxel Studio, our Motion graphics produit & pub service specializes in turning product concepts into dynamic social‑media visuals.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces in our archive, including the recent ‘Course AI’ project (product_ad_motion, 2021).\"\n\nSentence 4: Show capability: \"Our team is proficient in After Effects, stays current with Instagram trends, and crafts storytelling that fits the platform’s format.\"\n\nSentence 5: CTA: \"Let’s chat about how we can"
+    },
+    {
+      "id": "freelancer:40640501",
+      "title": "3D Vape Product Ad Animations",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Vape-Product-Animations",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'annonces produit 3D motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: The project description is in English (title, need). So we write in English. No blabla, no price. Cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). Should mention domain + year, no client name. So we can say: \"Our archive shows 57 motion graphics product & pub productions, including Lemur Animations (product_ad_motion, 2020)\". Provide CTA like \"Let's discuss how we can bring your vape product to life\". Keep 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need photorealistic, cinematic 3D motion ads for vape devices and e‑liquids. Sentence 2: At Voxel Studio our Motion graphics produit & pub service specializes exactly in that workflow—product visualization, camera moves, materials, lighting, transitions, render and compositing. Sentence 3: Our track record includes 57 motion graphics product & publicité productions in the archive, such as Lemur Animations (product_ad_motion, 2020). Sentence 4: We can turn your brand assets and mood boards into short, high‑impact commercials that meet your quality bar. Sentence 5: Feel free to share your brief and we’ll propose a tailored concept and timeline.\n\nCheck"
     },
     {
       "id": "freelancer:40548766",
@@ -23717,6 +23773,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: The user wrote in English, so we respond in English. No fluff, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that as example.\n\nWe must not mention price. Provide CTA like \"Let's discuss how we can start the first demo video together.\"\n\nMake 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need live‑action footage blended with precise motion graphics to highlight both the felt benefits of your supplements and the rigorous manufacturing process.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in turning raw product footage into polished, engineering‑focused demonstrations with seamless 2‑D/3‑D overlays.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces, including the recent “Shapes Animation” (product_ad_motion, 2020) that combined live action with technical callouts.\"\n\nSentence 4: Show capability: \"From ingredient schematics to smooth transitions, we ensure benefits and production steps are visually clear, audio‑consistent, and ready for 1080p delivery across web, social and trade‑show platforms.\"\n\nSentence 5: CTA: \"Let’s schedule a"
+    },
+    {
+      "id": "freelancer:40640443",
+      "title": "Animated Fashion Promo Video Production",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Animated-Fashion-Promo-Video-Production",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animated fashion promo matches motion graphics service"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need an eye‑catching animated promo that brings your clothing line to life with bold colours and smooth motion.  \nOur Motion graphics produit & pub service"
     }
   ]
 }
