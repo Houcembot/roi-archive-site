@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T06:56:19+00:00",
+  "generatedAt": "2026-08-12T07:41:09+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 867,
+  "total": 868,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 404
+      "count": 405
     },
     {
       "name": "États-Unis",
@@ -24275,6 +24275,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a punchy 60‑second mixed‑media video that"
+    },
+    {
+      "id": "freelancer:40642326",
+      "title": "Smartphone Promo Video & Posters - 12/08/2026 02:49 EDT",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-illustrator/Smartphone-Promo-Video-Posters-EDT",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_m",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_m",
+          "label": "product_ad_m"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Nous avons compris que vous souhaitez maintenir une présence Facebook et Instagram irréprochable grâce à une vidéo promotionnelle dynamique et à des visuels événementiels qui reflètent un ton propre et professionnel.  \nNotre service **product_ad_m** vous"
     }
   ]
 }
