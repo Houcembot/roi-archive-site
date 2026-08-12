@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T16:49:49+00:00",
+  "generatedAt": "2026-08-12T18:14:05+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 877,
+  "total": 878,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 413
+      "count": 414
     },
     {
       "name": "États-Unis",
@@ -24555,6 +24555,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language appears to be English (the brief is in English). So we should write in English. Provide a short hook, 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Voxel, cite proof archive, end with light CTA. No blabla, no price. We need to include proof archive placeholder? The user gave \"Preuve:\" but no content. Probably we need to refer to a proof like \"see our portfolio link\" or \"as shown in our case study for X\". Since no actual proof given, we can say \"as demonstrated in our recent work for [Client]\" but we don't have specifics. Perhaps we can say \"as evidenced by our archive of animated commercials\". We'll keep generic but mention proof.\n\nWe need to avoid price. Provide CTA like \"Let's schedule a quick call to discuss your vision\" or \"Feel free to share your assets and we'll get started\". Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need raw footage and brand assets turned into a dynamic, on‑brand animated commercial that drives sales. Sentence 2: At Voxel Studio we manage the full animation workflow—storyboarding, asset prep, motion design, sound design, and color correction—delivering HD‑ready videos plus an editable After Effects project. Sentence 3: Our recent archive (see the linked case study) shows polished commercials with smooth motion graphics, clean transitions, and brand‑cons"
+    },
+    {
+      "id": "freelancer:40643489",
+      "title": "Animated Promo Clip Editing -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Animated-Promo-Clip-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product",
+          "label": "product"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need snappy 15‑30 s animated promos that showcase your product and hook"
     }
   ]
 }
