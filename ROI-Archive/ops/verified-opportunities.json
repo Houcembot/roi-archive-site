@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T19:43:25+00:00",
+  "generatedAt": "2026-08-12T20:29:30+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 880,
+  "total": 881,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 272
+      "count": 273
     },
     {
       "name": "Australie",
@@ -24639,6 +24639,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we must write in English. Provide a short commercial hook (4-6 sentences) first person (Voxel). Show we understood need, relate to Voxel service (which is not given explicitly but we have placeholder \"Service Voxel:\"). We need to infer Voxel's service: likely 3D production, VFX, modeling, animation. Provide proof from archive (Preuve: placeholder). We need to cite the proof of archive. Since we don't have actual content, we can refer to something like \"as demonstrated in our recent skincare VFX reel for Brand X\". We'll cite that as proof.\n\nWe must not mention price. No blabla.\n\nWrite 4-6 sentences, professional, first person plural (we). Provide CTA light: e.g., \"Let's discuss a pilot\" or \"Feel free to share your brief\".\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We know you need a seamless 5‑8 second loop for each of four premium skincare products, with precise modeling, studio look‑dev and dynamic physics simulations.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we specialize in end‑to‑end 3D product visualization, from high‑poly modeling and texture mapping to photoreal lighting and Houdini‑based FX.\"\n\nSentence 3: Cite proof: \"Our recent work for a luxury"
+    },
+    {
+      "id": "freelancer:40643796",
+      "title": "Vidéo publicitaire Facebook & TikTok",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Vid-publicitaire-Facebook-TikTok",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Voxel, cite proof archive, end with light CTA. Write in language of the project (French). No fluff, no price. Provide link to similar works and mention estimated delivery time? The user says \"Merci d’inclure dans votre proposition un lien vers vos réalisations similaires et de préciser votre délai de livraison estimé.\" So the hook should include that? The instruction: \"Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), qui : (1) montre qu'on a compris le besoin, (2) relie au service Voxel ``, (3) cite la preuve d'archive ``, (4) finit par un CTA léger. **Écris dans la langue du projet.** Pas de blabla, pas de prix.\" So we need to include the link and delivery time within the 4-6 sentences. Must not mention price. Should be concise.\n\nWe need to fill placeholders: Service Voxel: (maybe they omitted actual service description). We need to infer: Service Voxel is production 3D créative, likely they do video ads, motion design, etc. So we can say \"Notre service Voxel de production vidéo publicitaire 3D\" etc.\n\nPreuve: (they omitted actual proof). We need to cite the proof archive; maybe they expect us to insert something like \"[Preuve]\" placeholder? But we need to cite the proof archive"
     }
   ]
 }
