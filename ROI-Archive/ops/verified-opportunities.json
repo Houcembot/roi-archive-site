@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T05:19:31+00:00",
+  "generatedAt": "2026-08-12T06:12:29+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 865,
+  "total": 867,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 403
+      "count": 404
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 269
+      "count": 270
     },
     {
       "name": "Australie",
@@ -5717,6 +5717,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need polished 3D text overlays on your product‑promo video without altering the"
+    },
+    {
+      "id": "freelancer:40642158",
+      "title": "Elegant Tableware Instagram Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Elegant-Tableware-Instagram-Videos",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos produit avec motion graphics pour Instagram"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: The user wrote in English, so we respond in English. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar work, e.g., \"Course AI\" product ad motion in 2021. Provide CTA like \"Let's discuss how we can bring your tableware to life\". Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need eye‑catching, Instagram‑optimized videos that highlight the refined details of your new tableware line.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in crafting short, brand‑aligned product videos that stop the scroll and drive clicks.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product and advertising pieces, including the ‘Course AI’ product ad motion project from 2021.\"\n\nSentence 4: Show capability: \"We can produce 3‑5 videos in 1:1 and 9:16 formats, with colour grading, sound design, source files and a style guide, all tuned for Instagram’s codec.\"\n\nSentence 5: CTA: \"Let’s schedule a quick call to align on the visual direction"
     },
     {
       "id": "freelancer:40545736",
@@ -24219,6 +24247,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably \"Trendy Instagram Reels Editor\" service?), cite proof archive (we have placeholder \"Preuve: \" but no content? The user gave \"Preuve:\" but no content. Possibly they expect we reference a proof from archive, maybe we can say \"comme montré dans notre récent projet pour X\" but we don't have specifics. We can assume we have a proof like \"notre travail pour la marque Y\" etc. Since no specifics given, we can say \"comme démontré dans notre récent Reel pour [client]\" but we need to be generic. The instruction: \"cite la preuve d'archive ``\". The placeholder is empty; maybe we should just mention \"comme montré dans notre portfolio\" or \"comme illustré dans notre preuve d'archive\". We'll produce French? The project language? The user wrote in English. The instruction: \"Écris dans la langue du projet.\" The project language is English (the user wrote in English). So we write in English.\n\nWe need 4-6 sentences, short, professional, first person (Voxel). Show we understood need, link to service Voxel, cite proof, end with light CTA.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need fast‑paced, trendy Instagram Reels with kinetic text that hooks viewers instantly.\n\nSentence 2: Our Trendy Instagram Reels Editor service takes your raw footage, script and brand assets and crafts vertical 1080×1"
+    },
+    {
+      "id": "freelancer:40642169",
+      "title": "60-Second Mixed-Media Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Second-Mixed-Media-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo promo avec motion graphics et live‑action"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a punchy 60‑second mixed‑media video that"
     }
   ]
 }
