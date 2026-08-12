@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T03:51:07+00:00",
+  "generatedAt": "2026-08-12T04:31:14+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 864,
+  "total": 865,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 402
+      "count": 403
     },
     {
       "name": "États-Unis",
@@ -24191,6 +24191,34 @@
       "lat": 56,
       "lon": -106,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (but service Voxel is blank? The user gave Service Voxel: empty line; maybe they omitted but we need to refer to the service Voxel (maybe it's \"2D animated social media story posts\"? Actually the service is likely \"2D animated social media story posts\" as per title. So we can reference that we create 2D animated title cards for social media videos. Provide proof from archive: but proof is empty; maybe we need to cite something like \"see our recent work for X brand\" but we don't have specifics. Could we say \"as shown in our portfolio (link)\"? Since no proof given, we might say \"as demonstrated in our recent project for [client]\" but we don't have name. Could we just say \"as evidenced in our archive\"? Might be okay.\n\nWe need to write in the language of the project: the project description is in English. So write in English.\n\nWe must avoid blabla, no prices. Provide CTA lightly: e.g., \"Let's discuss how we can bring your vision to life.\"\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I get that you want title cards that feel kitschy, retro, colourful, playful and a little artistically weird, drawing from vintage beauty ads but with a contemporary edge.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we specialize in crafting 2D animated social"
+    },
+    {
+      "id": "freelancer:40642001",
+      "title": "Trendy Instagram Reels Editor",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Trendy-Instagram-Reels-Editor-40642001",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably \"Trendy Instagram Reels Editor\" service?), cite proof archive (we have placeholder \"Preuve: \" but no content? The user gave \"Preuve:\" but no content. Possibly they expect we reference a proof from archive, maybe we can say \"comme montré dans notre récent projet pour X\" but we don't have specifics. We can assume we have a proof like \"notre travail pour la marque Y\" etc. Since no specifics given, we can say \"comme démontré dans notre récent Reel pour [client]\" but we need to be generic. The instruction: \"cite la preuve d'archive ``\". The placeholder is empty; maybe we should just mention \"comme montré dans notre portfolio\" or \"comme illustré dans notre preuve d'archive\". We'll produce French? The project language? The user wrote in English. The instruction: \"Écris dans la langue du projet.\" The project language is English (the user wrote in English). So we write in English.\n\nWe need 4-6 sentences, short, professional, first person (Voxel). Show we understood need, link to service Voxel, cite proof, end with light CTA.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need fast‑paced, trendy Instagram Reels with kinetic text that hooks viewers instantly.\n\nSentence 2: Our Trendy Instagram Reels Editor service takes your raw footage, script and brand assets and crafts vertical 1080×1"
     }
   ]
 }
