@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T11:29:17+00:00",
+  "generatedAt": "2026-08-12T12:18:09+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 871,
+  "total": 873,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 408
+      "count": 410
     },
     {
       "name": "États-Unis",
@@ -24387,6 +24387,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user wrote in English but says \"Écris dans la langue du projet.\" The project language? The user wrote in English, but the service description is French. The instruction: \"Écris dans la langue du projet.\" The project language appears to be English (the user wrote in English). However the service Voxel is French. Usually they'd want French because they are Voxel Studio (French). But they said \"Écris dans la langue du projet.\" The project description is in English, so we should write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Cite concrete project: \"Color Pen Animations\" (product_ad_motion, 2020). No price, no blabla.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a polished promotional video that instantly conveys your brand message and drives action.\n\nSentence 2: Our Motion graphics produit & pub service blends your footage, logos, and messaging with smooth pacing, professional color grading, sound design, and tasteful motion graphics/text overlays that reinforce the CTA.\n\nSentence 3: Backed by 57 motion‑graphics product & advertising productions in our archive, we’ve delivered work like the “Color Pen Animations” (product_ad_motion, 2020) that showcases exactly this blend of creativity and technical polish.\n\nSentence"
+    },
+    {
+      "id": "freelancer:40642836",
+      "title": "Create Product Launch Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Create-Product-Launch-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project (English). No blabla, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So mention that we have done similar work, e.g., Shapes Animation (product_ad_motion, 2020). Provide CTA like \"Let's discuss how we can bring your launch to life—reply to this message or schedule a quick call.\" Must be 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a polished, lively promo video that turns your raw footage and branding into a clear, memorable story for launch.\n\nSentence 2: Our Motion graphics produit & pub service specializes in shaping narrative pacing, adding engaging graphics, colour‑grading and audio mix for multi‑platform delivery.\n\nSentence 3: With 57 motion‑graphics product and advertising productions in our archive—including the Shapes Animation (product_ad_motion, 2020) launch piece—we have proven expertise in delivering exactly this kind of impact.\n\nSentence 4: We’ll work in Premiere Pro (or your preferred suite) to deliver a 60‑90 s 1080p H.264 MP4, SRT subtitles and source files.\n\nSentence 5: Let’s jump on a"
+    },
+    {
+      "id": "freelancer:40642921",
+      "title": "SaaS App Social Media Trailers",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/SaaS-App-Social-Media-Trailers",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project description is in English (title, need). But they ask to write in the language of the project. The project is English. So we need to write in English. Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need punchy SaaS trailers that blend live‑action screen capture with animated overlays for YouTube, Instagram, LinkedIn and Facebook.\n\nSentence 2: At Voxel Studio our Motion graphics produit & pub service specializes in exactly that hybrid live‑action/animation workflow.\n\nSentence 3: We’ve delivered 57 motion‑graphics product and advertising pieces (archive Voxel), including the “Shapes Animation” product ad motion piece from 2020.\n\nSentence 4: We’ll provide platform‑specific masters, royalty‑free audio, subtitled versions and source files, all brand‑aligned and hook‑driven.\n\nSentence 5: Let’s jump on a quick call to share a few relevant samples and kick off the first trailer.\n\nCheck: 5 sentences, first person (we). Good. No price. No blabla. Done"
     }
   ]
 }
