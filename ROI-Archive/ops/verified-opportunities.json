@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T08:20:57+00:00",
+  "generatedAt": "2026-08-12T09:10:28+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 868,
+  "total": 870,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 405
+      "count": 407
     },
     {
       "name": "États-Unis",
@@ -24303,6 +24303,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "Nous avons compris que vous souhaitez maintenir une présence Facebook et Instagram irréprochable grâce à une vidéo promotionnelle dynamique et à des visuels événementiels qui reflètent un ton propre et professionnel.  \nNotre service **product_ad_m** vous"
+    },
+    {
+      "id": "freelancer:40642565",
+      "title": "Dynamic 60-Second Ad Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Dynamic-Second-Edit",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a punchy, social‑ready 60‑second spot that grabs attention instantly and holds it to the final frame.  \nOur Motion graphics produit"
+    },
+    {
+      "id": "freelancer:40642526",
+      "title": "Impactful Promotional Video Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Impactful-Promotional-Video-Edit",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo promo"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user wrote in English but says \"Écris dans la langue du projet.\" The project language? The user wrote in English, but the service description is French. The instruction: \"Écris dans la langue du projet.\" The project language appears to be English (the user wrote in English). However the service Voxel is French. Usually they'd want French because they are Voxel Studio (French). But they said \"Écris dans la langue du projet.\" The project description is in English, so we should write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Cite concrete project: \"Color Pen Animations\" (product_ad_motion, 2020). No price, no blabla.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a polished promotional video that instantly conveys your brand message and drives action.\n\nSentence 2: Our Motion graphics produit & pub service blends your footage, logos, and messaging with smooth pacing, professional color grading, sound design, and tasteful motion graphics/text overlays that reinforce the CTA.\n\nSentence 3: Backed by 57 motion‑graphics product & advertising productions in our archive, we’ve delivered work like the “Color Pen Animations” (product_ad_motion, 2020) that showcases exactly this blend of creativity and technical polish.\n\nSentence"
     }
   ]
 }
