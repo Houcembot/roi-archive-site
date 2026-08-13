@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T06:21:07+00:00",
+  "generatedAt": "2026-08-13T07:10:10+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 883,
+  "total": 884,
   "countryCount": 9,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 39
+      "count": 40
     },
     {
       "name": "Europe",
@@ -5773,6 +5773,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since user wrote French). Must be professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, end with light CTA. Must cite concrete project as proof: \"PUB DEMO\" (product_ad_motion, 2023). No fluff, no price. Write in language of project (French). Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Vous cherchez une vidéo démo punchy qui mette en lumière chaque fonctionnalité clé de votre produit en 60‑90 secondes.\"\n\nSentence 2: Relate to service: \"Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de transformer vos enregistrements et assets en un montage dynamique, rythmé et parfaitement on‑brand.\"\n\nSentence 3: Cite proof: \"Nous avons déjà réalisé 57 productions motion graphics produit & publicité, dont la récente « PUB DEMO » (product_ad_motion, 2023) qui a su capter l’attention dès les premières secondes.\"\n\nSentence 4: Show deliverables: \"Nous livrons la version HD 1080p, une déclinaison carrée pour les réseaux sociaux et les fichiers source Premiere Pro/After Effects.\"\n\nSentence 5: CTA léger: \"Discutons de votre scénario et lançons la production dès aujourd’hui pour que vos prospects disent « J’ai besoin de ça ».\"\n\nCheck"
+    },
+    {
+      "id": "freelancer:40644654",
+      "title": "PlanCare Social Media Motion Graphics/ Annimation Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/PlanCare-Social-Media-Motion-Graphics",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics promo video for social media"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We understand"
     },
     {
       "id": "freelancer:40545736",
