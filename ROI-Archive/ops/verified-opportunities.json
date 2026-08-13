@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T19:15:02+00:00",
+  "generatedAt": "2026-08-13T20:00:15+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 894,
+  "total": 896,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 416
+      "count": 417
     },
     {
       "name": "États-Unis",
@@ -63,7 +63,7 @@
       "name": "Canada",
       "lat": 56,
       "lon": -106,
-      "count": 30
+      "count": 31
     },
     {
       "name": "Nouvelle-Zélande",
@@ -25031,6 +25031,62 @@
       "lat": 56,
       "lon": -106,
       "proposalDraft": "We understand you need three looping animated"
+    },
+    {
+      "id": "freelancer:40646027",
+      "title": "SaaS Product Explainer Video Series -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/video-services/SaaS-Product-Explainer-Video-Series",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 56,
+      "lon": -106,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Language of the project: The user wrote in English, but the project description is English. The instruction: \"Écris dans la langue du projet.\" So English. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar: Course AI, a product ad motion graphics in 2021.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need a polished 60‑90 s explainer plus a clear training series that faithfully reproduces your UI and brand style.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in turning product screenshots and screen‑capture into smooth, on‑brand videos with refined motion graphics.\"\n\nSentence 3: Cite proof: \"We have delivered 57 motion‑graphics product and advertising pieces, including the recent “Course AI” product ad (2021) that combined live UI capture with subtle animation.\"\n\nSentence 4: Show process: \"From script refinement and storyboard to VO, editing, music and mastering, we handle the full pipeline and provide MP4, source files, SRT subtitles and web‑ready thumbnails.\"\n\nSentence 5: CTA: \"Let’s schedule"
+    },
+    {
+      "id": "freelancer:40646010",
+      "title": "Clean Typography Reel Template",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Clean-Typography-Reel-Template",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Je comprends que vous cherchez un modèle de Reel Instagram : typographie épurée, animation kinetic fluide et une structure 9 : 16 de 15 s qui permette de changer texte, couleurs et arrière‑plan chaque semaine sans toucher au timing. Chez Voxel Studio, nous concevons exactement ce type de templates vidéo sur"
     }
   ]
 }
