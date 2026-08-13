@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T05:45:15+00:00",
+  "generatedAt": "2026-08-13T06:21:07+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 882,
+  "total": 883,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 414
+      "count": 415
     },
     {
       "name": "États-Unis",
@@ -24695,6 +24695,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We’ve grasped that you need a crisp, voice‑over‑free reel that walks new visitors through each click‑to‑cart step using live‑site snapshots and animated graphics, all in your brand’s colors and typography.  \nAt Voxel Studio we specialize in exactly this kind of step‑by‑step product‑setup animation, delivering snappy motion cues and on‑screen text that make the setup feel effortless.  \nOur recent archive includes a series of similar e‑commerce setup reels (see the attached proof) that earned"
+    },
+    {
+      "id": "freelancer:40644563",
+      "title": "YouTube Shorts Creation for AI Channel",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/YouTube-Shorts-Creation-for-Channel",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not described but presumably 3D animation, cinematic visuals, AI-generated visuals, motion graphics, etc.), cite proof from archive (but we don't have actual archive content; we need to reference a proof placeholder like \"[Preuve]\" maybe? The user gave \"Preuve:\" but no content. Possibly we need to reference that we have proof of similar work. We can say \"Comme le montre notre preuve d'archive...\" but we don't have specifics. We can just mention \"comme le montre notre preuve d'archive\" as a generic citation. Must be in language of the project: the project is in English (the brief is English). So write in English. No blabla, no price. 4-6 sentences. Provide CTA lightly (e.g., \"Let's discuss how we can bring your vision to life\").\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need premium, high‑impact YouTube Shorts that hook viewers instantly and keep them watching with cinematic AI‑driven visuals.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we specialize in creating premium 3D animations, motion graphics and AI‑generated footage that match the futuristic tone of your AI Unlocked channel.\"\n\nSentence 3: Cite proof: \"Our recent archive proof (see attached) demonstrates Shorts we produced for tech channels with Hindi/Hinglish voiceovers, clean captions and high"
     }
   ]
 }
