@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T17:44:28+00:00",
+  "generatedAt": "2026-08-13T18:30:33+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 890,
+  "total": 894,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 276
+      "count": 278
     },
     {
       "name": "Australie",
@@ -63,7 +63,7 @@
       "name": "Canada",
       "lat": 56,
       "lon": -106,
-      "count": 28
+      "count": 30
     },
     {
       "name": "Nouvelle-Zélande",
@@ -7691,6 +7691,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need two polished, cinema‑ready spots (15 s & 30 s) that encourage early voting using supplied script, stock footage, motion graphics and a warm voice‑over, all mastered to your exact specs.  \nOur Motion graphics produit & pub service specializes in turning brand‑guided assets into clear, informative theater‑quality videos, exactly what your early‑voting promo requires.  \nWith 57 motion‑graphics product & publicité productions in our archive—including the “Color Pen Animations” (product_ad_motion, 2020) that delivered ProRes 422 HQ cinema masters—we have the proven workflow to meet tight"
+    },
+    {
+      "id": "freelancer:40645886",
+      "title": "Animated video creation",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Animated-video-creation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo animée avec logo et tagline, motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, end with light CTA. Write in language of the project: the user wrote in English. So English. No blabla, no price. Cite the concrete project as proof: \"Carrefour Tag\" (product_ad_motion, 2020). Must not mention client name? It says \"cite this concrete project as proof of our historical (domain + year, without client name)\". Actually they gave project: \"Carrefour Tag\" (product_ad_motion, 2020). Carrefour is a client name; but they say without client name? Hmm ambiguous. The instruction: \"Cite ce projet concret comme preuve de notre historique (domaine + année, sans nom de client).\" Means cite the project as proof of our history (domain + year, without client name). So we should mention domain (product_ad_motion) and year (2020) but not the client name Carrefour. So we say something like: \"as shown in our product_ad_motion work from 2020\". Avoid naming Carrefour.\n\nThus: 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: you need a video featuring your logo, tagline, and a dynamic illustration similar to tournament fishing reference.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning brand assets into engaging animated stories.\n\nSentence 3: With 57 motion‑graphics product & publicité pieces"
     },
     {
       "id": "freelancer:40548766",
@@ -24919,6 +24947,90 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project title is English: \"Cartoon Character Animation UE5\". The need is in English. So language of the project is English. So we write in English. Provide a short commercial hook (4-6 sentences) professional, first person (Voxel). Show we understood need, relate to service Voxel (which is blank? Actually \"Service Voxel:\" line is empty; maybe we need to infer service: Voxel Studio does 3D creative production, likely animation. We'll mention our expertise in stylized cartoon animation for UE5. Cite proof of archive: \"Preuve:\" blank; maybe we need to reference an archive proof like a past project or reel. Since it's blank, we can say \"as demonstrated in our recent UE5 cartoon animation reel\". Provide CTA light: \"Let's discuss a quick test clip\". No blabla, no price.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need polished, gameplay‑ready cartoon animations that import cleanly into UE5 with minimal retargeting.\"\n\nSentence 2: Relate to service: \"At Voxel Studio we specialize in stylized, exaggerated motion cycles built directly for UE5 Sequencer and Animation Blueprints.\"\n\nSentence 3: Cite proof: \"Our recent UE5 cartoon character pack (see attached archive) delivered idle, walk, run, jump and signature actions with zero foot‑sliding and optimized key counts.\"\n\nSentence 4: Show"
+    },
+    {
+      "id": "freelancer:40645881",
+      "title": "Realistic 3D Product Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Realistic-Product-Videos",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a series of short, realistic 3‑D animations that instantly showcase why your"
+    },
+    {
+      "id": "freelancer:40645864",
+      "title": "Animated Logo Design for AceConnex -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/graphic-design/Animated-Logo-Design-for-AceConnex",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Animated logo motion graphics for website banner."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 56,
+      "lon": -106,
+      "proposalDraft": "We understand you"
+    },
+    {
+      "id": "freelancer:40645853",
+      "title": "Animated Logo Design for AceConnex",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Animated-Logo-Design-for-AceConnex",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 56,
+      "lon": -106,
+      "proposalDraft": "We understand you need three looping animated"
     }
   ]
 }
