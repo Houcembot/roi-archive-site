@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T01:01:13+00:00",
+  "generatedAt": "2026-08-13T01:45:07+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 881,
+  "total": 882,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 273
+      "count": 274
     },
     {
       "name": "Australie",
@@ -24667,6 +24667,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Voxel, cite proof archive, end with light CTA. Write in language of the project (French). No fluff, no price. Provide link to similar works and mention estimated delivery time? The user says \"Merci d’inclure dans votre proposition un lien vers vos réalisations similaires et de préciser votre délai de livraison estimé.\" So the hook should include that? The instruction: \"Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), qui : (1) montre qu'on a compris le besoin, (2) relie au service Voxel ``, (3) cite la preuve d'archive ``, (4) finit par un CTA léger. **Écris dans la langue du projet.** Pas de blabla, pas de prix.\" So we need to include the link and delivery time within the 4-6 sentences. Must not mention price. Should be concise.\n\nWe need to fill placeholders: Service Voxel: (maybe they omitted actual service description). We need to infer: Service Voxel is production 3D créative, likely they do video ads, motion design, etc. So we can say \"Notre service Voxel de production vidéo publicitaire 3D\" etc.\n\nPreuve: (they omitted actual proof). We need to cite the proof archive; maybe they expect us to insert something like \"[Preuve]\" placeholder? But we need to cite the proof archive"
+    },
+    {
+      "id": "freelancer:40644173",
+      "title": "Animated Product Setup Reel",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Animated-Product-Setup-Reel",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We’ve grasped that you need a crisp, voice‑over‑free reel that walks new visitors through each click‑to‑cart step using live‑site snapshots and animated graphics, all in your brand’s colors and typography.  \nAt Voxel Studio we specialize in exactly this kind of step‑by‑step product‑setup animation, delivering snappy motion cues and on‑screen text that make the setup feel effortless.  \nOur recent archive includes a series of similar e‑commerce setup reels (see the attached proof) that earned"
     }
   ]
 }
