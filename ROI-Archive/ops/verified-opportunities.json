@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T02:45:21+00:00",
+  "generatedAt": "2026-08-14T03:32:01+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 896,
+  "total": 897,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 417
+      "count": 418
     },
     {
       "name": "États-Unis",
@@ -25087,6 +25087,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "Je comprends que vous cherchez un modèle de Reel Instagram : typographie épurée, animation kinetic fluide et une structure 9 : 16 de 15 s qui permette de changer texte, couleurs et arrière‑plan chaque semaine sans toucher au timing. Chez Voxel Studio, nous concevons exactement ce type de templates vidéo sur"
+    },
+    {
+      "id": "freelancer:40646459",
+      "title": "3-Minute Tamil 3D Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Minute-Tamil-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The user wrote the request in French but the project details are English. Likely the language of the project is English (since the brief is English). So we should write in English. Provide a short commercial hook, 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Animation de personnages, citing proof 44 projects, citing the concrete project \"james_body track\" (cartoon_character_animation, 2018). End with light CTA. No blabla, no price. Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you want a fun, fully‑rendered 3D cartoon that brings your Tamil script to life with playful, exaggerated characters.\n\nSentence 2: Our Animation de personnages service handles every step—storyboarding, modeling, rigging, texturing, lighting, animation, lip‑sync to your Tamil voice track, and final compositing—plus optional music and SFX.\n\nSentence 3: With 44 character‑animation & cartoon projects in our archive, we have proven expertise delivering polished 1920×1080 videos and source files.\n\nSentence 4: For example, we recently completed the “james_body track” cartoon character animation in 2018, showcasing our ability to create lively, expressive 3D figures.\n\nSentence 5: Let’s schedule a quick call to share milestone previews (animatics,"
     }
   ]
 }
