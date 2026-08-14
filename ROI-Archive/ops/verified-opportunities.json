@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T15:21:58+00:00",
+  "generatedAt": "2026-08-14T16:05:55+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 899,
+  "total": 901,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 278
+      "count": 280
     },
     {
       "name": "Australie",
@@ -7719,6 +7719,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, end with light CTA. Write in language of the project: the user wrote in English. So English. No blabla, no price. Cite the concrete project as proof: \"Carrefour Tag\" (product_ad_motion, 2020). Must not mention client name? It says \"cite this concrete project as proof of our historical (domain + year, without client name)\". Actually they gave project: \"Carrefour Tag\" (product_ad_motion, 2020). Carrefour is a client name; but they say without client name? Hmm ambiguous. The instruction: \"Cite ce projet concret comme preuve de notre historique (domaine + année, sans nom de client).\" Means cite the project as proof of our history (domain + year, without client name). So we should mention domain (product_ad_motion) and year (2020) but not the client name Carrefour. So we say something like: \"as shown in our product_ad_motion work from 2020\". Avoid naming Carrefour.\n\nThus: 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: you need a video featuring your logo, tagline, and a dynamic illustration similar to tournament fishing reference.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning brand assets into engaging animated stories.\n\nSentence 3: With 57 motion‑graphics product & publicité pieces"
+    },
+    {
+      "id": "freelancer:40647650",
+      "title": "Social Media Motion Graphics Engagement",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Social-Media-Motion-Graphics-Engagement",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics pour réseaux sociaux correspond à product_ad_motion"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The language of the project is English. So we should write in English. Must be professional, first person (Voxel). Show understanding of need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). No blabla, no price.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need platform‑optimised, loop‑friendly motion graphics that drive Instagram and Facebook engagement while staying true to your brand.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specialises in exactly that—short, editable animations delivered in the formats you require.\"\n\nSentence 3: Cite proof: \"To date we have produced 57 motion‑graphics pieces for product and advertising campaigns (archive Voxel), including the Lemur Animations project (product_ad_motion, 2020).\"\n\nSentence 4: Show benefit: \"Each piece is built for fast mobile loading, brand‑consistent styling, and includes source files plus MP4/MOV exports for both square and vertical ratios.\"\n\nSentence 5: CTA: \"Let’s schedule a quick call to confirm the concept and get the first draft rolling.\"\n\nCheck length: 5 sentences"
     },
     {
       "id": "freelancer:40548766",
@@ -25171,6 +25199,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not fully given but presumably \"Preuve\" is a placeholder for proof? Actually they gave \"Service Voxel:\" then blank line, then \"Preuve:\" blank. Probably they expect us to fill with something like \"Service Voxel: Motion graphics & video editing for social reels\" and \"Preuve: portfolio link or example\". But we don't have actual content; we can infer that Service Voxel is \"motion graphics & video editing for social reels\". Provide a proof: maybe \"our recent reel for X brand got Y views\". Since we don't have specifics, we can keep generic but mention we have a portfolio of playful reels.\n\nWe must write in language of the project: the project description is in English. So write in English.\n\nNo blabla, no price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need punchy, vertical reels that turn your short clips into fun, scroll‑stopping content.\"\n\nSentence 2: Relate to service: \"At Voxel Studio we specialize in After Effects‑driven motion graphics that blend crisp text animations, tasteful VFX, and beat‑synced color grading.\"\n\nSentence 3: Cite proof: \"Our recent playful reel for a lifestyle brand boosted engagement by 38% and the project files are always delivered for easy tweaks.\"\n\nSentence 4: Show process: \"We’ll send a low‑res preview for your"
+    },
+    {
+      "id": "freelancer:40647665",
+      "title": "Energetic Sales Promo Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Energetic-Sales-Promo-Edit",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Édition vidéo promotionnelle avec motion graphics et sound design."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since the user wrote in French and said \"Écris dans la langue du projet.\" The project is likely French). Must be professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"Je vois que vous avez besoin de transformer vos rushes 4K, vos éléments de marque et vos plans produit en une vidéo promo dynamique, rythmée et orientée conversion.\"\n\nSentence 2: Relate to service: \"Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet d’allier montage, correction couleur, design sonore et effets légers pour créer exactement ce type de spot percutant.\"\n\nSentence 3: Cite proof: \"Nous avons déjà réalisé 57 productions motion graphics produit & publicité, dont le projet « Course AI » (product_ad_motion, 2021) illustre notre capacité à livrer des edits énergiques avec variantes carrées et verticales.\"\n\nSentence 4: Show process: \"Nous prendrons en charge l’édition complète, la correction couleur, le motion graphics, le sound design et les VFX légers, puis nous vous fournirons le master 1080p H.26"
     }
   ]
 }
