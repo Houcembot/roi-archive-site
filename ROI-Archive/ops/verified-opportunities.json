@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T17:08:02+00:00",
+  "generatedAt": "2026-08-15T17:54:13+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 916,
+  "total": 917,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 424
+      "count": 425
     },
     {
       "name": "États-Unis",
@@ -7831,6 +7831,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service \"Motion graphics produit & pub\", citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with a light CTA. Must be in language of the project (English). No fluff, no price. Cite concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). So we need to mention that we have done similar work, referencing that project.\n\nWe need to ensure we include the proof number and the project citation.\n\nWrite 4-6 sentences, each maybe a sentence.\n\nLet's craft:\n\n\"Nous avons saisi votre besoin d’une vidéo de présentation produit de 3 minutes qui allie captures d’écran UI, animations vectorielles propres et voix‑off synchronisée pour votre plateforme FinTech SaaS. Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de concevoir storyboards, designing assets, sourcing voix‑off et mix audio, tout en respectant vos délais de 2‑3 semaines avec deux rounds de révisions. Nous avons déjà réalisé 57 productions motion graphics produit & publicité (archive Voxel), dont le projet « Lemur Animations » (product_ad_motion, 2020) illustre notre capacité à transformer des fonctionnalités SaaS complexes en récits visuels percutants. Prêt à donner vie à votre proposition de valeur ? Contactez‑nous pour démarrer le storyboard.\"\n\nThat's 5 sentences. Good. Ensure first person"
+    },
+    {
+      "id": "freelancer:40649496",
+      "title": "Engaging 1-Minute SaaS Ad Video",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Engaging-Minute-SaaS-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de vidéo motion graphics publicitaire pour SaaS"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The title is English. So language of the project is English. So we need to write in English. Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Also must cite concrete project as proof of our historical (domain + year, without client name): \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that we have done similar: Shapes Animation (product_ad_motion, 2020). Provide CTA like \"Let's schedule a quick call to kick off\". No price, no blabla.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a 60‑second, friendly‑toned SaaS ad that builds brand recall for both consumers and business buyers. Sentence 2: Our Motion graphics produit & pub service specializes in turning concise scripts and clean visuals into punchy, motion‑driven spots exactly like the references you shared. Sentence 3: With 57 motion‑graphics product & advertisement productions in our archive—including the recent Shapes Animation (product_ad_motion, 2020)—we have proven expertise delivering on‑time, on‑brand results. Sentence 4: We’ll handle concept, script, storyboard, voice‑over casting, animation,"
     },
     {
       "id": "freelancer:40548766",
