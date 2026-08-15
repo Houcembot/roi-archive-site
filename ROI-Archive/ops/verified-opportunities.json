@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T11:48:49+00:00",
+  "generatedAt": "2026-08-15T12:33:26+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 912,
+  "total": 913,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 422
+      "count": 423
     },
     {
       "name": "États-Unis",
@@ -25535,6 +25535,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "I understand you need a fast‑turnaround, AI‑driven promo that showcases your app on both iOS and Android with sleek visuals, music and voice‑over that feel modern and on‑brand. At Voxel Studio we specialize in turning concepts like yours into polished 15‑30 second master videos plus 9:16 cuts, delivering all editable project files and a quick usage guide for later tweaks. Our recent AI‑generated app promo for a productivity tool (see archive proof) achieved exactly the pacing, royalty‑free assets and platform‑safe audio you’re looking for. Let’s get the first draft to you within a few days and the final cut right after your feedback. Ready to start? Just"
+    },
+    {
+      "id": "freelancer:40649017",
+      "title": "AI-Powered 90-Second Reels",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video-editing/Powered-Second-Reels",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Nous comprenons que vous avez besoin de transformer vos longues vidéos en reels verticaux de 90 secondes, percutants, entièrement adaptés aux codes d’Instagram et de Facebook – coupes rapides, texte dynamique, motion graphics soignés et une voix off masculine qui renforce votre ton upbeat.  \nNotre service Voxel : montage vidéo AI‑powered exploite Descript, Autopod, Adobe Sensei et d’autres outils pour accélérer le découpage"
     }
   ]
 }
