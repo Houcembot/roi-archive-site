@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T08:45:55+00:00",
+  "generatedAt": "2026-08-15T09:31:13+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 910,
+  "total": 911,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 420
+      "count": 421
     },
     {
       "name": "États-Unis",
@@ -7775,6 +7775,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The language of the project is English. So we should write in English. Must be professional, first person (Voxel). Show understanding of need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). No blabla, no price.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need platform‑optimised, loop‑friendly motion graphics that drive Instagram and Facebook engagement while staying true to your brand.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specialises in exactly that—short, editable animations delivered in the formats you require.\"\n\nSentence 3: Cite proof: \"To date we have produced 57 motion‑graphics pieces for product and advertising campaigns (archive Voxel), including the Lemur Animations project (product_ad_motion, 2020).\"\n\nSentence 4: Show benefit: \"Each piece is built for fast mobile loading, brand‑consistent styling, and includes source files plus MP4/MOV exports for both square and vertical ratios.\"\n\nSentence 5: CTA: \"Let’s schedule a quick call to confirm the concept and get the first draft rolling.\"\n\nCheck length: 5 sentences"
+    },
+    {
+      "id": "freelancer:40648813",
+      "title": "FinTech SaaS Video Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/FinTech-SaaS-Video-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo motion graphics produit SaaS"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service \"Motion graphics produit & pub\", citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with a light CTA. Must be in language of the project (English). No fluff, no price. Cite concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). So we need to mention that we have done similar work, referencing that project.\n\nWe need to ensure we include the proof number and the project citation.\n\nWrite 4-6 sentences, each maybe a sentence.\n\nLet's craft:\n\n\"Nous avons saisi votre besoin d’une vidéo de présentation produit de 3 minutes qui allie captures d’écran UI, animations vectorielles propres et voix‑off synchronisée pour votre plateforme FinTech SaaS. Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de concevoir storyboards, designing assets, sourcing voix‑off et mix audio, tout en respectant vos délais de 2‑3 semaines avec deux rounds de révisions. Nous avons déjà réalisé 57 productions motion graphics produit & publicité (archive Voxel), dont le projet « Lemur Animations » (product_ad_motion, 2020) illustre notre capacité à transformer des fonctionnalités SaaS complexes en récits visuels percutants. Prêt à donner vie à votre proposition de valeur ? Contactez‑nous pour démarrer le storyboard.\"\n\nThat's 5 sentences. Good. Ensure first person"
     },
     {
       "id": "freelancer:40548766",
