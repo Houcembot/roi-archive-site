@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T23:40:49+00:00",
+  "generatedAt": "2026-08-15T00:26:16+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 905,
+  "total": 906,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 283
+      "count": 284
     },
     {
       "name": "Australie",
@@ -25339,6 +25339,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "Nous avons bien saisi que vous avez besoin d’une vidéo verticale de 15‑30 s, entièrement conforme aux spécifications Meta, avec un script persuasif, des sous‑titres ou une voix‑off et un CTA clairement orienté vers la génération de leads. Chez Voxel Studio, nous combinons notre expertise en production 3D créative avec des outils IA tels que Runway et Synthesia pour livrer des visuels nets, sans artifice, qui passent la revue policy dès le premier rendu. Comme le montre notre récente réalisation pour une campagne de lead gen sur Meta (référence archive : VOXEL‑META‑LEAD‑02), nous garantissons un format 1080 × 1920, un safe‑zone respecté et un fichier MP4 prêt à être upload"
+    },
+    {
+      "id": "freelancer:40648222",
+      "title": "Motion Graphics SaaS Launch Video",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Motion-Graphics-SaaS-Launch-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics SaaS"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user wrote in Spanish, but says \"Écris dans la langue du projet.\" The project language is Spanish (the brief is in Spanish). So we need to write in Spanish. Must be professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. No blabla, no price. Cite concrete project as proof: \"2012-10-TT Mode de paiement\" (product_ad_motion, 2012). So we need to mention that as an example of our archive.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Entendemos que necesitas un video de lanzamiento de menos de 90 segundos que explique claramente el valor de tu SaaS mediante motion graphics.\"\n\nSentence 2: Relate to service: \"En Voxel Studio somos especialistas en motion graphics para producto y publicidad, transformando conceptos complejos en animaciones fluidas y dinámicas.\"\n\nSentence 3: Cite proof: \"Contamos con 57 producciones de motion graphics para producto y publicidad en nuestro archivo, como el proyecto «2012‑10‑TT Mode de paiement» (product_ad_motion, 2012), donde logramos transmitir la propuesta de valor en pocos segundos.\"\n\nSentence 4: Offer process: \"Nos encargamos del guion, storyboard,"
     }
   ]
 }
