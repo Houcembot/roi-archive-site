@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T19:25:19+00:00",
+  "generatedAt": "2026-08-15T20:10:48+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 917,
+  "total": 918,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 288
+      "count": 289
     },
     {
       "name": "Australie",
@@ -25675,6 +25675,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We know you need a"
+    },
+    {
+      "id": "freelancer:40649686",
+      "title": "3D Character Animation for Socials",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-rigging/Character-Animation-for-Socials",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "<12 mots>"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The user wrote in English. So language of the project is English. So we need to write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Animation de personnages, cite proof \"44 projects d'animation de personnages & cartoon (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Lynda _ Rigging a Cartoon Character in Maya 2016\" (cartoon_character_animation, 2016). No blabla, no price. Provide short hook.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a lively, caricature‑style 3‑D cartoon for social feeds that loops cleanly and entertains.\n\nSentence 2: At Voxel Studio our Animation de personnages service covers modelling, rigging, texturing, lighting and compositing to deliver exactly that end‑to‑end pipeline.\n\nSentence 3: Our track record includes 44 character‑animation and cartoon projects in our archive, such as the Lynda “Rigging a Cartoon Character in Maya 2016” (cartoon_character_animation, 2016) which demonstrates our expertise in playful rigging and smooth motion.\n\nSentence 4: We’ll deliver MP4/H.264 video, a cover frame and editable project files ready for Instagram, TikTok or any platform you choose.\n\nSentence 5: Let’s"
     }
   ]
 }
