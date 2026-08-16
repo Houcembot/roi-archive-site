@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T10:33:43+00:00",
+  "generatedAt": "2026-08-16T11:19:56+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 925,
+  "total": 926,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 427
+      "count": 428
     },
     {
       "name": "États-Unis",
@@ -25899,6 +25899,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a short, punchy vertical reel that instantly showcases your services and drives new‑client inquiries.  \nAt V"
+    },
+    {
+      "id": "freelancer:40650683",
+      "title": "Energetic Promo Video Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Energetic-Promo-Video-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Video editing"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a punchy, beat‑synced text and graphics package, a vibrant yet natural color grade, and animated overlays to highlight product features in your existing promo. Our Motion graphics produit & pub service is built exactly for these finishing‑touch enhancements. With 57 motion‑graphics product & advertising pieces in our archive—including the “"
     }
   ]
 }
