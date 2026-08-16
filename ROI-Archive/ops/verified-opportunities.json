@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T17:26:03+00:00",
+  "generatedAt": "2026-08-16T18:11:19+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 929,
+  "total": 931,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 294
+      "count": 295
     },
     {
       "name": "Australie",
@@ -63,7 +63,7 @@
       "name": "Canada",
       "lat": 56,
       "lon": -106,
-      "count": 32
+      "count": 33
     },
     {
       "name": "Nouvelle-Zélande",
@@ -7887,6 +7887,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The title is English. So language of the project is English. So we need to write in English. Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Also must cite concrete project as proof of our historical (domain + year, without client name): \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that we have done similar: Shapes Animation (product_ad_motion, 2020). Provide CTA like \"Let's schedule a quick call to kick off\". No price, no blabla.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a 60‑second, friendly‑toned SaaS ad that builds brand recall for both consumers and business buyers. Sentence 2: Our Motion graphics produit & pub service specializes in turning concise scripts and clean visuals into punchy, motion‑driven spots exactly like the references you shared. Sentence 3: With 57 motion‑graphics product & advertisement productions in our archive—including the recent Shapes Animation (product_ad_motion, 2020)—we have proven expertise delivering on‑time, on‑brand results. Sentence 4: We’ll handle concept, script, storyboard, voice‑over casting, animation,"
+    },
+    {
+      "id": "freelancer:40651229",
+      "title": "Engaging Instagram Jewelry Video Ads",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Engaging-Instagram-Jewelry-Video-Ads",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de montage vidéo produit avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 56,
+      "lon": -106,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The language of the project is English. So we write in English. Must be professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price.\n\nSo produce maybe 5 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need Instagram‑optimized video ads that showcase sparkle and craftsmanship without a hard sell.\n\nSentence 2: Our Motion graphics produit & pub service delivers polished product‑showcase videos—macro shots, smooth motion, natural skin tones, subtle text overlays and music that matches a modern, elegant vibe.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive, including the 2021 “Course AI” product ad, we have proven expertise in luxury‑focused short‑form content.\n\nSentence 4: We’ll edit your raw footage in Premiere Pro/After Effects, colour‑grade, sound‑level, caption‑ready and export both high‑res masters and upload‑ready H.264 versions for Reels, Stories and feed.\n\nSentence 5: Let’s schedule a quick call to confirm the first milestone and get your jewelry sparkling on Instagram.\n\nThat's 5 sentences. Ensure no price"
     },
     {
       "id": "freelancer:40548766",
@@ -26011,6 +26039,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service \"Animation de personnages\", citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", and finishing with a light CTA. Must be in language of the project. The project description is in English. So write in English. No blabla, no price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). Provide domain + year, no client name. So we need to mention that we have done 44 projects, including Lemur Animations (cartoon_character_animation, 2020). Provide CTA like \"Let's discuss a short test animation\" or \"Feel free to share the brief\". Keep 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need a polished 5‑8 second animation of an established 3D character for a preschool‑friendly YouTube series, with natural movement, facial expression and a friendly wave.\"\n\nSentence 2: Relate to service: \"Our Animation de personnages service specializes in bringing existing designs to life while preserving proportions and style.\"\n\nSentence 3: Cite proof: \"We’ve delivered 44 character‑animation & cartoon projects, including the Lemur Animations (cartoon_character_animation, 2020) archive.\"\n\nSentence 4: Show capability: \"Whether you prefer traditional keyframing, AI‑assisted workflows or a hybrid approach,"
+    },
+    {
+      "id": "freelancer:40651190",
+      "title": "Original Instagram Video Production",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Original-Instagram-Video-Production",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a fully original, Instagram‑optimized vertical video—from concept to final colour—delivered as a ready‑to‑upload MP4 with and without burn‑in captions."
     }
   ]
 }
