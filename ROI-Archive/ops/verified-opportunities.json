@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T14:21:28+00:00",
+  "generatedAt": "2026-08-16T15:08:13+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 926,
+  "total": 927,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 292
+      "count": 293
     },
     {
       "name": "Australie",
@@ -25927,6 +25927,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a punchy, beat‑synced text and graphics package, a vibrant yet natural color grade, and animated overlays to highlight product features in your existing promo. Our Motion graphics produit & pub service is built exactly for these finishing‑touch enhancements. With 57 motion‑graphics product & advertising pieces in our archive—including the “"
+    },
+    {
+      "id": "freelancer:40650919",
+      "title": "Instagram Promotional Video Content Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Instagram-Promotional-Video-Content",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of project is English. So we need English. Must be professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need scroll‑stopping Instagram promos that highlight your product in a clean, modern style, 15‑30 s, vertical format.\n\nSentence 2: At Voxel Studio we specialize in Motion graphics produit & pub, turning raw footage into polished edits with engaging graphics, text overlays, colour‑grade and audio balance.\n\nSentence 3: Our track record includes 57 motion‑graphics product & advertising pieces in our archive, such as the “Course AI” project (product_ad_motion, 2021) that delivered on‑brand, hook‑first videos ready for social.\n\nSentence 4: We’ll deliver three Instagram‑optimised videos, matching captions and hashtags, plus source files and asset documentation, all cleared for copyright.\n\nSentence 5: Let’s discuss how we can create content that drives clicks and conversions—just let us know the next steps.\n\nCheck: 5 sentences, first person ("
     }
   ]
 }
