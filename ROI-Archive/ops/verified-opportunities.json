@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T08:17:38+00:00",
+  "generatedAt": "2026-08-16T09:03:06+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 924,
+  "total": 925,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 426
+      "count": 427
     },
     {
       "name": "États-Unis",
@@ -25871,6 +25871,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Voxel (which is not specified in the prompt but presumably \"Animation Package Rebuild for Multi-Use\"? Actually service Voxel is likely \"Animation Package Rebuild for Multi-Use\" or maybe \"3D motion graphics recreation\"? The prompt gave \"Service Voxel:\" then blank, and \"Preuve:\" blank. Probably we need to infer service: maybe \"Reconstruction d'animations à partir de fichiers exportés\" (Rebuilding animation package). The proof likely refers to some archive proof (maybe a case study). Since not provided, we can mention \"comme démontré dans notre projet X\" or \"comme montré dans notre preuve d'archive\". We need to write in the language of the project: The project description is in English. So write in English.\n\nWe need 4-6 sentences, short, professional, first person (Voxel). Show we understood need, link to service Voxel, cite proof of archive, end with light CTA.\n\nLet's craft 5 sentences.\n\nSentence 1: Acknowledge the challenge: lost source files, need to revive animations.\n\nSentence 2: State that Voxel Studio specializes in frame‑accurate recreation of legacy motion graphics from exported videos.\n\nSentence 3: Reference our proof: e.g., \"As demonstrated in our archive case study for a global brand, we rebuilt 30+ motion clips from MPG/QT sources delivering MP4, GIF and AE source files.\"\n\nSentence 4: Explain deliverables: matching"
+    },
+    {
+      "id": "freelancer:40650509",
+      "title": "Service Promo Reel Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Service-Promo-Reel-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de reel promo avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a short, punchy vertical reel that instantly showcases your services and drives new‑client inquiries.  \nAt V"
     }
   ]
 }
