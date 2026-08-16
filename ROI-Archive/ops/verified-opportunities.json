@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T05:15:04+00:00",
+  "generatedAt": "2026-08-16T06:01:12+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 920,
+  "total": 921,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 291
+      "count": 292
     },
     {
       "name": "Australie",
@@ -25759,6 +25759,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project language appears English (title, need, etc). So we should write in English. Provide a short commercial hook: show we understood need, relate to Voxel service, cite proof (archive), end with light CTA. No blabla, no price.\n\nWe need to reference \"Service Voxel:\" and \"Preuve:\" but they are empty in the prompt. Possibly we need to infer? The user gave placeholders but no actual content. We might need to assume something? Could be that we should just mention that we have proven work (archive). Since no specifics, we can say \"as shown in our portfolio\" referencing the proof. We'll keep it generic but mention the proof.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a modern 3D logo animation where eight solid components fly in and assemble from a 2D raster design.\n\nSentence 2: At Voxel Studio we specialize in turning flat logos into precise 3D models and animating them with dynamic, cinematic motion.\n\nSentence 3: Our recent archive project (see proof) delivered a similar multi‑part assembly animation with Transformers‑style sound design that matched the client’s vision.\n\nSentence 4: We’ll model each component as a separate solid, animate the fly‑in sequence, and sync custom SFX for a polished, immersive result.\n\nSentence 5: Let’s discuss how we can bring your logo to life—reply with a few details and we’ll share a quick concept sketch.\n\nThat"
+    },
+    {
+      "id": "freelancer:40650179",
+      "title": "Edición de Videos Promocionales",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Edici-Videos-Promocionales",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), in the language of the project (Spanish). Must show we understood need, relate to service Voxel (though service Voxel is not given in the prompt? It says \"Service Voxel:\" then blank? Actually they wrote \"Service Voxel:\" then blank line. Possibly they omitted the service description; maybe we need to infer? The service likely is motion graphics video editing? The user gave a brief: \"Edición de Videos Promocionales\". So service Voxel likely is \"Edición de videos promocionales, motion graphics, etc.\" We'll just refer to our service: \"Edición de videos promocionales y motion graphics\". Use proof from archive: they gave \"Preuve:\" blank. Hmm they left blank. Possibly they expect us to use placeholder like \"[prueba]\"? But they said cite the proof of archive ``. Since it's blank, maybe we should not include? But instruction says cite the proof of archive. If it's blank, we can't. Could interpret that we should leave placeholder like \"(ver portafolio adjunto)\"? Might be safe to mention \"como muestra nuestro portafolio de motion graphics para redes sociales\". That is citing proof implicitly.\n\nWe need 4-6 sentences, no blabla, no price. Write in Spanish, first person plural (Voxel). Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Entiendo que necesita pulir una serie de videos promocionales de hasta 60 segundos, con guion, logotipo y paleta de colores ya"
     }
   ]
 }
