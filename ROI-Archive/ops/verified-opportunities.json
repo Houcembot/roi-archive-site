@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T16:16:17+00:00",
+  "generatedAt": "2026-08-17T17:01:39+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 943,
+  "total": 945,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 295
+      "count": 297
     },
     {
       "name": "Australie",
@@ -26403,6 +26403,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project: The user wrote in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that as example of our historical work. Provide CTA like \"Let's discuss your brief\" or \"Send us your assets\". 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We grasp you need a punchy AI‑animated explainer that drives ads and social visibility while spotlighting each feature and benefit. Sentence 2: At Voxel Studio our Motion graphics produit & pub service turns tight scripts into polished HD/4K cuts, handling story‑board, VO, AI‑assisted animation and sound design. Sentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the 2021 “Course AI” explainer—we have proven we can deliver on‑brand, feature‑focused videos fast. Sentence 4: We’ll provide script, storyboard, final video, clean localisation version and all source assets ready for your team to update. Sentence 5: Share your brief or assets and let’s kick off the production.\n\nThat's 5 sentences, meets criteria. Ensure no price, no blabla. Use first person (V"
+    },
+    {
+      "id": "freelancer:40653304",
+      "title": "Cinematic Logo Reveal for AI Technology Brand",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Cinematic-Logo-Reveal-for-Technology",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics logo reveal fits product ad motion service"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the language of the project? The user wrote in English. However they ask to write in the language of the project. The project is English. So we should write in English. Provide a short commercial hook (4-6 sentences) professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: We see you need a premium cinematic logo reveal for an AI tech brand, building on the dark, purple‑toned visual language you already have.\n\nSentence 2: At Voxel Studio we specialize in Motion graphics produit & pub, turning that energy‑driven concept into a seamless three‑scene brand film.\n\nSentence 3: Our archive shows 57 motion‑graphics product & advertising productions, including the “Course AI” project (product_ad_motion, 2021) where we delivered a similar high‑contrast, tech‑focused reveal.\n\nSentence 4: We’ll continue from your opening footage, engineer the evolving structure, bring in “INTRODUCING” as a hero entry, and culminate with the full TENDOR logo and brand name.\n\nSentence 5: Let’s discuss how we can extend your cinematic vision to the final"
+    },
+    {
+      "id": "freelancer:40652700",
+      "title": "PlanCare Motion Graphic Demo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/PlanCare-Motion-Graphic-Demo-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics promo vidéo produit demandée"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we need to write in English. Must be short commercial hook, 4-6 sentences, professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof of our historical (domain + year, without client name): \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that we have done similar product motion graphics, like Shapes Animation (product_ad_motion, 2020). No price, no fluff.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I get that you need a tight, silent‑autoplay motion‑graphics demo that walks viewers through PlanCare’s features in 15‑30 seconds.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service is built exactly for this kind of product‑focused storytelling.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and ad pieces in our archive, including the Shapes Animation (product_ad_motion, 2020) that used clean kinetic typography and brand‑aligned colour work.\"\n\nSentence 4: Show capability: \"From square to vertical formats, we’ll deliver legible on‑"
     }
   ]
 }
