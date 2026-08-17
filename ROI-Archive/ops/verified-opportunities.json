@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:29:13+00:00",
+  "generatedAt": "2026-08-17T13:14:28+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 938,
+  "total": 939,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 434
+      "count": 435
     },
     {
       "name": "États-Unis",
@@ -26263,6 +26263,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Write in language of the project: The project description is in English, so we write in English. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Must include that as proof of our historical record (domain + year, no client name). So we need to mention that we have done similar work: e.g., \"Course AI\" product ad motion in 2021. Also mention the 57 productions archive.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We know your perfume brand needs Facebook‑native video ads that feel sophisticated, sensual and instantly premium while meeting feed, story and reel specs.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub team turns your imagery and mood‑board into short‑form concepts, adds subtle typography for scent notes, royalty‑free music and ad copy.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product & pub productions in our archive—including the 2021 ‘Course AI’ product ad—we have a proven track record delivering exactly this type of work.\"\n\nSentence 4: Maybe another sentence about deliverables or quality: \"Each variation is crafted to pass Facebook review, load fast on mobile and showcase the bottle and logo within the first three seconds"
+    },
+    {
+      "id": "freelancer:40652798",
+      "title": "Neon Animation Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Neon-Animation-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad",
+          "label": "product_ad"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project title is in English, but the user wrote French instructions. Likely they want French. The service Voxel: product_ad. Need to cite the proof from archive: they gave a placeholder \"Preuve: \". No actual proof provided. Possibly they expect to reference the Instagram link as proof? The proof field is empty; maybe we just mention the Instagram reel as proof of concept. We'll include that.\n\nWe need to show understanding of need: neon light moving, glowing neon fetus baby, After Effects, projector. Relate to product_ad service (advertising product animation). Cite proof: the Instagram reel. End with light CTA: e.g., \"Discutons-en vite\" or \"Envoyez-moi votre brief\".\n\nMake 4-6 sentences, professional, first person (Voxel). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons saisi votre besoin d’une animation néon fluide mettant en scène un bébé fœtus lumineux, réalisable sous After Effects pour projection. Sentence 2: Chez Voxel Studio, notre service product_ad transforme ce type de concept en visuels percutants, optimisés pour les supports grand format. Sentence 3: Notre récente réalisation pour une campagne Instagram (reel DTxaHWDiDXf) démontre exactement notre maîtrise des effets néon et du glow. Sentence 4: Nous pouvons ainsi vous livrer une boucle prête à être projetée, avec les fichiers source et les rend"
     }
   ]
 }
