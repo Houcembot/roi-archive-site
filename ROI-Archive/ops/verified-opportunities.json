@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T04:00:12+00:00",
+  "generatedAt": "2026-08-17T04:45:52+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 932,
+  "total": 933,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 429
+      "count": 430
     },
     {
       "name": "États-Unis",
@@ -26095,6 +26095,34 @@
       "lat": 1.35,
       "lon": 103.8,
       "proposalDraft": "We understand you need a hand‑drawn, 10‑second looping holiday greeting that feels festive, warm and unmistakably luxurious for a premium hospitality brand.  \nAt Voxel Studio we specialize in blending elegant illustration with smooth 3D‑enhanced animation to capture the “art of hospitality” and the “luxury of stillness”"
+    },
+    {
+      "id": "freelancer:40651839",
+      "title": "Instagram Promo Video for sound  healing and yoga",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Instagram-Promo-Video-for-sound",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a scroll‑stopping Instagram video that instantly highlights what makes your boats special, drives viewers"
     }
   ]
 }
