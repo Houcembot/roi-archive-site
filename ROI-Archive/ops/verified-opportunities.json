@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T04:45:52+00:00",
+  "generatedAt": "2026-08-17T05:31:24+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 933,
+  "total": 934,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 430
+      "count": 431
     },
     {
       "name": "États-Unis",
@@ -26123,6 +26123,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a scroll‑stopping Instagram video that instantly highlights what makes your boats special, drives viewers"
+    },
+    {
+      "id": "freelancer:40651950",
+      "title": "YouTube Channel Animated Intro",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/YouTube-Channel-Animated-Intro",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animated YouTube intro matches motion graphics service."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Nous avons bien saisi votre besoin d’un intro YouTube animé, moderne et engageant.  \nChez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de transformer votre branding en une animation captivante"
     }
   ]
 }
