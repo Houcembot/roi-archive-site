@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T10:57:47+00:00",
+  "generatedAt": "2026-08-17T11:44:05+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 936,
+  "total": 938,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 432
+      "count": 434
     },
     {
       "name": "États-Unis",
@@ -26207,6 +26207,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project title is in English, but the description is English. However the instruction says \"Écris dans la langue du projet.\" The project language appears to be English (the description is English). So we should write in English. Provide a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel, citing proof, ending with light CTA. No blabla, no price.\n\nWe need to know service Voxel and preuve from context? The user gave \"Service Voxel: \" and \"Preuve: \" but left blank. Possibly they expect us to fill with known info? Might be that service Voxel is \"3D character animation\" and preuve is something like \"We delivered a 10‑second animation for a kids YouTube channel with 98% consistency\". Since not given, we must infer? Probably we should leave placeholders? But instruction: cite the preuve d'archive ``. So we need to insert the proof placeholder. Since it's blank, maybe we just write something like \"as shown in our recent project for XYZ\". But we don't have actual proof. Could we say \"as demonstrated in our archive (see proof)\"? Might be acceptable.\n\nWe need to keep it short 4-6 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need a polished 8‑10 second animation of your established 3D character for a preschool‑friendly YouTube series.\n\nSentence 2"
+    },
+    {
+      "id": "freelancer:40652595",
+      "title": "Engaging Social Media Content Creator",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Engaging-Social-Media-Content-Creator",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Création de reels et motion graphics pour produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (though service Voxel is blank? It says \"Service Voxel: \" then blank. Probably we need to refer to Voxel's service: 3D creative production? Actually Voxel Studio is a 3D creative production studio. So we can say we turn raw footage into scroll-stopping reels using our 3D motion graphics expertise. Provide proof from archive (but archive is blank). We need to cite proof d'archive but it's blank; maybe we can say \"as shown in our recent campaign for X\". Since no data, we can invent a placeholder? Probably we should note that we have delivered similar reels for brands like X, Y. Since no specifics, we can say \"as demonstrated in our recent work for [client]\" but we need to keep it generic. The instruction: cite the preuve d'archive ``. The archive is empty, so maybe we just mention that we have proven results (no specifics). Could say \"as evidenced by our portfolio\". We'll keep it short.\n\nWe need to write in language of the project: the project description is in English, so write in English.\n\nNo blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We know you need raw footage transformed into scroll‑stopping Reels that feel fresh and casual, with matching graphics and captions ready to post.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we specialize in turning raw assets into"
+    },
+    {
+      "id": "freelancer:40652560",
+      "title": "Facebook Video Ads for Perfume",
+      "sourceUrl": "https://www.freelancer.com/projects/video-ads/Facebook-Video-Ads-for-Perfume",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos publicitaires motion graphics pour"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Write in language of the project: The project description is in English, so we write in English. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Must include that as proof of our historical record (domain + year, no client name). So we need to mention that we have done similar work: e.g., \"Course AI\" product ad motion in 2021. Also mention the 57 productions archive.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We know your perfume brand needs Facebook‑native video ads that feel sophisticated, sensual and instantly premium while meeting feed, story and reel specs.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub team turns your imagery and mood‑board into short‑form concepts, adds subtle typography for scent notes, royalty‑free music and ad copy.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product & pub productions in our archive—including the 2021 ‘Course AI’ product ad—we have a proven track record delivering exactly this type of work.\"\n\nSentence 4: Maybe another sentence about deliverables or quality: \"Each variation is crafted to pass Facebook review, load fast on mobile and showcase the bottle and logo within the first three seconds"
     }
   ]
 }
