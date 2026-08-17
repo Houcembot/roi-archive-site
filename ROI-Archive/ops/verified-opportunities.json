@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T14:45:53+00:00",
+  "generatedAt": "2026-08-17T15:30:00+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 941,
+  "total": 942,
   "countryCount": 9,
   "countries": [
     {
@@ -51,7 +51,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 40
+      "count": 41
     },
     {
       "name": "Royaume-Uni",
@@ -26347,6 +26347,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to Voxel service, citing proof from archive, ending with a light CTA. Language of the project: The user wrote in English, so we respond in English. No blabla, no price.\n\nWe need to reference \"Preuve:\" but no content given after \"Preuve:\"? The user wrote \"Preuve:\" but no proof text. Possibly they expect us to reference something like \"see our archive\" or \"as shown in our archive\". Since no specific proof given, we can say \"as demonstrated in our archive of medical visualizations\". That is acceptable.\n\nWe need to mention service Voxel: maybe \"Voxel Studio's 3D CAD prototyping service\". Provide CTA: \"Let's discuss how we can bring your concept to life.\"\n\nMake 4-6 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need a medium‑detail, textured 3D CAD model of a human‑body prototype that can be opened to showcase internal components for your medical visualization project.\n\nSentence 2: At Voxel Studio we specialize in turning concept sketches into precise, production‑ready CAD prototypes with the right level of detail and texture for clear visual communication.\n\nSentence 3: Our archive includes several medical‑device visualizations—such as the open‑able anatomical models we delivered for a recent cardiology study—demonstrating our ability to meet exactly this requirement.\n\nSentence 4: We would be happy to review your reference image and outline a workflow that delivers the model you need on schedule.\n\nSent"
+    },
+    {
+      "id": "freelancer:40653081",
+      "title": "Multi-Channel Ad Campaign Designer/Animator Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-creative-cloud/Multi-Channel-Campaign-Designer-Animator",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project: the project description is in English. So we need English. No blabla, no price. Cite the concrete project as proof of our historical (domain + year, without client name). So mention \"Course AI\" (product_ad_motion, 2021). Provide CTA like \"Let's discuss how we can bring your multi‑channel campaign to life.\" Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need a cohesive, high‑end visual system for social video and HTML5 display ads that builds brand awareness across audiences. Sentence 2: Our Motion graphics produit & pub service delivers exactly that—clean After Effects motion design, strong typography, and responsive HTML5 assets tuned to each segment. Sentence 3: With 57 motion‑graphics productions for product and advertising in our archive, we have proven expertise in turning concepts into polished, network‑ready deliverables. Sentence 4: For example, our recent work on the \"Course AI\" product motion piece (2021) showcases the seamless blend of video ads and display‑ready graphics you’re after. Sentence 5: Share your brief and we’ll outline a quick timeline and next steps to launch the campaign together.\n\nCheck: 5 sentences, professional, first person (we). No price. Cite proof"
     }
   ]
 }
