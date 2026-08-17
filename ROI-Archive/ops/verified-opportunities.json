@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T15:30:00+00:00",
+  "generatedAt": "2026-08-17T16:16:17+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 942,
+  "total": 943,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 436
+      "count": 437
     },
     {
       "name": "États-Unis",
@@ -26375,6 +26375,34 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project: the project description is in English. So we need English. No blabla, no price. Cite the concrete project as proof of our historical (domain + year, without client name). So mention \"Course AI\" (product_ad_motion, 2021). Provide CTA like \"Let's discuss how we can bring your multi‑channel campaign to life.\" Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need a cohesive, high‑end visual system for social video and HTML5 display ads that builds brand awareness across audiences. Sentence 2: Our Motion graphics produit & pub service delivers exactly that—clean After Effects motion design, strong typography, and responsive HTML5 assets tuned to each segment. Sentence 3: With 57 motion‑graphics productions for product and advertising in our archive, we have proven expertise in turning concepts into polished, network‑ready deliverables. Sentence 4: For example, our recent work on the \"Course AI\" product motion piece (2021) showcases the seamless blend of video ads and display‑ready graphics you’re after. Sentence 5: Share your brief and we’ll outline a quick timeline and next steps to launch the campaign together.\n\nCheck: 5 sentences, professional, first person (we). No price. Cite proof"
+    },
+    {
+      "id": "freelancer:40653124",
+      "title": "AI Animated Marketing Explainer Video",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Animated-Marketing-Explainer-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project: The user wrote in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that as example of our historical work. Provide CTA like \"Let's discuss your brief\" or \"Send us your assets\". 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We grasp you need a punchy AI‑animated explainer that drives ads and social visibility while spotlighting each feature and benefit. Sentence 2: At Voxel Studio our Motion graphics produit & pub service turns tight scripts into polished HD/4K cuts, handling story‑board, VO, AI‑assisted animation and sound design. Sentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the 2021 “Course AI” explainer—we have proven we can deliver on‑brand, feature‑focused videos fast. Sentence 4: We’ll provide script, storyboard, final video, clean localisation version and all source assets ready for your team to update. Sentence 5: Share your brief or assets and let’s kick off the production.\n\nThat's 5 sentences, meets criteria. Ensure no price, no blabla. Use first person (V"
     }
   ]
 }
