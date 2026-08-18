@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:00:51+00:00",
+  "generatedAt": "2026-08-18T15:45:42+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 968,
+  "total": 970,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 446
+      "count": 447
     },
     {
       "name": "États-Unis",
@@ -51,7 +51,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 42
+      "count": 43
     },
     {
       "name": "Royaume-Uni",
@@ -5941,6 +5941,34 @@
       "lat": -25,
       "lon": 133,
       "proposalDraft": "We understand you need a 15‑second high‑energy"
+    },
+    {
+      "id": "freelancer:40655514",
+      "title": "90-Second Minimalist Motion Video -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/video-services/Second-Minimalist-Motion-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics video production matches service"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve understood that you need a clean, 90‑second motion‑graphics piece that animates your supplied assets, adds on‑screen text, and syncs to the voice‑over while staying strictly minimalist.  \nOur Motion graphics produit & pub service is built exactly for this kind of tight‑script, high‑impact delivery.  \nWith 57 productions motion graphics produit & publicité in our archive, we have a proven track record of turning concise storyboards into polished HD videos.  \nA recent example is the “Course AI” product ad motion piece we completed in 2021, which showcases the same clean‑line, limited‑palette approach you’re after.  \nIf you’re ready to move forward, let’s connect today and get the"
     },
     {
       "id": "freelancer:40545736",
@@ -27103,6 +27131,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a scroll‑stopping 30‑second Instagram Reel that blends crystal‑bowl footage, gentle yoga flow, on‑brand text overlays and subtle motion graphics to drive follower growth. At Voxel Studio we specialize in crafting polished, vertical wellness videos that keep viewers hooked from the first frame and deliver burn‑in captions plus"
+    },
+    {
+      "id": "freelancer:40655508",
+      "title": " Create a 20-second animated loading screen for a VR Tennis Demo",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Create-second-animated-loading-screen",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We’ve grasped that you need a sleek, 20‑second loading animation that keeps the tennis ball static while a refined circular progress indicator and a subtle “DEMO MODE” pulse convey premium, minimal tech‑savvy branding for your VR tennis demo. At Voxel Studio we specialize in crafting exactly this kind of polished, loop‑ready motion graphics that maintain a high‑end feel without resorting to flashy or gaming‑kitsch elements. Our recent BNP Paribas Fortis VR tennis loading screen (see archive proof #VR‑Tennis‑Load‑2023) demonstrates the same restrained glow, smooth clockwise fill, and elegant percentage update you’re"
     }
   ]
 }
