@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T16:31:16+00:00",
+  "generatedAt": "2026-08-18T17:16:06+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 972,
+  "total": 973,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 447
+      "count": 448
     },
     {
       "name": "États-Unis",
@@ -8083,6 +8083,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English (the user wrote in English). The language of the project is English. So we need to write in English. Provide a short commercial hook (4-6 sentences), professional, first person (Voxel). Should show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). No blabla, no price.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a tight 25‑30 second launch reel that introduces your new site and highlights the refreshed artist roster in a fresh, exciting way.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in turning brand assets into punchy, platform‑ready cuts that work both 16:9 and 9:16.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces in our archive, including the recent “Color Pen Animations” (product_ad_motion, 2020) that showcases exactly the kind of dynamic typography and color‑driven energy you’re after.\"\n\nSentence 4: Show speed and process: \"Just send over the logos, color values and any reference clips"
+    },
+    {
+      "id": "freelancer:40655670",
+      "title": "Product Showcase Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Product-Showcase-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos promotionnelles produit avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need short, high‑impact product videos"
     },
     {
       "id": "freelancer:40548766",
