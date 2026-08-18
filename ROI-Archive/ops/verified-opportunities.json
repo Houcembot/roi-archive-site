@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T04:22:56+00:00",
+  "generatedAt": "2026-08-18T05:08:33+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 950,
+  "total": 951,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 438
+      "count": 439
     },
     {
       "name": "États-Unis",
@@ -26599,6 +26599,34 @@
       "lat": -25,
       "lon": 133,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The language of the project is English. So we need to write in English. Provide a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Voxel (which is not given explicitly but likely \"Sales-Focused Promo Video Creation For service/SMMA\"? Actually service Voxel is missing; maybe it's \"Promo video creation\" or \"3D creative production\"? The user gave Service Voxel: (blank) and Preuve: (blank). Possibly they omitted but we need to infer? The instruction: \"cite la preuve d'archive ``\". So we need to include a placeholder for proof? Probably we need to include something like \"[Preuve]\"? But we need to cite the proof of archive. Since it's blank, maybe we just note that we have relevant portfolio. Could say \"As shown in our recent work for [Client] (see archive link)\". We'll include a placeholder like \"[Preuve]\" or we can say \"as demonstrated in our archive (link)\". Since we don't have actual link, we can note \"see our portfolio at [Preuve]\". Probably acceptable.\n\nWe need to end with a light CTA.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need a tight, conversion‑driven promo that grabs attention in the first seconds and guides viewers straight to signing up for TradeFlowly.com.\"\n\nSentence 2: Rel"
+    },
+    {
+      "id": "freelancer:40654230",
+      "title": "Conversion-Focused Landing Page Video",
+      "sourceUrl": "https://www.freelancer.com/projects/voice-over/Conversion-Focused-Landing-Page-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo tour produit avec"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "I know you need a crisp,"
     }
   ]
 }
