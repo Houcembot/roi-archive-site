@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T05:18:30+00:00",
+  "generatedAt": "2026-08-19T06:03:52+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 980,
+  "total": 981,
   "countryCount": 9,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 46
+      "count": 47
     },
     {
       "name": "Europe",
@@ -27439,6 +27439,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need crisp, 15‑30 second vertical reels that use smart negative space and dynamic text overlays to instantly convey your offer while staying true to your brand’s font and colour palette. At Voxel Studio we specialize in minimalist motion‑graphics editing, handling take selection, colour"
+    },
+    {
+      "id": "freelancer:40656572",
+      "title": "Boxing & Muay thai Reels Creation ",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Boxing-Reels-Creation-Captioning",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "I understand you need weekly, coach‑focused Instagram Reels that break down boxing and Muay Thai techniques with precise, timed captions and a clean, technical look. At Vox"
     }
   ]
 }
