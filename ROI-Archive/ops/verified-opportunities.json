@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T17:26:22+00:00",
+  "generatedAt": "2026-08-19T18:12:11+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 988,
+  "total": 989,
   "countryCount": 9,
   "countries": [
     {
@@ -57,7 +57,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 37
+      "count": 38
     },
     {
       "name": "Canada",
@@ -27663,6 +27663,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French (since project language is French? The user wrote in English but instruction: \"Écris dans la langue du projet.\" The project description is in English, but the service and proof are French. The language of the project likely is English? However the instruction says \"Écris dans la langue du projet.\" The project is described in English (title, need). So we should write in English. But the service and proof are French terms. The user likely expects French? The service Voxel: Motion graphics produit & pub is French. The proof: 57 productions motion graphics produit & publicité (archive Voxel) is French. The archive project: \"Course AI\" (product_ad_motion, 2021) is English? It's ambiguous. The user wrote the request in English. Usually they'd want English. But they explicitly said \"Écris dans la langue du projet.\" The project language is English (since the brief is English). So we write in English.\n\nWe need 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions motion graphics produit & publicité, finish with light CTA. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Provide assets needed? Not needed in the pitch, just the accroche.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a punchy, vertical Instagram reel that instantly explains the giveaway rules and sparks excitement."
+    },
+    {
+      "id": "freelancer:40658105",
+      "title": "Motion Graphics Explainer Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Motion-Graphics-Explainer-Videos-40658105",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de motion graphics explainer vidéo"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: The user wrote in English, so answer in English. No fluff, no price. Cite concrete project as proof: \"2d FX\" (product_ad_motion, 2014). Provide domain+year without client name. So mention that we have done similar 2D FX product ad motion in 2014. Provide CTA like \"Let's discuss how we can start\". Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need short‑form football explainer videos with a mission‑briefing look, using clean 2D motion graphics, typography, archive assets and animated charts for Instagram/TikTok.\n\nSentence 2: At Voxel Studio our Motion graphics produit & pub service specializes in turning scripts and voice‑overs into visually cohesive series that maintain a strong brand identity.\n\nSentence 3: Our archive shows 57 motion‑graphics product and advertising productions, including a 2D FX product‑ad motion piece from 2014 that demonstrates the exact style you referenced.\n\nSentence 4: We can match the 9:16 format, 1‑2 minute length, and deliver a consistent visual system across the whole series.\n\nSentence 5: Let’s jump on a quick call to outline the workflow and next steps.\n\nCheck: 5 sentences, professional, first person ("
     }
   ]
 }
