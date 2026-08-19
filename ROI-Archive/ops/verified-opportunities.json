@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T03:01:36+00:00",
+  "generatedAt": "2026-08-19T03:47:16+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 977,
+  "total": 978,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 450
+      "count": 451
     },
     {
       "name": "États-Unis",
@@ -27355,6 +27355,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a polished animated intro for your podcast and YouTube channel that blends motion graphics with clean text animation.  \nOur Motion graphics produit & pub service specializes in crafting sleek, brand‑"
+    },
+    {
+      "id": "freelancer:40656434",
+      "title": "B2B Sales Promo Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Sales-Promo-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo promo motion graphics avec script, voix-off et formats"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we must write in English. Must be 4-6 sentences, professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. So produce maybe 5 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need a punchy B2B promo video that drives decision‑makers to book a call, with sharp, benefit‑centric messaging and a strong CTA.\n\nSentence 2: Our Motion graphics produit & pub service is built exactly for that—turning value‑prop outlines into conversion‑focused scripts, storyboards, and polished motion graphics.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive, we bring proven expertise to every frame.\n\nSentence 4: For example, our “Course AI” product ad motion (2021) delivered a square and vertical cut that boosted engagement and led‑gen on LinkedIn and Instagram.\n\nSentence 5: Let’s kick off a quick brief so we can deliver the two 1080p MP4 versions, voice‑over, music and one revision round within our standard turnaround.\n\nThat's 5 sentences. Ensure"
     }
   ]
 }
