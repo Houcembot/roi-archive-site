@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T03:47:16+00:00",
+  "generatedAt": "2026-08-19T04:32:51+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 978,
+  "total": 979,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 309
+      "count": 310
     },
     {
       "name": "Australie",
@@ -8111,6 +8111,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need short, high‑impact product videos"
+    },
+    {
+      "id": "freelancer:40656493",
+      "title": "Creative Promotional Video Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Creative-Promotional-Video-Edit",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo promo avec motion graphics et montage créatif"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We"
     },
     {
       "id": "freelancer:40548766",
