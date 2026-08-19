@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T02:16:27+00:00",
+  "generatedAt": "2026-08-19T03:01:36+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 976,
+  "total": 977,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 308
+      "count": 309
     },
     {
       "name": "Australie",
@@ -27327,6 +27327,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The project language: The user wrote in English, but they said \"Écris dans la langue du projet.\" The project is in English (the brief is English). So we should write in English. Must be professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. Provide 4-6 sentences.\n\nLet's craft: 5 sentences.\n\nSentence 1: We understand you want thumb‑stopping vertical reels that showcase your product’s value while feeling native to the feed. Sentence 2: Our Motion graphics produit & pub service turns raw clips, images or ideas into 9:16, 15‑30‑second stories with snappy hooks, on‑brand colour grading, silent‑view captions and trending audio. Sentence 3: Backed by 57 motion‑graphics product and advertising productions in our archive, including the “Course AI” project (product_ad_motion, 2021) that delivered exactly this blend of storytelling and visual punch. Sentence 4: We’ll handle concept, edit, motion‑graphics treatment and one round of revisions, delivering MP4 files ready for Instagram and Facebook Reels. Sentence 5: Let’s discuss how we can make your products impossible to scroll past—share your brief and we’ll get started.\n\nThat's 5 sentences. No"
+    },
+    {
+      "id": "freelancer:40656368",
+      "title": "Podcast/YouTube Animated Intro Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Podcast-YouTube-Animated-Intro-Creation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animated intro for podcast/YouTube matches motion graphics service."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a polished animated intro for your podcast and YouTube channel that blends motion graphics with clean text animation.  \nOur Motion graphics produit & pub service specializes in crafting sleek, brand‑"
     }
   ]
 }
