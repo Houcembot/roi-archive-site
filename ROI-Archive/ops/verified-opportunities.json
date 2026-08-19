@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T18:12:11+00:00",
+  "generatedAt": "2026-08-19T18:56:46+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 989,
+  "total": 990,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 457
+      "count": 458
     },
     {
       "name": "États-Unis",
@@ -27691,6 +27691,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: The user wrote in English, so answer in English. No fluff, no price. Cite concrete project as proof: \"2d FX\" (product_ad_motion, 2014). Provide domain+year without client name. So mention that we have done similar 2D FX product ad motion in 2014. Provide CTA like \"Let's discuss how we can start\". Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need short‑form football explainer videos with a mission‑briefing look, using clean 2D motion graphics, typography, archive assets and animated charts for Instagram/TikTok.\n\nSentence 2: At Voxel Studio our Motion graphics produit & pub service specializes in turning scripts and voice‑overs into visually cohesive series that maintain a strong brand identity.\n\nSentence 3: Our archive shows 57 motion‑graphics product and advertising productions, including a 2D FX product‑ad motion piece from 2014 that demonstrates the exact style you referenced.\n\nSentence 4: We can match the 9:16 format, 1‑2 minute length, and deliver a consistent visual system across the whole series.\n\nSentence 5: Let’s jump on a quick call to outline the workflow and next steps.\n\nCheck: 5 sentences, professional, first person ("
+    },
+    {
+      "id": "freelancer:40658079",
+      "title": "Marketing Video Compilation with Transitions",
+      "sourceUrl": "https://www.freelancer.com/projects/video-post-editing/Marketing-Video-Compilation-with",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Édition vidéo promotionnelle avec transitions"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project (English). No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So mention that we have done similar like Course AI. Provide concise proposal? Actually the request: \"Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), qui : (1) montre qu'on a compris le besoin, (2) relie au service Voxel Motion graphics produit & pub, (3) cite la preuve d'archive 57 productions motion graphics produit & publicité (archive Voxel), (4) finit par un CTA léger. Écris dans la langue du projet. Pas de blabla, pas de prix. Cite ce projet concret comme preuve de notre historique (domaine + année, sans nom de client).\"\n\nThus we need 4-6 sentences, first person (we). Show we understood need: need to merge clips, smooth transitions, social media formats. Relate to service: motion graphics product & ad. Cite proof: 57 productions motion graphics product & pub (archive Voxel). Cite concrete project: Course AI (product_ad_motion, 2021). End with light CTA: e.g., \"Let’s discuss the approach and get started"
     }
   ]
 }
