@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T21:57:43+00:00",
+  "generatedAt": "2026-08-19T22:43:19+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 990,
+  "total": 991,
   "countryCount": 9,
   "countries": [
     {
@@ -57,7 +57,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 38
+      "count": 39
     },
     {
       "name": "Canada",
@@ -5997,6 +5997,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), in language of the project (English). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I know you need a concise, conversion‑focused video that turns viewers into paying clients for your online interior‑design studio.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service delivers exactly that—clean, brand‑aligned visuals that guide the audience through your value proposition.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product and advertising pieces in our archive, including the 2021 “Course AI” product ad, we have a proven track record of high‑impact, sophisticated work.\"\n\nSentence 4: Mention deliverables: \"We’ll provide script & storyboard, a 1080p MP4 plus vertical version, and the editable After Effects/Premiere Pro file, all on schedule.\"\n\nSentence 5: Light CTA: \"Let’s schedule a brief call to confirm the storyboard and lock in the timeline—just reply with a time that works for you.\"\n\nMake sure it's 4-6 sentences, professional, first person (Voxel). No price. Good."
+    },
+    {
+      "id": "freelancer:40658451",
+      "title": "AI-Driven Construction Management System Promo Reel",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Driven-Construction-Management-System",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics promo reel for construction"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French (language of project? The user wrote in French but the project description is English. The instruction: \"Écris dans la langue du projet.\" The project language? The user wrote in English for the brief, but the service description is French. Usually \"langue du projet\" means the language of the request: The user wrote in English, but they also wrote French instructions. The project is about a construction management system promo reel; the user wrote in English. So we should write in English. However the instruction says \"Écris dans la langue du projet.\" The project is described in English, so we write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that as evidence of our historic. Provide CTA like \"Let's discuss next steps\" or \"Feel free to share any additional assets\". No price. Let's craft 5 sentences.\n\nSentence 1: We understand you need a punchy 30‑60s reel that showcases your construction company while highlighting the AI‑driven management system through motion graphics.\n\nSentence 2: Our Motion graphics produit & pub service specializes in blending raw footage with AI‑generated infographics, dynamic captions and logo reveals to create a modern, authoritative narrative.\n\nSentence 3: With 57 motion‑"
     },
     {
       "id": "freelancer:40545736",
