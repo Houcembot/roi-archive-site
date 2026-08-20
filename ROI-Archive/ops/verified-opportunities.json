@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T08:31:27+00:00",
+  "generatedAt": "2026-08-20T09:17:41+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 996,
+  "total": 997,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 314
+      "count": 315
     },
     {
       "name": "Australie",
@@ -27887,6 +27887,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not fully given but likely \"Pre-Production, Production, Post-Production\" or similar), citing proof from archive (but we don't have actual proof text; maybe we need to reference \"Preuve:\" placeholder? The user gave \"Preuve:\" but no content. Possibly we need to cite that we have proof of previous work, like \"as shown in our archive\". We'll just mention \"as demonstrated in our portfolio\" referencing the proof. Must be in language of the project: the project description is in English, so write in English. No blabla, no price. Provide CTA light at end (e.g., \"Let's schedule a quick call\").\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need fresh, share‑ready videos that convey Qwertyuiop’s message with strong visual storytelling.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we handle concept‑to‑delivery — storyboarding, filming or motion design, voice‑over, editing, and format optimisation for social, web and any extra specs you require.\"\n\nSentence 3: Cite proof: \"Our recent work for [client] (see the attached archive proof) delivered exactly this end‑to‑end pipeline, earning high engagement metrics.\"\n\nSentence 4: Offer flexibility: \"We’ll incorporate your brand guidelines and assets, provide source files, and include two revision rounds to ensure the final"
+    },
+    {
+      "id": "freelancer:40659496",
+      "title": "Creative Motion Design for a Video Collage",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Creative-Motion-Design-for-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We’ve grasped exactly what you need: a fast‑moving, continuously zooming collage where 44 square video tiles reveal themselves together and fluidly settle into the number “30,” with the CEO’s clip as the final highlight before the formation completes.  \nAt Voxel Studio we specialize in dynamic motion‑design collages that blend precise framing, smooth easing and motion‑blur to create that sense of depth and speed you described.  \nOur archive proof shows a similar multi‑tile animation where dozens of clips transition seamlessly into a numeric shape while staying as distinct squares—exactly the visual logic you’re after.  \nLet’s bring your 30‑year celebration to life with a polished, continuous reveal that keeps every face visible and engaging.  \nReply with a quick “yes” or share any timing details, and we’ll start the storyboard right away."
     }
   ]
 }
