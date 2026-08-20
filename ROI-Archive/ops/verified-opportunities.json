@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T07:01:59+00:00",
+  "generatedAt": "2026-08-20T07:46:29+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 995,
+  "total": 996,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 459
+      "count": 460
     },
     {
       "name": "États-Unis",
@@ -6025,6 +6025,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French (language of project? The user wrote in French but the project description is English. The instruction: \"Écris dans la langue du projet.\" The project language? The user wrote in English for the brief, but the service description is French. Usually \"langue du projet\" means the language of the request: The user wrote in English, but they also wrote French instructions. The project is about a construction management system promo reel; the user wrote in English. So we should write in English. However the instruction says \"Écris dans la langue du projet.\" The project is described in English, so we write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that as evidence of our historic. Provide CTA like \"Let's discuss next steps\" or \"Feel free to share any additional assets\". No price. Let's craft 5 sentences.\n\nSentence 1: We understand you need a punchy 30‑60s reel that showcases your construction company while highlighting the AI‑driven management system through motion graphics.\n\nSentence 2: Our Motion graphics produit & pub service specializes in blending raw footage with AI‑generated infographics, dynamic captions and logo reveals to create a modern, authoritative narrative.\n\nSentence 3: With 57 motion‑"
+    },
+    {
+      "id": "freelancer:40659265",
+      "title": "Energetic Minimalist Reels Graphics",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Energetic-Minimalist-Reels-Graphics",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics reels for social media"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need short, high‑energy motion‑graphic reels that stay clean yet captivating for Instagram and TikTok, with bold colour pops and punchy transitions that keep viewers watching to the last frame.  \nOur Motion graphics produit & pub service"
     },
     {
       "id": "freelancer:40545736",
