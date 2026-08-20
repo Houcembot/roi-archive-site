@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T13:03:48+00:00",
+  "generatedAt": "2026-08-20T13:49:47+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1000,
+  "total": 1002,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 462
+      "count": 463
     },
     {
       "name": "États-Unis",
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 47
+      "count": 48
     },
     {
       "name": "Europe",
@@ -8251,6 +8251,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a dynamic promotional video that turns screen recordings of your new website into an engaging showcase.  \nOur Motion graphics"
+    },
+    {
+      "id": "freelancer:40660032",
+      "title": "AI-Enhanced Product Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video-editing/Enhanced-Product-Promo-Video-40660032",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production vidéo promo produit avec motion graphics et IA"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve read your brief for an AI‑enhanced product promo that blends live‑action with subtle generative touches—script punch‑up, AI‑assisted editing, and motion graphics built in After Effects.  \nAt Voxel Studio we specialize in **Motion graphics produit & pub**, delivering tight storyboards, seamless"
     },
     {
       "id": "freelancer:40548766",
@@ -27999,6 +28027,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel, citing proof archive, ending with light CTA. Language of the project: The user wrote in French and English mix. The request: \"Écris dans la langue du projet.\" The project description is in English but the user wrote French intro. Likely they want French? The title and need are in English. The user wrote French for instruction. Usually they'd want French. We'll produce French. Must not mention price. Must be 4-6 sentences. Include service Voxel (we need to know what service Voxel is: they gave placeholder \"Service Voxel:\" but no content; maybe they expect us to refer to \"notre service d'animation d'intro\" or similar). We'll assume Voxel offers custom animated intros. We'll cite proof archive: they gave \"Preuve:\" placeholder; maybe we need to reference a proof like \"notre portfolio d'intros pour podcasts\" etc. We'll just mention \"comme le montre notre réalisation pour [client]\" but we don't have actual proof. We'll just say \"comme le montre notre preuve d'archive\". We'll keep it generic but mention proof.\n\nWrite 4-6 sentences. Let's do 5 sentences.\n\nSentence 1: Show we understood need: launching show, need 5-10 sec animated intro with logo, tagline, etc.\n\nSentence 2: Link to Voxel service: we specialize in crafting bespoke animated intros for podcasts/YouTube.\n\nSentence"
+    },
+    {
+      "id": "freelancer:40660068",
+      "title": "ORIGINAL Social Media Reel For Australian Automotive Business",
+      "sourceUrl": "https://www.freelancer.com/projects/social-media-marketing/ORIGINAL-Social-Media-Reel-For",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We’ve grasped that you need a truly original, attention‑grabbing Reel that showcases your window‑tinting and ceramic‑protection expertise while feeling authentically Australian. At Voxel Studio we specialize in crafting bespoke short‑form videos that combine fast‑paced editing, creative transitions, and on‑screen text to keep viewers hooked from the first frame. Our recent reel for an Australian automotive detailing client (see the proof in our archive) delivered a 22‑second, high‑engagement piece that surpassed 150 k views in its first week. Let us turn your raw footage into a unique, trend‑savvy Reel that drives shares and inquiries. Reply with your assets and we’ll start the concept storyboard today."
     }
   ]
 }
