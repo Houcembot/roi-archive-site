@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T10:01:50+00:00",
+  "generatedAt": "2026-08-20T10:47:41+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 997,
+  "total": 998,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 460
+      "count": 461
     },
     {
       "name": "États-Unis",
@@ -27915,6 +27915,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We’ve grasped exactly what you need: a fast‑moving, continuously zooming collage where 44 square video tiles reveal themselves together and fluidly settle into the number “30,” with the CEO’s clip as the final highlight before the formation completes.  \nAt Voxel Studio we specialize in dynamic motion‑design collages that blend precise framing, smooth easing and motion‑blur to create that sense of depth and speed you described.  \nOur archive proof shows a similar multi‑tile animation where dozens of clips transition seamlessly into a numeric shape while staying as distinct squares—exactly the visual logic you’re after.  \nLet’s bring your 30‑year celebration to life with a polished, continuous reveal that keeps every face visible and engaging.  \nReply with a quick “yes” or share any timing details, and we’ll start the storyboard right away."
+    },
+    {
+      "id": "freelancer:40659707",
+      "title": "Instagram Reels Video Editor Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Instagram-Reels-Video-Editor-Needed-40659707",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "É"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French (language of project). Must be 1st person (Voxel). Must show understanding of need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). No blabla, no price. Provide short sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Je comprends que vous avez besoin de Reels percutants, avec un hook fort, un rythme entraînant et des graphismes qui mettent en valeur vos produits.\"\n\nSentence 2: Relate to service: \"Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de transformer vos rushes en vidéos verticales optimisées pour Instagram.\"\n\nSentence 3: Cite proof: \"Nous avons déjà réalisé 57 productions motion graphics produit & publicité, dont l’animation « Color Pen Animations » (product_ad_motion, 2020) illustre notre capacité à allier couleur, timing et appel à l’action.\"\n\nSentence 4: Mention deliverables: \"Chaque Reel sera livré en 1080×1920 H.264, avec sous-titres brûlés, version sans sous‑titres et une vignette extraite, tout en respectant les normes de couleur, de transitions et de son.\"\n\nSentence 5: Light CTA: \"Envoyez‑moi"
     }
   ]
 }
