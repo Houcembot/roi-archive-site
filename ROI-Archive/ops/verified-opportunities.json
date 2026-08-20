@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T11:32:42+00:00",
+  "generatedAt": "2026-08-20T12:18:10+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 999,
+  "total": 1000,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 461
+      "count": 462
     },
     {
       "name": "États-Unis",
@@ -27971,6 +27971,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch in French? The user wrote in English but said \"Écris dans la langue du projet.\" The project language? The user wrote in English. So we should respond in English. Provide a short commercial hook (4-6 sentences) professional, first person (Voxel), showing understanding, linking to service Voxel, citing proof (but proof is empty? The user gave \"Preuve:\" with nothing after). We need to cite proof of archive but it's empty; maybe we can say \"as demonstrated in our recent AI‑assisted ad for [client]\" but we don't have specifics. Could we infer from \"Preuve:\" blank? Might need to note that we have proof but not provided? Probably we should say \"as shown in our portfolio (see attached proof)\" but we can't fabricate. We can say \"as evidenced by our recent AI‑generated spot for a SaaS startup (see proof)\". Since no actual proof given, we can note that proof is available upon request. The instruction: cite the proof d'archive ``. Probably we need to include placeholder like \"[Preuve]\" or refer to the proof they gave (empty). Might be okay to say \"as shown in the proof you provided\". We'll comply.\n\nWe need to produce 4-6 sentences. No blabla, no price. Provide CTA lightly.\n\nLet's craft:\n\nSentence 1: We understand you need an AI‑driven commercial that instantly ties your software’s look and feel to a memorable brand story. Sentence 2: At Voxel Studio we specialize in crafting 15‑30 second spots using Runway,"
+    },
+    {
+      "id": "freelancer:40659811",
+      "title": "Animated Podcast/YouTube Intro Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Animated-Podcast-YouTube-Intro-Needed",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel, citing proof archive, ending with light CTA. Language of the project: The user wrote in French and English mix. The request: \"Écris dans la langue du projet.\" The project description is in English but the user wrote French intro. Likely they want French? The title and need are in English. The user wrote French for instruction. Usually they'd want French. We'll produce French. Must not mention price. Must be 4-6 sentences. Include service Voxel (we need to know what service Voxel is: they gave placeholder \"Service Voxel:\" but no content; maybe they expect us to refer to \"notre service d'animation d'intro\" or similar). We'll assume Voxel offers custom animated intros. We'll cite proof archive: they gave \"Preuve:\" placeholder; maybe we need to reference a proof like \"notre portfolio d'intros pour podcasts\" etc. We'll just mention \"comme le montre notre réalisation pour [client]\" but we don't have actual proof. We'll just say \"comme le montre notre preuve d'archive\". We'll keep it generic but mention proof.\n\nWrite 4-6 sentences. Let's do 5 sentences.\n\nSentence 1: Show we understood need: launching show, need 5-10 sec animated intro with logo, tagline, etc.\n\nSentence 2: Link to Voxel service: we specialize in crafting bespoke animated intros for podcasts/YouTube.\n\nSentence"
     }
   ]
 }
