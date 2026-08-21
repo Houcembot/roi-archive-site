@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T19:13:57+00:00",
+  "generatedAt": "2026-08-21T20:00:13+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1023,
+  "total": 1024,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 324
+      "count": 325
     },
     {
       "name": "Australie",
@@ -28641,6 +28641,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), in French? The project language: The user wrote in English, but the instruction says \"Écris dans la langue du projet.\" The project language appears to be English (the title and description are English). However the instruction is in French, but they say \"Écris dans la langue du projet.\" The project language is English (since the user wrote English). So we should write in English. Provide a short commercial pitch (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to Voxel service Viewer web 3D / livraison, cite proof \"Web Viewer Factory (Marmoset, MONSAPO)\", end with light CTA. Cite the archive project: \"Shapes Animation\" (pipeline_tools, 2020). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need an embeddable, high‑detail BIM‑style 3D viewer with interactive overlays and animated façade components.\n\nSentence 2: Our Viewer web 3D / livraison delivers exactly that – a plug‑in‑free Three.js/WebGL solution optimized for <5 s load on 4G, with smooth rotate/zoom on desktop and mobile.\n\nSentence 3: We have already built similar experiences, notably the Web Viewer Factory for Marmoset and MONSAPO, proving our ability to handle physically‑based textures, baked and real‑time lighting, and complex UI interactions.\n\nSentence 4: Building on our internal “Shapes Animation” pipeline"
+    },
+    {
+      "id": "freelancer:40662735",
+      "title": "Health & Fitness TikTok Demo Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/content-creation/Health-Fitness-TikTok-Demo-Videos",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos TikTok démonstratives avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since project language appears French). Must be 1st show we understood need, relate to Voxel service \"Motion graphics produit & pub\", cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite concrete project: \"PUB DEMO\" (product_ad_motion, 2023). No fluff, no price. Write in French. 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Nous saisissons que vos vidéos TikTok doivent capter l’attention en moins de trois secondes, transformer les bénéfices produit en séquences dynamiques et pousser directement à l’achat.\"\n\nSentence 2: Relate to service: \"Notre expertise en motion graphics produit & pub nous permet de concevoir des storyboards punchlines, d’ajouter textes animés, stickers et effets sonores parfaitement synchronisés aux tendances.\"\n\nSentence 3: Cite proof: \"Avec 57 productions motion graphics produit & publicité réalisées pour notre archive, nous avons déjà prouvé notre capacité à livrer des contenus courts, haute performance et prêts à publier.\"\n\nSentence 4: Cite concrete project: \"Par exemple, notre projet « PUB DEMO » (product_ad_motion, 2023) a démontré comment un simple brief peut devenir une vidéo 9:16 virale, complète de fichier éditable, thumbnail et légende optimisée.\"\n\nSentence 5: CTA léger: \"Discutons de votre prochain flux"
     }
   ]
 }
