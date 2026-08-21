@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T06:24:22+00:00",
+  "generatedAt": "2026-08-21T07:13:47+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1008,
+  "total": 1009,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 466
+      "count": 467
     },
     {
       "name": "États-Unis",
@@ -28221,6 +28221,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "Nous comprenons que vous cherchez un animateur capable de transformer votre storyboard Minecraft en une séquence fluide, du rigging au rendu final en 1080p / 4K, avec lumière, caméra et effets sonores qui donnent vie à vos personnages. Chez Voxel Studio, nous maîtrisons les pipelines Blender + Blockbench, Mine‑imator et autres outils tout en respectant l’esthétique in‑game et en assurant une motion dynamique. Comme le montre notre réalisation pour le projet *[Preuve]*, nous livrons des MP4 prêts à l’upload, les fichiers sources et une révision incluse. Confiez‑nous votre clip de"
+    },
+    {
+      "id": "freelancer:40661473",
+      "title": "AI-Crafted Energetic Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video-editing/Crafted-Energetic-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: the project description is in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that as example of our historical work.\n\nWe need to outline AI video tools? Actually the instruction says: \"In your proposal, outline the AI video tools you intend to use and link to similar sales-focused promos you have produced.\" But the main request: \"Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), qui : (1) montre qu'on a compris le besoin, (2) relie au service Voxel Motion graphics produit & pub, (3) cite la preuve d'archive 57 productions motion graphics produit & publicité (archive Voxel), (4) finit par un CTA léger. Écris dans la langue du projet. Pas de blabla, pas de prix. Cite ce projet concret comme preuve de notre historique (domaine + année, sans nom de client).\"\n\nThus we need to include mention of AI video tools and link to similar sales-focused promos we have produced. However the request for the hook does not explicitly ask to outline tools; but the earlier instruction says \"In your proposal, outline the AI"
     }
   ]
 }
