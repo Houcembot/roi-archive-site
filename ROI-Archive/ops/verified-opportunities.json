@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T15:28:04+00:00",
+  "generatedAt": "2026-08-21T16:13:33+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1020,
+  "total": 1021,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 322
+      "count": 323
     },
     {
       "name": "Australie",
@@ -28527,7 +28527,8 @@
         }
       ],
       "lat": 20.6,
-      "lon": 78.9
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service product_ad_m, citing proof (archive). The proof is empty? The user gave \"Preuve:\" with nothing after. Possibly they expect we reference the proof placeholder? Might need to cite something like \"[Preuve]\"? The instruction: \"cite la preuve d'archive ``\". So we need to include the proof placeholder exactly as given? Probably we need to include something like \"(voir preuve)\"? Since it's empty, maybe we just include the empty brackets? Could be they expect we put the proof reference like \"[Preuve]\"? Might be safer to include the literal string they gave: \"\" (nothing). But that seems odd. Perhaps they want us to reference the proof like \"comme montré dans notre archive\". Since no content, we can just say \"comme montré dans notre archive\". We'll obey: cite the proof d'archive (the empty placeholder). We'll include a note like \"(voir preuve)\". We'll write in French? The user wrote in English but the instruction says \"Écris dans la langue du projet.\" The project language? The user wrote English. So we write in English. Provide 4-6 sentences. No blabla, no price. Include CTA light at end. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: need a polished 5-8 sec intro with logo, motion graphics, sound design for business audience.\n\nSentence 2: Relate to service product_ad_m: we specialize in crafting short, brand‑focused video ads that deliver exactly that.\n\nSentence"
     },
     {
       "id": "freelancer:40662291",
@@ -28556,6 +28557,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "Nous avons bien saisi votre besoin de reels Instagram : format 9 :16, moins de 30 s, avec un rendu cinématographique, des transitions nettes avant/après et des graphismes animés qui mettent en valeur vos coupes et vos produits.  \nNotre service Voxel de production vidéo haut de gamme combine étalonnage couleur précis, speed‑rams/slow‑motion synchronisés à la musique et motion design After Effects pour intégrer vos noms de styles et"
+    },
+    {
+      "id": "freelancer:40662401",
+      "title": "SaaS Explainer Video Production",
+      "sourceUrl": "https://www.freelancer.com/projects/explainer-videos/SaaS-Explainer-Video-Production",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We’ve reviewed your brief and know exactly how to turn a precise script, strict brand guidelines and real‑world screen captures into a tight 40‑second SaaS demo that feels editorial, not flashy.  \nOur SaaS Explainer Video Production service handles clean screen‑recording, beat‑by‑beat editing, on‑screen text in your exact fonts and colors, subtle zooms/pans, and proper music‑VO mixing so the"
     }
   ]
 }
