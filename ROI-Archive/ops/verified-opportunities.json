@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T01:07:05+00:00",
+  "generatedAt": "2026-08-21T01:52:29+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1007,
+  "total": 1008,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 465
+      "count": 466
     },
     {
       "name": "États-Unis",
@@ -28193,6 +28193,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you’re looking for a cinematic 3D‑animated love story that preserves the modest"
+    },
+    {
+      "id": "freelancer:40661025",
+      "title": "Skilled Minecraft Animator Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/game-animation/Skilled-Minecraft-Animator-Needed",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Nous comprenons que vous cherchez un animateur capable de transformer votre storyboard Minecraft en une séquence fluide, du rigging au rendu final en 1080p / 4K, avec lumière, caméra et effets sonores qui donnent vie à vos personnages. Chez Voxel Studio, nous maîtrisons les pipelines Blender + Blockbench, Mine‑imator et autres outils tout en respectant l’esthétique in‑game et en assurant une motion dynamique. Comme le montre notre réalisation pour le projet *[Preuve]*, nous livrons des MP4 prêts à l’upload, les fichiers sources et une révision incluse. Confiez‑nous votre clip de"
     }
   ]
 }
