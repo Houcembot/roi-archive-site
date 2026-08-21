@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T14:43:49+00:00",
+  "generatedAt": "2026-08-21T15:28:04+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1019,
+  "total": 1020,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 321
+      "count": 322
     },
     {
       "name": "Australie",
@@ -6163,7 +6163,8 @@
         }
       ],
       "lat": 38,
-      "lon": -97
+      "lon": -97,
+      "proposalDraft": "We’ve read your brief and understand that you need a seamless, Unity‑ready animation set – idle, walk, run, jump, attack and hit‑reaction – with clean keyframes, proper root motion and flawless retargeting to your humanoid rig.  \nOur **Animation de personnages** service specializes in delivering exactly that:"
     },
     {
       "id": "freelancer:40545736",
@@ -28527,6 +28528,34 @@
       ],
       "lat": 20.6,
       "lon": 78.9
+    },
+    {
+      "id": "freelancer:40662291",
+      "title": "15 realistic Haircuts Transformation Reels",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/realistic-Haircuts-Transformation-Reels",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "Nous avons bien saisi votre besoin de reels Instagram : format 9 :16, moins de 30 s, avec un rendu cinématographique, des transitions nettes avant/après et des graphismes animés qui mettent en valeur vos coupes et vos produits.  \nNotre service Voxel de production vidéo haut de gamme combine étalonnage couleur précis, speed‑rams/slow‑motion synchronisés à la musique et motion design After Effects pour intégrer vos noms de styles et"
     }
   ]
 }
