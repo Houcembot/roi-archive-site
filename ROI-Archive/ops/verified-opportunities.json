@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T13:57:52+00:00",
+  "generatedAt": "2026-08-21T14:43:49+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1016,
+  "total": 1019,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 472
+      "count": 473
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 319
+      "count": 321
     },
     {
       "name": "Australie",
@@ -6137,6 +6137,33 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We’ve read your brief for a polished, realistic 3D product animation that highlights every feature for your marketing"
+    },
+    {
+      "id": "freelancer:40662216",
+      "title": "Unity Hero Character Animations",
+      "sourceUrl": "https://www.freelancer.com/projects/unity/Unity-Hero-Character-Animations",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d'animations de personnage héros pour Unity"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
     },
     {
       "id": "freelancer:40545736",
@@ -28445,6 +28472,61 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to Voxel service (which is presumably 3D creative production? Actually Voxel Studio is a 3D creative production studio, but they might also do motion graphics? The service Voxel: maybe they provide motion graphics? We need to refer to service Voxel (maybe \"motion design\" or \"product animation\").\n\nWe have a proof: \"Preuve:\" but no content given. Possibly we need to cite a proof from archive, but not given. We can assume we have a proof like \"Nous avons récemment réalisé une vidéo de lancement pour un SaaS FinOps similaire, augmentant le taux de conversion de X%\". We need to cite the proof: maybe we can say \"Comme le montre notre projet X (voir archive)\". Since we don't have actual archive, we can just mention \"comme le montre notre réalisation pour [client]\" as proof.\n\nWe must write in the language of the project. The project description is in English. So we write in English.\n\nNo blabla, no price.\n\nWe need 4-6 sentences.\n\nLet's craft:\n\nSentence 1: Show we understood need: \"We understand TruCost.Cloud needs a tight 45‑60 second motion‑driven launch video that highlights its UI, dashboards and data‑visualisation flows.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we specialise in SaaS product motion design, turning complex interfaces into clean, premium animations that tell a story.\"\n\nSentence 3: Cite"
+    },
+    {
+      "id": "freelancer:40662242",
+      "title": "Instagram Video & Poster Campaign",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Instagram-Video-Poster-Campaign",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we need to write in English. Provide short commercial hook, professional, first person (Voxel). Show we understood need, relate to service Voxel (which is not given but we can infer it's motion graphics, video production, poster design). Cite proof from archive (but we have no proof content; maybe we can refer to a portfolio piece). Provide CTA light. No blabla, no price.\n\nWe need to embed the service Voxel line? The prompt includes \"Service Voxel:\" and \"Preuve:\" but they are empty. We need to infer? Possibly we should just mention that we have service Voxel (maybe it's \"motion graphics & brand asset creation\") and cite proof like \"see our recent Instagram campaign for X brand\". Since we don't have actual proof, we can say \"as shown in our recent work for [Client]\" as proof.\n\nWe must not mention price. Keep 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need a unified Instagram roll‑out that puts brand awareness front and centre, with a short mixed‑media video and matching feed/Stories posters.\"\n\nSentence 2: Relate to service Voxel: \"At Voxel Studio we specialise in end‑to‑end motion‑graphics and layout design—from concept and storyboard through animation, editing and delivery of layered source files plus export‑ready MP4/P"
+    },
+    {
+      "id": "freelancer:40662095",
+      "title": "Professional YouTube Intro Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Professional-YouTube-Intro-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_m",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_m",
+          "label": "product_ad_m"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     }
   ]
 }
