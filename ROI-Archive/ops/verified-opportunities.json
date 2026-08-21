@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T08:42:07+00:00",
+  "generatedAt": "2026-08-21T09:26:58+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1013,
+  "total": 1014,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 470
+      "count": 471
     },
     {
       "name": "États-Unis",
@@ -8391,6 +8391,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We’ve read your brief for an AI‑enhanced product promo that blends live‑action with subtle generative touches—script punch‑up, AI‑assisted editing, and motion graphics built in After Effects.  \nAt Voxel Studio we specialize in **Motion graphics produit & pub**, delivering tight storyboards, seamless"
+    },
+    {
+      "id": "freelancer:40661678",
+      "title": "SaaS Feature Explainer Video",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/SaaS-Feature-Explainer-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Explainer vidéo produit motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user wrote in English but says \"Écris dans la langue du projet.\" The project language? The user wrote in English, but the instructions are French. The project is likely English because the user wrote in English. However \"langue du projet\" could refer to the language of the project description, which is English. So we should write in English. Provide a short commercial hook 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price. Provide just the hook.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a concise, friendly explainer that turns new SaaS features into a compelling story that drives trial sign‑ups.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning interface walkthroughs into sleek, overlay‑enhanced animations that highlight real‑world pain points.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the 2020 “Shapes Animation” for a product ad—we have proven expertise in this exact format.\n\nSentence 4: We’ll deliver script, storyboard, HD video with captions, and source files, ready for your review within a week of storyboard approval.\n\nSentence 5: Let’s schedule a"
     },
     {
       "id": "freelancer:40548766",
