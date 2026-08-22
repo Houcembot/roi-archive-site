@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T16:22:48+00:00",
+  "generatedAt": "2026-08-22T17:08:13+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1039,
+  "total": 1040,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 336
+      "count": 337
     },
     {
       "name": "Australie",
@@ -29089,6 +29089,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Animation de personnages, citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with a light CTA. Must be in the language of the project. The project description is in English. So we write in English.\n\nWe must cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). Provide domain + year, no client name.\n\nWe must not mention price, no fluff.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a polished 5‑8 second trial that keeps the character’s proportions, facial expressions and subtle secondary motion consistent.\n\nSentence 2: Our Animation de personnages service specializes in delivering smooth, artifact‑free motion for original 3D YouTube series.\n\nSentence 3: With 44 character‑animation & cartoon projects in our archive, we have a proven track record—including the Lemur Animations (cartoon_character_animation, 2020) that showcases reliable secondary motion and facial fidelity.\n\nSentence 4: We can work with traditional 3D, AI‑assisted or hybrid pipelines, focusing solely on the quality you require.\n\nSentence 5: Let’s discuss a short paid trial to see how we can bring your character to life—reply to arrange the details.\n\nCheck constraints: 4-6 sentences, we have 5. Professional, first person (Voxel) – we used \"Our\", \"We\". Good."
+    },
+    {
+      "id": "freelancer:40664315",
+      "title": "Digital Signage Animation - 3 Banners",
+      "sourceUrl": "https://www.freelancer.com/projects/animation/Digital-Signage-Animation-Banners",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation de b"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing understanding of need, linking to service Motion graphics produit & pub, citing proof: 57 productions motion graphics produit & publicité (archive Voxel), and referencing concrete project \"Course AI\" (product_ad_motion, 2021). End with a light CTA. Write in language of the project (the project description is in French? Actually the user wrote in English but the instruction says \"Écris dans la langue du projet.\" The project description is in English? The user wrote in English, but the title is in English, but the instruction says French. The user wrote the request in English, but the instruction says to write in the language of the project. The project description is in English, but the user might expect French because they wrote \"Écris dans la langue du projet.\" The project description is in English, but maybe they consider French as language because they wrote French instruction. Usually they'd want French. Let's output in French.\n\nWe need 4-6 sentences. Include understanding of need: need 3 simple professional 10-sec animated banners, animate existing artwork without altering design, subtle effects.\n\nLink to service: Motion graphics produit & pub.\n\nCite proof: 57 productions motion graphics produit & publicité (archive Voxel).\n\nCite project: \"Course AI\" (product_ad_motion, 2021).\n\nEnd with light CTA: e.g., \"Discutons de votre projet dès maintenant\" or \"Contactez-nous pour un devis rapide\".\n\nMake sure no prices, no blabla.\n\nLet's craft 5"
     }
   ]
 }
