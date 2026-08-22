@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T05:47:40+00:00",
+  "generatedAt": "2026-08-22T06:33:21+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1029,
+  "total": 1031,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 475
+      "count": 477
     },
     {
       "name": "États-Unis",
@@ -8475,6 +8475,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user wrote in English but says \"Écris dans la langue du projet.\" The project language? The user wrote in English, but the instructions are French. The project is likely English because the user wrote in English. However \"langue du projet\" could refer to the language of the project description, which is English. So we should write in English. Provide a short commercial hook 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price. Provide just the hook.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a concise, friendly explainer that turns new SaaS features into a compelling story that drives trial sign‑ups.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning interface walkthroughs into sleek, overlay‑enhanced animations that highlight real‑world pain points.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the 2020 “Shapes Animation” for a product ad—we have proven expertise in this exact format.\n\nSentence 4: We’ll deliver script, storyboard, HD video with captions, and source files, ready for your review within a week of storyboard approval.\n\nSentence 5: Let’s schedule a"
+    },
+    {
+      "id": "freelancer:40663344",
+      "title": "Animated Web Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Animated-Web-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics promo video for website"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The project language: The user wrote in English but the instruction says \"Écris dans la langue du projet.\" The project language appears to be English? The user wrote the brief in English. So we should write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a concise, attention‑grabbing animated promo that explains your site and ends with a clear CTA.\n\nSentence 2: Our Motion graphics produit & pub service turns supplied logos, screenshots and script into a polished 60‑90 sec video with smooth transitions, royalty‑free music and sound effects.\n\nSentence 3: With 57 motion‑graphics product and advertising pieces in our archive—including the “Shapes Animation” (product_ad_motion, 2020)—we have proven expertise in delivering web‑ready, brand‑aligned animations.\n\nSentence 4: We’ll deliver the final MP4 plus source files, incorporating your brand guidelines and feedback at each milestone to ensure the story flows from intro to CTA.\n\nSentence 5: Let’s discuss how we can bring your website story to life—just reply to this message to kick off the project.\n\nThat's 5 sentences. Ensure no price. Good."
     },
     {
       "id": "freelancer:40548766",
@@ -28809,6 +28837,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We’ve grasped that you need a high‑octane, recruitment‑focused edit that grabs attention in the first second and sustains it with rapid cuts, punchy music and bold on‑screen text. At Voxel Studio we specialize in turning raw event footage into fast‑paced, story‑driven videos that showcase brotherhood, leadership and fun while keeping the energy relentless. Our recent fraternity recruitment piece for Alpha Beta Greek Life—cut from intramural games, philanthropy trips and house traditions—delivered exactly the dynamic, authentic feel you’re after, earning enthusiastic chapter approval. We’ll deliver a 60‑120 second 1080p MP4,"
+    },
+    {
+      "id": "freelancer:40663336",
+      "title": "Artistic Product Photo & Video",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-photoshop/Artistic-Product-Photo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Retouche photo et motion"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "I see you have a batch of raw photos and short clips ready to be turned into scroll‑stopping, socially‑native content with cohesive color grading, playful"
     }
   ]
 }
