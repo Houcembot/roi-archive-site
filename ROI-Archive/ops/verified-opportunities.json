@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T14:07:22+00:00",
+  "generatedAt": "2026-08-22T14:52:06+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1038,
+  "total": 1039,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 335
+      "count": 336
     },
     {
       "name": "Australie",
@@ -29061,6 +29061,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "Entendemos que necesita un video vertical de aproximadamente 40 segundos, cinematográfico, moderno y premium para"
+    },
+    {
+      "id": "freelancer:40664087",
+      "title": "Character Animator for Original 3D YouTube Series.. -- 5",
+      "sourceUrl": "https://www.freelancer.com/projects/animation/Character-Animator-for-Original-YouTube-40664087",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Animation de personnages, citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with a light CTA. Must be in the language of the project. The project description is in English. So we write in English.\n\nWe must cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). Provide domain + year, no client name.\n\nWe must not mention price, no fluff.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a polished 5‑8 second trial that keeps the character’s proportions, facial expressions and subtle secondary motion consistent.\n\nSentence 2: Our Animation de personnages service specializes in delivering smooth, artifact‑free motion for original 3D YouTube series.\n\nSentence 3: With 44 character‑animation & cartoon projects in our archive, we have a proven track record—including the Lemur Animations (cartoon_character_animation, 2020) that showcases reliable secondary motion and facial fidelity.\n\nSentence 4: We can work with traditional 3D, AI‑assisted or hybrid pipelines, focusing solely on the quality you require.\n\nSentence 5: Let’s discuss a short paid trial to see how we can bring your character to life—reply to arrange the details.\n\nCheck constraints: 4-6 sentences, we have 5. Professional, first person (Voxel) – we used \"Our\", \"We\". Good."
     }
   ]
 }
