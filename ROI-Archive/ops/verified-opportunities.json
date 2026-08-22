@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T13:21:11+00:00",
+  "generatedAt": "2026-08-22T14:07:22+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1037,
+  "total": 1038,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 334
+      "count": 335
     },
     {
       "name": "Australie",
@@ -8503,6 +8503,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The project language: The user wrote in English but the instruction says \"Écris dans la langue du projet.\" The project language appears to be English? The user wrote the brief in English. So we should write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a concise, attention‑grabbing animated promo that explains your site and ends with a clear CTA.\n\nSentence 2: Our Motion graphics produit & pub service turns supplied logos, screenshots and script into a polished 60‑90 sec video with smooth transitions, royalty‑free music and sound effects.\n\nSentence 3: With 57 motion‑graphics product and advertising pieces in our archive—including the “Shapes Animation” (product_ad_motion, 2020)—we have proven expertise in delivering web‑ready, brand‑aligned animations.\n\nSentence 4: We’ll deliver the final MP4 plus source files, incorporating your brand guidelines and feedback at each milestone to ensure the story flows from intro to CTA.\n\nSentence 5: Let’s discuss how we can bring your website story to life—just reply to this message to kick off the project.\n\nThat's 5 sentences. Ensure no price. Good."
+    },
+    {
+      "id": "freelancer:40664037",
+      "title": "Design 3 Animated Digital Signage Banners",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Design-Animated-Digital-Signage-Banners",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation de bannières publicitaires"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We’ve understood that you need three 10‑second animated banners that keep the exact design intact while adding subtle, professional motion suited for digital signage. Our Motion graphics produit & pub service specializes in animating existing artwork without altering logos, typography or layout, delivering clean, high‑quality MP4s at the required dimensions. With 57 productions motion graphics produit & publicité in our archive, we have a proven track record of similar work. For example"
     },
     {
       "id": "freelancer:40548766",
