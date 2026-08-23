@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T05:58:01+00:00",
+  "generatedAt": "2026-08-23T06:43:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1048,
+  "total": 1049,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 340
+      "count": 341
     },
     {
       "name": "Australie",
@@ -6249,6 +6249,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "Nous avons bien saisi votre besoin d’une publicité Instagram punchy, de 20‑"
+    },
+    {
+      "id": "freelancer:40665106",
+      "title": "3D Character Tutorial Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Character-Tutorial-Animation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation 3D personnage pour vidéo tutoriel"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a polished 60‑second instructional video where Felix"
     },
     {
       "id": "freelancer:40545736",
