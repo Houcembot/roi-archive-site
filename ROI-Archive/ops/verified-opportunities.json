@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T14:19:27+00:00",
+  "generatedAt": "2026-08-23T15:06:38+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1053,
+  "total": 1054,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 483
+      "count": 484
     },
     {
       "name": "États-Unis",
@@ -6277,6 +6277,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a polished 60‑second instructional video where Felix"
+    },
+    {
+      "id": "freelancer:40665825",
+      "title": "Realistic 30-Sec Jedlik Delivery Promo",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Realistic-Sec-Jedlik-Delivery-Promo",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation 3D réaliste promo produit véhicule électrique"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof of archive 57 productions, ending with light CTA. Write in language of the project: The project description is in English. So write in English. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Must include domain + year, no client name. So mention that we delivered a product ad motion graphics in 2020. Provide CTA like \"Let's discuss how we can bring your Jedlik story to life\" etc. Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We grasp the urgency of turning a chaotic IPL‑night order surge into a seamless Jedlik delivery moment.\" Sentence 2: Relate to service: \"Our Motion graphics produit & pub expertise turns that narrative into a tight, realistic 30‑second 3D spot.\" Sentence 3: Cite proof: \"With 57 motion‑graphics product & advertising pieces in our archive—including the 2020 product_ad_motion project 'Shapes Animation'—we have the track record to deliver.\" Sentence 4: Maybe add another sentence about quality: \"Every frame will be crafted with live‑action‑level lighting, materials and subtle overlays that highlight the efficiency gain.\" Sentence 5: CTA: \"Let’s schedule a quick call to storyboard the before/after contrast and lock in the final"
     },
     {
       "id": "freelancer:40545736",
