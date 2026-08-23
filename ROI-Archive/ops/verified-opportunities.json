@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T15:06:38+00:00",
+  "generatedAt": "2026-08-23T15:49:35+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1054,
+  "total": 1055,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 484
+      "count": 485
     },
     {
       "name": "États-Unis",
@@ -29509,6 +29509,34 @@
       "lat": 56,
       "lon": -106,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service \"Motion graphics produit & pub\", citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: the project description is in English (title AI-Powered Equipment Promo Videos). So we need English. No fluff, no price. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we mention that we have done similar AI-powered motion graphics for product ads in 2021.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"I understand you need polished, corporate‑style promos that blend live‑action footage with subtle motion graphics and AI‑generated specs highlights.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in exactly that—clean animations, brand‑consistent lower thirds, logo stings and colour‑graded sequences that keep pacing engaging without being flashy.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising productions, including the 2021 ‘Course AI’ project where we integrated AI‑generated visuals with live‑action equipment footage for a seamless corporate look.\"\n\nSentence 4: Maybe another proof or benefit: \"Every piece adheres to the client’s brand kit, delivers 4K/1080p masters and editable project files, and ensures AI footage matches the tone"
+    },
+    {
+      "id": "freelancer:40665546",
+      "title": "Stylized Hero Animation Set",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Stylized-Hero-Animation-Set",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since user wrote French). Must be 1st person (Voxel). Show we understood need, link to service Animation de personnages, cite proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", cite concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). End with light CTA. No blabla, no price. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Je vois que vous avez besoin d’un set complet d’animations stylisées pour votre héros Unity, avec des boucles fluides et des attaques en root‑motion.\"\n\nSentence 2: Link to service: \"Chez Voxel Studio, notre expertise en Animation de personnages nous permet de transformer vos références vidéo en clips game‑ready parfaitement retargetables.\"\n\nSentence 3: Cite proof: \"Nous avons déjà réalisé 44 projets d’animation de personnages & cartoon, dont l’archive « Lemur Animations » (cartoon_character_animation, 2020) qui démontre notre capacité à produire des mouvements héroïques et sans pop.\"\n\nSentence 4: Show Unity readiness: \"Nous livrons les FBX organisés, configurons un Animator Controller avec blend trees et paramètres clairs, prêts à être importés et testés dans votre scène.\"\n\nSentence 5: CTA léger: \"Discutons du timing et du reel dès maintenant pour donner vie à votre héros.\"\n\nMake sure it's"
     }
   ]
 }
