@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T06:43:43+00:00",
+  "generatedAt": "2026-08-23T07:28:45+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1049,
+  "total": 1050,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 481
+      "count": 482
     },
     {
       "name": "États-Unis",
@@ -29369,6 +29369,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to write a short commercial hook (4-6 sentences), in French (since project language is French? The user wrote in English but the instruction: \"Écris dans la langue du projet.\" The project description is in English? The title and need are in English. However the user wrote in English but the instruction says to write in the language of the project. The project description is in English. So we should write in English. But the user wrote French instructions. Usually they'd want French. The project details are English but the user wrote French. The instruction: \"Écris dans la langue du projet.\" The project is described in English, but the user wrote French. Might be ambiguous. Usually they'd want French because they wrote French instructions. I'd go with French. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, link to service Motion graphics produit & pub, cite proof 57 productions, mention archive project \"Color Pen Animations\" (product_ad_motion, 2020). End with light CTA. No blabla, no price. Provide short hook.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons saisi que vous cherchez une vidéo d’introduction d’app où l’écran devient le héros, avec des prises réelles et des captures nettes, le tout en moins d’une minute.\n\nSentence 2: Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de transformer ces enregistrements en séquences dynamiques, avec des call‑outs précis et un sound design immersif.\n\nSentence 3: Nous nous appuyons sur notre historique de"
+    },
+    {
+      "id": "freelancer:40665136",
+      "title": "Informative Social Media Video Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Informative-Social-Media-Video-Edit",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Nous avons bien saisi que vous cherchez une vidéo purement animée, rythmée par votre voix‑off et optimisée pour les formats verticaux et carrés des réseaux sociaux. Chez Voxel Studio, nous concevons et affinons les graphiques motion‑design en respectant scrupulum votre charte couleur et typographie, tout en synchronisant chaque élément à la narration pour une compréhension immédiate. Comme le montre notre récente réalisation pour une campagne LinkedIn (voir preuve d’archive), nous savons ajouter des transitions subtiles, du texte kinetic et des effets sonores légers qui renfor"
     }
   ]
 }
