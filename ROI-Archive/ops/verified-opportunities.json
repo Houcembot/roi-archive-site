@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T19:34:32+00:00",
+  "generatedAt": "2026-08-23T20:20:31+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1058,
+  "total": 1060,
   "countryCount": 9,
   "countries": [
     {
@@ -69,7 +69,7 @@
       "name": "Nouvelle-Zélande",
       "lat": -41,
       "lon": 174,
-      "count": 8
+      "count": 9
     },
     {
       "name": "Singapour",
@@ -8643,6 +8643,32 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We’ve understood that you need three 10‑second animated banners that keep the exact design intact while adding subtle, professional motion suited for digital signage. Our Motion graphics produit & pub service specializes in animating existing artwork without altering logos, typography or layout, delivering clean, high‑quality MP4s at the required dimensions. With 57 productions motion graphics produit & publicité in our archive, we have a proven track record of similar work. For example"
+    },
+    {
+      "id": "guru:1cc154f640da3784",
+      "title": "Creature Animation",
+      "sourceUrl": "https://www.guru.com/d/jobs/c/design-art/skill/creature-animation/",
+      "source": "marketplace:guru",
+      "country": "Remote",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation de créatures correspond à character_animation"
+      ],
+      "buyer": "guru",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, professional, first person (Voxel), showing understanding of need, linking to service Animation de personnages, citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with light CTA. Write in language of the project: The project title is \"Creature Animation\", need is \"Creature Animation\". The language appears French (since service is \"Animation de personnages\", proof in French). So write in French.\n\nWe must not mention price, no fluff. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). Provide domain+year without client name. So we can say: \"Dans le cadre du projet Lemur Animations (cartoon character animation, 2020) ...\".\n\nMake 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"Nous saisissons l’enjeu de donner vie à des créatures uniques, avec des mouvements crédibles et expressifs.\" Sentence 2: Link to service: \"Notre expertise en animation de personnages nous permet de transformer vos concepts en séquences fluides et captivantes.\" Sentence 3: Cite proof: \"Fort de 44 projets d’animation de personnages & cartoon dans notre archive, nous avons récemment réalisé le projet Lemur Animations (cartoon character animation, 2020).\" Sentence 4: Show result/benefit: \"Cette expérience nous assure de maîtriser les contraintes techniques et artistiques propres à la creature animation.\" Sentence 5:"
     },
     {
       "id": "freelancer:40548766",
@@ -29621,6 +29647,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language is French? The title and description are in English. But the instruction says \"Écris dans la langue du projet.\" The project likely is French because they ask in French. The user wrote in French for the instructions, but the content is English. Usually we respond in French. So produce French text, 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to Voxel product service, citing the proof (archive) (but proof is empty? They gave \"Preuve:\" with nothing after). We need to cite the preuve d'archive ``. Since it's empty, maybe we just mention that we have proof from archive? Could say \"Comme le montre notre archive de réalisations similaires...\" but we need to cite the preuve: maybe we just put \"(voir preuve)\"? The instruction: \"cite la preuve d'archive ``\". Probably we need to include something like \"[Preuve]\" or reference the empty proof? Might just put \"(voir preuve)\" as placeholder.\n\nWe need CTA light at end.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Nous avons saisi que vous cherchez à transformer vos assets vidéo en plusieurs reels verticaux percutants, de 30 à 60 secondes, pour faire monter l’excitation autour de votre événement.\"\n\nSentence 2: Relate to Voxel product: \"Notre service product spécialisé dans le montage dynamique et la typographie audacieuse permet de découper votre matériel"
+    },
+    {
+      "id": "freelancer:40666271",
+      "title": "Promotional Social Posts & Video Edits",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Promotional-Social-Posts-Video-Edits",
+      "source": "marketplace:freelancer",
+      "country": "Nouvelle-Zélande",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": -41,
+      "lon": 174,
+      "proposalDraft": "We understand you need a partner who can create"
     }
   ]
 }
