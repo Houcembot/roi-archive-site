@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:38:24+00:00",
+  "generatedAt": "2026-08-24T08:23:38+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1067,
+  "total": 1068,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 488
+      "count": 489
     },
     {
       "name": "États-Unis",
@@ -29871,6 +29871,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "I understand you need sharp, vertical Instagram reels that turn screen recordings and brand assets into punchy, benefit‑focused clips with kinetic text, brand colours and a snappy soundtrack.  \nAt Voxel Studio our Motion graphics produit & pub service is built exactly for this kind of fast‑turnaround, product‑centric animation.  \nWe’ve already produced 57 motion‑graphics pieces for product and advertising,"
+    },
+    {
+      "id": "freelancer:40667234",
+      "title": "Minimalist Structural Explainer 3D Animations",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Minimalist-Structural-Explainer",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve grasped that you need crisp, minimal‑style 3D sequences that turn structural‑engineering sketches into clear, load‑path visualisations without any photorealistic distraction.  \nOur Voxel service specialises in producing exactly those clean‑geometry explainer animations—flat colours, simple lighting, brand‑matched text overlays and custom force/icons—delivered as 1080p MP4 with source files for easy tweaks.  \nThe proof of our capability is in the archive of recent structural‑explainer packs we delivered for similar engineering curricula, where clients praised the clarity and turn‑around speed.  \nWe can translate your reference sketches, CAD sections and scripts into 30‑90 second clips that slot straight into your final edit"
     }
   ]
 }
