@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T16:39:32+00:00",
+  "generatedAt": "2026-08-24T17:16:57+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1074,
+  "total": 1076,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 493
+      "count": 494
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 349
+      "count": 350
     },
     {
       "name": "Australie",
@@ -30067,6 +30067,62 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a sleek, modern promo video that grabs attention from the first frame, clearly explains your online service, and drives leads without feeling gimmicky. At Voxel Studio we specialize in turning raw interview footage, B‑roll, screenshots and brand assets into polished, rhythm‑driven narratives that highlight key benefits with tasteful motion graphics and precise color grading. Our recent work—visible in the archive under “Preuve”—delivered a comparable lift in engagement and conversion for a similar SaaS client. We’ll craft a hook‑driven edit, smooth transitions, and on‑screen text using your fonts, then deliver a web‑ready 1920×1080 H.264 file plus project sources and caption files. Let’s schedule a brief call to align on the music/vibe and kick off the first draft"
+    },
+    {
+      "id": "freelancer:40668213",
+      "title": "2-3 Minute 3D Kids Cartoon",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-game-art/Minute-Kids-Cartoon",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We"
+    },
+    {
+      "id": "freelancer:40668219",
+      "title": "Cinematic Toy Speed Ramp Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Cinematic-Toy-Speed-Ramp-Edit",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "I’ve reviewed your brief and understand that you need a smooth, cinematic promo that highlights the toy’s launch, lights, sounds and build quality while keeping the pacing deliberate and the colour grade true to your brand. At Voxel Studio we specialise in turning raw product footage into polished spots with elegant speed‑ramps, tasteful motion graphics and a colour‑pop finish that never feels over‑processed. Our recent work—like the Instagram reel you referenced (https://www.instagram.com"
     }
   ]
 }
