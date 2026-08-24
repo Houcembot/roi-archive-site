@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T00:05:33+00:00",
+  "generatedAt": "2026-08-24T00:50:42+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1062,
+  "total": 1063,
   "countryCount": 9,
   "countries": [
     {
@@ -63,7 +63,7 @@
       "name": "Canada",
       "lat": 56,
       "lon": -106,
-      "count": 34
+      "count": 35
     },
     {
       "name": "Nouvelle-Zélande",
@@ -6333,6 +6333,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The language of the project is English. So we write in English. Must be professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). No blabla, no price.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you have a stream of raw vertical clips that need to become scroll‑stopping TikToks with bold, playful motion graphics.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in turning product footage into energetic, on‑brand shorts that hook viewers in the first second.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces in our archive, including the Lemur Animations project (product_ad_motion, 2020).\"\n\nSentence 4: Maybe add a bit about deliverables: \"We’ll provide a polished 9:16 MP4 optimized for TikTok plus the editable project file for future tweaks.\"\n\nSentence 5: CTA: \"If this matches your vision, let’s jump on a quick call and start making those promos pop.\"\n\nCheck: 5 sentences,"
+    },
+    {
+      "id": "freelancer:40666513",
+      "title": "Création de Vidéo Explicative SPORA",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/ation-Vid-Explicative-SPORA",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production vidéo explicative motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 56,
+      "lon": -106,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Must be in language of the project: the project description is in French (the brief is French). So answer in French. No fluff, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that as evidence of our historical record (domain + year). Provide 4-6 sentences. Let's craft maybe 5 sentences.\n\nSentence 1: Show we understood need: \"Nous avons saisi que votre vidéo explicative de 90 s doit délivrer un message clair et mémorable en un seul visionnage.\"\n\nSentence 2: Link to service: \"Notre expertise en motion graphics produit & pub nous permet de transformer chaque acte en une séquence visuelle percutante.\"\n\nSentence 3: Cite proof: \"Avec 57 productions motion graphics produit & publicité dans notre archive, dont le projet « Shapes Animation » (product_ad_motion, 2020), nous avons déjà prouvé notre capacité à allier storytelling et design.\"\n\nSentence 4: Maybe another sentence reinforcing: \"Chaque scène, du problème à l’appel, sera animée pour guider l’ambassadrice sans effort.\"\n\nSentence 5: CTA léger: \"Discutons dès maintenant du storyboard pour donner vie à SPORA.\"\n\nThat's 5 sentences."
     },
     {
       "id": "freelancer:40545736",
