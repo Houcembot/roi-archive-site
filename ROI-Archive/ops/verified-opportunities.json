@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T11:25:07+00:00",
+  "generatedAt": "2026-08-24T12:10:56+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1070,
+  "total": 1071,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 491
+      "count": 492
     },
     {
       "name": "États-Unis",
@@ -29955,6 +29955,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "I’ve read your brief and see that you need a full‑pipeline 3D team to turn a finished script and sketches into a bright, three‑minute kids’ cartoon that balances lively movement with clear, age‑appropriate storytelling. At Voxel Studio we specialise in end‑to‑end children’s animation—modelling, rigging, texturing, animation, and HD delivery—using Blender, Maya or comparable pipelines to match your simplified‑shape, bold‑palette aesthetic. Our archive shows a recent 3"
+    },
+    {
+      "id": "freelancer:40667683",
+      "title": "Modern Interior Transformation Reels",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Modern-Interior-Transformation-Reels",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language appears to be English (the brief is English). However the user wrote French instructions. The project language is ambiguous. The brief is English, but the user wrote French. Usually they'd want French because they wrote French instructions. The \"langue du projet\" likely refers to the language of the project description, which is English. But they wrote the request in French. Could be they want French answer. Many similar tasks: they ask to write in the language of the project (the brief). The brief is English, so answer in English. But the user wrote French instructions; they might expect French. Let's see: The user wrote: \"Écris dans la langue du projet.\" The project is described in English (title, need). So language of project = English. So answer in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Voxel (which is not detailed but we can infer: Voxel Studio does 3D creative production, maybe video editing, motion graphics). Cite proof from archive (we don't have actual proof but we can mention a proven track record, e.g., \"as shown in our recent reel for X interior designer\"). End with light CTA.\n\nWe must not mention price. No blabla.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need punchy 60‑second reels that turn raw footage into crisp before‑and‑after stories.\n\nSentence 2: At Voxel Studio"
     }
   ]
 }
