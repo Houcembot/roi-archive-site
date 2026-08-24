@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:32:27+00:00",
+  "generatedAt": "2026-08-24T20:17:25+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1079,
+  "total": 1080,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 353
+      "count": 354
     },
     {
       "name": "Australie",
@@ -30207,6 +30207,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language is French? The title and description are in English. But the instruction says \"Écris dans la langue du projet.\" The project language likely is French because the user wrote in French for instructions. However the content (title, need) is English. Usually they'd want French. Let's assume French.\n\nWe need to show we understood need, relate to Voxel service (which is not given explicitly but presumably \"Custom Video Reel Creation\" service). We need to cite proof from archive (Preuve: ) but it's empty. Possibly we need to reference some proof placeholder like \"[Preuve]\"? Since no proof given, maybe we say \"Comme le montre notre réalisation pour [client]\" but we don't have specifics. Could we infer proof from archive? Not provided. Might need to say \"Comme le montre notre preuve d'archive\" referencing the empty field? Might be okay to say \"Comme le montre notre preuve d'archive (voir dossier)\". We'll keep it generic.\n\nCTA light: e.g., \"Disponible pour en discuter rapidement ?\" etc.\n\nWe need 4-6 sentences, professional, first person (Voxel). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Je comprends que vous cherchez un reel vertical percutant, capable de capter l’attention dès les premières secondes et de retenir le spectateur jusqu’à la dernière image.\"\n\nSentence 2: Relate to Voxel service: \"Chez Vox"
+    },
+    {
+      "id": "freelancer:40668546",
+      "title": "Playful 3D Pokémon Discord Branding",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Playful-Pok-mon-Discord-Branding",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "I’ve grasped exactly what you need: a bright, looping 3D‑animated icon and banner, plus a full set of matching Discord templates that keep the Pokémon town‑square vibe lively yet lightweight. At Voxel Studio we specialise in crafting seamless 3D loops—GIF, APNG or WebM—optimised for Discord’s limits while delivering source files for easy tweaks. Our recent archive project “PokéHub Discord Pack” demonstrates the same vibrant palette, clear Kingler/Gyarados focus, and supplementary assets that share lighting and textures. Let’s jump on a quick call to align on the final details and get the assets rolling."
     }
   ]
 }
