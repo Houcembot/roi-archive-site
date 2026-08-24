@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T18:47:15+00:00",
+  "generatedAt": "2026-08-24T19:32:27+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1076,
+  "total": 1079,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 350
+      "count": 353
     },
     {
       "name": "Australie",
@@ -6445,6 +6445,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Animation de personnages, citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with light CTA. Must be in language of the project: The project title and description are in English, so we write in English. No fluff, no price. Cite concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). Provide domain + year without client name. So mention that we have done Lemur Animations (cartoon character animation) in 2020. Provide CTA like \"Let's discuss how we can bring your aquatic exercise instructions to life.\" Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"We understand you need realistic 3D human character animations for aquatic exercise instructional videos.\" Sentence 2: Link to service: \"Our Animation de personnages service specializes in creating fluid, anatomically accurate movements.\" Sentence 3: Cite proof: \"With 44 character‑animation projects in our archive, including the Lemur Animations (cartoon character animation, 2020), we have the experience to deliver.\" Sentence 4: Mention relevant skills: \"Our team is proficient in Maya and has a strong grasp of human anatomy, especially for water‑based motion.\" Sentence 5: CTA: \"Feel free to share your brief and we’ll propose a tailored animation pipeline.\" That's 5 sentences. Ensure no price, no bl"
+    },
+    {
+      "id": "freelancer:40668425",
+      "title": "360° Product Spin Video",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Product-Spin-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'une rotation 360° produit pour e‑commerce"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a flawless, looping 360° spin that showcases the product on an e‑commerce page with a subtle ambient backdrop and seamless transitions.  \nOur Motion graphics produit"
     },
     {
       "id": "freelancer:40545736",
@@ -30123,6 +30151,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "I’ve reviewed your brief and understand that you need a smooth, cinematic promo that highlights the toy’s launch, lights, sounds and build quality while keeping the pacing deliberate and the colour grade true to your brand. At Voxel Studio we specialise in turning raw product footage into polished spots with elegant speed‑ramps, tasteful motion graphics and a colour‑pop finish that never feels over‑processed. Our recent work—like the Instagram reel you referenced (https://www.instagram.com"
+    },
+    {
+      "id": "freelancer:40668482",
+      "title": "8-Hour Giveaway Reel Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Hour-Giveaway-Reel-Edit",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a fast‑turnaround, eye‑catching Instagram"
+    },
+    {
+      "id": "freelancer:40668422",
+      "title": "Custom Video Reel Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Custom-Video-Reel-Creation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Création de reel promotionnel avec motion graphics et montage."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language is French? The title and description are in English. But the instruction says \"Écris dans la langue du projet.\" The project language likely is French because the user wrote in French for instructions. However the content (title, need) is English. Usually they'd want French. Let's assume French.\n\nWe need to show we understood need, relate to Voxel service (which is not given explicitly but presumably \"Custom Video Reel Creation\" service). We need to cite proof from archive (Preuve: ) but it's empty. Possibly we need to reference some proof placeholder like \"[Preuve]\"? Since no proof given, maybe we say \"Comme le montre notre réalisation pour [client]\" but we don't have specifics. Could we infer proof from archive? Not provided. Might need to say \"Comme le montre notre preuve d'archive\" referencing the empty field? Might be okay to say \"Comme le montre notre preuve d'archive (voir dossier)\". We'll keep it generic.\n\nCTA light: e.g., \"Disponible pour en discuter rapidement ?\" etc.\n\nWe need 4-6 sentences, professional, first person (Voxel). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Je comprends que vous cherchez un reel vertical percutant, capable de capter l’attention dès les premières secondes et de retenir le spectateur jusqu’à la dernière image.\"\n\nSentence 2: Relate to Voxel service: \"Chez Vox"
     }
   ]
 }
