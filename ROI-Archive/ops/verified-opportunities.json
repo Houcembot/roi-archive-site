@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T03:52:05+00:00",
+  "generatedAt": "2026-08-24T04:37:25+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1064,
+  "total": 1065,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 346
+      "count": 347
     },
     {
       "name": "Australie",
@@ -6361,6 +6361,34 @@
       "lat": 56,
       "lon": -106,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Must be in language of the project: the project description is in French (the brief is French). So answer in French. No fluff, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that as evidence of our historical record (domain + year). Provide 4-6 sentences. Let's craft maybe 5 sentences.\n\nSentence 1: Show we understood need: \"Nous avons saisi que votre vidéo explicative de 90 s doit délivrer un message clair et mémorable en un seul visionnage.\"\n\nSentence 2: Link to service: \"Notre expertise en motion graphics produit & pub nous permet de transformer chaque acte en une séquence visuelle percutante.\"\n\nSentence 3: Cite proof: \"Avec 57 productions motion graphics produit & publicité dans notre archive, dont le projet « Shapes Animation » (product_ad_motion, 2020), nous avons déjà prouvé notre capacité à allier storytelling et design.\"\n\nSentence 4: Maybe another sentence reinforcing: \"Chaque scène, du problème à l’appel, sera animée pour guider l’ambassadrice sans effort.\"\n\nSentence 5: CTA léger: \"Discutons dès maintenant du storyboard pour donner vie à SPORA.\"\n\nThat's 5 sentences."
+    },
+    {
+      "id": "freelancer:40666765",
+      "title": "10-Min Animated Episode 3D Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Min-Animated-Episode-Animation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation 3D de personnages pour épisode"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "Nous avons bien compris que vous avez besoin d’un animateur 3D pour donner vie à vos personnages déjà riggés sur un épisode de 10 minutes, en assurant l’animation, la mise en scène, la caméra, l’éclairage et le rendu, ainsi que le lip‑sync une fois l’audio finalisé.  \nNotre service **Animation de personnages** est exactement ce qu’il vous faut, fort de notre expérience éprouvée dans ce domaine.  \nNous pouvons nous appuyer sur notre archive qui compte **44 projets d’animation de personnages & cartoon**, dont le projet concret **« Lemur Anim"
     },
     {
       "id": "freelancer:40545736",
