@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T06:50:53+00:00",
+  "generatedAt": "2026-08-25T07:36:49+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1087,
+  "total": 1088,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 496
+      "count": 497
     },
     {
       "name": "États-Unis",
@@ -30431,6 +30431,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The instruction: \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we need to write in English. Provide a short commercial pitch (4-6 sentences) professional, first person (Voxel), showing we understood need, relate to service Voxel (which is not fully given but we have placeholder \"Service Voxel:\" maybe they omitted details; we can infer Voxel does 3D creative production, but they need animated corporate brand promo). We need to cite proof from archive: \"Preuve:\" placeholder; we need to cite the proof of archive. Since we don't have actual proof content, we can refer to \"as demonstrated in our recent project for XYZ Corp\" etc. But we must cite the proof given: maybe they expect to insert something like \"[Preuve]\"? The instruction: \"cite la preuve d'archive ``\". So we need to include the proof placeholder. Probably we just write something like \"(see archive proof)\" or include the proof text if provided. Since it's empty, we can just mention \"as shown in our archive proof\". Provide CTA lightly: \"Let us know your timeline and we can kick off\". No pricing.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need raw footage transformed into a fully animated corporate brand promo with motion‑graphics, kinetic text and smooth transitions.\n\nSentence 2: At Voxel Studio we specialize in creative editing, colour grading, sound design and custom animated flourishes using Premiere Pro/After Effects, delivering editable project files."
+    },
+    {
+      "id": "freelancer:40669464",
+      "title": "Pet Mascot Animated Series",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Pet-Mascot-Animated-Series",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, link to service \"Animation de personnages\", cite proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", finish with light CTA. Write in language of the project: The project description is in English, so we write in English. No blabla, no price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). So we need to mention that we have done similar project: Lemur Animations (cartoon_character_animation, 2020). Provide CTA like \"Let's schedule a quick call to see a sample reel\" etc.\n\nMake 4-6 sentences. Ensure we mention understanding need: month-long run of short cartoons, 12 episodes, comedic, brand nod. Link to service: our character animation expertise. Cite proof: 44 projects archive. Cite Lemur Animations as example. End with CTA.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a month‑long slate of twelve 3‑5‑minute, self‑contained cartoons starring Sniff and Sparkle that entertain while subtly highlighting your Philippine‑made pet fragrance line.\n\nSentence 2: Our Animation de personnages service specializes in crafting upbeat, story‑driven shorts that balance humor, charm and light brand integration.\n\nSentence 3: With a track record of 44 projets d'animation de personnages & cartoon (archive Voxel), including the"
     }
   ]
 }
