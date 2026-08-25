@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T11:24:25+00:00",
+  "generatedAt": "2026-08-25T12:11:11+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1094,
+  "total": 1096,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 357
+      "count": 358
     },
     {
       "name": "Australie",
@@ -57,7 +57,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 42
+      "count": 43
     },
     {
       "name": "Canada",
@@ -8893,6 +8893,34 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, link to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project: The project description is in English, so we write in English. No fluff, no price. Cite concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). Must not mention price. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"We know you need a senior animator who can turn your CAD data into a polished 30‑60 s marketing piece that clearly demonstrates the product’s motion.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in transforming technical CAD into compelling visual stories.\"\n\nSentence 3: Cite proof: \"To date we have delivered 57 motion‑graphics product and advertising pieces (Voxel archive), including the Lemur Animations project (product_ad_motion, 2020) that showcased detailed mechanism animation from STEP files.\"\n\nSentence 4: Offer capability: \"We import STEP/Parasolid, refine models, apply realistic industrial materials, animate key mechanisms, light, render and deliver full‑HD H.264 videos ready for web and trade‑show use.\"\n\nSentence 5: CTA: \"Let’s discuss your timeline and share a few relevant samples—just reply to this message and we’ll get"
+    },
+    {
+      "id": "freelancer:40670015",
+      "title": "Professional Motion-Graphics Logo Reveal",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Professional-Motion-Graphics-Logo-Reveal",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Logo animation motion graphics fits product ad motion service"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We understand you need a clean, brand‑aligned logo reveal that feels refined and professional.  \nOur Motion graphics produit & pub"
     },
     {
       "id": "freelancer:40548766",
@@ -30627,6 +30655,33 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in the language of the project, which is Portuguese (Portugal). Must be professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. No blabla, no price. Cite concrete project as proof of our historical (domain + year, without client name): \"2012-10-TT Mode de paiement\" (product_ad_motion, 2012). So we need to mention that we have done similar: a motion graphics product ad for payment mode in 2012. Provide CTA like \"Vamos marcar uma breve call?\" etc. Must be 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Entendemos que precisa de um vídeo curto, em português de Portugal, que apresente de forma clara as funcionalidades da sua aplicação web.\"\n\nSentence 2: Relate to service: \"Com o nosso serviço de Motion graphics produit & pub, criamos animações fluidas, ícones e narrativas alinhadas à identidade visual da sua app.\"\n\nSentence 3: Cite proof: \"Já produzimos 57 motion graphics de produto e publicidade no nosso arquivo, incluindo exemplos como o projeto “2012-10-TT Mode de paiement” (product_ad_motion, 2012), que demonstrou funcionalidades de forma objetiva.\"\n\nSentence 4: Mention deliverables"
+    },
+    {
+      "id": "freelancer:40669976",
+      "title": "Bilingual Instagram Ad Adobe AE Animation Envato Template Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/graphic-design/Bilingual-Instagram-Adobe-Animation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Édition d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
     }
   ]
 }
