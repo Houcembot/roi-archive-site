@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T12:55:20+00:00",
+  "generatedAt": "2026-08-25T13:40:31+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1096,
+  "total": 1098,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 499
+      "count": 500
     },
     {
       "name": "États-Unis",
@@ -51,7 +51,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 46
+      "count": 47
     },
     {
       "name": "Royaume-Uni",
@@ -30683,6 +30683,62 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a bilingual English‑Arabic Instagram ad built from an Envato After Effects template, with precise text replacement, product‑"
+    },
+    {
+      "id": "freelancer:40670202",
+      "title": "Φωτορεαλιστικό Βίντεο Λειτουργίας Μηχανισμού",
+      "sourceUrl": "https://www.freelancer.com/projects/3ds-max/project-40670202",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "Καταλαβαίνουμε ότι χρειάζεστε ένα φωτορεαλιστικό βίντεο που να ενσωματώνει τα ήδη ολοκληρωμένα 3D αρχεία του μηχανικού εξοπλισμού σας"
+    },
+    {
+      "id": "freelancer:40670200",
+      "title": "Cartoon Character 3D Animation -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Cartoon-Character-Animation-40670200",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "I see you have characters and storyboard ready for a 10‑minute 3D animation and are looking for a"
     }
   ]
 }
