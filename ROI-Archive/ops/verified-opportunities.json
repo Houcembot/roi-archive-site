@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T08:21:50+00:00",
+  "generatedAt": "2026-08-25T09:07:27+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -30485,7 +30485,8 @@
         }
       ],
       "lat": -25,
-      "lon": 133
+      "lon": 133,
+      "proposalDraft": "We understand you need a realistic 45"
     }
   ]
 }
