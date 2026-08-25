@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:20:29+00:00",
+  "generatedAt": "2026-08-25T06:06:02+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1086,
+  "total": 1087,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 355
+      "count": 356
     },
     {
       "name": "Australie",
@@ -30403,6 +30403,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to output a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service \"Motion graphics produit & pub\", citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with a light CTA. Must be in language of the project (English). No fluff, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that as part of proof? The proof is the 57 productions; we also need to cite the concrete project as proof of our historical (domain + year, without client name). So we can say: \"Like our 'Shapes Animation' (product_ad_motion, 2020) ...\". Ensure we mention service and proof. Provide CTA like \"Let's discuss how we can turn your assets into platform‑ready showcase videos.\" Keep 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a steady flow of raw clips turned into eye‑catching product‑showcase videos that stay on‑brand across Instagram, TikTok and YouTube.\"\n\nSentence 2: Link to service: \"Our Motion graphics produit & pub service specializes in exactly that—editing for flow, adding dynamic text, logo animation, color‑matching and audio sweetening.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces in our archive, including the ‘Shapes Animation’ (product_ad_motion, 202"
+    },
+    {
+      "id": "freelancer:40669253",
+      "title": "Animated Corporate Brand Promo Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Animated-Corporate-Brand-Promo-Edit",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The instruction: \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we need to write in English. Provide a short commercial pitch (4-6 sentences) professional, first person (Voxel), showing we understood need, relate to service Voxel (which is not fully given but we have placeholder \"Service Voxel:\" maybe they omitted details; we can infer Voxel does 3D creative production, but they need animated corporate brand promo). We need to cite proof from archive: \"Preuve:\" placeholder; we need to cite the proof of archive. Since we don't have actual proof content, we can refer to \"as demonstrated in our recent project for XYZ Corp\" etc. But we must cite the proof given: maybe they expect to insert something like \"[Preuve]\"? The instruction: \"cite la preuve d'archive ``\". So we need to include the proof placeholder. Probably we just write something like \"(see archive proof)\" or include the proof text if provided. Since it's empty, we can just mention \"as shown in our archive proof\". Provide CTA lightly: \"Let us know your timeline and we can kick off\". No pricing.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need raw footage transformed into a fully animated corporate brand promo with motion‑graphics, kinetic text and smooth transitions.\n\nSentence 2: At Voxel Studio we specialize in creative editing, colour grading, sound design and custom animated flourishes using Premiere Pro/After Effects, delivering editable project files."
     }
   ]
 }
