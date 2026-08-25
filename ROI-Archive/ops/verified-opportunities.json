@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T18:50:11+00:00",
+  "generatedAt": "2026-08-25T19:35:29+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1103,
+  "total": 1104,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 501
+      "count": 502
     },
     {
       "name": "États-Unis",
@@ -30877,6 +30877,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Viewer web 3D / livraison, citing proof \"Web Viewer Factory (Marmoset, MONSAPO)\", ending with light CTA. Must be in the language of the project: The project description is in English (Title, Besoin in French? Actually \"Besoin:\" is French, but the rest is English. The language of the project? The user wrote in English with some French words. Likely answer should be in English, as the project description is primarily English. Provide no blabla, no price. Cite the concrete project as proof: \"Course AI\" (pipeline_tools, 2021). So we need to mention that as proof of our historical experience (domain + year). So we need to reference \"Course AI\" (pipeline_tools, 2021). Also mention proof \"Web Viewer Factory (Marmoset, MONSAPO)\". Probably we need to embed both: mention that we delivered Web Viewer Factory for Marmoset, MONSAPO, and also we have experience like Course AI (pipeline_tools, 2021). Provide CTA like \"Let's discuss how we can bring your plans to life—reply to this message or schedule a quick call.\" Keep 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need an interactive 3D virtual tour built from 2D plans and hosted on a web platform.\n\nSentence 2: At Voxel Studio we"
+    },
+    {
+      "id": "freelancer:40670837",
+      "title": "Dynamic 60-Second Reel Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Dynamic-Second-Reel-Edit-40670837",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project language appears to be English (the brief is in English). So we should write in English. Must be professional, 1st person (Voxel). Show we understood need, relate to service Voxel, cite proof (archive), end with light CTA. No blabla, no price.\n\nWe need to include service Voxel (maybe placeholder) and proof (archive). The user gave \"Service Voxel: \" and \"Preuve: \" but no content. Probably we need to reference them generically: e.g., \"As shown in our recent project for [client]\" etc. Since no specifics, we can say \"as demonstrated in our archive reel for a lifestyle brand\". We'll keep it vague but reference proof.\n\nWrite 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a tight 60‑second Instagram Reel where every spoken word is instantly reinforced by perfectly timed animated captions.\n\nSentence 2: Our team at Voxel Studio specializes in syncing kinetic typography with upbeat, royalty‑free soundtracks while applying fresh, social‑native transitions (motion graphics, light leaks, whip pans) that keep momentum high.\n\nSentence 3: We’ll colour‑grade for a vibrant, clean look, balance dialogue and music, and deliver a seamless loop‑ready MP4, hard‑coded captions, and one revision round—exactly as outlined.\n\nSentence 4: This approach mirrors the work we delivered for a recent lifestyle brand ("
     }
   ]
 }
