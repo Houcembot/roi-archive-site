@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T09:53:19+00:00",
+  "generatedAt": "2026-08-25T10:38:16+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1092,
+  "total": 1093,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 356
+      "count": 357
     },
     {
       "name": "Australie",
@@ -30571,6 +30571,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a scroll‑stopping pop‑up video for Facebook, Instagram and Twitter that delivers the core message in seconds"
+    },
+    {
+      "id": "freelancer:40669831",
+      "title": "South African Software Explainers Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/voice-over/South-African-Software-Explainers-Videos",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos explicatives avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need three‑to‑four concise software explainers delivered in HD, with a polished South African English voice‑over, clear screen‑capture walkthroughs, light music and on‑brand lower thirds.  \nOur Motion graphics produit & pub service is built exactly for this kind of dynamic, voice‑over‑led product tour that blends screen captures, subtle motion graphics and professional pacing."
     }
   ]
 }
