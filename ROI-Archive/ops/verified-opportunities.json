@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T20:19:13+00:00",
+  "generatedAt": "2026-08-26T21:03:10+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1123,
+  "total": 1124,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 514
+      "count": 515
     },
     {
       "name": "États-Unis",
@@ -6557,6 +6557,34 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the instruction says \"Écris dans la langue du projet.\" The project language is English? The user wrote in English. So we should write in English. Provide a short commercial pitch, 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Also cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price. Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a punchy, energetic intro animation and micro‑transitions that echo the fast‑paced feel of basketball.\n\nSentence 2: At Voxel Studio our Motion graphics produit & pub service specializes in turning brand assets into high‑impact, sport‑themed motion pieces.\n\nSentence 3: With 57 motion‑graphics productions for product and advertising in our archive—including the “Shapes Animation” (product_ad_motion, 2020)—we have proven expertise delivering exactly this kind of dynamic visual language.\n\nSentence 4: We’ll deliver storyboard/style frames, the 3‑5 second intro, 3‑4 lightweight Lottie/MP4 transitions, and source files ready for integration.\n\nSentence 5: Let’s schedule a quick call to review your assets and kick off the storyboard—just reply"
+    },
+    {
+      "id": "freelancer:40673233",
+      "title": "Animated Product Photo Marketing Video",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Animated-Product-Photo-Marketing-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics animation from product photos for marketing"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need your product photos turned into a dynamic, motion‑graphics video that goes beyond a simple slideshow—subtle zooms, parallax, kinetic text and a modern soundtrack are exactly what we specialize in. Our Motion graphics produit & pub service has delivered 57 productions motion graphics produit & publicité (archive Voxel), including the “Shapes Animation” project (product_ad_motion, 2020) that transformed static images into engaging brand videos. We’ll take your raw photos, brand guidelines and copy deck, and craft a polished"
     },
     {
       "id": "freelancer:40545736",
