@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T15:08:18+00:00",
+  "generatedAt": "2026-08-26T15:47:38+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1118,
+  "total": 1119,
   "countryCount": 9,
   "countries": [
     {
@@ -51,7 +51,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 49
+      "count": 50
     },
     {
       "name": "Royaume-Uni",
@@ -6529,6 +6529,33 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Language of the project: The user wrote in English. So we write in English. No blabla, no price. Cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need a punchy, under‑30‑second reel that instantly shows the new Shopify feature’s benefit while blending screen captures with live‑action and motion graphics.\n\nSentence 2: Our Motion graphics produit & pub service specializes in exactly that mix—crisp UI recordings, friendly live shots, on‑brand graphics, text call‑outs and upbeat music.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive, we’ve delivered similar reels for brands ranging from tech to retail.\n\nSentence 4: For example, our “Color Pen Animations” (product_ad_motion, 2020) combined screen demos, hands‑on footage and vibrant graphics to highlight a new tool in under 30 seconds.\n\nSentence 5: Let’s discuss how we can turn your script outline and assets into vertical and square cuts ready for Instagram Reels and TikTok—just share the files and we’ll get started.\n\nCheck constraints: 4-6 sentences, professional, first person (Voxel). No price. No blabla."
+    },
+    {
+      "id": "freelancer:40672720",
+      "title": "Dynamic Basketball App Intro Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/lottie/Dynamic-Basketball-App-Intro-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics intro & transitions for app"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 50,
+      "lon": 10
     },
     {
       "id": "freelancer:40545736",
