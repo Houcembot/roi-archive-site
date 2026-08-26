@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T22:32:35+00:00",
+  "generatedAt": "2026-08-26T23:17:46+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1126,
+  "total": 1127,
   "countryCount": 9,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 52
+      "count": 53
     },
     {
       "name": "Europe",
@@ -9089,6 +9089,34 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "Nous avons bien compris que vous cherchez une vidéo verticale percutante, optimisée pour Instagram Feed et Reels, capable de capter l’attention dès les premières secondes et de diriger un trafic qualifié vers votre page produit. Chez Voxel Studio, notre expertise en **Motion graphics produit & pub** nous permet de transformer vos visuels et points de vente en un clip dynamique, avec accroches fortes, valeur ajoutée claire et CTA efficace. Nous disposons d’une solide expérience, attestée par nos **57 productions motion graphics produit & publicité** archivées, dont le projet « Course AI » (product_ad_motion, 2021) illustre notre capacité à livrer des ads performants pour des campagnes e‑commerce. Nous gérons l’ensemble du processus : édition, motion"
+    },
+    {
+      "id": "freelancer:40673373",
+      "title": "3D Animated Logo for NDIS Support",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-logo/Animated-Logo-for-NDIS-Support",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Logo animation is motion graphics for brand promotion"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We understand you need a polished 3D logo animation that conveys the professionalism of your NDIS behaviour‑support services.  \nOur Motion graphics produit & pub service specializes in transforming brand marks into dynamic 3D stories"
     },
     {
       "id": "freelancer:40548766",
