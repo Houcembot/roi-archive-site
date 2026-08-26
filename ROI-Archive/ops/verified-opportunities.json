@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T07:32:01+00:00",
+  "generatedAt": "2026-08-26T08:16:32+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1108,
+  "total": 1109,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 504
+      "count": 505
     },
     {
       "name": "États-Unis",
@@ -31017,6 +31017,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of project is English. So we write in English. Must be professional, first person (Voxel). Show we understood need, relate to service Voxel (which is not filled but we have placeholder). Cite proof of archive (placeholder). End with light CTA. No blabla, no price. Provide no price. Also we need to include a few links to comparable 3D explainer work, a brief outline of production process, and estimated turnaround time? Wait the user request: \"When you reply, include a few links to comparable 3D explainer work you’ve completed, a brief outline of your production process, and an estimated turnaround time.\" However earlier they said: \"Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), qui : (1) montre qu'on a compris le besoin, (2) relie au service Voxel ``, (3) cite la preuve d'archive ``, (4) finit par un CTA léger. **Écris dans la langue du projet.** Pas de blabla, pas de prix.\"\n\nThus they want a short commercial hook, not a full proposal with links etc. But later they say \"When you reply, include a few links to comparable 3D explainer work you’ve completed, a brief outline of your production process, and an estimated turnaround time.\" That seems contradictory. However the instruction hierarchy: The system message says we must"
+    },
+    {
+      "id": "freelancer:40671817",
+      "title": "Professional Explainer Video Editor",
+      "sourceUrl": "https://www.freelancer.com/projects/explainer-videos/Professional-Explainer-Video-Editor",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Voxel (which is presumably \"Professional Explainer Video Editor\"? Actually service Voxel is not given; we have placeholder \"Service Voxel:\" but no content. Probably we need to infer that Voxel offers professional explainer video editing using stock footage and motion graphics. The proof is missing; placeholder \"Preuve:\" with no content. Possibly we need to cite a proof from archive but it's empty; maybe we just mention \"comme le montre notre réalisation pour [client]\" but we don't have specifics. Could we leave proof as generic? The instruction: cite the proof of archive ``. The placeholder is empty, so maybe we just note that we have a proof (like \"comme le montre notre projet pour X\") but we don't have actual. Might need to say something like \"comme le montre notre réalisation pour [client]\" but we can't invent. Perhaps we can say \"comme le montre notre portfolio\" as proof. Or we can say \"comme le montre notre travail récent pour une entreprise technologique\". Since no specifics, we can keep it vague but still cite proof: \"comme le montre notre preuve d'archive\". Might be acceptable.\n\nWe need to write in language of the project: the project description is in English. So write in English.\n\nWe need 4-6 sentences, professional, first person (Voxel). No blabla, no price.\n\nLet's craft 5 sentences:\n\nSentence 1: Show we understood need: \"I understand you need a polished explainer video that blends your script"
     }
   ]
 }
