@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T10:32:04+00:00",
+  "generatedAt": "2026-08-26T11:17:57+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1110,
+  "total": 1111,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 506
+      "count": 507
     },
     {
       "name": "États-Unis",
@@ -6473,6 +6473,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a flawless, looping 360° spin that showcases the product on an e‑commerce page with a subtle ambient backdrop and seamless transitions.  \nOur Motion graphics produit"
+    },
+    {
+      "id": "freelancer:40672210",
+      "title": "Boho Jewellery Logo Reveal",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Boho-Jewellery-Logo-Reveal",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation courte de logo, motion graphics produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: the project description is in English, so write in English. No fluff, no price. Cite the concrete project as proof of our historical (domain + year, without client name): \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that we have done similar: e.g., \"Like our Shapes Animation (product_ad_motion, 2020) ...\". Provide CTA: e.g., \"Let's discuss how we can bring your boho jewellery reveal to life.\" Must be 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a warm, boho‑styled 3‑5 second logo reveal that feels artisanal and loads instantly on any device.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specialises in crafting exactly that kind of subtle, texture‑rich animation for product launches and brand spots.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product & publicité pieces (archive Voxel), including projects like the Shapes Animation (product_ad_motion, 2020) that blended organic motifs with smooth motion.\"\n\nSentence 4: Show capability: \"We can provide the"
     },
     {
       "id": "freelancer:40545736",
