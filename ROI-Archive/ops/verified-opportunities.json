@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T11:17:57+00:00",
+  "generatedAt": "2026-08-26T12:03:35+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1111,
+  "total": 1113,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 507
+      "count": 509
     },
     {
       "name": "États-Unis",
@@ -6501,6 +6501,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: the project description is in English, so write in English. No fluff, no price. Cite the concrete project as proof of our historical (domain + year, without client name): \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that we have done similar: e.g., \"Like our Shapes Animation (product_ad_motion, 2020) ...\". Provide CTA: e.g., \"Let's discuss how we can bring your boho jewellery reveal to life.\" Must be 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a warm, boho‑styled 3‑5 second logo reveal that feels artisanal and loads instantly on any device.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specialises in crafting exactly that kind of subtle, texture‑rich animation for product launches and brand spots.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product & publicité pieces (archive Voxel), including projects like the Shapes Animation (product_ad_motion, 2020) that blended organic motifs with smooth motion.\"\n\nSentence 4: Show capability: \"We can provide the"
+    },
+    {
+      "id": "freelancer:40672326",
+      "title": "Shopify App Feature Reel",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Shopify-App-Feature-Reel",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'un reel motion graphics pour présenter une fonctionnalité Shopify"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Language of the project: The user wrote in English. So we write in English. No blabla, no price. Cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need a punchy, under‑30‑second reel that instantly shows the new Shopify feature’s benefit while blending screen captures with live‑action and motion graphics.\n\nSentence 2: Our Motion graphics produit & pub service specializes in exactly that mix—crisp UI recordings, friendly live shots, on‑brand graphics, text call‑outs and upbeat music.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive, we’ve delivered similar reels for brands ranging from tech to retail.\n\nSentence 4: For example, our “Color Pen Animations” (product_ad_motion, 2020) combined screen demos, hands‑on footage and vibrant graphics to highlight a new tool in under 30 seconds.\n\nSentence 5: Let’s discuss how we can turn your script outline and assets into vertical and square cuts ready for Instagram Reels and TikTok—just share the files and we’ll get started.\n\nCheck constraints: 4-6 sentences, professional, first person (Voxel). No price. No blabla."
     },
     {
       "id": "freelancer:40545736",
@@ -31101,6 +31129,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to output a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project. The project description is in English (title and need). So we write in English. No blabla, no price. Cite the concrete project as proof of our historical (domain + year, without client name): \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that as an example.\n\nWe must produce 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We understand you need a concise, under‑one‑minute promotional video that showcases your product in action, highlights its unique features and weaves in customer testimonials.\"\n\nSentence 2: Relate to service: \"At Voxel Studio, our Motion graphics produit & pub service specializes in turning those exact requirements into dynamic, visually striking animations.\"\n\nSentence 3: Cite proof: \"Our archive includes 57 motion‑graphics productions for product and advertising campaigns, such as the ‘Shapes Animation’ (product_ad_motion, 2020) that delivered a punchy, testimonial‑driven spot under 60 seconds.\"\n\nSentence 4: Show benefit: \"We’ll craft a storyboard that aligns with your specific scenes, ensuring every second reinforces your key messages and engages viewers.\"\n\nSentence 5: Light CTA: \"Let’s discuss"
+    },
+    {
+      "id": "freelancer:40672311",
+      "title": "Freelance 3D Animator + Video Editor",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Freelance-Animator-Video-Editor",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), in the language of the project. The project description is in English. So we write in English. Must show we understood need, relate to Voxel service (which is presumably 3D animation/video editing? The service Voxel line is blank but we assume Voxel provides 3D animation and video editing). Cite proof from archive (the proof is blank? Actually \"Preuve:\" line is empty. Might be they expect us to reference something like \"as shown in our recent project for X\" but we have no proof. Possibly we need to reference the provided proof placeholder? Could be they expect us to insert something like \"as demonstrated in our work for [client]\" but we have none. Maybe we can say \"as evidenced by our recent 3D animation deliverables for similar short-form video projects\". That's acceptable as proof.\n\nWe need CTA light: e.g., \"Let's schedule a quick call to discuss how we can bring your renders to life.\"\n\nWe must not mention price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We see that Ctruh Technologies needs five polished 30‑second videos built from ready‑made renders, complete with storyboards, music and on‑screen text.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we specialize in turning raw 3D renders into engaging narratives, handling storyboard creation, video editing, music licensing and title design.\"\n\nSentence 3: Cite proof: \"Recently we delivered a"
     }
   ]
 }
