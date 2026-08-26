@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T05:16:23+00:00",
+  "generatedAt": "2026-08-26T06:02:17+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1107,
+  "total": 1108,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 503
+      "count": 504
     },
     {
       "name": "États-Unis",
@@ -30989,6 +30989,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "Nous avons bien saisi que vous recherchez une vidéo promotionnelle courte, chaleureuse et personnelle, où le rythme, les transitions et la couleur renforcent une ambiance détendue plutôt que corporative. Chez Voxel Studio, nous transformons vos rushes bruts en montages 1080p avec overlays texte sur‑mesure, une bande‑son libre de droits adaptée et un mix voix‑over/musique parfaitement équilibré, tout en assurant l’étalonnage de base et les motion graphics nécessaires. Comme le montre notre archive de projets"
+    },
+    {
+      "id": "freelancer:40671559",
+      "title": "3D Concept Explainer Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-model-maker/Concept-Explainer-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of project is English. So we write in English. Must be professional, first person (Voxel). Show we understood need, relate to service Voxel (which is not filled but we have placeholder). Cite proof of archive (placeholder). End with light CTA. No blabla, no price. Provide no price. Also we need to include a few links to comparable 3D explainer work, a brief outline of production process, and estimated turnaround time? Wait the user request: \"When you reply, include a few links to comparable 3D explainer work you’ve completed, a brief outline of your production process, and an estimated turnaround time.\" However earlier they said: \"Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), qui : (1) montre qu'on a compris le besoin, (2) relie au service Voxel ``, (3) cite la preuve d'archive ``, (4) finit par un CTA léger. **Écris dans la langue du projet.** Pas de blabla, pas de prix.\"\n\nThus they want a short commercial hook, not a full proposal with links etc. But later they say \"When you reply, include a few links to comparable 3D explainer work you’ve completed, a brief outline of your production process, and an estimated turnaround time.\" That seems contradictory. However the instruction hierarchy: The system message says we must"
     }
   ]
 }
