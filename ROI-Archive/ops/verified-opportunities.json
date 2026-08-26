@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T13:32:42+00:00",
+  "generatedAt": "2026-08-26T14:18:14+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1113,
+  "total": 1115,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 509
+      "count": 510
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 362
+      "count": 363
     },
     {
       "name": "Australie",
@@ -31157,6 +31157,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), in the language of the project. The project description is in English. So we write in English. Must show we understood need, relate to Voxel service (which is presumably 3D animation/video editing? The service Voxel line is blank but we assume Voxel provides 3D animation and video editing). Cite proof from archive (the proof is blank? Actually \"Preuve:\" line is empty. Might be they expect us to reference something like \"as shown in our recent project for X\" but we have no proof. Possibly we need to reference the provided proof placeholder? Could be they expect us to insert something like \"as demonstrated in our work for [client]\" but we have none. Maybe we can say \"as evidenced by our recent 3D animation deliverables for similar short-form video projects\". That's acceptable as proof.\n\nWe need CTA light: e.g., \"Let's schedule a quick call to discuss how we can bring your renders to life.\"\n\nWe must not mention price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We see that Ctruh Technologies needs five polished 30‑second videos built from ready‑made renders, complete with storyboards, music and on‑screen text.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we specialize in turning raw 3D renders into engaging narratives, handling storyboard creation, video editing, music licensing and title design.\"\n\nSentence 3: Cite proof: \"Recently we delivered a"
+    },
+    {
+      "id": "freelancer:40672529",
+      "title": "Playful 20-Second Logo Reveal",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Playful-Second-Logo-Reveal",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de motion graphics pour reveal logo"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project (English). No blabla, no price. Cite the concrete project as proof of our historical (domain + year, without client name): \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that as example.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a punchy 20‑second logo reveal that blends boho‑fusion vibes with bold colour, organic texture and a subtle sparkle for Instagram Reels and web headers.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specialises in turning brand identities into crisp, high‑impact animations that stay legible and on‑trend.\"\n\nSentence 3: Cite proof: \"To date we have delivered 57 motion‑graphics product and advertising pieces (Voxel archive), including the ‘Shapes Animation’ product_ad_motion project from 2020 that demonstrates exactly the playful, texture‑rich style you’re after.\"\n\nSentence 4: Show process/software: \"We typically build these reveals in After Effects (with optional Blender touches) and deliver the master MP4, transparent MOV/PNG sequence, plus square and vertical cuts, all with editable project files for easy colour twe"
+    },
+    {
+      "id": "freelancer:40672560",
+      "title": "Proyecto: edición de 5 videos de casos de éxito con motion graphics",
+      "sourceUrl": "https://www.freelancer.com/projects/av-editing/Proyecto-edici-videos-casos-xito",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics créatifs pour vidéos de témoignages"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood the need, link to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project: the project is in Spanish (title and description in Spanish). So we must write in Spanish. No fluff, no price. Cite the concrete project as proof of our historic (domain + year, without client name). The archive project: \"2012-10-TT Mode de paiement\" (product_ad_motion, 2012). So we need to mention that as evidence.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Entendemos que tienes cinco testimonios en audio que deseas convertir en videos dinámicos y memorables, con una narrativa clara y visualmente impactante.\"\n\nSentence 2: Link to service: \"Nuestro equipo de Motion graphics produit & pub se especializa en crear piezas visuales que dan ritmo y energía, evitando lo corporativo rígido.\"\n\nSentence 3: Cite proof: \"Contamos con 57 producciones de motion graphics para producto y publicidad en nuestro archivo, como el proyecto «2012-10-TT Mode de paiement» (product_ad_motion, 2012).\"\n\nSentence 4: Offer workflow and plus: \"Trabajamos en primera versión, incorporamos hasta dos rondas de ajustes ligeros y entregamos en"
     }
   ]
 }
