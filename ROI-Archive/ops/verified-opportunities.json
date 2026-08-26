@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T23:16:43+00:00",
+  "generatedAt": "2026-08-26T00:01:26+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1104,
+  "total": 1105,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 360
+      "count": 361
     },
     {
       "name": "Australie",
@@ -30905,6 +30905,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project language appears to be English (the brief is in English). So we should write in English. Must be professional, 1st person (Voxel). Show we understood need, relate to service Voxel, cite proof (archive), end with light CTA. No blabla, no price.\n\nWe need to include service Voxel (maybe placeholder) and proof (archive). The user gave \"Service Voxel: \" and \"Preuve: \" but no content. Probably we need to reference them generically: e.g., \"As shown in our recent project for [client]\" etc. Since no specifics, we can say \"as demonstrated in our archive reel for a lifestyle brand\". We'll keep it vague but reference proof.\n\nWrite 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a tight 60‑second Instagram Reel where every spoken word is instantly reinforced by perfectly timed animated captions.\n\nSentence 2: Our team at Voxel Studio specializes in syncing kinetic typography with upbeat, royalty‑free soundtracks while applying fresh, social‑native transitions (motion graphics, light leaks, whip pans) that keep momentum high.\n\nSentence 3: We’ll colour‑grade for a vibrant, clean look, balance dialogue and music, and deliver a seamless loop‑ready MP4, hard‑coded captions, and one revision round—exactly as outlined.\n\nSentence 4: This approach mirrors the work we delivered for a recent lifestyle brand ("
+    },
+    {
+      "id": "freelancer:40671125",
+      "title": "Social Media Motion Designer for loyalty wallet",
+      "sourceUrl": "https://www.freelancer.com/projects/social-media-marketing/Social-Media-Motion-Designer-for",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "Nous avons bien saisi que Pipps cherche un motion designer capable de produire des contenus premium : carousels Instagram, maquettes Apple Wallet et Reels UI‑centrés qui reflètent l’esthétique clean et technologique des meilleures fintechs. Chez Voxel Studio, notre expertise"
     }
   ]
 }
