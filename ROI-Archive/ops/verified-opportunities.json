@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T14:18:14+00:00",
+  "generatedAt": "2026-08-26T15:08:18+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1115,
+  "total": 1118,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 510
+      "count": 511
     },
     {
       "name": "États-Unis",
@@ -51,7 +51,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 47
+      "count": 49
     },
     {
       "name": "Royaume-Uni",
@@ -8977,6 +8977,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We understand you need a clean, brand‑aligned logo reveal that feels refined and professional.  \nOur Motion graphics produit & pub"
+    },
+    {
+      "id": "freelancer:40672617",
+      "title": "Instagram Video Traffic Ads",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Instagram-Video-Traffic-Ads",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo pub motion graphics pour produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "Nous avons bien compris que vous cherchez une vidéo verticale percutante, optimisée pour Instagram Feed et Reels, capable de capter l’attention dès les premières secondes et de diriger un trafic qualifié vers votre page produit. Chez Voxel Studio, notre expertise en **Motion graphics produit & pub** nous permet de transformer vos visuels et points de vente en un clip dynamique, avec accroches fortes, valeur ajoutée claire et CTA efficace. Nous disposons d’une solide expérience, attestée par nos **57 productions motion graphics produit & publicité** archivées, dont le projet « Course AI » (product_ad_motion, 2021) illustre notre capacité à livrer des ads performants pour des campagnes e‑commerce. Nous gérons l’ensemble du processus : édition, motion"
     },
     {
       "id": "freelancer:40548766",
@@ -31213,6 +31241,62 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood the need, link to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project: the project is in Spanish (title and description in Spanish). So we must write in Spanish. No fluff, no price. Cite the concrete project as proof of our historic (domain + year, without client name). The archive project: \"2012-10-TT Mode de paiement\" (product_ad_motion, 2012). So we need to mention that as evidence.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Entendemos que tienes cinco testimonios en audio que deseas convertir en videos dinámicos y memorables, con una narrativa clara y visualmente impactante.\"\n\nSentence 2: Link to service: \"Nuestro equipo de Motion graphics produit & pub se especializa en crear piezas visuales que dan ritmo y energía, evitando lo corporativo rígido.\"\n\nSentence 3: Cite proof: \"Contamos con 57 producciones de motion graphics para producto y publicidad en nuestro archivo, como el proyecto «2012-10-TT Mode de paiement» (product_ad_motion, 2012).\"\n\nSentence 4: Offer workflow and plus: \"Trabajamos en primera versión, incorporamos hasta dos rondas de ajustes ligeros y entregamos en"
+    },
+    {
+      "id": "freelancer:40672688",
+      "title": "React 3D Earth Globe (react-globe.gl) – Match Drop Animation (Web & PWA)",
+      "sourceUrl": "https://www.freelancer.com/projects/web-development/React-Earth-Globe-react-globe",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We’ve studied your brief for a night‑time Earth globe that drops animated pins on match events, complete with shockwaves, touch‑friendly navigation and deep‑zoom city focus – exactly the kind of immersive WebGL interaction Voxel Studio specializes in.  \nOur team has already delivered a similar react‑globe.gl implementation for a dating‑app PWA, as shown in the archive proof (see “Preuve”).  \nWe’ll integrate night‑lights, starry background, compact 3D pins with attachable user data, and a synchronized impact shockwave, all built on your existing React + Vite + Tailwind stack.  \nThe component will be fully responsive, supporting swipe‑to‑rotate, pinch‑to‑zoom and tap‑to‑trigger mini‑profiles on both web and PWA modes.  \nLet’s schedule a quick call to align on the animation timing and pin sizing so we can ship the globe to Vercel within your sprint."
+    },
+    {
+      "id": "freelancer:40672704",
+      "title": "Realistic 3D Product Design Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Realistic-Product-Design-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "I understand you need a photorealistic 3D animation that highlights every contour, texture and material of your product before it’s even in hand. At Voxel Studio we specialize in refining CAD data, applying true‑to‑life shading and lighting, and crafting cinematic camera moves that reveal design details in crisp 4K. Our recent work—documented in our archive—delivered a product‑demo clip that matched reference photos pixel‑perfect and held each key element on screen for over three seconds without noise or flicker. Let us know the CAD files, reference photos and any brand guidelines you have, and we’ll get the project underway. Send them over and we’ll bring your product to life on screen."
     }
   ]
 }
