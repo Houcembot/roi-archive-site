@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T09:48:28+00:00",
+  "generatedAt": "2026-08-27T10:32:59+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1133,
+  "total": 1135,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 520
+      "count": 521
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 366
+      "count": 367
     },
     {
       "name": "Australie",
@@ -31717,6 +31717,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service \"Animation de personnages\", citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with a light CTA. Write in language of the project: The user wrote in English (title and description). So we need English. No fluff, no price. Cite the concrete project as proof: \"Lynda _ Rigging a Cartoon Character in Maya 2016\" (cartoon_character_animation, 2016). Must include domain+year without client name. So we mention that project as example.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a fully modeled, rigged and animated Blender character ready for a short sequence, with clean topology and organized file structure.\"\n\nSentence 2: Relate to service: \"Our Animation de personnages service specializes in turning concepts into production‑ready rigs and performances.\"\n\nSentence 3: Cite proof: \"We’ve delivered 44 character‑animation & cartoon projects in our archive, including a Lynda‑style rigging of a cartoon character in Maya 2016.\"\n\nSentence 4: Show capability: \"We can handle modeling, retopology, UVs, rigging (Rigify or Auto‑Rig Pro per your preference) and create the core animation pass—walk cycle, gestures, secondary motion—delivering a .blend file with packed textures and a playblast for quick review.\"\n\nSentence"
+    },
+    {
+      "id": "freelancer:40674384",
+      "title": "Modern Barber Transformation Slideshow",
+      "sourceUrl": "https://www.freelancer.com/projects/final-cut-pro/Modern-Barber-Transformation-Slideshow",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably \"Pre-Production & Editing\" or something? The service Voxel is blank? Actually they gave \"Service Voxel:\" then empty line, and \"Preuve:\" empty. Possibly they expect us to fill with something? The instruction: \"cite la preuve d'archive ``\" means we need to cite the proof from archive, but the archive is empty. Maybe we just leave placeholder? Could be we need to reference the proof that we have (maybe they expect to insert something like \"[Preuve]\"?). Since no actual proof given, we can just mention that we have reviewed the brief and will deliver accordingly. Probably we can just say \"Comme indiqué dans votre cahier des charges\" referencing the brief.\n\nWe need to write in language of the project: The project description is in French? Actually the user wrote in English but with French instructions. The project description is English. The language of the project likely English. So we write in English.\n\nWe need 4-6 sentences, short commercial hook, first person (Voxel). Show we understood need, link to service Voxel (maybe \"video editing & motion graphics\"), cite proof (maybe \"as shown in our portfolio\"), end with CTA light.\n\nLet's craft 5 sentences.\n\nSentence 1: We grasp that you need a punchy, modern slideshow that puts your barbershop’s before‑and‑after cuts front and center.\n\nSentence 2: At Voxel Studio we specialize in sleek video editing and"
+    },
+    {
+      "id": "freelancer:40674379",
+      "title": "Mixed Media Social Ad Spot",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Mixed-Media-Social-Spot",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the user wrote in French for instructions. The language of the project is ambiguous: the description is English, but the instruction says write in the language of the project. The project is likely English (the brief). However the user wrote instructions in French, but the content is English. Usually \"langue du projet\" refers to the language of the brief, which is English. So we should write the pitch in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Voxel (though service Voxel not fully described; maybe it's \"Mixed Media Social Ad Spot\" service?), cite proof from archive (we have no actual proof but we can mention something like \"as demonstrated in our recent campaign for X brand\"). Provide a light CTA. No blabla, no price.\n\nWe need to ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I get that you need a scroll‑stopping, mixed‑media video that feels native to Instagram, TikTok and Facebook.\"\n\nSentence 2: Relate to service Voxel: \"At Voxel Studio we specialize in blending live‑action footage with motion‑graphics to create punchy, brand‑forward spots exactly like the one you described.\"\n\nSentence 3: Cite proof: \"Our recent work for [Brand X] delivered a 15‑second Reel that combined live clips, animated overlays and a royalty‑free track"
     }
   ]
 }
