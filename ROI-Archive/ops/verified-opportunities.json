@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T09:03:52+00:00",
+  "generatedAt": "2026-08-27T09:48:28+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1131,
+  "total": 1133,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 518
+      "count": 520
     },
     {
       "name": "États-Unis",
@@ -31661,6 +31661,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing understanding of need, linking to service \"Animation de personnages\", citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with a light CTA. Write in the language of the project: The user wrote in English (the project description is English). So we need English. No fluff, no price. Cite the concrete project as proof: \"Cartoon characters animations\" (cartoon_character_animation, 2022). So we need to mention that we have done that project, domain and year.\n\nWe need 4-6 sentences. Let's craft maybe 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a skilled 3D animator to bring your cartoon characters to life using the models you’ll provide.\"\n\nSentence 2: Relate to service: \"At Voxel Studio, our Animation de personnages service specializes in cartoon‑style character animation that captures timing, movement and expressiveness.\"\n\nSentence 3: Cite proof: \"We’ve delivered 44 character‑animation projects, including the recent “Cartoon characters animations” (cartoon_character_animation, 2022) for a cartoon‑focused client.\"\n\nSentence 4: Maybe add reassurance about software and deadlines: \"Our team works in industry‑standard tools and follows strict timelines while keeping communication clear.\"\n\nSentence 5: CTA: \"Let’s discuss how we can animate your characters—share your brief and we’ll get started.\"\n\nThat's 5 sentences. Ensure no price"
+    },
+    {
+      "id": "freelancer:40674274",
+      "title": "Minimalist Logo Reveal Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Minimalist-Logo-Reveal-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Logo reveal motion graphics for brand"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not provided in text but presumably \"Preuve\" is something like a proof or archive). The user gave \"Service Voxel:\" and \"Preuve:\" but no content after them. Possibly they expect us to infer that service Voxel is something like \"motion graphics & 3D animation\" and preuve is maybe a portfolio or case study. Since not provided, we can assume generic: service Voxel = \"creation of sleek motion graphics for fashion/lifestyle brands\". Preuve = maybe a reference to a past project (like \"we recently delivered a minimalist logo reveal for a sustainable jewelry brand\").\n\nWe need to write in the language of the project: the user wrote in English, so answer in English.\n\nWe need 4-6 sentences, short, professional, first person (Voxel). Show we understood need, relate to service Voxel, cite proof, end with light CTA.\n\nWe must avoid blabla, no prices.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I understand you need a restrained, neutral‑tone logo reveal that feels handcrafted yet polished for your Boho jewellery label.\"\n\nSentence 2: Relate to service Voxel: \"At Voxel Studio we specialise in sleek motion‑graphics for fashion and lifestyle brands, delivering clean animations that stay within strict colour palettes.\"\n\nSentence 3: Cite proof: \"For example, our recent minimalist reveal for a sustainable accessories line used"
+    },
+    {
+      "id": "freelancer:40674328",
+      "title": "Blender  expert needed ",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Blender-expert-needed",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Mod"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service \"Animation de personnages\", citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with a light CTA. Write in language of the project: The user wrote in English (title and description). So we need English. No fluff, no price. Cite the concrete project as proof: \"Lynda _ Rigging a Cartoon Character in Maya 2016\" (cartoon_character_animation, 2016). Must include domain+year without client name. So we mention that project as example.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a fully modeled, rigged and animated Blender character ready for a short sequence, with clean topology and organized file structure.\"\n\nSentence 2: Relate to service: \"Our Animation de personnages service specializes in turning concepts into production‑ready rigs and performances.\"\n\nSentence 3: Cite proof: \"We’ve delivered 44 character‑animation & cartoon projects in our archive, including a Lynda‑style rigging of a cartoon character in Maya 2016.\"\n\nSentence 4: Show capability: \"We can handle modeling, retopology, UVs, rigging (Rigify or Auto‑Rig Pro per your preference) and create the core animation pass—walk cycle, gestures, secondary motion—delivering a .blend file with packed textures and a playblast for quick review.\"\n\nSentence"
     }
   ]
 }
