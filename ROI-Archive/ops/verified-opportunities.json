@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T17:18:48+00:00",
+  "generatedAt": "2026-08-27T18:04:20+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1139,
+  "total": 1140,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 524
+      "count": 525
     },
     {
       "name": "États-Unis",
@@ -31885,6 +31885,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project language? The user wrote in English. The request is in English. So we should write in English. Provide a short commercial hook 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Voxel, citing proof (archive), ending with light CTA. No fluff, no price.\n\nWe need to incorporate service Voxel (maybe description of service) and proof (archive). Since they gave placeholders: Service Voxel: (blank) and Preuve: (blank). We need to fill? Not given. Possibly we need to infer: Service Voxel is \"YouTube Motion Graphics Editing\" maybe? Or we can say \"Our YouTube Motion Graphics Editing service\". Proof could be \"our portfolio includes X\" but we don't have specifics. We can say \"as demonstrated in our recent work for [client]\" but we don't have. Could be generic: \"as shown in our archive of successful YouTube motion graphics projects\". We'll keep it generic but mention proof.\n\nWrite 4-6 sentences. Let's do 5 sentences.\n\nSentence 1: Show we understood need: \"I know you need more than basic cuts—strong hooks, seamless pacing, and motion graphics that reinforce your brand.\"\n\nSentence 2: Link to service: \"Our YouTube Motion Graphics Editing service handles everything from footage sequencing and colour correction to custom animated lower thirds, transitions, and sound design.\"\n\nSentence 3: Cite proof: \"As evidenced by the motion‑"
+    },
+    {
+      "id": "freelancer:40675096",
+      "title": "Engaging Startup Advertisement Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Engaging-Startup-Advertisement-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de vidéo publicitaire motion graphics pour startup"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the user wrote in French for instructions. The language of the project is ambiguous: The title and description are English. However the instruction says \"Écris dans la langue du projet.\" Likely they want French because they wrote the instructions in French and the service name is French. But they also said \"Pas de blabla, pas de prix. Cite ce projet concret comme preuve de notre historique (domaine + année, sans nom de client).\" So we need to produce a short commercial hook in French, referencing the need (they want a startup ad video), linking to Voxel's Motion graphics produit & pub service, citing the proof \"57 productions motion graphics produit & publicité (archive Voxel)\", and citing the concrete archive project: \"Shapes Animation\" (product_ad_motion, 2020). End with a light CTA.\n\nWe need 4-6 sentences, professional, first person (Voxel). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Nous comprenons que vous recherchez une vidéo publicitaire dynamique de 45‑60 s qui présente le problème, votre plateforme de location et les bénéfices pour les utilisateurs et les propriétaires.\"\n\nSentence 2: Relate to service: \"Notre expertise en motion graphics produit & pub nous permet de créer des animations modernes, avec storytelling fort, typographie soignée et intégration UI.\"\n\nSentence 3: Cite proof"
     }
   ]
 }
