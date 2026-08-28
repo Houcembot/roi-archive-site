@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T15:49:59+00:00",
+  "generatedAt": "2026-08-28T16:36:08+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1150,
+  "total": 1151,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 529
+      "count": 530
     },
     {
       "name": "États-Unis",
@@ -9201,6 +9201,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a steady stream of vertical, 15‑30‑second product demo videos that instantly convey function, benefit and real‑world use for your Instagram Reels.  \nOur Motion graphics produit & pub service is"
+    },
+    {
+      "id": "freelancer:40676804",
+      "title": "Animated Course Enrollment Ad",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Animated-Course-Enrollment",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animated ad for coaching program fits motion graphics product ad"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need an animated advertisement that captures attention and drives course enrollment through engaging storytelling.  \nAt Voxel Studio we specialize in motion graphics for product and advertising, transforming ideas into high‑impact visual narratives"
     },
     {
       "id": "freelancer:40548766",
