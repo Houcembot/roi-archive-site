@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T20:19:43+00:00",
+  "generatedAt": "2026-08-28T21:04:26+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1152,
+  "total": 1153,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 530
+      "count": 531
     },
     {
       "name": "États-Unis",
@@ -32249,6 +32249,34 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "We’ve analyzed your"
+    },
+    {
+      "id": "freelancer:40677223",
+      "title": "Realistic 3D Ad for Miss Tirupati",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Realistic-for-Miss-Tirupati",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, professional, first person (Voxel). Must show we understood need, link to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Write in language of the project: The project is in English (title, description). So write in English. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Must include that as evidence of our history (domain + year, no client name). So something like: \"We understand you need a realistic 3D ad for Miss Tirupati...\" etc. Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"We grasp that you need a striking, realistic 3‑D promotional ad for Miss Tirupati that highlights the crown, prize pool and entry fees within a tight 15‑20‑second window.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in turning such briefs into polished, high‑impact visual stories.\"\n\nSentence 3: Cite proof: \"To date we have delivered 57 motion‑graphics product and advertising pieces (archive Voxel), including the ‘Shapes Animation’ product ad motion project from 2020.\"\n\nSentence 4: Show capability: \"Our team’s expertise in realistic 3D modeling, animation and detail‑oriented execution ensures your brief will be met on schedule and on budget.\"\n\nSentence 5: Light CTA: \"Let’s discuss how we"
     }
   ]
 }
