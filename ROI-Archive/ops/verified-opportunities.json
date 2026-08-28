@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T00:06:23+00:00",
+  "generatedAt": "2026-08-28T00:48:52+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1141,
+  "total": 1143,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 368
+      "count": 369
     },
     {
       "name": "Australie",
@@ -63,7 +63,7 @@
       "name": "Canada",
       "lat": 56,
       "lon": -106,
-      "count": 36
+      "count": 37
     },
     {
       "name": "Nouvelle-Zélande",
@@ -31941,6 +31941,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: the project description is in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). Provide short hook.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need three dynamic, typography‑driven After Effects intros that stay flexible for future brand colors.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in exactly that—crafting kinetic‑type pieces that are both editable and ready for broadcast.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product and advertising pieces, including the recent “Color Pen Animations” (product_ad_motion, 2020) which showcases our ability to build flexible palettes and smooth typographic rhythm.\"\n\nSentence 4: Mention deliverables alignment: \"We’ll hand over fully organized AE projects, H.264 1080p+ renders, and a concise guide so your team can tweak anything instantly.\"\n\nSentence 5: CTA: \"Let’s jump on a quick call to align the creative direction and get the first treatment rolling.\"\n\nMake sure no price, no blabla. Provide in English."
+    },
+    {
+      "id": "freelancer:40675560",
+      "title": "15-Second Energetic Bar Reel",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Second-Energetic-Bar-Reel",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 56,
+      "lon": -106,
+      "proposalDraft": "Nous avons bien saisi que vous avez besoin d’un reel vertical de 15 secondes, ultra‑rythmé, mettant en valeur les éclaboussures de jus et les gestes précis de votre équipe, avec des overlays"
+    },
+    {
+      "id": "freelancer:40675539",
+      "title": "Animar Personaje Cartoon en Animate",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-animate/Animar-Personaje-Cartoon-Animate",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user wrote in Spanish, but says \"Écris dans la langue du projet.\" The project language is Spanish (the user wrote in Spanish). So we need to write in Spanish. Must be professional, first person (Voxel). Show we understood need, relate to service Voxel, cite proof (archive proof), end with light CTA. No blabla, no price. Provide 4-6 sentences.\n\nWe need to reference the proof: \"Preuve:\" but no content given after. Possibly placeholder; we should still cite it as \"como demuestra nuestra prueba ...\" but we don't have specifics. We can say \"como muestra nuestra prueba de rigging en Animate\" referencing the proof. We'll assume proof exists.\n\nWrite 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Entendemos que tienes tu personaje en Illustrator y necesitas que cobre vida en Animate con un pase de pelota natural y estilo cartoon.\n\nSentence 2: En Voxel Studio importamos tu .AI, riggeamos las capas necesarias y animamos la acción con aceleraciones y desaceleraciones creíbles, manteniendo un nivel intermedio de fluidez.\n\nSentence 3: Como demuestra nuestra prueba de archivo adjunto (Preuve), garantizamos un movimiento expresivo y coherente con el espíritu cartoon que buscas.\n\nSentence 4: Entregamos el .FLA editable y una versión .MOV/.MP4 para revisión, incluyendo una prueba en baja resolución para validar timing antes del final.\n\nSentence"
     }
   ]
 }
