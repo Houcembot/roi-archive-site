@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T10:35:23+00:00",
+  "generatedAt": "2026-08-29T11:22:04+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1165,
+  "total": 1166,
   "countryCount": 9,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 55
+      "count": 56
     },
     {
       "name": "Europe",
@@ -32613,6 +32613,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relating to service Voxel (which is presumably \"3D Product Showcase Website Build\"? Actually service Voxel is not given explicitly in prompt; maybe it's the service they offer: building 3D product showcase websites). We need to cite proof from archive (the \"Preuve:\" line is empty? Actually after \"Service Voxel:\" there is a blank line then \"Preuve:\" then blank. Possibly they expect us to insert a placeholder like \"[Preuve]\"? But we need to cite the proof d'archive. Since it's empty, maybe we just note that we have proven experience in similar projects? Could use generic phrase like \"as demonstrated in our recent project for X\". But we must not fabricate? The instruction: \"cite la preuve d'archive ``\". Probably they expect to put something like \"(voir preuve en annexe)\"? However we have no actual proof. Could we say \"comme le montre notre preuve d'archive jointe\"? Might be acceptable.\n\nWe need to write in language of the project: English.\n\nNo blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: you want a fast, engaging 3D product site with rotatable models, specs, reviews.\n\nSentence 2: Relate to Voxel service: we specialize in building lightweight, responsive 3D showcase front‑ends using Three.js/Babylon.js.\n\nSentence 3: Cite proof: e.g., \"Our recent archive proof shows a similar catalogue achieving <2s load and"
+    },
+    {
+      "id": "freelancer:40678158",
+      "title": "Dynamic Footwear Launch Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Dynamic-Footwear-Launch-Videos",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We’ve grasped that your Australian footwear debut needs vertical, fast‑cut videos that burst with colour, movement and a cheeky Aussie vibe to stop thumbs on Instagram and Facebook.  \nAt Voxel Studio we’ll translate your"
     }
   ]
 }
