@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T20:20:57+00:00",
+  "generatedAt": "2026-08-29T21:06:16+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1170,
+  "total": 1171,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 380
+      "count": 381
     },
     {
       "name": "Australie",
@@ -6669,6 +6669,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with light CTA. Write in language of the project (English). No blabla, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that we have done similar footwear/product promo, referencing that archive project.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We grasp that you need a cinematic, photoreal 3D spot that lets viewers feel the shoe’s texture, stitching and performance.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service turns those goals into seamless motion‑graphics call‑outs that highlight design details, cushioning, flexibility and grip.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product & publicité pieces in our archive—including the 2020 ‘Shapes Animation’ product ad—we have a proven track‑record of delivering photoreal footwear promos.\"\n\nSentence 4: Maybe mention deliverables alignment: \"We’ll deliver a 20‑30 s 1920×1080 master, clean version, source files and print‑ready stills, all matching your reference sample.\"\n\nSentence 5: Light CTA: \"Let’s kick off with a first WIP within"
+    },
+    {
+      "id": "freelancer:40678909",
+      "title": "30-Second Professional Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Second-Professional-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de vidéo promo motion graphics 30s"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a polished 30‑second promo that drives traffic"
     },
     {
       "id": "freelancer:40545736",
