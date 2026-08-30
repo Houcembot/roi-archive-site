@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T09:06:24+00:00",
+  "generatedAt": "2026-08-30T09:51:14+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1175,
+  "total": 1176,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 382
+      "count": 383
     },
     {
       "name": "Australie",
@@ -32893,6 +32893,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We’ve understood that you need a fast‑paced, minimalist motion‑graphics treatment that amplifies your on‑camera presence while keeping every claim verifiable with on‑screen citations. Our Motion graphics produit & pub service is built exactly for"
+    },
+    {
+      "id": "freelancer:40679682",
+      "title": "Brand Awareness Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Brand-Awareness-Promo-Video-40679682",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a short, social‑first promotional video that instantly captures attention and boosts brand awareness across Instagram, Facebook and TikTok"
     }
   ]
 }
