@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T18:07:33+00:00",
+  "generatedAt": "2026-08-30T18:52:22+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1184,
+  "total": 1185,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 545
+      "count": 546
     },
     {
       "name": "États-Unis",
@@ -33145,6 +33145,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "Nous comprenons que vous avez besoin de reels produit qui"
+    },
+    {
+      "id": "freelancer:40680447",
+      "title": "30-Second Mixed-Media App Promo",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Second-Mixed-Media-App-Promo-40680447",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de motion graphics produit pour promo app."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The language of the project is English. So we need to write in English. Provide a short commercial hook (4-6 sentences) professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that we have done similar mixed-media work for mobile apps, referencing that archive project.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a punchy 30‑second mixed‑media reel that fuses screen capture, kinetic text and lifestyle shots to highlight your Android app’s UI, core features and USP.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in exactly that blend of animation and live‑action for short‑form promos.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product & advertising pieces, including the ‘Shapes Animation’ project (product_ad_motion, 2020) which combined app screencasts with kinetic graphics in a vertical format.\"\n\nSentence 4: Show capability: \"That experience lets us translate your vision into a high‑energy, reel‑ready vertical video with clean‑version stems"
     }
   ]
 }
