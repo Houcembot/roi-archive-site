@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T16:37:53+00:00",
+  "generatedAt": "2026-08-30T17:22:21+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1183,
+  "total": 1184,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 544
+      "count": 545
     },
     {
       "name": "États-Unis",
@@ -33117,6 +33117,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the instruction says \"Écris dans la langue du projet.\" The project language appears to be English (the user wrote in English). However the service Voxel is French? The user wrote in English but wants the language of the project. The project description is English. So we should write in English. Provide a short commercial hook 4-6 sentences, professional, first person (Voxel). Show we understood need, link to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. Let's craft 5 sentences.\n\nSentence 1: We understand you want a strategic, product‑focused Reel flow that educates and drives purchases. Sentence 2: Our Motion graphics produit & pub service turns raw footage into polished vertical Reels with crisp captions, subtle motion graphics and pacing that keeps viewers engaged. Sentence 3: Backed by 57 motion‑graphics product & advertising productions in our archive, including the 2021 “Course AI” project, we know how to translate detailed product info into clear, engaging visuals. Sentence 4: Each month we’ll deliver a simple content calendar, the edited Reels ready for upload, and a quick performance recap to iterate. Sentence 5: Let’s schedule a brief call to map out your first month’s plan and get"
+    },
+    {
+      "id": "freelancer:40680305",
+      "title": "Trendy Product Reel Designer Needed",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Trendy-Product-Reel-Designer-Needed",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de reels produit avec motion graphics et"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Nous comprenons que vous avez besoin de reels produit qui"
     }
   ]
 }
