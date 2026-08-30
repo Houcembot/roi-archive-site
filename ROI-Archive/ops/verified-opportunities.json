@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T03:06:17+00:00",
+  "generatedAt": "2026-08-30T03:50:36+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1172,
+  "total": 1173,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 538
+      "count": 539
     },
     {
       "name": "États-Unis",
@@ -6697,6 +6697,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a polished 30‑second promo that drives traffic"
+    },
+    {
+      "id": "freelancer:40679207",
+      "title": "Voiceover Testimonial Promo Video Production",
+      "sourceUrl": "https://www.freelancer.com/projects/voice-over/Voiceover-Testimonial-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo promo motion graphics avec voix‑over"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. However the instruction says \"Écris dans la langue du projet.\" The project is described in English, but the user wrote the request in English. The language of the project is English. So we need to write in English. Provide a short commercial hook 4-6 sentences, first person (Voxel), showing we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, end with light CTA. Also cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). No blabla, no price. Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you want a testimonial‑driven promo where voice‑over drives the story and dynamic visuals keep it lively. Sentence 2: Our Motion graphics produit & pub service turns raw quotes, brand assets and product photos into a polished 60‑90‑second spot with upbeat graphics, lower‑thirds and smooth transitions. Sentence 3: Backed by 57 motion‑graphics product & advertising productions in our archive, we know how to balance credibility and visual punch. Sentence 4: For example, our “Color Pen Animations” (product_ad_motion, 2020) delivered exactly this blend of testimonial voice‑over and kinetic graphics for a client in the stationery sector. Sentence 5: Let’s discuss how we can craft your master video,"
     },
     {
       "id": "freelancer:40545736",
