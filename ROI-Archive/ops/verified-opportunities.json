@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T15:51:45+00:00",
+  "generatedAt": "2026-08-30T16:37:53+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1182,
+  "total": 1183,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 543
+      "count": 544
     },
     {
       "name": "États-Unis",
@@ -6725,6 +6725,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. However the instruction says \"Écris dans la langue du projet.\" The project is described in English, but the user wrote the request in English. The language of the project is English. So we need to write in English. Provide a short commercial hook 4-6 sentences, first person (Voxel), showing we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, end with light CTA. Also cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). No blabla, no price. Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you want a testimonial‑driven promo where voice‑over drives the story and dynamic visuals keep it lively. Sentence 2: Our Motion graphics produit & pub service turns raw quotes, brand assets and product photos into a polished 60‑90‑second spot with upbeat graphics, lower‑thirds and smooth transitions. Sentence 3: Backed by 57 motion‑graphics product & advertising productions in our archive, we know how to balance credibility and visual punch. Sentence 4: For example, our “Color Pen Animations” (product_ad_motion, 2020) delivered exactly this blend of testimonial voice‑over and kinetic graphics for a client in the stationery sector. Sentence 5: Let’s discuss how we can craft your master video,"
+    },
+    {
+      "id": "freelancer:40680233",
+      "title": "Animated Product Photo Marketing Video -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Animated-Product-Photo-Marketing-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo animée marketing à partir de photos avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, and ending with a light CTA. Must be in language of the project: the user wrote in English, so answer in English. No fluff, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Must not mention price. Provide CTA like \"Let's discuss your vision\" etc.\n\nMake sure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you want your product photos turned into a dynamic motion‑graphics video that goes beyond a simple slideshow.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in exactly that—adding subtle zooms, parallax, kinetic text and seamless transitions to bring still images to life.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product and advertising pieces, including the ‘Shapes Animation’ project (product_ad_motion, 2020) that showcases the same photo‑to‑animation approach you’re after.\"\n\nSentence 4: Maybe another proof or reassurance: \"We’ll work from your raw photos, brand guidelines and copy deck to produce a polished 1080p MP4 optimized for web and social, with licensed music and legible typography.\"\n\nSentence 5: CTA: \"Let’s schedule a quick call to confirm the timeline and get"
     },
     {
       "id": "freelancer:40545736",
