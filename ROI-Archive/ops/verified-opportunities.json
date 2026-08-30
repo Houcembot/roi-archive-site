@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T09:51:14+00:00",
+  "generatedAt": "2026-08-30T10:36:10+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1176,
+  "total": 1177,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 383
+      "count": 384
     },
     {
       "name": "Australie",
@@ -9313,6 +9313,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Show understanding of need, link to service Motion graphics produit & pub, cite proof of archive: 57 productions motion graphics produit & publicité (archive Voxel). End with a light CTA. Write in language of the project: the project description is in English (the user wrote in English). So we must write in English. No fluff, no price. Cite concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). Must not mention client name. Provide domain and year. So we need to embed that.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need short, punchy product demo videos for Instagram/YouTube that highlight features with clean visuals and on‑screen text.\n\nSentence 2: Our Motion graphics produit & pub service turns your talking points and brand guidelines into ready‑to‑post reels and feed clips.\n\nSentence 3: With 57 motion‑graphics product & advertising productions in our archive—including the “Color Pen Animations” (product_ad_motion, 2020)—we have the expertise to deliver exactly what you need.\n\nSentence 4: We’ll handle shooting or hybrid motion graphics, editing, color correction, caption placement and subtle logo branding, delivering source files and MP4s in both 9:16 and 1:1 formats.\n\nSentence 5: Let’s schedule a quick call to confirm the first video’s direction and get the production started.\n\nMake sure no price, no blabla. Keep professional. Provide C"
+    },
+    {
+      "id": "freelancer:40679717",
+      "title": "Dynamic 15-Second YeapTel Ad",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Dynamic-Second-YeapTel",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'un spot pub animé avec live‑action et motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Write in language of the project: The project description is in English. So we write in English. No fluff, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Provide domain+year without client name. So we mention that we have done similar product ad motion graphics like Shapes Animation in 2020.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We grasp the challenge of delivering a punchy 15‑second YeapTel spot that fuses live‑action with vibrant animation while showcasing the real‑time translation UI.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service is built exactly for this kind of mixed‑media, brand‑focused execution.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product and advertising pieces in our archive—including the Shapes Animation product ad from 2020—we have the track record to hit every beat.\"\n\nSentence 4: Show we can deliver assets: \"We’ll turn your storyboard, UI screens, and music references into a tight edit, editable Premiere/After Effects file, plus the requested square and vertical cuts.\"\n\nSentence 5: CTA: \"Let’s lock in the kickoff and get the first cut rolling—just send the"
     },
     {
       "id": "freelancer:40548766",
