@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T15:54:15+00:00",
+  "generatedAt": "2026-08-31T16:39:23+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1190,
+  "total": 1191,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 548
+      "count": 549
     },
     {
       "name": "États-Unis",
@@ -6753,6 +6753,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, and ending with a light CTA. Must be in language of the project: the user wrote in English, so answer in English. No fluff, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Must not mention price. Provide CTA like \"Let's discuss your vision\" etc.\n\nMake sure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you want your product photos turned into a dynamic motion‑graphics video that goes beyond a simple slideshow.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in exactly that—adding subtle zooms, parallax, kinetic text and seamless transitions to bring still images to life.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product and advertising pieces, including the ‘Shapes Animation’ project (product_ad_motion, 2020) that showcases the same photo‑to‑animation approach you’re after.\"\n\nSentence 4: Maybe another proof or reassurance: \"We’ll work from your raw photos, brand guidelines and copy deck to produce a polished 1080p MP4 optimized for web and social, with licensed music and legible typography.\"\n\nSentence 5: CTA: \"Let’s schedule a quick call to confirm the timeline and get"
+    },
+    {
+      "id": "freelancer:40682374",
+      "title": "Social Video Ad for Ather",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Social-Video-for-Ather",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics product ad for Ather charger wall mount"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof of archive \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project. The project title is in English, so language is English. Must cite concrete project as proof of our historical (domain + year, without client name). The archive project to cite: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar product ad motion graphics like Course AI in 2021.\n\nWe must not include price. No blabla. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We see the frustration of tangled cables and floor‑placed chargers in your Ather DuoCharger ad brief.\"\n\nSentence 2: Relate to service: \"Our motion‑graphics product & pub expertise turns that pain point into a clean, engaging visual story.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product & publicité pieces in our archive, we’ve delivered consistent, high‑impact results.\"\n\nSentence 4: Cite concrete project: \"For example, our 2021 product ad motion for Course AI demonstrated how we can showcase a wall‑mount solution with seamless cable‑management animation.\"\n\nSentence 5: CTA: \"Let’s discuss how we can bring the Forward Ather Charger Wall Mount to life in a 45‑second spot that converts"
     },
     {
       "id": "freelancer:40545736",
