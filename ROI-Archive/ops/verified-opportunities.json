@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T11:22:40+00:00",
+  "generatedAt": "2026-08-31T12:08:10+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1187,
+  "total": 1188,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 387
+      "count": 388
     },
     {
       "name": "Australie",
@@ -33229,6 +33229,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need two AI‑generated vertical reels that follow the director briefs to the letter, with warm, natural tones and strict casting guidelines."
+    },
+    {
+      "id": "freelancer:40681817",
+      "title": "Unity + Blender 3D Animation Specialist",
+      "sourceUrl": "https://www.freelancer.com/projects/unity/Unity-Blender-Animation-Specialist",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "Nous avons saisi que vous avez besoin d’un animateur Unity/Blender capable de"
     }
   ]
 }
