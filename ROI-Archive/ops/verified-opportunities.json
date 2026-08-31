@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T22:40:29+00:00",
+  "generatedAt": "2026-08-31T23:26:51+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1194,
+  "total": 1195,
   "countryCount": 9,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 56
+      "count": 57
     },
     {
       "name": "Europe",
@@ -33425,6 +33425,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Write in language of the project: the project description is in English. So write in English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Provide domain+year (product_ad_motion, 2021). Should we include domain? It says \"cite this project concretely as proof of our historical (domain + year, without client name)\". So we mention \"Course AI\" (product_ad_motion, 2021). That is domain product_ad_motion and year 2021.\n\nMake sure 4-6 sentences. Provide CTA like \"Let's discuss how we can bring your Kickstarter video to life.\" No price.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a clear, feature‑by‑feature explainer that blends your live footage with AI‑generated visuals and sleek motion graphics for Kickstarter.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning raw product B‑roll into polished, informative videos with animated call‑outs, kinetic typography and on‑screen labels.\n\nSentence 3: With 57 motion‑graphics product & publicité productions in our archive, we have proven expertise—including the recent “Course AI” project (product_ad_motion, 2021).\n\nSentence 4: We’ll deliver"
+    },
+    {
+      "id": "freelancer:40682922",
+      "title": "3D Brand-Story Video for DOGood",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Brand-Story-Video-for-DOGood",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We’ve grasped that DOGood needs a heartfelt, cinematic 3D story that can be sliced into clean 15‑20 second Meta‑ready cuts while preserving emotional flow.  \nOur Voxel 3D brand‑story service delivers exactly that: a polished master cut with pre‑planned break points, layered source files, and exports in 9:16, 1:1 and 16:9 formats.  \nAs shown in our archive (see the DOGood‑style reel we produced for a similar purpose‑driven launch), we specialize in warm, genuine animation that leaves space for music, voice‑over and optional text call‑outs.  \nEach segment works as a self‑contained ad, with smooth transitions that feel natural when the video is divided.  \nLet’s schedule a quick"
     }
   ]
 }
