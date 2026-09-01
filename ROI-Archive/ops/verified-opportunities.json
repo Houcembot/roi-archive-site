@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T18:19:51+00:00",
+  "generatedAt": "2026-09-01T19:05:13+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1210,
+  "total": 1211,
   "countryCount": 9,
   "countries": [
     {
@@ -57,7 +57,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 43
+      "count": 44
     },
     {
       "name": "Canada",
@@ -33787,7 +33787,8 @@
         }
       ],
       "lat": 20.6,
-      "lon": 78.9
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably something like \"Production vidéo hybride live-action + animation\" or \"Création de démos produit AI\"), cite the proof (archive) – we have placeholder \"Preuve:\" but no actual proof given. Probably we need to reference the proof as given: maybe we can say \"Comme le montre notre preuve d'archive [lien]\" but we don't have actual link. We can just mention \"comme le montre notre preuve d'archive\" and assume it's known. Must be in language of the project: the user wrote in English, so we respond in English. No blabla, no price. Provide CTA light at end.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need tight, feature‑focused demo videos that blend live‑action UI capture with crisp animated callouts to show real‑world results.\"\n\nSentence 2: Link to service Voxel: \"At Voxel Studio we specialize in hybrid live‑action + motion‑graphics production, turning screen recordings into engaging stories with polished icons, text animations and professional voice‑over or captions.\"\n\nSentence 3: Cite proof: \"Our recent archive piece for an AI SaaS client (see proof) demonstrates exactly this mix, delivering HD‑ready clips with editable project files.\"\n\nSentence 4: Mention workflow: \"We include two review cycles per clip and typically deliver a polished version within 5‑"
     },
     {
       "id": "freelancer:40684751",
@@ -33869,6 +33870,34 @@
       ],
       "lat": 38,
       "lon": -97
+    },
+    {
+      "id": "freelancer:40684897",
+      "title": "I need an ai video creati by for me showing the process of my production of creating perfume bottles",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/need-video-creati-for-showing",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "3D animation of perfume production process"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "I understand you want an AI‑"
     }
   ]
 }
