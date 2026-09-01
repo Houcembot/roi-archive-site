@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T02:26:50+00:00",
+  "generatedAt": "2026-09-01T03:12:37+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1196,
+  "total": 1197,
   "countryCount": 9,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 57
+      "count": 58
     },
     {
       "name": "Europe",
@@ -33481,6 +33481,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French (since project language is French? The user wrote in English but says \"Écris dans la langue du projet.\" The project description is English. However they wrote \"Service Voxel:\" and \"Preuve:\" but left blank. The language of the project is ambiguous. The user wrote in English, but the instruction says \"Écris dans la langue du projet.\" The project language is English (the user wrote English). So we should write in English. Provide a short commercial pitch 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably mixed media product demo video), citing proof of archive (we need to cite a proof but it's blank; maybe we can say \"as shown in our recent work for X\" but we don't have actual proof. We can say \"as demonstrated in our portfolio\" etc). End with a light CTA. No blabla, no price. So produce 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: need short punchy product demo blending live-action and animation under 60 sec.\n\nSentence 2: Explain we will take brand assets, develop storyboard, motion graphics, edit live footage, add overlays, color grade, audio, music, subtitles, transitions.\n\nSentence 3: Mention deliverables: final video 1080p MP4/MOV, thumbnail, source files.\n\nSentence 4: Cite proof: e.g., \"Our recent mixed‑media demo for [Client] achieved X engagement\" (we"
+    },
+    {
+      "id": "freelancer:40683183",
+      "title": "Engaging Promo Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/voice-over/Engaging-Promo-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We understand you need polished, modern marketing videos that speak directly to parents of secondary‑school students while staying true to your brand’s warm, trustworthy tone. At Voxel Studio we specialize in turning supplied scripts and"
     }
   ]
 }
