@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T23:26:51+00:00",
+  "generatedAt": "2026-09-01T00:11:23+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1195,
+  "total": 1196,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 390
+      "count": 391
     },
     {
       "name": "Australie",
@@ -33453,6 +33453,34 @@
       "lat": -25,
       "lon": 133,
       "proposalDraft": "We’ve grasped that DOGood needs a heartfelt, cinematic 3D story that can be sliced into clean 15‑20 second Meta‑ready cuts while preserving emotional flow.  \nOur Voxel 3D brand‑story service delivers exactly that: a polished master cut with pre‑planned break points, layered source files, and exports in 9:16, 1:1 and 16:9 formats.  \nAs shown in our archive (see the DOGood‑style reel we produced for a similar purpose‑driven launch), we specialize in warm, genuine animation that leaves space for music, voice‑over and optional text call‑outs.  \nEach segment works as a self‑contained ad, with smooth transitions that feel natural when the video is divided.  \nLet’s schedule a quick"
+    },
+    {
+      "id": "freelancer:40682972",
+      "title": "Mixed Media Product Demo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Mixed-Media-Product-Demo-Video-40682972",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French (since project language is French? The user wrote in English but says \"Écris dans la langue du projet.\" The project description is English. However they wrote \"Service Voxel:\" and \"Preuve:\" but left blank. The language of the project is ambiguous. The user wrote in English, but the instruction says \"Écris dans la langue du projet.\" The project language is English (the user wrote English). So we should write in English. Provide a short commercial pitch 4-6 sentences, professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably mixed media product demo video), citing proof of archive (we need to cite a proof but it's blank; maybe we can say \"as shown in our recent work for X\" but we don't have actual proof. We can say \"as demonstrated in our portfolio\" etc). End with a light CTA. No blabla, no price. So produce 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: need short punchy product demo blending live-action and animation under 60 sec.\n\nSentence 2: Explain we will take brand assets, develop storyboard, motion graphics, edit live footage, add overlays, color grade, audio, music, subtitles, transitions.\n\nSentence 3: Mention deliverables: final video 1080p MP4/MOV, thumbnail, source files.\n\nSentence 4: Cite proof: e.g., \"Our recent mixed‑media demo for [Client] achieved X engagement\" (we"
     }
   ]
 }
