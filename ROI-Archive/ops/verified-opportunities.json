@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T16:04:17+00:00",
+  "generatedAt": "2026-09-01T16:49:51+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1206,
+  "total": 1207,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 554
+      "count": 555
     },
     {
       "name": "États-Unis",
@@ -33760,6 +33760,33 @@
       ],
       "lat": 38,
       "lon": -97
+    },
+    {
+      "id": "freelancer:40684668",
+      "title": "Short AI Product Demo Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video-editing/Short-Product-Demo-Videos",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     }
   ]
 }
