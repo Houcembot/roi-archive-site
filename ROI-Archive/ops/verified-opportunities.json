@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:31:45+00:00",
+  "generatedAt": "2026-09-01T12:17:28+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1203,
+  "total": 1204,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 552
+      "count": 553
     },
     {
       "name": "États-Unis",
@@ -6837,6 +6837,33 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since user says \"Écris dans la langue du projet.\" The project language is English? The user wrote in English. The project language likely English. But the instruction says \"Écris dans la langue du projet.\" The project language is English (the user wrote in English). So we need to write in English. Provide a short commercial hook, 4-6 sentences, professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with a light CTA. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a concise, high‑impact launch video that showcases your product’s key features with a polished, professional tone.\n\nSentence 2: Our Motion graphics produit & pub service turns your branding assets, UI mock‑ups and talking points into a tight narrative built around real‑world use cases, clean graphics and an authoritative voice‑over.\n\nSentence 3: With 57 motion‑graphics product and advertising productions in our archive—including the “Course AI” launch video (product_ad_motion, 2021)—we have the track record to deliver exactly what you envision.\n\nSentence 4: We’ll handle script, storyboard, full production through final edit, providing a 60‑90 sec 1080p+ video, caption"
+    },
+    {
+      "id": "freelancer:40684174",
+      "title": "Motion Graphics Animation for Marketing",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Motion-Graphics-Animation-for-Marketing",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics marketing matches product_ad_motion service"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     },
     {
       "id": "freelancer:40545736",
