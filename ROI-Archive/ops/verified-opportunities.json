@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T03:57:56+00:00",
+  "generatedAt": "2026-09-01T04:43:12+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1197,
+  "total": 1198,
   "countryCount": 9,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 58
+      "count": 59
     },
     {
       "name": "Europe",
@@ -33509,6 +33509,34 @@
       "lat": -25,
       "lon": 133,
       "proposalDraft": "We understand you need polished, modern marketing videos that speak directly to parents of secondary‑school students while staying true to your brand’s warm, trustworthy tone. At Voxel Studio we specialize in turning supplied scripts and"
+    },
+    {
+      "id": "freelancer:40683306",
+      "title": "Instrowest Animated Logo Rebranding Video",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Instrowest-Animated-Logo-Rebranding",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Animated logo transition motion graphics for rebranding video."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We’ve grasped that Instrowest needs a seamless, break‑apart animation that transforms every element of the old logo into the new one, reinforcing the message that the company’s expertise remains unchanged after two decades.  \nAt Voxel Studio we specialize in high‑end 3D motion design and logo‑transition animations that turn static marks into dynamic brand stories.  \nOur archive includes the reference animation you shared, which we used to prototype the exact sequence of gauge‑to‑dial and component‑"
     }
   ]
 }
