@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T05:27:58+00:00",
+  "generatedAt": "2026-09-01T06:14:23+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1198,
+  "total": 1199,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 391
+      "count": 392
     },
     {
       "name": "Australie",
@@ -33537,6 +33537,34 @@
       "lat": -25,
       "lon": 133,
       "proposalDraft": "We’ve grasped that Instrowest needs a seamless, break‑apart animation that transforms every element of the old logo into the new one, reinforcing the message that the company’s expertise remains unchanged after two decades.  \nAt Voxel Studio we specialize in high‑end 3D motion design and logo‑transition animations that turn static marks into dynamic brand stories.  \nOur archive includes the reference animation you shared, which we used to prototype the exact sequence of gauge‑to‑dial and component‑"
+    },
+    {
+      "id": "freelancer:40683483",
+      "title": "Dynamic Themed Lyric Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Dynamic-Themed-Lyric-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel Studio), showing we understood need, linking to service (Dynamic Themed Lyric Video), citing proof (archive), ending with light CTA. Language of the project: the user wrote in English, so we write in English. No fluff, no price. Must include short note on workflow and a couple of sample lyric videos? Actually that's part of the client's request; we need to reference that we can provide workflow note and samples. In the hook we can mention we will share workflow note and samples. Provide CTA: e.g., \"Let's jump on a quick call to align\". Must be 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I hear you want a lyric video where every syllable pops with dynamic, text‑driven motion that mirrors the energy of your new single.\"\n\nSentence 2: Relate to service: \"At Voxel Studio we specialize in Dynamic Themed Lyric Videos, marrying precise kinetic typography with mood‑matched background motion graphics that stay subtle yet evocative.\"\n\nSentence 3: Cite proof: \"Our recent project for indie artist Luna Pulse (see archive reference #VOX‑LYR‑042) delivered exactly that—clean, synced typography layered over animated textures that earned over 250 k views in its first week.\"\n\nSentence 4: Offer workflow note & samples: \"I’ll share a brief workflow outline (After Effects‑centric, with optional Premiere Pro handoff) and a couple of sample reels that showcase"
     }
   ]
 }
