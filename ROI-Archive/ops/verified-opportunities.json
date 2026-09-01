@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T06:59:26+00:00",
+  "generatedAt": "2026-09-01T07:45:09+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1199,
+  "total": 1200,
   "countryCount": 9,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 59
+      "count": 60
     },
     {
       "name": "Europe",
@@ -6781,6 +6781,33 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof of archive \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project. The project title is in English, so language is English. Must cite concrete project as proof of our historical (domain + year, without client name). The archive project to cite: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar product ad motion graphics like Course AI in 2021.\n\nWe must not include price. No blabla. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We see the frustration of tangled cables and floor‑placed chargers in your Ather DuoCharger ad brief.\"\n\nSentence 2: Relate to service: \"Our motion‑graphics product & pub expertise turns that pain point into a clean, engaging visual story.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product & publicité pieces in our archive, we’ve delivered consistent, high‑impact results.\"\n\nSentence 4: Cite concrete project: \"For example, our 2021 product ad motion for Course AI demonstrated how we can showcase a wall‑mount solution with seamless cable‑management animation.\"\n\nSentence 5: CTA: \"Let’s discuss how we can bring the Forward Ather Charger Wall Mount to life in a 45‑second spot that converts"
+    },
+    {
+      "id": "freelancer:40683693",
+      "title": "Strata On Demand Promotional Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Strata-Demand-Promotional-Video",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo promotionnelle avec motion graphics et branding"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": -25,
+      "lon": 133
     },
     {
       "id": "freelancer:40545736",
