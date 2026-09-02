@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T08:39:33+00:00",
+  "generatedAt": "2026-09-02T09:25:03+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1222,
+  "total": 1223,
   "countryCount": 9,
   "countries": [
     {
@@ -51,7 +51,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 55
+      "count": 56
     },
     {
       "name": "Royaume-Uni",
@@ -9565,6 +9565,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The instruction: \"Écris dans la langue du projet.\" The project title is in English, but the user wrote in French for instructions. The language of the project? The title is English, but the user wrote French. Usually we follow the language of the user instructions: French. So produce French text, 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No price, no blabla.\n\nLet's craft maybe 5 sentences.\n\nSentence 1: Nous avons saisi que vous cherchez un logo animé d'introduction de moins de 10 secondes, avec voix‑off et musique, destiné aux stories WhatsApp et Instagram.\n\nSentence 2: Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de transformer votre identité visuelle en séquence percutante et adaptée aux formats courts.\n\nSentence 3: Forts de notre expérience, nous avons déjà réalisé 57 productions motion graphics produit & publicité (archive Voxel), dont le projet « Shapes Animation » (product_ad_motion, 2020) illustre parfaitement notre capacité à allier design, animation et son pour des supports sociaux.\n\nSentence 4: Nous vous proposons donc un storyboard personnalisé, une animation fluide et un mix audio qui captent l’attention dès les premières secondes.\n\nSentence"
+    },
+    {
+      "id": "freelancer:40686103",
+      "title": "Video promocional animado para app web",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Video-promocional-animado-para-app",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo animée promotionnelle produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, finishing with light CTA. Write in language of the project: the project description is in Spanish (the user wrote in Spanish). So we need to write in Spanish. No fluff, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Provide domain + year without client name. So we need to mention that we have done similar: \"Shapes Animation\" (product_ad_motion, 2020). Provide CTA like \"¿Te gustaría agendar una breve llamada para definir los detalles?\" etc.\n\nMake 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Entendemos que buscas un video promocional animado de 15‑30 s, vertical, con mensaje directo y CTA claro para impulsar las ventas en Instagram.\"\n\nSentence 2: Relate to service: \"Nuestro servicio de Motion graphics produit & pub está especializado en crear piezas exactamente como esa, combinando diseño de marca, ritmo ágil y sonido libre de derechos.\"\n\nSentence 3: Cite proof: \"Contamos con 57 producciones de motion graphics para producto y publicidad en nuestro archivo, entre ellas el proyecto “Shapes Animation” (product_ad_motion, 2020).\"\n\nSentence 4: Show capability: \"Podemos entregarte el MP4 listo para publicar"
     },
     {
       "id": "freelancer:40548766",
