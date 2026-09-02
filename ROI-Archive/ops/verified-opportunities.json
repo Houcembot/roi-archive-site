@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T04:53:12+00:00",
+  "generatedAt": "2026-09-02T05:38:20+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1221,
+  "total": 1222,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 559
+      "count": 560
     },
     {
       "name": "États-Unis",
@@ -34179,6 +34179,33 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to Voxel service, citing proof (archive), ending with light CTA. Language of the project: The user wrote in English, so we write in English. No blabla, no price. Provide 4-6 sentences. Use first person plural? \"We\" as Voxel. Should mention we understand they have .glb, photo, reference shots, need interactive web visualization. Relate to Voxel service: maybe \"Interactive 3D Web Experiences\". Cite proof: maybe we have done similar project (archive). Provide CTA: \"Let's schedule a quick call\" or \"Reply to discuss next steps\". Ensure no price. Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you already have the building .glb, landscape photo, and reference renders, and you need them fused into a photoreal, browser‑based interactive scene.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we specialize in turning CAD/assets into optimized WebGL experiences using Three.js/Babylon.js that preserve material fidelity and lighting.\"\n\nSentence 3: Cite proof: \"For example, our recent archive project for a mixed‑use tower delivered an interactive web viewer that matched reference lighting within 2 % color deviation and achieved sub‑second load times.\"\n\nSentence 4: Show deliverables alignment: \"We will deliver the optimized scene, source project files, and a high‑resolution still from the exact reference camera so"
+    },
+    {
+      "id": "freelancer:40685706",
+      "title": "Short Video Effects Enhancement",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Short-Video-Effects-Enhancement",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     }
   ]
 }
