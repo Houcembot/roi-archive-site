@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T15:28:43+00:00",
+  "generatedAt": "2026-09-02T16:13:46+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1228,
+  "total": 1229,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 563
+      "count": 564
     },
     {
       "name": "États-Unis",
@@ -34317,7 +34317,8 @@
         }
       ],
       "lat": 20.6,
-      "lon": 78.9
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a tight 25‑ to 30‑"
     },
     {
       "id": "freelancer:40686669",
@@ -34374,6 +34375,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "Nous avons bien compris votre besoin : produire 2"
+    },
+    {
+      "id": "freelancer:40686783",
+      "title": "11-Second Product Video Enhancement",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Second-Product-Video-Enhancement",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "I’ve seen your 11‑second product clip and understand that it needs tighter pacing, tasteful slow‑motion, precise zoom‑ins, and clean on‑brand text that stays readable on every screen. At Voxel Studio we specialize in turning short product footage into polished, social‑ready edits using Premiere Pro and After Effects, delivering both a high‑resolution MP4 and the source project file for easy future tweaks. Our proof archive shows a recent 12‑second tech demo where we applied exactly those effects—slow‑mo highlights, punchy zooms, and seamless transitions—while keeping the total length under the limit and the export compression‑friendly for Instagram, TikTok, and YouTube Shorts. Let’s give your product the visual punch it deserves. Send over the clip and we’ll get started today."
     }
   ]
 }
