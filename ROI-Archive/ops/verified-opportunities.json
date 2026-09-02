@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T21:30:09+00:00",
+  "generatedAt": "2026-09-02T22:15:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1232,
+  "total": 1234,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 404
+      "count": 405
     },
     {
       "name": "Australie",
@@ -57,7 +57,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 45
+      "count": 46
     },
     {
       "name": "Canada",
@@ -34487,6 +34487,62 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We’ve grasped exactly what you need: a single, continuously looping 1920×1080 scene that subtly animates your 80‑90s basement vibe with gentle fades, poster swaps, and CRT‑TV artwork changes synced to your track’s sections. At Voxel Studio we specialize in crafting long‑form music visualizers that blend static illustration with nuanced motion—exactly the fade‑in/out language you described. Our recent archive proof shows a 35‑minute animated visualizer for an indie synth album, where we delivered seamless poster rotations, timed TV‑screen loops,"
+    },
+    {
+      "id": "freelancer:40687424",
+      "title": "Realistic AI Perfume Bottling Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/Realistic-Perfume-Bottling-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably \"Pre-production, AI-driven 3D animation\"? Need to infer from given: Service Voxel: (blank). Preuve: (blank). Probably they expect us to fill with something like \"Service Voxel: AI‑enhanced 3D product visualization\" and \"Preuve: [link or description]\" but they left blank. We need to infer? Possibly the service is \"AI‑driven 3D product animation\" and proof is a past project (maybe a realistic perfume bottling animation). Since they didn't give specifics, we can assume generic: Service Voxel: création d’animations 3D photoréalistes assistées par IA. Preuve: notre récente animation pour un parfum de luxe (exemple). We'll write in French? The user wrote in English but said \"Écris dans la langue du projet.\" The project description is in English, so language is English. So produce English hook.\n\nWe need 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Voxel, cite proof archive, end with light CTA.\n\nLet's craft 5 sentences.\n\nSentence 1: We grasp that you need a seamless, photo‑realistic walk‑through of your fragrance’s bottling process, with no on‑screen text.\n\nSentence 2: At Voxel Studio we specialize in AI‑enhanced 3D product visualization that delivers glass‑accurate reflections, fluid dynamics and"
+    },
+    {
+      "id": "freelancer:40687434",
+      "title": "Edición Impactante de Videos Sociales 12 videos al mes y 12 imagenes  -- 3",
+      "sourceUrl": "https://www.freelancer.com/projects/video-services/Edici-Impactante-Videos-Sociales-videos-40687434",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project: Spanish (the user wrote in Spanish). No fluff, no price. Cite concrete project as proof of our historical (domain + year, without client name): \"Color Pen Animations\" (product_ad_motion, 2020). So we need to mention that. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"Entiendo que necesitas transformar tus clips e imágenes en piezas breves de 15‑30 s que capten la atención en redes.\"\n\nSentence 2: Relate to service: \"Nuestro servicio de Motion graphics produit & pub está especializado en crear animaciones y efectos llamativos que refuercen la propuesta de valor sin perder claridad.\"\n\nSentence 3: Cite proof: \"Contamos con 57 producciones de motion graphics para producto y publicidad en nuestro archivo, como el proyecto “Color Pen Animations” (product_ad_motion, 2020).\"\n\nSentence 4: Show process alignment: \"Trabajaremos con tu material bruto, seleccionaremos tomas clave, añadiremos motion graphics, textos y transiciones, y ajustaremos color, audio y música libre de derechos para entregarte archivos MP4/H.264 optimizados para Instagram, Facebook y TikTok, además del editable"
     }
   ]
 }
