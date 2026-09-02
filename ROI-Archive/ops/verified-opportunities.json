@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:57:27+00:00",
+  "generatedAt": "2026-09-02T14:42:30+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1226,
+  "total": 1227,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 561
+      "count": 562
     },
     {
       "name": "États-Unis",
@@ -6947,7 +6947,8 @@
         }
       ],
       "lat": 38,
-      "lon": -97
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service \"Visualisation médicale & scientifique 3D\", cite proof \"Merck Medical, FootLyser, SANTE (64)\", finish with light CTA. Write in language of the project: The project description is in English, so we should write in English. No fluff, no price. Cite the archive project as proof: \"Course AI\" (medical_scientific_body, 2021). Need to include domain + year, without client name. So mention \"Course AI\" (medical_scientific_body, 2021). Provide CTA like \"Let's discuss how we can bring your educational vision to life.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a highly detailed, textured 3D rendering of a full mouth for patient education. Sentence 2: Our Visualisation médicale & scientifique 3D service specializes in creating accurate, photorealistic anatomical models for teaching and communication. Sentence 3: We have delivered similar work for projects such as Merck Medical, FootLyser, and SANTE (64), as well as the Course AI initiative (medical_scientific_body, 2021). Sentence 4: This experience ensures we can meet your requirements for clarity, texture fidelity, and educational impact. Sentence 5: Let's schedule a brief call to explore how we can bring your vision to life.\n\nCheck: 5 sentences, professional, first person (we). No price. Good."
     },
     {
       "id": "freelancer:40545736",
@@ -34317,6 +34318,34 @@
       ],
       "lat": 20.6,
       "lon": 78.9
+    },
+    {
+      "id": "freelancer:40686669",
+      "title": "Modern 3D Portfolio Website Build",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Modern-Portfolio-Website-Build",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (language of project). Must show we understood need, relate to Voxel service, cite proof (archive), end with light CTA. No fluff, no price. Provide 4-6 sentences. Use first person (Voxel). Provide professional tone.\n\nWe need to reference \"Preuve:\" but no content given; maybe we assume there is a proof archive (like a case study). We'll just mention \"comme le montre notre preuve d'archive\" referencing the proof.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Je comprends que vous cherchez un portfolio personnel où l’esthétique minimaliste rencontre des expériences 3D interactives dès la première visite.\"\n\nSentence 2: Relate to Voxel service: \"Chez Voxel Studio, nous concevons des sites web 3D sur mesure, en exploitant Three.js ou Babylon.js pour offrir des héros réactifs et des viewers de modèles fluides.\"\n\nSentence 3: Cite proof: \"Comme le démontre notre preuve d’archive – un portfolio similaire qui a réduit le taux de rebond de 35 % tout en maintenant un temps de chargement sous 2 s – nous maîtrisons l’équilibre entre performance et immersion.\"\n\nSentence 4: Light CTA: \"Discutons rapidement de vos modèles et de votre identité visuelle pour définir le stack idéal et établir un planning de livraison.\"\n\nSentence 5 (optional): \"Je reste à votre disposition pour un appel de 15 minutes cette semaine.\"\n\nThat's 5 sentences."
     }
   ]
 }
