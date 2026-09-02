@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T14:42:30+00:00",
+  "generatedAt": "2026-09-02T15:28:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1227,
+  "total": 1228,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 562
+      "count": 563
     },
     {
       "name": "États-Unis",
@@ -34346,6 +34346,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (language of project). Must show we understood need, relate to Voxel service, cite proof (archive), end with light CTA. No fluff, no price. Provide 4-6 sentences. Use first person (Voxel). Provide professional tone.\n\nWe need to reference \"Preuve:\" but no content given; maybe we assume there is a proof archive (like a case study). We'll just mention \"comme le montre notre preuve d'archive\" referencing the proof.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Je comprends que vous cherchez un portfolio personnel où l’esthétique minimaliste rencontre des expériences 3D interactives dès la première visite.\"\n\nSentence 2: Relate to Voxel service: \"Chez Voxel Studio, nous concevons des sites web 3D sur mesure, en exploitant Three.js ou Babylon.js pour offrir des héros réactifs et des viewers de modèles fluides.\"\n\nSentence 3: Cite proof: \"Comme le démontre notre preuve d’archive – un portfolio similaire qui a réduit le taux de rebond de 35 % tout en maintenant un temps de chargement sous 2 s – nous maîtrisons l’équilibre entre performance et immersion.\"\n\nSentence 4: Light CTA: \"Discutons rapidement de vos modèles et de votre identité visuelle pour définir le stack idéal et établir un planning de livraison.\"\n\nSentence 5 (optional): \"Je reste à votre disposition pour un appel de 15 minutes cette semaine.\"\n\nThat's 5 sentences."
+    },
+    {
+      "id": "freelancer:40686761",
+      "title": "Flat-Rate App Reels Production",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video-editing/Flat-Rate-App-Reels-Production",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production de"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "Nous avons bien compris votre besoin : produire 2"
     }
   ]
 }
