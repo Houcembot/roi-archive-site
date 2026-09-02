@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T12:26:50+00:00",
+  "generatedAt": "2026-09-02T13:12:54+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1225,
+  "total": 1226,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 401
+      "count": 402
     },
     {
       "name": "Australie",
@@ -6921,6 +6921,33 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The instruction: \"Écris dans la langue du projet.\" The project description is in English (title, need). But the user wrote French instructions. The language of the project? The project is English (the need is English). However the instruction says \"Écris dans la langue du projet.\" The project language likely English because the need is in English. But the user wrote French for the instruction. Usually we follow the language of the project: the need is English, so answer in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a cinematic 12‑15 s animation that turns ocean foam into glowing circuitry to showcase Kehoe Electronics’ innovation.\n\nSentence 2: Our Motion graphics produit & pub service specializes in blending realistic footage with high‑end technical graphics exactly as you described.\n\nSentence 3: With 57 motion‑graphics product & advertising productions in our archive, we have proven expertise—e.g., the “Shapes Animation” (product_ad_motion, 2020) piece that translated abstract concepts into sleek visual narratives.\n\nSentence 4: We’ll deliver a premium, engineering‑focused video that follows your storyboard, from the deep‑blue wave to"
+    },
+    {
+      "id": "freelancer:40686535",
+      "title": "Detailed 3D Dental Rendering",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Detailed-Dental-Rendering",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "medical_sci_3d",
+      "primarySegment": "medical",
+      "segments": [
+        "medical"
+      ],
+      "fitReasons": [
+        "Detailed 3D dental rendering for patient education matches medical 3D visualization."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "medical_sci_3d",
+          "label": "medical_sci_3d"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
     },
     {
       "id": "freelancer:40545736",
