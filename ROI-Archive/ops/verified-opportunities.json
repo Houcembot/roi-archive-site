@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T16:24:22+00:00",
+  "generatedAt": "2026-09-03T17:10:27+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1250,
+  "total": 1251,
   "countryCount": 9,
   "countries": [
     {
@@ -63,7 +63,7 @@
       "name": "Canada",
       "lat": 56,
       "lon": -106,
-      "count": 37
+      "count": 38
     },
     {
       "name": "Nouvelle-Zélande",
@@ -34991,6 +34991,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "Nous avons bien compris que vous avez besoin d’une vidéo courte, percutante"
+    },
+    {
+      "id": "freelancer:40689145",
+      "title": "3D Product Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Product-Animation-40689145",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 56,
+      "lon": -106,
+      "proposalDraft": "We understand you need a clear, engaging 3D animation that showcases your"
     }
   ]
 }
