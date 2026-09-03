@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T13:26:59+00:00",
+  "generatedAt": "2026-09-03T14:08:31+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1245,
+  "total": 1246,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 572
+      "count": 573
     },
     {
       "name": "États-Unis",
@@ -6977,6 +6977,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Write in language of the project (the project description is in English). No blabla, no price. Cite the concrete project as proof of our historical (domain + year, without client name). The archive project: \"Color Pen Animations\" (product_ad_motion, 2020). So we need to mention that as proof.\n\nWe need to output 4-6 sentences, in English. No price. Light CTA like \"Let's discuss a storyboard\" or \"Feel free to share your brief\". Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a bold, contemporary promo video that highlights the durability, anti‑corrosion and lightweight benefits of your new FRP manhole covers for social‑media distribution.\"\n\nSentence 2: Relate to service: \"At Voxel Studio we specialize in Motion graphics produit & pub, turning product specs into eye‑catching visual stories.\"\n\nSentence 3: Cite proof: \"Our archive includes 57 motion‑graphics productions for product ads, such as the 2020 'Color Pen Animations' project that combined dynamic graphics with premium color grading.\"\n\nSentence 4: Show capability: \"We can deliver a 45‑90 s full‑HD/4K cut, with landscape and vertical versions, royalty‑free sound design and polished"
+    },
+    {
+      "id": "freelancer:40688824",
+      "title": "Animated Product Demo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Animated-Product-Demo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de vidéo animée produit avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "At Voxel Studio we’ve read your brief and know exactly how to turn your complete storyline into a lively, one‑minute animated demo that showcases every feature while keeping the tone fun and engaging from frame 1.  \nOur Motion graphics produit &"
     },
     {
       "id": "freelancer:40545736",
