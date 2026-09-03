@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T04:17:57+00:00",
+  "generatedAt": "2026-09-03T05:03:26+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1236,
+  "total": 1237,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 566
+      "count": 567
     },
     {
       "name": "États-Unis",
@@ -34599,6 +34599,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says: \"Écris dans la langue du projet.\" The project description is in English. The language of the project is English. So we write in English. Must be professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No fluff, no price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a concise explainer that demonstrates your product in full 2D/3D with clear feature call‑outs.\n\nSentence 2: Our Motion graphics produit & pub service delivers polished script‑to‑storyboard, photoreal or stylised 3D animation, professional VO, broadcast‑grade mix, and full source delivery.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive, we have proven expertise in merging 3D, motion graphics and voice‑over into seamless demos.\n\nSentence 4: For example, our “Shapes Animation” (product_ad_motion, 2020) combined hybrid 2D/3D graphics with tight VO to highlight a product’s core benefits.\n\nSentence 5: Let’s schedule a quick call to align on storyboard checkpoints and move your launch video forward.\n\nCheck: 5 sentences, first person (we). No price. Good."
+    },
+    {
+      "id": "freelancer:40687885",
+      "title": "Motion Graphics Animated Walkthrough",
+      "sourceUrl": "https://www.freelancer.com/projects/cinema-4d/Motion-Graphics-Animated-Walkthrough",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user wrote in English but says \"Écris dans la langue du projet.\" The project title is English, but the instruction is French. Likely the language of the project is English? However the user wrote French instructions. The \"langue du projet\" could be English because the project description is English. But the user wrote the prompt in French. Usually they'd want French answer. Let's decide: The user wrote French instructions, so answer in French. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons saisi que vous cherchez une animation motion graphics mettant en avant les fonctionnalités clés de votre produit pour une présentation marketing.\n\nSentence 2: Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de transformer des concepts techniques en visuels clairs et captivants.\n\nSentence 3: Forts de notre archive de 57 productions motion graphics produit & publicité, nous avons notamment réalisé « Shapes Animation » (product_ad_motion, 2020), une démonstration animée qui souligne les atouts d’un produit de manière dynamique.\n\nSentence 4: Nous utilisons After Effects et Cinema 4D pour garantir une"
     }
   ]
 }
