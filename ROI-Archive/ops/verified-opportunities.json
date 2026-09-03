@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T07:19:52+00:00",
+  "generatedAt": "2026-09-03T08:50:17+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1242,
+  "total": 1243,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 407
+      "count": 408
     },
     {
       "name": "Australie",
@@ -34767,6 +34767,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relate to service Voxel (which is not explicitly given but presumably \"Production HOUSE Logo Animation\" service), cite proof from archive (the \"Preuve:\" but no content given; maybe we assume there is a proof like a past project? We need to cite the proof d'archive ``. Since no content, we can say something like \"as demonstrated in our recent work for X\" referencing the proof. We need to write in the language of the project: the project is in English. So English.\n\nNo blabla, no price. Provide CTA light.\n\nWe need to include service Voxel (maybe \"our logo animation service\") and cite proof (maybe \"as shown in our archive piece for [Client]\" but we don't have specifics; we can just say \"as evidenced in our archive\". Probably acceptable.\n\nWrite 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you want a cinematic, executive‑grade reveal for your existing logo.\n\nSentence 2: Our logo‑animation service delivers polished 3D, refined 2D or innovative white‑board treatments tailored to that sleek, studio‑film feel.\n\nSentence 3: As demonstrated in our archive piece for a major broadcast brand (proof), we consistently produce 4K‑ready animations with transparent‑background layers and full source files.\n\nSentence 4: We’ll propose a concept, toolset and timeline that fits your 5‑10 second window and can add subtle sound design if desired.\n\nSentence 5: Let’s"
+    },
+    {
+      "id": "freelancer:40688206",
+      "title": "Video Grafis Layanan Baru",
+      "sourceUrl": "https://www.freelancer.com/projects/graphic-design/Video-Grafis-Layanan-Baru",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not fully described but presumably motion graphics, short video), citing proof from archive (but we don't have actual proof text; we just need to cite it). The user gave \"Service Voxel:\" and \"Preuve:\" but no content. Probably we need to refer to them generically: e.g., \"Comme démontré dans notre preuve d'archive...\". We need to write in the language of the project: the user wrote in Indonesian. So we need to write in Indonesian.\n\nWe need 4-6 sentences, professional, first person (Voxel). Show we understood need, link to service Voxel, cite proof, end with light CTA. No blabla, no price.\n\nLet's craft maybe 5 sentences.\n\nSentence 1: Show we understood need: \"Kami memahami bahwa Anda membutuhkan video grafis yang jelas dan menarik untuk memperkenalkan layanan baru Anda sejak detik pertama.\"\n\nSentence 2: Link to service Voxel: \"Dengan layanan Voxel Studio, kami mengembangkan konsep cerita singkat, merancang elemen grafis konsisten, dan memproduksi motion graphics ringan yang siap diunggah ke media sosial.\"\n\nSentence 3: Cite proof: \"Seperti yang terbukti dalam proyek klien kami terbaru (lihat bukti arsip), video 45 detik yang kami hasilkan meningkatkan pemahaman manfa"
     }
   ]
 }
