@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T19:24:41+00:00",
+  "generatedAt": "2026-09-03T20:09:49+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1253,
+  "total": 1254,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 410
+      "count": 411
     },
     {
       "name": "Australie",
@@ -35075,6 +35075,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch in French (since user wrote French instructions, and says \"Écris dans la langue du projet.\" The project language is French? The user wrote English but the instruction says to write in the language of the project. The project description is English, but the user wrote in English. However the instruction says \"Écris dans la langue du projet.\" Might be ambiguous. Usually they'd want French because they wrote French instructions. The service name is French. So we should output French. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. Let's craft 5 sentences.\n\nSentence 1: Nous avons saisi que vous cherchez une vidéo courte, percutante, générée avec l’IA, qui mette en avant votre produit B2B auprès de décideurs. Sentence 2: Notre offre Motion graphics produit & pub combine développement de concept, script aligné à votre charte et visuels assistés par IA (Runway, Stable Diffusion, After Effects). Sentence 3: Nous nous appuyons sur notre expérience de 57 productions motion graphics produit & publicité, dont le projet « Course AI » (product_ad_motion, 2021) illustre notre capacité à livrer des ads silencieux optimisés pour LinkedIn. Sentence 4: Nous livrerons storyboard, une révision, puis les versions"
+    },
+    {
+      "id": "freelancer:40689407",
+      "title": "AI Video Ads for Product Sales",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video/Video-Ads-for-Product-Sales",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "I understand you need punchy, AI‑enhanced video ads that highlight a pain point, showcase your product as the fix, and drive direct sales across Facebook, Google Display/You"
     }
   ]
 }
