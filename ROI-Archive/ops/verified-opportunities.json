@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T15:48:02+00:00",
+  "generatedAt": "2026-09-04T16:33:19+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1261,
+  "total": 1262,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 414
+      "count": 415
     },
     {
       "name": "Australie",
@@ -7033,6 +7033,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We’ve grasped that you need a polished 30‑second animated promo for CrashLens that mirrors the reference style but with a higher‑end execution—real‑world app screens, smooth transitions, and brand‑consistent motion. Our Motion graphics produit & pub service specializes in turning app workflows into compelling visual stories, exactly what your brief calls for. With 57 motion‑graphics product & advertising productions in our archive, we bring proven expertise to every frame. For instance, our “Course AI” project (product_ad_motion, 2021) delivered a similarly tight, high‑quality app showcase that drove user engagement. Let’s schedule a quick call to explore how we can elevate CrashLens’ video together."
+    },
+    {
+      "id": "freelancer:40691087",
+      "title": "Promotional Video & Social Media Assets",
+      "sourceUrl": "https://www.freelancer.com/projects/social-media-marketing/Promotional-Video-Social-Media-Assets",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Promotional video with motion graphics for social media ads"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language appears to be English (the brief is English). However the instruction says \"Écris dans la langue du projet.\" The project language is English (the user wrote in English). So we should write in English. Provide a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. So produce 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a fast‑paced, sound‑off promotional video that feels native to Instagram and Facebook feeds while staying true to your brand colours and typography.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning product photos and B‑roll into scroll‑stopping stories with on‑screen text, upbeat royalty‑free music, logo sting and smooth transitions.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the “Course AI” project (product_ad_motion, 2021)—we have proven expertise delivering exactly the format you requested.\n\nSentence 4: We’ll deliver the master cut, square and vertical exports, three thumbnail options, SRT captions, post copy and the source project file,"
     },
     {
       "id": "freelancer:40545736",
