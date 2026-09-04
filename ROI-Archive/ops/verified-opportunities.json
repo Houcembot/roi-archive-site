@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T15:01:48+00:00",
+  "generatedAt": "2026-09-04T15:48:02+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1260,
+  "total": 1261,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 413
+      "count": 414
     },
     {
       "name": "Australie",
@@ -35271,6 +35271,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French (since language of project is French). Must be first person (Voxel). Show we understood need, link to service \"Contenu 3D éducatif & recherche\", cite proof \"19 modules 3D éducatifs & de recherche (archive Voxel)\", end with light CTA. Cite concrete project as proof: \"Course AI\" (education_research, 2021). No fluff, no price. Provide 4-6 sentences.\n\nLet's craft: \"Nous avons saisi que vous cherchez des modèles 3D pour rendre les concepts de physique plus tangibles en classe...\" etc. Mention service, proof, archive, CTA like \"Discutons-en rapidement autour d'un appel de 15 minutes\". Ensure 4-6 sentences.\n\nLet's count: 5 sentences.\n\nSentence 1: Nous avons bien compris votre besoin de modèles 3D permettant de visualiser les concepts de physique pour l'éducation. Sentence 2: Chez Voxel Studio, notre offre « Contenu 3D éducatif & recherche » est justement conçue pour produire des représentations haute fidélité, adaptées aux mécaniques, électromagnétisme et physique quantique. Sentence 3: Nous disposons déjà d'une preuve solide : 19 modules 3D éducatifs & de recherche issus de notre archive Voxel. Sentence 4: Parmi eux, le projet « Course AI » (education_research, 2021) illustre notre capacité à transformer des notions abstraites en modèles interactifs prêts à l'emploi."
+    },
+    {
+      "id": "freelancer:40691022",
+      "title": "Restaurant Rebrand & Animated Menus",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Restaurant-Rebrand-Animated-Menus",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand Al Domary wants lively, looping menu boards that keep its signature reds, yellows and dark accents while giving"
     }
   ]
 }
