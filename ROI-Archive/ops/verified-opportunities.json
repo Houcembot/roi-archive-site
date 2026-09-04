@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T16:33:19+00:00",
+  "generatedAt": "2026-09-04T17:17:24+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1262,
+  "total": 1263,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 580
+      "count": 581
     },
     {
       "name": "États-Unis",
@@ -35327,6 +35327,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand Al Domary wants lively, looping menu boards that keep its signature reds, yellows and dark accents while giving"
+    },
+    {
+      "id": "freelancer:40691108",
+      "title": "I want to make a app launch video ",
+      "sourceUrl": "https://www.freelancer.com/projects/iphone-app-development/want-make-app-launch-video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel, citing proof from archive, ending with light CTA. Language of the project: The user wrote in French? The title is English but the rest is French: \"Titre: I want to make a app launch video Besoin: More details: ...\" The language of the project is ambiguous. The user wrote English in title and some fields but the rest is French. The instruction: \"Écris dans la langue du projet.\" Likely French. So produce French text.\n\nWe need to mention service Voxel (the service is not given explicitly in the prompt, but we have \"Service Voxel:\" line empty? Actually they gave \"Service Voxel:\" then blank. Possibly they expect us to infer service: maybe \"Production de vidéos de lancement d'applications en motion graphics\"? We need to refer to service Voxel generically: maybe \"notre service de création de vidéos de lancement d'applications en motion graphics\". We need to cite proof from archive: \"Preuve:\" line empty. We need to cite a proof from archive: maybe we can reference a past project like \"comme notre récente vidéo pour l'app X qui a généré Y vues\". Since we don't have actual proof, we can make a generic placeholder: \"comme le montre notre étude de cas X\". But we must not fabricate? The instruction says cite the proof d'archive. We can say \"comme le montre notre archive de projets similaires\". That's okay.\n\nWe need CTA light: e.g., \"Discutons"
     }
   ]
 }
