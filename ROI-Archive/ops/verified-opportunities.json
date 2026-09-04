@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T13:31:02+00:00",
+  "generatedAt": "2026-09-04T14:17:43+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1258,
+  "total": 1259,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 578
+      "count": 579
     },
     {
       "name": "États-Unis",
@@ -35215,6 +35215,34 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably \"Pre-Production & Post-Production\" or something? The service Voxel line is empty? Actually they gave \"Service Voxel:\" then blank, and \"Preuve:\" blank. Possibly they expect us to fill with something? The instruction: \"cite la preuve d'archive ``\" means we need to cite the proof archive placeholder. Since it's blank, maybe we just mention that we have proven track record (archive). We can say something like \"Comme le montre notre archive de réalisations Instagram...\" but we need to cite the proof archive placeholder. Could just write \"(voir preuve d'archive)\"? Not sure.\n\nWe must write in language of the project: the user wrote in English, so we write English.\n\nNo blabla, no price.\n\nWe need 4-6 sentences.\n\nLet's craft:\n\nSentence 1: Show we understood need: \"I understand you need punchy, under‑60‑second product demo videos that work flawlessly in Instagram Reels and feed, with sound‑off captions and a clear CTA.\"\n\nSentence 2: Relate to service Voxel: \"At Voxel Studio we handle the full pipeline—scripting, motion‑graphics or live‑action shoot, voice‑over or on‑screen text, editing, music, and delivery of both final MP4 and editable project files.\"\n\nSentence 3: Cite proof archive: \"Our archive of Instagram‑focused demos (see proof) has consistently lifted click‑through"
+    },
+    {
+      "id": "freelancer:40690837",
+      "title": "Hindi - Create a Professional 10-Minute Explainer Video for HobbyClues.in",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Hindi-Create-Professional-Minute",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not fully given but we have placeholder \"Service Voxel: \" maybe they expect we know it's something like \"3D creative production\"? Actually Voxel Studio is a 3D creative production studio. So service Voxel likely is \"3D animation, motion graphics, explainer video production\". We'll reference that.\n\nWe need to cite proof from archive: \"Preuve:\" placeholder. Probably they expect we include something like \"Comme démontré dans notre projet pour [client]\" but we don't have specifics. We can just mention \"comme montré dans notre réalisation pour [X]\" but we don't have actual proof. Maybe we can just write \"Comme le montre notre preuve d'archive : [lien]\" but we don't have link. Could be they want us to insert the proof placeholder as is? The instruction: \"cite la preuve d'archive ``\". So we need to include the proof placeholder exactly as given? Probably we need to include the proof text that was given after \"Preuve:\" but it's empty. Might be they expect us to just write something like \"Comme le montre notre preuve d'archive : [insérer preuve]\" but we have none. Could be we just note \"Comme le montre notre preuve d'archive (voir annexe)\". We'll assume we can mention \"Comme le montre notre preuve d'archive : [Preuve]\" and keep the placeholder.\n\nWe must write in language of the project: The project title is in English/Hindi mix? Title: \"Hindi - Create"
     }
   ]
 }
