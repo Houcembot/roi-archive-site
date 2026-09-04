@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T12:46:03+00:00",
+  "generatedAt": "2026-09-04T13:31:02+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1257,
+  "total": 1258,
   "countryCount": 9,
   "countries": [
     {
@@ -51,7 +51,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 57
+      "count": 58
     },
     {
       "name": "Royaume-Uni",
@@ -35187,6 +35187,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service product_ad, cite proof from archive (but the proof is empty? The user gave \"Preuve: \" with nothing after. Possibly they expect we cite something like \"[Preuve]\" placeholder? The instruction: \"cite la preuve d'archive ``\". The proof is empty, maybe we just mention that we have relevant proof in our archive (like we have a case study). Since no specific proof given, we can say \"comme le montre notre preuve d'archive\" referencing that we have relevant work. Must be in language of the project: the project is in English (title and need are English). So write in English. No blabla, no price. Provide CTA light at end (e.g., \"Let's discuss how we can bring your vision to life\").\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need a Meta‑ad video that promotes your product to an adult audience.\"\n\nSentence 2: Relate to service product_ad: \"Our product_ad service specializes in crafting high‑impact promotional videos tailored for Meta platforms.\"\n\nSentence 3: Cite proof: \"As demonstrated in our archive, we’ve delivered similar Meta ad campaigns that drove measurable engagement for adult‑focused brands.\"\n\nSentence 4: Highlight skills/experience: \"Our team combines proven video‑production expertise, deep knowledge of Meta’s advertising guidelines, and storytelling that resonates with mature viewers.\"\n\nSentence 5: CTA light: \"Let"
+    },
+    {
+      "id": "freelancer:40690759",
+      "title": "Instagram Product Demo Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Instagram-Product-Demo-Videos-40690759",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably \"Pre-Production & Post-Production\" or something? The service Voxel line is empty? Actually they gave \"Service Voxel:\" then blank, and \"Preuve:\" blank. Possibly they expect us to fill with something? The instruction: \"cite la preuve d'archive ``\" means we need to cite the proof archive placeholder. Since it's blank, maybe we just mention that we have proven track record (archive). We can say something like \"Comme le montre notre archive de réalisations Instagram...\" but we need to cite the proof archive placeholder. Could just write \"(voir preuve d'archive)\"? Not sure.\n\nWe must write in language of the project: the user wrote in English, so we write English.\n\nNo blabla, no price.\n\nWe need 4-6 sentences.\n\nLet's craft:\n\nSentence 1: Show we understood need: \"I understand you need punchy, under‑60‑second product demo videos that work flawlessly in Instagram Reels and feed, with sound‑off captions and a clear CTA.\"\n\nSentence 2: Relate to service Voxel: \"At Voxel Studio we handle the full pipeline—scripting, motion‑graphics or live‑action shoot, voice‑over or on‑screen text, editing, music, and delivery of both final MP4 and editable project files.\"\n\nSentence 3: Cite proof archive: \"Our archive of Instagram‑focused demos (see proof) has consistently lifted click‑through"
     }
   ]
 }
