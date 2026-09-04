@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T14:17:43+00:00",
+  "generatedAt": "2026-09-04T15:01:48+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1259,
+  "total": 1260,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 579
+      "count": 580
     },
     {
       "name": "États-Unis",
@@ -35243,6 +35243,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not fully given but we have placeholder \"Service Voxel: \" maybe they expect we know it's something like \"3D creative production\"? Actually Voxel Studio is a 3D creative production studio. So service Voxel likely is \"3D animation, motion graphics, explainer video production\". We'll reference that.\n\nWe need to cite proof from archive: \"Preuve:\" placeholder. Probably they expect we include something like \"Comme démontré dans notre projet pour [client]\" but we don't have specifics. We can just mention \"comme montré dans notre réalisation pour [X]\" but we don't have actual proof. Maybe we can just write \"Comme le montre notre preuve d'archive : [lien]\" but we don't have link. Could be they want us to insert the proof placeholder as is? The instruction: \"cite la preuve d'archive ``\". So we need to include the proof placeholder exactly as given? Probably we need to include the proof text that was given after \"Preuve:\" but it's empty. Might be they expect us to just write something like \"Comme le montre notre preuve d'archive : [insérer preuve]\" but we have none. Could be we just note \"Comme le montre notre preuve d'archive (voir annexe)\". We'll assume we can mention \"Comme le montre notre preuve d'archive : [Preuve]\" and keep the placeholder.\n\nWe must write in language of the project: The project title is in English/Hindi mix? Title: \"Hindi - Create"
+    },
+    {
+      "id": "freelancer:40690925",
+      "title": "Physics 3D Models for Education",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Physics-Models-for-Education",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "edu_research_3d",
+      "primarySegment": "formation",
+      "segments": [
+        "formation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "edu_research_3d",
+          "label": "edu_research_3d"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French (since language of project is French). Must be first person (Voxel). Show we understood need, link to service \"Contenu 3D éducatif & recherche\", cite proof \"19 modules 3D éducatifs & de recherche (archive Voxel)\", end with light CTA. Cite concrete project as proof: \"Course AI\" (education_research, 2021). No fluff, no price. Provide 4-6 sentences.\n\nLet's craft: \"Nous avons saisi que vous cherchez des modèles 3D pour rendre les concepts de physique plus tangibles en classe...\" etc. Mention service, proof, archive, CTA like \"Discutons-en rapidement autour d'un appel de 15 minutes\". Ensure 4-6 sentences.\n\nLet's count: 5 sentences.\n\nSentence 1: Nous avons bien compris votre besoin de modèles 3D permettant de visualiser les concepts de physique pour l'éducation. Sentence 2: Chez Voxel Studio, notre offre « Contenu 3D éducatif & recherche » est justement conçue pour produire des représentations haute fidélité, adaptées aux mécaniques, électromagnétisme et physique quantique. Sentence 3: Nous disposons déjà d'une preuve solide : 19 modules 3D éducatifs & de recherche issus de notre archive Voxel. Sentence 4: Parmi eux, le projet « Course AI » (education_research, 2021) illustre notre capacité à transformer des notions abstraites en modèles interactifs prêts à l'emploi."
     }
   ]
 }
