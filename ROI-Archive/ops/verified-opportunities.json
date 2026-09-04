@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T06:43:15+00:00",
+  "generatedAt": "2026-09-04T07:28:38+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1254,
+  "total": 1255,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 411
+      "count": 412
     },
     {
       "name": "Australie",
@@ -35103,6 +35103,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "I understand you need punchy, AI‑enhanced video ads that highlight a pain point, showcase your product as the fix, and drive direct sales across Facebook, Google Display/You"
+    },
+    {
+      "id": "freelancer:40690170",
+      "title": "Promotional Videoscribe video",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Promotional-Videoscribe-video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "I understand you need a custom VideoScribe that turns your product’s key benefits into a clear, memorable story that drives action. At Voxel Studio we specialize in crafting promotional scribes—whether classic whiteboard sketches, animated flourishes, or kinetic‑text blends—tailored to your brand and pacing goals. The reference you shared (https://www.youtube.com/watch?v=YBCwZY_I-bY&t=30s) exemplifies the engaging visual storytelling we can replicate and elevate for your message. Once you provide the brief, branding assets, and any supporting media, we’ll deliver a polished script, storyboard, narration‑ready slot, and the final HD video ready for upload. Let’s schedule a quick call to align on the style that will convert best for you."
     }
   ]
 }
