@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T15:56:05+00:00",
+  "generatedAt": "2026-09-05T16:41:13+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1273,
+  "total": 1274,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 586
+      "count": 587
     },
     {
       "name": "États-Unis",
@@ -7089,6 +7089,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We’ve understood that you need a high‑end, cinematic Instagram Reel that transforms your company‑profile PDF into a luxury visual story for your media and photography brand.  \nOur Motion graphics produit & pub service specializes in turning static assets into smooth, premium animations with creative transitions and polished camera moves—exactly what you described.  \nWith **57 productions motion graphics produit & publicité** in our archive, we have a proven track record of delivering broadcast‑quality reels for product and advertising campaigns.  \nA recent example is the **“Shapes Animation”** (product"
+    },
+    {
+      "id": "freelancer:40692895",
+      "title": "Modern Facebook Product Ads",
+      "sourceUrl": "https://www.freelancer.com/projects/social-media-marketing/Modern-Facebook-Product-Ads",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de publicités produit avec éventuel motion"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Must be in language of the project: the project description is in English. So write in English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Provide that as evidence of our history (domain + year, no client name). So mention we delivered motion graphics for product ads like Course AI in 2021.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need eye‑catching, modern Facebook ads that turn product photos into scroll‑stopping creatives respecting your brand guide.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning static assets into premium‑looking visuals, with optional subtle motion that stays within Facebook’s load limits.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the Course AI project (product_ad_motion, 2021)—we have proven expertise delivering exactly the variations you request.\n\nSentence 4: We’ll deliver 3‑5 ad variations in 1080×1080 and 1200×628 px, editable source files, web‑optimized exports, and simple Facebook‑feed mock‑ups.\n\nSentence 5: Let’s confirm the brief and we’ll get started as soon as you send the"
     },
     {
       "id": "freelancer:40545736",
