@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T02:20:33+00:00",
+  "generatedAt": "2026-09-05T03:05:54+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1266,
+  "total": 1267,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 581
+      "count": 582
     },
     {
       "name": "États-Unis",
@@ -35439,6 +35439,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project title is English: \"Luxury Lifestyle TikTok Creation\". The language of the project? Could be English. But the instruction is in French. The user wrote in French for instructions. The project description is English. The language of the project could be English (since the project title/description is English). However, the user says \"Écris dans la langue du projet.\" Might be ambiguous. Usually they'd want French because the instructions are French, but they explicitly say \"langue du projet\". The project is English. So we should write in English. Provide a short commercial pitch 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need six aspirational TikTok videos that blend sleek product shots with a polished luxury narrative for the For You page.\n\nSentence 2: Our Motion graphics produit & pub service specializes in creating high‑impact, brand‑focused visuals that elevate everyday moments into aspirational stories.\n\nSentence 3: With 57 motion‑graphics product & advertising productions in our archive—including the award‑winning “Color Pen Animations” (product_ad_motion"
+    },
+    {
+      "id": "freelancer:40691736",
+      "title": "Entertaining 2D AI Promotion",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Entertaining-Promotion",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve grasped that you need a bright, punchy 2‑D spot that tells viewers your AI works offline while leaving them smiling and remembering your brand.  \nAt Voxel Studio we specialise in crafting lively, character‑driven 2‑D animations that marry smooth motion, on‑brand typography and playful sound design to turn complex ideas into instant, feel‑good moments"
     }
   ]
 }
