@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T07:38:18+00:00",
+  "generatedAt": "2026-09-05T08:23:42+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1268,
+  "total": 1269,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 583
+      "count": 584
     },
     {
       "name": "États-Unis",
@@ -35495,6 +35495,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a premium AI‑driven recruitment video that showcases AIGoHire’s features without relying on generic avatars.  \nAt Voxel Studio we specialize in motion‑graphics‑"
+    },
+    {
+      "id": "freelancer:40692124",
+      "title": "need a 3d Design and animation for https://www.youtube.com/watch?v=worKmsWZqYE",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/need-Design-animation-for-https",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), in the language of the project. The project language appears to be French? The user wrote in French: \"Titre: need a 3d Design and animation for ...\" but the description is English? The user says \"Écris dans la langue du projet.\" The project language likely French because the user wrote French for instructions and the title is English but the rest is French? Actually the user wrote: \"Titre: need a 3d Design and animation for https://www.youtube.com/watch?v=worKmsWZqYE\" (English). Then \"Besoin: This https://www.youtube.com/watch?v=worKmsWZqYE explain the mechanism. I to fit DC Motors, Timing belts and make it real\" (English). Then \"Service Voxel:\" blank. \"Preuve:\" blank. The instructions are French: \"Tu es ComBot, chargé de prospection pour Voxel Studio (studio de production 3D créative). Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), qui : (1) montre qu'on a compris le besoin, (2) relie au service Voxel ``, (3) cite la preuve d'archive ``, (4) finit par un CTA léger. **Écris dans la langue du projet.** Pas de blabla, pas de prix.\"\n\nThus we need to write in French (since instructions in French). The project language maybe French. So produce 4-6 sentences in French, first"
     }
   ]
 }
