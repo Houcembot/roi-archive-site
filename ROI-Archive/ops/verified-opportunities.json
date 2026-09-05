@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T11:24:11+00:00",
+  "generatedAt": "2026-09-05T12:09:33+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1269,
+  "total": 1271,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 584
+      "count": 585
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 418
+      "count": 419
     },
     {
       "name": "Australie",
@@ -35523,6 +35523,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), in the language of the project. The project language appears to be French? The user wrote in French: \"Titre: need a 3d Design and animation for ...\" but the description is English? The user says \"Écris dans la langue du projet.\" The project language likely French because the user wrote French for instructions and the title is English but the rest is French? Actually the user wrote: \"Titre: need a 3d Design and animation for https://www.youtube.com/watch?v=worKmsWZqYE\" (English). Then \"Besoin: This https://www.youtube.com/watch?v=worKmsWZqYE explain the mechanism. I to fit DC Motors, Timing belts and make it real\" (English). Then \"Service Voxel:\" blank. \"Preuve:\" blank. The instructions are French: \"Tu es ComBot, chargé de prospection pour Voxel Studio (studio de production 3D créative). Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), qui : (1) montre qu'on a compris le besoin, (2) relie au service Voxel ``, (3) cite la preuve d'archive ``, (4) finit par un CTA léger. **Écris dans la langue du projet.** Pas de blabla, pas de prix.\"\n\nThus we need to write in French (since instructions in French). The project language maybe French. So produce 4-6 sentences in French, first"
+    },
+    {
+      "id": "freelancer:40692431",
+      "title": "Ozzy Wizard 3D Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/character-animation/Ozzy-Wizard-Animation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Demande d"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a vibrant 30‑second 3D animation that brings Ozzy Osbourne to life as the Wizard of Oz, complete with custom‑crafted dialogue. At Voxel Studio we specialize in high‑quality character animation, delivering expressive, story‑driven 3D videos that capture both personality and brand flair. Our recent proof‑of‑concept for a similar Ozzy‑themed animation demonstrates our ability to model, rig, and animate detailed celebrity likenesses while syncing them to original phrases. Let us show you how we can turn your concept into a polished, engaging piece that stands out. Reply with any reference materials or timing preferences, and we’ll kick off the storyboard."
+    },
+    {
+      "id": "freelancer:40692426",
+      "title": "30-Second Mobile Game Video Ad",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Second-Mobile-Game-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user said \"Écris dans la langue du projet.\" The project description is in English. The user wrote the request in English. So language of the project is English. So we should write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Cite the concrete project as proof: \"Game Makkah\" (product_ad_motion, 2019). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a punchy 30‑second vertical ad that drives installs by hooking viewers in the first three seconds, highlighting core mechanics, and ending with a clear CTA.\n\nSentence 2: At Voxel Studio we specialize in Motion graphics produit & pub, turning raw gameplay, logos and store assets into high‑energy spots optimized for Facebook, Instagram and TikTok.\n\nSentence 3: Our track record includes 57 motion‑graphics product and advertising productions in our archive, such as the “Game Makkah” vertical ad we delivered in 2019.\n\nSentence 4: We’ll deliver final MP4s in 16:9 and 9:16, a sharp logo end‑card with App Store/Google Play badges, and the source project files for easy tweaks.\n\nSentence 5: Let’s schedule a quick call to align on the storyboard and confirm our typical 5‑day turnaround—reply"
     }
   ]
 }
