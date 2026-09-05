@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T03:51:23+00:00",
+  "generatedAt": "2026-09-05T04:36:57+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1267,
+  "total": 1268,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 582
+      "count": 583
     },
     {
       "name": "États-Unis",
@@ -35467,6 +35467,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We’ve grasped that you need a bright, punchy 2‑D spot that tells viewers your AI works offline while leaving them smiling and remembering your brand.  \nAt Voxel Studio we specialise in crafting lively, character‑driven 2‑D animations that marry smooth motion, on‑brand typography and playful sound design to turn complex ideas into instant, feel‑good moments"
+    },
+    {
+      "id": "freelancer:40691794",
+      "title": "AIGoHire Promotional Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video-editing/AIGoHire-Promotional-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a premium AI‑driven recruitment video that showcases AIGoHire’s features without relying on generic avatars.  \nAt Voxel Studio we specialize in motion‑graphics‑"
     }
   ]
 }
