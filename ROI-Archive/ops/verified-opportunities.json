@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T09:17:24+00:00",
+  "generatedAt": "2026-09-06T10:01:57+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1278,
+  "total": 1279,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 589
+      "count": 590
     },
     {
       "name": "États-Unis",
@@ -35775,6 +35775,34 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "We understand you need a polished, 30‑second Instagram Reel sourced entirely from royalty‑free clips, edited to vertical 1080 × 1920, with on‑trend motion graphics and a current soundtrack. At Voxel Studio we handle the full pipeline—footage curation, seamless editing, colour grading, and export‑ready thumbnail delivery—so you receive a upload‑ready file without any copyright concerns. Our recent work"
+    },
+    {
+      "id": "freelancer:40694008",
+      "title": "Interior Design Launch Campaign",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Interior-Design-Launch-Campaign",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand that you need a focused two‑week Instagram‑Facebook rollout that stops scrollers, reinforces your brand identity, and leaves a lasting impression.  \nAt Voxel Studio we craft compact hero reels and animated follow‑up sequences—complete with clean motion graphics, on‑brand colour palettes, and editable Premiere/After Effects files—so"
     }
   ]
 }
