@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T06:15:39+00:00",
+  "generatedAt": "2026-09-06T07:00:56+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1276,
+  "total": 1277,
   "countryCount": 9,
   "countries": [
     {
@@ -51,7 +51,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 58
+      "count": 59
     },
     {
       "name": "Royaume-Uni",
@@ -35719,6 +35719,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Write in language of the project: the project description is in English. So write in English. No fluff, no price. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Must not mention client name. Provide CTA like \"Let's discuss how we can bring your TikTok vision to life.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need punchy, TikTok‑native videos that hook teens in the first three seconds and blend trending sounds, quick cuts and on‑screen text.\n\nSentence 2: Our Motion graphics produit & pub service delivers end‑to‑end creation—storyboard, rights‑cleared visuals, editing and motion graphics—exactly as you described.\n\nSentence 3: With 57 motion‑graphics product and advertising pieces in our archive (including the 2021 “Course AI” spot), we have proven expertise in turning concepts into platform‑ready clips.\n\nSentence 4: We’ll provide vertical MP4s plus editable project files, incorporate local Malaysian slang, and deliver up to two revision rounds as you requested.\n\nSentence 5: Let’s jump on a quick call to outline the storyboard and get the first draft rolling.\n\nCheck: 5 sentences, professional, first person (we). No price. Good."
+    },
+    {
+      "id": "freelancer:40693754",
+      "title": "Stylish 30-Second Instagram Reel",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Stylish-Second-Instagram-Reel",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We understand you need a polished, 30‑second Instagram Reel sourced entirely from royalty‑free clips, edited to vertical 1080 × 1920, with on‑trend motion graphics and a current soundtrack. At Voxel Studio we handle the full pipeline—footage curation, seamless editing, colour grading, and export‑ready thumbnail delivery—so you receive a upload‑ready file without any copyright concerns. Our recent work"
     }
   ]
 }
