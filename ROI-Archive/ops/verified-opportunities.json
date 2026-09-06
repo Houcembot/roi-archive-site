@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T10:01:57+00:00",
+  "generatedAt": "2026-09-06T10:48:08+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1279,
+  "total": 1280,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 590
+      "count": 591
     },
     {
       "name": "États-Unis",
@@ -35803,6 +35803,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand that you need a focused two‑week Instagram‑Facebook rollout that stops scrollers, reinforces your brand identity, and leaves a lasting impression.  \nAt Voxel Studio we craft compact hero reels and animated follow‑up sequences—complete with clean motion graphics, on‑brand colour palettes, and editable Premiere/After Effects files—so"
+    },
+    {
+      "id": "freelancer:40694077",
+      "title": "Dynamic Product Showreel Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Dynamic-Product-Showreel-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "At Voxel Studio we grasp the urgency of delivering a sleek, premium showreel that highlights clean product shots, impactful cuts and seamless"
     }
   ]
 }
