@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T13:04:12+00:00",
+  "generatedAt": "2026-09-06T13:49:52+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1281,
+  "total": 1282,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 592
+      "count": 593
     },
     {
       "name": "États-Unis",
@@ -7145,6 +7145,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we write in English. Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", cite concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). End with light CTA. No blabla, no price. Provide short storyboard or animatic? Not needed in pitch. Just pitch. Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We grasp the need for a high‑energy 5‑8 s 3D logo reveal that captures the fast‑paced spirit of the Junior Roll Ball World Cup. Sentence 2: Our Motion graphics produit & pub service specializes in delivering broadcast‑safe, 4K‑ready animations with transparent layers and editable project files for sponsor swaps. Sentence 3: Backed by 57 motion‑graphics product & advertising productions in our archive, we have proven expertise—see, for example, the Lemur Animations product ad motion piece from 2020. Sentence 4: We can provide a quick storyboard/animatic for approval, then deliver the mastered 4K video with alpha, stereo mix, and source file within a week. Sentence 5: Let’s kick off the championship opener together—reply to schedule"
+    },
+    {
+      "id": "freelancer:40694362",
+      "title": "Instagram Reel Creator for Devotional App -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Instagram-Reel-Creator-for-Devotional",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'un Reel motion graphics premium pour app"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook in the language of the project. The project description is in English with some Gujarati text. The service is Motion graphics produit & pub. The proof: 57 productions motion graphics produit & publicité (archive Voxel). Need to cite a concrete project as proof: \"2014-12-BIAT\" (product_ad_motion, 2014). So we need to mention that as evidence of our experience. The language of the project: The project description is English, but includes Gujarati suggestions. Likely the language should be English (since the request is in English). The instruction: \"Écris dans la langue du projet.\" The project is English (though includes Gujarati). So we write in English.\n\nWe need a short commercial hook 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite the concrete project as proof of our historical (domain + year, without client name). So we mention \"2014-12-BIAT (product_ad_motion, 2014)\". Provide maybe: \"We have delivered 57 motion‑graphics product & pub pieces, including the 2014‑12‑BIAT product ad motion project.\" Then CTA: \"Let's discuss how we can craft your 60‑second spiritual Reel.\"\n\nMake sure 4-6 sentences. Let's do 5 sentences.\n\nSentence 1: Show we understood need: \"We grasp that Na"
     },
     {
       "id": "freelancer:40545736",
