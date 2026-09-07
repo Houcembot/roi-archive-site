@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T10:12:29+00:00",
+  "generatedAt": "2026-09-07T10:58:58+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1291,
+  "total": 1293,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 597
+      "count": 598
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 425
+      "count": 426
     },
     {
       "name": "Australie",
@@ -7203,6 +7203,34 @@
       "proposalDraft": "We need to produce a short commercial pitch 4-6 sentences, French? The user says \"Écris dans la langue du projet.\" The project description is in English. The user wrote the request in French but the project is English. Likely they want English. The instruction: \"Écris dans la langue du projet.\" The project language is English (the title and description). So we write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price. Provide approach? Actually they ask to propose approach, timeline, samples. But the instruction says \"Pas de blabla, pas de prix.\" So we keep short. Probably 5 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need a clean 2‑D intro (10‑20 s) that sets a minimalist tone and ends with a sharp logo reveal, followed by a concise UI‑focused showreel.\n\nSentence 2: Our Motion graphics produit & pub service specializes in exactly that blend of abstract shape animation and brand‑aligned UI storytelling.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the “Shapes Animation” (product_ad_motion, 2020)—we have proven expertise in delivering restrained, on‑brand motion.\n\nSentence 4: We’ll start by reviewing your brand guidelines and UI"
     },
     {
+      "id": "freelancer:40696128",
+      "title": "Rigging Stylized Humanoid in Character Creator",
+      "sourceUrl": "https://www.freelancer.com/projects/character-design/Rigging-Stylized-Humanoid-Character",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Rigging et expressions faciales pour animation de personnage"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "Nous avons bien compris que vous avez besoin d’un rigging complet dans Character Creator : squelette corporel propre, pondération précise et les six expressions faciales essentielles (sourire, froncement, clignement, lip‑sync) afin que votre avatar fonctionne immédiatement avec les mouvements et les presets Face Puppet d’iClone.  \nChez Voxel Studio, notre service **Animation de personnages"
+    },
+    {
       "id": "freelancer:40545736",
       "title": "Mobile Game VFX and Animation Designer",
       "sourceUrl": "https://www.freelancer.com/projects/unity/Mobile-Game-VFX-Animation-Designer",
@@ -9929,6 +9957,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "Nous comprenons que vous avez besoin d’assembler vos rushes en une vidéo promotionnelle percutante de moins de 90 secondes, avec des textes animés, une voix‑off professionnelle et, si souhaité, une musique d’ambiance.  \nNotre service **Motion graphics produit & pub** est spécial"
+    },
+    {
+      "id": "freelancer:40694080",
+      "title": "Elegant Brand Awareness Video Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Elegant-Brand-Awareness-Video-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo promotionnelle avec motion graphics et texte animé"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to write a short commercial hook (4-6 sentences), in French (since user wrote French instructions). Must be 1st person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). No blabla, no price. Language of the project: French. Provide 4-6 sentences.\n\nLet's craft: 5 sentences.\n\nSentence 1: Nous avons saisi que vous cherchez des vidéos courtes, élégantes et fluides pour renforcer votre notoriété sur les réseaux et votre site.\n\nSentence 2: Notre offre Motion graphics produit & pub est exactement ce qu’il faut pour apporter des transitions subtiles, des effets raffinés et des animations typographiques fidèles à votre charte.\n\nSentence 3: Forts de nos 57 productions motion graphics produit & publicité (archive Voxel), nous avons déjà réalisé des projets similaires, comme « Lemur Animations » (product_ad_motion, 2020).\n\nSentence 4: Nous livrons un MP4 1080p, un fichier SRT et le projet source organisé, prêts pour Instagram, LinkedIn et YouTube.\n\nSentence 5: Si cela correspond à votre vision, partagez-nous un bref retour et nous vous enverrons un reel montrant notre approche élégante.\n\nMake sure it's 4-6 sentences, professional, 1st person (V"
     },
     {
       "id": "freelancer:40548766",
