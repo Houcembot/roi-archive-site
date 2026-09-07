@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T16:15:18+00:00",
+  "generatedAt": "2026-09-07T16:59:58+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1297,
+  "total": 1298,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 599
+      "count": 600
     },
     {
       "name": "États-Unis",
@@ -36307,6 +36307,33 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project language appears English (the brief is English). So we need to write in English. Should be professional, first person (Voxel). Show we understood need, relate to service Voxel (which is not given but we can assume it's 3D animation services), cite proof from archive (but proof is empty? The user gave \"Preuve: \" with nothing after. Possibly we need to reference a proof placeholder? Might need to say something like \"as demonstrated in our recent project for X\" but we have no proof. Could we infer that the proof is missing, so we should note that we have relevant experience? Might need to say something like \"as shown in our portfolio (see attached)\". Since no proof given, we can say \"as evidenced by our recent work for [client]\" but we don't have specifics. Perhaps we can say \"as demonstrated in our archive of elegant 3D logo intros\". We'll keep it generic but mention proof.\n\nWe need to avoid blabla, no prices. Provide CTA lightly: e.g., \"Let's discuss how we can bring this to life.\"\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I understand you need a refined 3‑D logo intro that elevates every wedding, commercial and corporate film with cinematic lighting and smooth motion.\"\n\nSentence 2: Relate to service Voxel: \"At Voxel Studio we specialize in turning static marks into full‑resolution 4 K 3‑D animations that meet broadcast"
+    },
+    {
+      "id": "freelancer:40696772",
+      "title": "Product Promo YouTube Shorts",
+      "sourceUrl": "https://www.freelancer.com/projects/youtube/Product-Promo-YouTube-Shorts",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Création de vidéos promotionnelles courtes avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     }
   ]
 }
