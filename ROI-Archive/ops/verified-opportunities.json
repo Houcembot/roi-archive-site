@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T12:28:45+00:00",
+  "generatedAt": "2026-09-07T13:15:49+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1295,
+  "total": 1296,
   "countryCount": 9,
   "countries": [
     {
@@ -51,7 +51,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 59
+      "count": 60
     },
     {
       "name": "Royaume-Uni",
@@ -36250,6 +36250,33 @@
       ],
       "lat": 20.6,
       "lon": 78.9
+    },
+    {
+      "id": "freelancer:40696356",
+      "title": "Graphic Overlay Animation for Video",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-animation/Graphic-Overlay-Animation-for-Video",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 50,
+      "lon": 10
     }
   ]
 }
