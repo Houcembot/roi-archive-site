@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T04:56:32+00:00",
+  "generatedAt": "2026-09-07T05:40:00+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1285,
+  "total": 1286,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 423
+      "count": 424
     },
     {
       "name": "Australie",
@@ -35971,6 +35971,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English. The language of the project is English. So we need to write in English. Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). No blabla, no price. Provide short hook.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need elegant, Instagram‑ready reels that turn raw café footage into sophisticated brand stories.\n\nSentence 2: Our Motion graphics produit & pub service specializes in refined pacing, tasteful transitions, elevated color‑grading and subtle on‑brand graphics that match décor and plating.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the 2020 “Color Pen Animations” project—we have a proven track record delivering upscale visuals.\n\nSentence 4: We’ll craft tight narratives, add on‑brand typography, balance audio and deliver 9:16 MP4s ≤60 s plus teaser thumbnails and source files for easy tweaks.\n\nSentence 5: Let’s discuss how we can bring your venues’ reels to life—just reply to start the conversation.\n\nCheck: 5 sentences, first person (we)."
+    },
+    {
+      "id": "freelancer:40695524",
+      "title": "Monthly Explainer Video Partner",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation-explainer-video/Monthly-Explainer-Video-Partner",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We’ve noted that you’re looking for a reliable partner to deliver a monthly explainer video series starting in September 2026. At Voxel Studio we specialize in creating high‑"
     }
   ]
 }
