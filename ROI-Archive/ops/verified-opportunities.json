@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T21:33:05+00:00",
+  "generatedAt": "2026-09-07T22:17:28+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1299,
+  "total": 1300,
   "countryCount": 9,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 61
+      "count": 62
     },
     {
       "name": "Europe",
@@ -7229,6 +7229,33 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "Nous avons bien compris que vous avez besoin d’un rigging complet dans Character Creator : squelette corporel propre, pondération précise et les six expressions faciales essentielles (sourire, froncement, clignement, lip‑sync) afin que votre avatar fonctionne immédiatement avec les mouvements et les presets Face Puppet d’iClone.  \nChez Voxel Studio, notre service **Animation de personnages"
+    },
+    {
+      "id": "freelancer:40697244",
+      "title": "60-Second SaaS Promo Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Second-SaaS-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo promo motion graphics SaaS"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": -25,
+      "lon": 133
     },
     {
       "id": "freelancer:40545736",
