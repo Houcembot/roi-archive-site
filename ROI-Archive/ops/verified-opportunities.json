@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T02:38:44+00:00",
+  "generatedAt": "2026-09-07T03:24:13+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1282,
+  "total": 1283,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 421
+      "count": 422
     },
     {
       "name": "Australie",
@@ -35887,6 +35887,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We’ve read your brief and understand that you need a cinematic, OS‑like 3D portfolio that turns every interaction into a showcase of your work.  \nAt Voxel Studio we specialize in building immersive WebGL experiences—dark, filmic UI with smooth GPU‑friendly transitions, draggable panel navigation, and lazy‑loaded assets that keep performance high.  \nOur recent archive proof includes a responsive Three.js + React/Vite site that achieved a Lighthouse mobile score of 85, delivered sub‑second project‑card loads, and featured an AJAX contact form with 60 fps animations.  \nLet’s discuss how we can bring this vision to life, share relevant samples, and outline a timeline that meets your delivery goals."
+    },
+    {
+      "id": "freelancer:40695332",
+      "title": "Sales-Focused Promotional Video Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Sales-Focused-Promotional-Video-Editing",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_m",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_m",
+          "label": "product_ad_m"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language is French? The user wrote English request but says \"Écris dans la langue du projet.\" The project likely French because they used French earlier: \"Tu es ComBot, chargé de prospection pour Voxel Studio... Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), qui : (1) montre qu'on a compris le besoin, (2) relie au service Voxel product_ad_m, (3) cite la preuve d'archive ``, (4) finit par un CTA léger. **Écris dans la langue du projet.**\"\n\nThus we must write in French. Provide 4-6 sentences. Must show we understood need, relate to service product_ad_m, cite proof of archive (empty? they gave ``). Probably we just mention that we have delivered similar promotional videos for clients, referencing archive proof. Since proof is empty, we can say \"comme le montre notre archive de réalisations\". Provide CTA light: e.g., \"Disponible pour en discuter rapidement\". No price.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons saisi que vous disposez de rushes bruts et de quelques manques à combler pour créer une vidéo promotionnelle orientée lead génération.\n\nSentence 2: Grâce à notre offre product_ad_m, nous structurons le récit, sélectionnons les meilleures séquences, appliquons un étalonnage couleur, intégrons des motion graphics per"
     }
   ]
 }
