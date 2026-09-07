@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T17:45:19+00:00",
+  "generatedAt": "2026-09-07T18:31:02+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -36333,7 +36333,8 @@
         }
       ],
       "lat": 20.6,
-      "lon": 78.9
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English. But the instruction says \"Écris dans la langue du projet.\" The project language appears to be English (the brief is English). However, the user wrote the request in French: \"Tu es ComBot, chargé de prospection pour Voxel Studio... Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel)... Écris dans la langue du projet.\" The project language is ambiguous: The brief is English, but the user wrote in French. Usually they'd want French because they wrote in French. The phrase \"langue du projet\" could refer to the language of the project description, which is English. But they wrote the request in French, maybe they expect French answer. Let's decide: The user wrote the request in French, they want the answer in French. Many similar tasks: they ask to write in the language of the project, and they gave the project description in English, but they wrote the request in French. Usually they'd want French. I'll answer in French.\n\nWe need to include: (1) show we understood need, (2) relate to Voxel service, (3) cite proof archive, (4) end with light CTA. No blabla, no price. 4-6 sentences.\n\nWe need to mention typical turnaround per short? Actually that is part of the request but not required in the hook? The hook should be short commercial pitch; we can include mention of turnaround maybe but"
     }
   ]
 }
