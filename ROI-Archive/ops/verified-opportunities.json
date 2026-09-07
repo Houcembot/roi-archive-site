@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T06:25:34+00:00",
+  "generatedAt": "2026-09-07T07:11:58+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1286,
+  "total": 1288,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 594
+      "count": 595
     },
     {
       "name": "États-Unis",
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 60
+      "count": 61
     },
     {
       "name": "Europe",
@@ -7173,6 +7173,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook in the language of the project. The project description is in English with some Gujarati text. The service is Motion graphics produit & pub. The proof: 57 productions motion graphics produit & publicité (archive Voxel). Need to cite a concrete project as proof: \"2014-12-BIAT\" (product_ad_motion, 2014). So we need to mention that as evidence of our experience. The language of the project: The project description is English, but includes Gujarati suggestions. Likely the language should be English (since the request is in English). The instruction: \"Écris dans la langue du projet.\" The project is English (though includes Gujarati). So we write in English.\n\nWe need a short commercial hook 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite the concrete project as proof of our historical (domain + year, without client name). So we mention \"2014-12-BIAT (product_ad_motion, 2014)\". Provide maybe: \"We have delivered 57 motion‑graphics product & pub pieces, including the 2014‑12‑BIAT product ad motion project.\" Then CTA: \"Let's discuss how we can craft your 60‑second spiritual Reel.\"\n\nMake sure 4-6 sentences. Let's do 5 sentences.\n\nSentence 1: Show we understood need: \"We grasp that Na"
+    },
+    {
+      "id": "freelancer:40695721",
+      "title": "Minimalist App Intro & Showreel",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Minimalist-App-Intro-Showreel",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande d'animation motion graphics pour intro app et showreel"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We need to produce a short commercial pitch 4-6 sentences, French? The user says \"Écris dans la langue du projet.\" The project description is in English. The user wrote the request in French but the project is English. Likely they want English. The instruction: \"Écris dans la langue du projet.\" The project language is English (the title and description). So we write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price. Provide approach? Actually they ask to propose approach, timeline, samples. But the instruction says \"Pas de blabla, pas de prix.\" So we keep short. Probably 5 sentences.\n\nLet's craft:\n\nSentence 1: We understand you need a clean 2‑D intro (10‑20 s) that sets a minimalist tone and ends with a sharp logo reveal, followed by a concise UI‑focused showreel.\n\nSentence 2: Our Motion graphics produit & pub service specializes in exactly that blend of abstract shape animation and brand‑aligned UI storytelling.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive—including the “Shapes Animation” (product_ad_motion, 2020)—we have proven expertise in delivering restrained, on‑brand motion.\n\nSentence 4: We’ll start by reviewing your brand guidelines and UI"
     },
     {
       "id": "freelancer:40545736",
@@ -35999,6 +36027,33 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We’ve noted that you’re looking for a reliable partner to deliver a monthly explainer video series starting in September 2026. At Voxel Studio we specialize in creating high‑"
+    },
+    {
+      "id": "freelancer:40695638",
+      "title": "Shorts reels for client",
+      "sourceUrl": "https://www.freelancer.com/projects/video-ads/Shorts-reels-for-client",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     }
   ]
 }
