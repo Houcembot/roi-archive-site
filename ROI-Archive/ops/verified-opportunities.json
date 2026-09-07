@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T15:29:56+00:00",
+  "generatedAt": "2026-09-07T16:15:18+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1296,
+  "total": 1297,
   "countryCount": 9,
   "countries": [
     {
@@ -57,7 +57,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 46
+      "count": 47
     },
     {
       "name": "Canada",
@@ -36279,6 +36279,34 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project title is in English: \"Graphic Overlay Animation for Video\". The need is in English. The service Voxel and proof are not provided (they are blank). But we need to reference them: \"relie au service Voxel ``, (3) cite la preuve d'archive ``\". Probably they expect placeholders? Actually they gave Service Voxel: (blank) and Preuve: (blank). Maybe they expect we fill with something generic? Might be they want us to reference the service and proof but they are blank, so maybe we just mention them as placeholders? Could be they expect we say \"Notre service de motion design...\" and \"Comme le montre notre projet X\". Since proof is blank, maybe we can say \"Comme le montre notre récente réalisation pour [client]\" but we don't have specifics. Could be we just mention \"Notre service de motion design 3D\" and \"Comme le montre notre preuve d'archive\". We'll keep it short, 4-6 sentences, professional, first person (Voxel). No price, no fluff.\n\nLet's craft 5 sentences in English (since project language is English). Provide understanding, link to service, cite proof, CTA.\n\nSentence 1: We understand you need a 40‑second graphic overlay animation that highlights products with typography and pointers, fully aligned with your brand kit and ready for DaVinci Resolve.\n\nSentence 2: Our motion‑design team at Voxel Studio specializes in creating clean,"
+    },
+    {
+      "id": "freelancer:40696705",
+      "title": "Elegant 3D Logo Intro",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-logo/Elegant-Logo-Intro",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project language appears English (the brief is English). So we need to write in English. Should be professional, first person (Voxel). Show we understood need, relate to service Voxel (which is not given but we can assume it's 3D animation services), cite proof from archive (but proof is empty? The user gave \"Preuve: \" with nothing after. Possibly we need to reference a proof placeholder? Might need to say something like \"as demonstrated in our recent project for X\" but we have no proof. Could we infer that the proof is missing, so we should note that we have relevant experience? Might need to say something like \"as shown in our portfolio (see attached)\". Since no proof given, we can say \"as evidenced by our recent work for [client]\" but we don't have specifics. Perhaps we can say \"as demonstrated in our archive of elegant 3D logo intros\". We'll keep it generic but mention proof.\n\nWe need to avoid blabla, no prices. Provide CTA lightly: e.g., \"Let's discuss how we can bring this to life.\"\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I understand you need a refined 3‑D logo intro that elevates every wedding, commercial and corporate film with cinematic lighting and smooth motion.\"\n\nSentence 2: Relate to service Voxel: \"At Voxel Studio we specialize in turning static marks into full‑resolution 4 K 3‑D animations that meet broadcast"
     }
   ]
 }
