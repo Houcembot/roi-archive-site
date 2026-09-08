@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T09:37:25+00:00",
+  "generatedAt": "2026-09-08T10:23:45+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1310,
+  "total": 1312,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 606
+      "count": 607
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 428
+      "count": 429
     },
     {
       "name": "Australie",
@@ -36671,6 +36671,60 @@
       "lat": 1.35,
       "lon": 103.8,
       "proposalDraft": "Kami memahami bahwa Anda membutuhkan video promosi singkat, berwarna cerah dan dinamis, yang menampilkan keunggulan produk digital coloring Anda dengan transisi halus dan musik upbeat untuk iklan Meta Ads. Layanan Motion graphics produk & pub Voxel Studio te"
+    },
+    {
+      "id": "freelancer:40698304",
+      "title": "100th Podcast Episode Celebration Compilation",
+      "sourceUrl": "https://www.freelancer.com/projects/audio-editing/Podcast-Episode-Celebration-Compilation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97
+    },
+    {
+      "id": "freelancer:40698292",
+      "title": "Corporate Brand Awareness Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Corporate-Brand-Awareness-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_m",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_m",
+          "label": "product_ad_m"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     }
   ]
 }
