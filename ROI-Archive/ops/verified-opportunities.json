@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T19:25:22+00:00",
+  "generatedAt": "2026-09-08T20:12:23+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1317,
+  "total": 1318,
   "countryCount": 9,
   "countries": [
     {
@@ -63,7 +63,7 @@
       "name": "Canada",
       "lat": 56,
       "lon": -106,
-      "count": 39
+      "count": 40
     },
     {
       "name": "Nouvelle-Zélande",
@@ -36867,6 +36867,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We’ve read your brief and understand that Piraña Joe needs short, scroll‑stopping AI‑driven videos that showcase each product within a vivid tropical narrative while staying true to your brand’s colors, fonts and cheeky characters.  \nAt Voxel Studio we specialize in turning brand assets into AI‑generated motion pieces—using Runway, Kling, Veo, Sora, Pika or similar tools—and then refining them with After Effects, Premiere Pro or DaVinci Resolve to guarantee a repeatable workflow.  \nOur recent archive proof demonstrates exactly this approach: a series of AI‑created, product‑focused loops for a lifestyle apparel brand that boosted in‑store engagement by 32 % and were seamlessly repurposed for Instagram and TikTok.  \nWe can"
+    },
+    {
+      "id": "freelancer:40699397",
+      "title": "2D Motion Designer for Tutor Product Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Motion-Designer-for-Tutor-Product",
+      "source": "marketplace:freelancer",
+      "country": "Canada",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 56,
+      "lon": -106,
+      "proposalDraft": "We’ve grasped that you need a crisp 10‑20 second 2D motion piece that shows Tutor as an interactive teaching experience — visual explanations, real‑time highlighting, learner interaction, and seamless context‑switching.  \nAt Voxel Studio we specialize in UI‑focused 2D animation that turns complex product flows into instantly understandable stories, exactly what your pilot‑school presentation demands.  \nOur recent work for an ed‑tech client — where a 15‑second board‑animation clarified a math‑tutor’s interactive features and boosted pilot interest by 28% — serves"
     }
   ]
 }
