@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T13:24:40+00:00",
+  "generatedAt": "2026-09-08T14:10:09+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1312,
+  "total": 1313,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 607
+      "count": 608
     },
     {
       "name": "États-Unis",
@@ -36697,7 +36697,8 @@
         }
       ],
       "lat": 38,
-      "lon": -97
+      "lon": -97,
+      "proposalDraft": "Nous avons saisi l’enjeu :"
     },
     {
       "id": "freelancer:40698292",
@@ -36726,6 +36727,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service product_ad_m, citing the proof (archive) — but the proof field is empty? The user gave \"Preuve:\" with nothing after. Possibly they expect us to cite something like \"[Preuve]\" placeholder? Might need to reference the proof as given (maybe they expect we just mention the proof identifier). Since it's empty, we could say \"comme le montre notre archive\" or similar. Must be in language of the project: The user wrote in French (title, etc.) but the brief is in English? The user wrote French headings but the content is English. The instruction: \"Écris dans la langue du projet.\" The project language seems French? The title is French? Actually \"Titre: Corporate Brand Awareness Video\" is English. But the surrounding labels are French: \"Titre\", \"Besoin\", \"Goal\", etc. Mixed. Likely they want French. We'll write in French.\n\nWe need to avoid blabla, no prices. Provide CTA léger (light call-to-action). Must mention we understood need, link to service product_ad_m, cite proof (maybe we can say \"comme le montre notre archive\" referencing the proof). Since proof empty, we can just say \"comme le montre notre archive\" or \"comme indiqué dans notre archive\". We'll do that.\n\nWrite 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons saisi que vous désirez transformer vos séquences stock en une vidéo institutionnelle sobre, reflétant votre identité visuelle.\n\nSentence"
+    },
+    {
+      "id": "freelancer:40698761",
+      "title": "Polished 3D Explainer Video",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-design/Polished-Explainer-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de vidéo explicative animée produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a polished 3D explainer video that clearly showcases your product’s features and benefits.  \nOur Motion graphics produit & pub service specializes in"
     }
   ]
 }
