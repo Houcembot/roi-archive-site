@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T03:33:52+00:00",
+  "generatedAt": "2026-09-08T04:19:21+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1300,
+  "total": 1301,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 600
+      "count": 601
     },
     {
       "name": "États-Unis",
@@ -10013,6 +10013,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to write a short commercial hook (4-6 sentences), in French (since user wrote French instructions). Must be 1st person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Also cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). No blabla, no price. Language of the project: French. Provide 4-6 sentences.\n\nLet's craft: 5 sentences.\n\nSentence 1: Nous avons saisi que vous cherchez des vidéos courtes, élégantes et fluides pour renforcer votre notoriété sur les réseaux et votre site.\n\nSentence 2: Notre offre Motion graphics produit & pub est exactement ce qu’il faut pour apporter des transitions subtiles, des effets raffinés et des animations typographiques fidèles à votre charte.\n\nSentence 3: Forts de nos 57 productions motion graphics produit & publicité (archive Voxel), nous avons déjà réalisé des projets similaires, comme « Lemur Animations » (product_ad_motion, 2020).\n\nSentence 4: Nous livrons un MP4 1080p, un fichier SRT et le projet source organisé, prêts pour Instagram, LinkedIn et YouTube.\n\nSentence 5: Si cela correspond à votre vision, partagez-nous un bref retour et nous vous enverrons un reel montrant notre approche élégante.\n\nMake sure it's 4-6 sentences, professional, 1st person (V"
+    },
+    {
+      "id": "freelancer:40697644",
+      "title": "Short iOS Alarm App Ad",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Short-iOS-Alarm-App",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo promo courte pour app mobile"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a high‑energy, portrait‑format video that instantly showcases your alarm app’s full‑color/sound customization and its unique “mission” shut‑off, all within a scroll‑stopping 15‑30 second cut.  \nOur Motion graphics produit & pub service specializes in turning app features into tight, visually punchy narratives optimized for TikTok, Instagram Reels and App Store previews.  \nWith 57 motion‑graphics product & advertisement productions in our archive, we have a proven track record of delivering exactly this kind of mobile‑first promo.  \nA relevant example is our “Course AI” project (product_ad_motion, 2021), where we highlighted customizable UI elements and interactive gameplay mechanics in a fast"
     },
     {
       "id": "freelancer:40548766",
