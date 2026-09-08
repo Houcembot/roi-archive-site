@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T16:25:12+00:00",
+  "generatedAt": "2026-09-08T17:11:18+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1315,
+  "total": 1317,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 430
+      "count": 432
     },
     {
       "name": "Australie",
@@ -36811,6 +36811,61 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: project is English (the brief is in English). So answer in English. No fluff, no price. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Must include that as proof of our history (domain + year, without client name). So we can say: \"Like we did for Course AI (product_ad_motion, 2021)...\" Ensure we mention the 57 productions archive. Provide CTA like \"Let's discuss how we can build your teaser series.\" Keep 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a cohesive teaser‑feed that builds curiosity before a punchy hero reel that reveals the product.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service is built exactly for turning blurry clips, half‑picture stills and dynamic teasers into a branded visual story.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces in our archive, including the Course AI project (product_ad_motion, 2021) that used the same teaser‑to‑reveal approach.\"\n\nSentence 4: Show capability: \"From colour‑grade consistency and typography to motion‑"
+    },
+    {
+      "id": "freelancer:40699121",
+      "title": "Project for Ahmed (ahmedaseliman)",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Project-for-Ahmed-ahmedaseliman",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Product prototype 3D visualization matches product ad/motion."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "Could you please provide the specific Voxel Studio service you’d like to reference (e.g., “high‑fidelity 3D product rendering,” “interactive prototype visualization,” etc.) and the proof or case study you’d like me to cite (such as a past project name, client, or result)? Once I have those details, I’ll craft the 4‑6‑sentence commercial hook you need."
+    },
+    {
+      "id": "freelancer:40699057",
+      "title": "Create AI Brand Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video-editing/Create-Brand-Videos",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97
     }
   ]
 }
