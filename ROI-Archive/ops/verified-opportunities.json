@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T05:50:26+00:00",
+  "generatedAt": "2026-09-08T06:35:57+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1303,
+  "total": 1305,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 603
+      "count": 604
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 426
+      "count": 427
     },
     {
       "name": "Australie",
@@ -10068,6 +10068,33 @@
       ],
       "lat": 20.6,
       "lon": 78.9
+    },
+    {
+      "id": "freelancer:40697804",
+      "title": "Software Product- Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Software-Product-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics product video for marketing intro"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
     },
     {
       "id": "freelancer:40548766",
@@ -36474,6 +36501,33 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a need to write a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Write in language of project: The project description is in English. So write in English. No blabla, no price. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Provide domain+year without client name. So we need to mention that we have done similar: \"Course AI\" product ad motion 2021. Provide CTA like \"Let's discuss how we can bring your AI SaaS to life\". Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We grasp that you need vivid 3D motion‑graphics to translate AI‑powered SaaS features into consumer‑friendly promos. Sentence 2: Our Motion graphics produit & pub service specializes in end‑to‑end 3D animation—from concept to final render—with sound design and upbeat music. Sentence 3: Backed by 57 motion‑graphics product & advertising productions in our archive, including the “Course AI” product ad (2021), we have proven expertise in this niche. Sentence 4: We’ll deliver storyboard/style frames, 1080p/4K 3D spots with transparent backgrounds, and project files, incorporating at least two revision rounds. Sentence 5: Let’s schedule a brief call to align on timelines and kick off the first style frames"
+    },
+    {
+      "id": "freelancer:40697819",
+      "title": "Animator Needed for Cinematic Story-Driven Short Film | Character & Scene Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/character-animation/Animator-Needed-for-Cinematic-Story",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Character & cinematic animation needed"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     }
   ]
 }
