@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T15:39:44+00:00",
+  "generatedAt": "2026-09-08T16:25:12+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1313,
+  "total": 1315,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 608
+      "count": 609
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 429
+      "count": 430
     },
     {
       "name": "Australie",
@@ -36755,6 +36755,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a polished 3D explainer video that clearly showcases your product’s features and benefits.  \nOur Motion graphics produit & pub service specializes in"
+    },
+    {
+      "id": "freelancer:40698994",
+      "title": "TeleNavix GPS Explainer Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/TeleNavix-GPS-Explainer-Animation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Motion graphics explainer video for product promotion"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences 4-6 ), professional, first person (Voxel), showing we understood need, relate to service Voxel, cite proof from archive, end with CTA. Language of project: The user wrote in English, so we respond in English. No blabla, no price. Provide just the hook. Probably need to include placeholders for service Voxel and proof? The user gave Service Voxel: (blank) and Preuve: (blank). They didn't fill. Possibly they expect us to infer? Might be they omitted intentionally; we need to still reference them? Could be they expect us to fill with something like \"Service Voxel: 3D motion graphics explainer production\" and \"Preuve: link to portfolio\". But we don't have actual data. We could say \"as shown in our recent TeleNavix‑style explainer for XYZ Corp\" but that's invented. Better to keep generic: mention we have proven ability to deliver polished B2B explainer animations, referencing our archive proof. Since we don't have actual link, we can say \"see our archive proof\". The instruction: cite the proof d'archive ``. So we need to include something like \"(voir preuve d'archive)\" maybe. We'll include a placeholder like [Preuve]. Probably acceptable.\n\nThus produce 4-6 sentences: first sentence shows understanding: need a polished animated video introducing TeleNavix to business owners, highlighting ROI etc. Second: we at Voxel Studio specialize in clean motion‑graphics explainer videos that turn fleet pain points into ROI‑focused stories. Third: our process"
+    },
+    {
+      "id": "freelancer:40699030",
+      "title": "Brand Teaser & Launch Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Brand-Teaser-Launch-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: project is English (the brief is in English). So answer in English. No fluff, no price. Cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Must include that as proof of our history (domain + year, without client name). So we can say: \"Like we did for Course AI (product_ad_motion, 2021)...\" Ensure we mention the 57 productions archive. Provide CTA like \"Let's discuss how we can build your teaser series.\" Keep 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a cohesive teaser‑feed that builds curiosity before a punchy hero reel that reveals the product.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service is built exactly for turning blurry clips, half‑picture stills and dynamic teasers into a branded visual story.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces in our archive, including the Course AI project (product_ad_motion, 2021) that used the same teaser‑to‑reveal approach.\"\n\nSentence 4: Show capability: \"From colour‑grade consistency and typography to motion‑"
     }
   ]
 }
