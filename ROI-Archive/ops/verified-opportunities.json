@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T17:21:14+00:00",
+  "generatedAt": "2026-09-09T18:05:29+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1329,
+  "total": 1331,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 616
+      "count": 617
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 434
+      "count": 435
     },
     {
       "name": "Australie",
@@ -37201,6 +37201,61 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not fully described but presumably video editing with After Effects etc.), cite the proof archive (but we don't have the proof content; maybe we just reference \"Preuve:\" placeholder). The user gave \"Service Voxel:\" and \"Preuve:\" but no content. Possibly they expect us to mention that we have a proof (like a portfolio) and reference it. We'll write in French? The project language: The user wrote in English for the brief but the instruction says \"Écris dans la langue du projet.\" The project language likely English because the brief is English. However the user wrote French instructions. The \"langue du projet\" could be French if the project is French. But the brief is English. Usually they'd want French because they wrote instructions in French. However the content (need) is English. The safe approach: respond in English, as the need is English. But the instruction says \"Écris dans la langue du projet.\" The project is likely the Voxel Studio service, which could be French? Not sure. The user wrote \"Titre: Vibrant Instagram Video Edits\" etc. All English. So language of project is English. So we write in English.\n\nWe need 4-6 sentences. Include understanding need, link to service Voxel (maybe \"Our Voxel Studio service specializes in dynamic Instagram video editing...\"), cite proof archive (maybe \"As shown in our proof archive, we've delivered...\").\n\nCTA léger: e.g., \"Let's schedule a quick"
+    },
+    {
+      "id": "freelancer:40701462",
+      "title": "Inspirational Arabic Student Video",
+      "sourceUrl": "https://www.freelancer.com/projects/voice-over/Inspirational-Arabic-Student-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animated"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97
+    },
+    {
+      "id": "freelancer:40701450",
+      "title": "SaaS Benefit Video Production -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/video-services/SaaS-Benefit-Video-Production",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a crisp, benefit‑focused video that conveys real‑world outcomes of your SaaS platform with clean motion graphics, synchronized voice‑over and subtle music.  \nOur Motion graphics produit & pub service specializes in turning benefit hierarchies into polished, web‑ready explainer videos that work both with and without sound.  \nTo date we have delivered 57 motion‑graphics productions for product and advertising campaigns, including the “Course AI” product ad (2021) that matched a similar SaaS storytelling brief.  \nWe’ll handle script, storyboard, visuals, edit, sound mix and final 1080p MP4 delivery, plus editable project files and caption files, with four revision rounds included.  \nLet’s start the conversation—share your brand assets and we’ll get the first draft rolling."
     }
   ]
 }
