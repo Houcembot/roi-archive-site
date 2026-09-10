@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:41:28+00:00",
+  "generatedAt": "2026-09-10T11:26:24+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1338,
+  "total": 1339,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 436
+      "count": 437
     },
     {
       "name": "Australie",
@@ -37453,6 +37453,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We"
+    },
+    {
+      "id": "freelancer:40702954",
+      "title": "PDF to 30-Second Reel",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/PDF-Second-Reel",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Motion graphics video creation from PDF content"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in first person (Voxel), showing we understood need, linking to service Voxel (though service description is blank? The user gave \"Service Voxel: \" then blank line, and \"Preuve: \" blank line. Possibly they expect us to fill with something? Actually they gave placeholders but no content. Might be they expect us to infer service: maybe \"PDF to 30-Second Reel\" is the service. And proof maybe from archive? Not given. We could say \"comme démontré dans notre projet X\" but we don't have specifics. Perhaps we can say \"comme montré dans notre récent projet pour [client]\" but we don't have. Might be okay to keep generic: \"comme le montre notre preuve d'archive\". Since they left blank, we can just reference \"notre preuve d'archive\". Probably acceptable.\n\nWe need to write in language of the project: The user wrote in English. So we write in English.\n\nWe need 4-6 sentences, professional, first person (Voxel). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need a multi‑page PDF turned into a tight, 30‑second Instagram Reel that grabs attention fast.\"\n\nSentence 2: Relate to service: \"At Voxel Studio we specialize in extracting the strongest visuals and copy from PDFs, animating them to vertical 1080×1920 format, and adding polished motion, captions and a royalty‑free music bed.\"\n\nSentence"
     }
   ]
 }
