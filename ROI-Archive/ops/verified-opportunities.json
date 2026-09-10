@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T11:26:24+00:00",
+  "generatedAt": "2026-09-10T12:12:18+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1339,
+  "total": 1341,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 621
+      "count": 622
     },
     {
       "name": "États-Unis",
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 62
+      "count": 63
     },
     {
       "name": "Europe",
@@ -37481,6 +37481,61 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in first person (Voxel), showing we understood need, linking to service Voxel (though service description is blank? The user gave \"Service Voxel: \" then blank line, and \"Preuve: \" blank line. Possibly they expect us to fill with something? Actually they gave placeholders but no content. Might be they expect us to infer service: maybe \"PDF to 30-Second Reel\" is the service. And proof maybe from archive? Not given. We could say \"comme démontré dans notre projet X\" but we don't have specifics. Perhaps we can say \"comme montré dans notre récent projet pour [client]\" but we don't have. Might be okay to keep generic: \"comme le montre notre preuve d'archive\". Since they left blank, we can just reference \"notre preuve d'archive\". Probably acceptable.\n\nWe need to write in language of the project: The user wrote in English. So we write in English.\n\nWe need 4-6 sentences, professional, first person (Voxel). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need a multi‑page PDF turned into a tight, 30‑second Instagram Reel that grabs attention fast.\"\n\nSentence 2: Relate to service: \"At Voxel Studio we specialize in extracting the strongest visuals and copy from PDFs, animating them to vertical 1080×1920 format, and adding polished motion, captions and a royalty‑free music bed.\"\n\nSentence"
+    },
+    {
+      "id": "freelancer:40703116",
+      "title": "Professional Insta Reels Creation for Product ",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Sleek-Animated-Reels-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
+    },
+    {
+      "id": "freelancer:40703095",
+      "title": "Clothing Launch Promo Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Clothing-Launch-Promo-Videos",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), in the language of the project (English). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Must cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price. Provide CTA like \"Let's discuss how we can bring your launch to life\". Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need two punchy launch videos that blend live‑action product shots with motion‑graphics accents for vertical and horizontal social formats.\n\nSentence 2: Our Motion graphics produit & pub service specializes in exactly that mix—crisp visuals, animated overlays, and logo stings that hook viewers in the first three seconds.\n\nSentence 3: With 57 motion‑graphics product & advertising productions in our archive, including the “Shapes Animation” (product_ad_motion, 2020) project, we have proven expertise delivering launch‑focused videos.\n\nSentence 4: We’ll deliver the two 15‑30‑second cuts in both 1080×1920 and 1920×1080, provide source Premiere/After Effects files, editable text tracks, and royalty‑free music cleared for social use.\n\nSentence 5: Let’s schedule a quick call to review your footage and brand guidelines and start shaping the visual story for your"
     }
   ]
 }
