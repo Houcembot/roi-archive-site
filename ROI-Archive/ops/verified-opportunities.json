@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T14:28:53+00:00",
+  "generatedAt": "2026-09-10T15:13:01+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1342,
+  "total": 1343,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 438
+      "count": 439
     },
     {
       "name": "Australie",
@@ -7285,6 +7285,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project language appears to be English (the user wrote in English). However the instruction says \"Écris dans la langue du projet.\" The project is the request: the user wrote in English. So we should write in English. Provide a short commercial pitch (4-6 sentences) professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that we have done similar project. Provide CTA like \"Let's schedule a quick call to kick off the concept.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I get that you need a thumb‑stopping Instagram promo that turns scrollers into shoppers in under three seconds.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub team specializes in turning product assets into fast‑paced, platform‑native animations that highlight the core benefit.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product & pub pieces, including the recent “Shapes Animation” (product_ad_motion, 2020) that drove measurable engagement for a similar brand.\"\n\nSentence 4: Show process: \"We’ll start with a tight concept & storyboard, then execute"
+    },
+    {
+      "id": "freelancer:40703205",
+      "title": "Teen-Focused eFootball Feature Ad",
+      "sourceUrl": "https://www.freelancer.com/projects/script-writing/Teen-Focused-eFootball-Feature",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'ad motion graphics produit pour eFootball"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a fast‑paced, vertical social ad that showcases eFootball’s latest features and speaks directly to 13‑ to 17‑year‑olds on Instagram Reels and TikTok.  \nOur Motion graphics produit & pub service specializes in turning gameplay footage into eye‑catching, trend‑savvy visuals with bold on‑screen text and a hook that lands in the"
     },
     {
       "id": "freelancer:40545736",
