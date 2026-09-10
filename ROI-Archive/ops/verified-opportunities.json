@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T15:58:22+00:00",
+  "generatedAt": "2026-09-10T16:44:00+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1343,
+  "total": 1345,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 622
+      "count": 623
     },
     {
       "name": "États-Unis",
@@ -57,7 +57,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 50
+      "count": 51
     },
     {
       "name": "Canada",
@@ -10181,6 +10181,33 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of project is English. So we need to write in English. Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Also cite concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). No blabla, no price.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need a concise, upbeat 90‑second video that introduces your software in a friendly, conversational tone.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning brand assets and screen captures into engaging motion‑graphics stories with casual narration, on‑screen text, and light animations.\n\nSentence 3: With 57 motion‑graphics product & advertisement pieces in our archive, we bring proven expertise to every project.\n\nSentence 4: For example, our recent work on “Lemur Animations” (product_ad_motion, 2020) delivered a similar blend of screen recordings, tasteful graphics, and upbeat audio that drove user interest.\n\nSentence 5: Let’s start with a storyboard draft and one revision round to deliver the final MP4 (1080p, portrait) ready for web and social—just say the word."
+    },
+    {
+      "id": "freelancer:40703557",
+      "title": "Entertaining SolaSkirt Explainer Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/animation/Entertaining-SolaSkirt-Explainer-Videos",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos courtes humoristiques éducatives produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2
     },
     {
       "id": "freelancer:40548766",
@@ -37593,6 +37620,33 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a refined, gate‑"
+    },
+    {
+      "id": "freelancer:40703594",
+      "title": "Trendy Instagram Reel Video Edit -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Trendy-Instagram-Reel-Video-Edit",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de Reel dynamique avec motion graphics produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     }
   ]
 }
