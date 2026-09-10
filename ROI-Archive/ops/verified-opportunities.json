@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T17:29:49+00:00",
+  "generatedAt": "2026-09-10T18:14:25+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -10207,7 +10207,8 @@
         }
       ],
       "lat": 54,
-      "lon": -2
+      "lon": -2,
+      "proposalDraft": "We need to produce a short commercial pitch in French (since the project language is French? The user wrote in English but the instruction: \"Écris dans la langue du projet.\" The project description is in English. However the user wrote the request in English. The language of the project is English. So we need to write in English. The service is Motion graphics produit & pub (French term). The proof is \"57 productions motion graphics produit & publicité (archive Voxel)\". We need to cite the archive project: \"Course AI\" (product_ad_motion, 2021). Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service, cite proof, end with light CTA. No blabla, no price. Provide short pitch.\n\nLet's craft 5 sentences.\n\nSentence 1: We get that you need short, funny, educational vertical videos that hook in 3 seconds and work sound‑off.\n\nSentence 2: Our Motion graphics produit & pub service turns technical points into punchy, trend‑driven graphics that educate while entertaining.\n\nSentence 3: With 57 motion‑graphics product & ad productions in our archive—including the “Course AI” explainer (product_ad_motion, 2021)—we have proven we can blend humor and clear product storytelling.\n\nSentence 4: We’ll deliver vertical MP4s (15‑60 s) with captions, brand colours, CTA, and platform‑ready exports for TikTok, Reels and Facebook, all cleared for commercial use.\n\nSentence 5: Let’s discuss how many videos you’d"
     },
     {
       "id": "freelancer:40548766",
@@ -37674,7 +37675,8 @@
         }
       ],
       "lat": 38,
-      "lon": -97
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not explicitly defined but likely \"editing and motion graphics\" or \"cinematic video production\"), citing the proof (reference) from archive, ending with a light CTA. Language of the project: The brief is in English, so we write in English. No blabla, no price.\n\nWe need to include mention of understanding need: turning raw clips into 20-30 sec vertical reel, hooking viewers, referencing Instagram link, rhythmic transitions, moody atmospheric shots. Service Voxel: we need to state what we do (maybe \"cinematic editing, motion graphics, color grading\"). Provide proof: maybe we have done similar work for a client, referencing the archive (the Instagram link). Could say \"As shown in our recent work for X (link)\". Since we don't have actual link, we can say \"as demonstrated in the reference you shared\". CTA: \"Let's discuss how we can bring this vision to life\" or \"Feel free to share the footage and we'll get started\".\n\nMake 4-6 sentences. Ensure professional tone.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need a 20‑ to 30‑second vertical reel that grabs attention instantly and leaves viewers eager to learn more about The Alternate Experience 2026.\"\n\nSentence 2: Relate to service Voxel: \"At Voxel Studio we specialize in cinematic editing that blends rhythmic transitions, moody atmosphere, and vibrant"
     }
   ]
 }
