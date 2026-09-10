@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T12:57:21+00:00",
+  "generatedAt": "2026-09-10T13:43:41+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1341,
+  "total": 1342,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 437
+      "count": 438
     },
     {
       "name": "Australie",
@@ -37537,6 +37537,34 @@
       "lat": -25,
       "lon": 133,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), in the language of the project (English). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Must cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). No blabla, no price. Provide CTA like \"Let's discuss how we can bring your launch to life\". Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need two punchy launch videos that blend live‑action product shots with motion‑graphics accents for vertical and horizontal social formats.\n\nSentence 2: Our Motion graphics produit & pub service specializes in exactly that mix—crisp visuals, animated overlays, and logo stings that hook viewers in the first three seconds.\n\nSentence 3: With 57 motion‑graphics product & advertising productions in our archive, including the “Shapes Animation” (product_ad_motion, 2020) project, we have proven expertise delivering launch‑focused videos.\n\nSentence 4: We’ll deliver the two 15‑30‑second cuts in both 1080×1920 and 1920×1080, provide source Premiere/After Effects files, editable text tracks, and royalty‑free music cleared for social use.\n\nSentence 5: Let’s schedule a quick call to review your footage and brand guidelines and start shaping the visual story for your"
+    },
+    {
+      "id": "freelancer:40703220",
+      "title": "Wedding Invitation Animation with Gate-Opening Effect -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation/Wedding-Invitation-Animation-with-Gate",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a refined, gate‑"
     }
   ]
 }
