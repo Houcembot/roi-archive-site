@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T16:44:00+00:00",
+  "generatedAt": "2026-09-10T17:29:49+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1345,
+  "total": 1346,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 439
+      "count": 440
     },
     {
       "name": "Australie",
@@ -37646,7 +37646,35 @@
         }
       ],
       "lat": 20.6,
-      "lon": 78.9
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with a light CTA. Must be in the language of the project. The project description is in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that we have done similar work like Course AI (product ad motion, 2021). Provide a CTA like \"Let's discuss your vision\" or \"Send over the assets and we'll get started\". 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I get that you need a fast‑paced, trend‑savvy Instagram Reel that stops the scroll with quick cuts, punchy text and a beat‑driven soundtrack.\"\n\nSentence 2: Link to service: \"Our Motion graphics produit & pub service is built exactly for turning product demos into scroll‑stopping visual stories.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product and ad productions in our archive—including the recent “Course AI” product ad motion piece from 2021—we’ve honed the pacing and style you’re after.\"\n\nSentence 4: Show approach briefly: \"I’ll craft the edit in Premiere Pro/After Effects, sync the cuts to your music, add dynamic on‑screen graphics"
+    },
+    {
+      "id": "freelancer:40703672",
+      "title": "Cinematic Teaser for TAE 2026",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Cinematic-Teaser-for-TAE",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97
     }
   ]
 }
