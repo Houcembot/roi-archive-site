@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T01:47:19+00:00",
+  "generatedAt": "2026-09-11T02:32:01+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1347,
+  "total": 1348,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 441
+      "count": 442
     },
     {
       "name": "Australie",
@@ -37705,6 +37705,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is not explicitly defined but likely \"editing and motion graphics\" or \"cinematic video production\"), citing the proof (reference) from archive, ending with a light CTA. Language of the project: The brief is in English, so we write in English. No blabla, no price.\n\nWe need to include mention of understanding need: turning raw clips into 20-30 sec vertical reel, hooking viewers, referencing Instagram link, rhythmic transitions, moody atmospheric shots. Service Voxel: we need to state what we do (maybe \"cinematic editing, motion graphics, color grading\"). Provide proof: maybe we have done similar work for a client, referencing the archive (the Instagram link). Could say \"As shown in our recent work for X (link)\". Since we don't have actual link, we can say \"as demonstrated in the reference you shared\". CTA: \"Let's discuss how we can bring this vision to life\" or \"Feel free to share the footage and we'll get started\".\n\nMake 4-6 sentences. Ensure professional tone.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I understand you need a 20‑ to 30‑second vertical reel that grabs attention instantly and leaves viewers eager to learn more about The Alternate Experience 2026.\"\n\nSentence 2: Relate to service Voxel: \"At Voxel Studio we specialize in cinematic editing that blends rhythmic transitions, moody atmosphere, and vibrant"
+    },
+    {
+      "id": "freelancer:40704259",
+      "title": "Engaging Startup Product Showcase Video (Not India, Pakistan, Bangladesh)",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Engaging-Startup-Product-Showcase-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first personified as Voxel Studio (first person). Must show we understood need, relate to service \"Motion graphics produit & pub\", cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Write in language of the project: The project description is in English. So we must write in English. No fluff, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Provide domain+year (product_ad_motion, 2020). So we need to mention that as proof of our history.\n\nWe need to keep 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I get that you need a polished product‑showcase video that blends live‑action with motion graphics to highlight your 2,000‑plus catalog and brand personality.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service is built exactly for that mix of clean animated call‑outs, text overlays and seamless transitions.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces in our archive, including the recent “Shapes Animation” (product_ad_motion, 2020) that married live‑action footage with dynamic 2D/3D graphics.\"\n\nSentence 4: Show process alignment: \"From script and storyboard to live‑action sourcing, custom animation, voice‑over, sound design and final 4K edit,"
     }
   ]
 }
