@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T08:35:34+00:00",
+  "generatedAt": "2026-09-11T09:20:59+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1352,
+  "total": 1353,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 627
+      "count": 628
     },
     {
       "name": "États-Unis",
@@ -10237,6 +10237,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a concise, high‑impact 25‑35 second Amazon Sponsored Brands"
+    },
+    {
+      "id": "freelancer:40704883",
+      "title": "3D Animated Brand Promo",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-graphic-design/Animated-Brand-Promo",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Brand promo video 3D animation matches product ad motion"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a polished 3D‑animated brand promo that speaks to professionals and highlights your product’s strengths.  \nOur Motion graphics produit & pub service specializes in turning concepts into engaging, detail‑"
     },
     {
       "id": "freelancer:40548766",
