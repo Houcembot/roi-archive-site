@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T13:52:31+00:00",
+  "generatedAt": "2026-09-11T14:38:40+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1360,
+  "total": 1361,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 631
+      "count": 632
     },
     {
       "name": "États-Unis",
@@ -38069,6 +38069,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service \"Motion graphics produit & pub\", citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Must be in language of the project. The project is in English (the user wrote English). So we write in English. No blabla, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that as proof of our historical domain+year. Probably embed that in the proof sentence: we have 57 productions, including \"Shapes Animation\" (product_ad_motion, 2020). Provide CTA like \"Let's discuss how we can bring your testimonial to life.\" Must be 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a polished, brand‑aligned ad that keeps the authentic voice of your customer testimonial. Sentence 2: Our Motion graphics produit & pub service turns raw interview and B‑roll into a concise, engaging spot with custom lower‑thirds, logo animation, and subtle motion graphics. Sentence 3: With 57 motion‑graphics product and ad productions in our archive—including the “Shapes Animation” product ad from 2020—we have the expertise to deliver consistent pacing, audio cleanup, color grading, and royalty‑free music. Sentence 4: We’ll provide two revision rounds and final 1080p H.264 files plus"
+    },
+    {
+      "id": "freelancer:40705413",
+      "title": "Adult Education 3D Animation",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-graphic-design/Adult-Education-Animation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "edu_research_3d",
+      "primarySegment": "formation",
+      "segments": [
+        "formation"
+      ],
+      "fitReasons": [
+        "Animation 3D éducative pour module adulte"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "edu_research_3d",
+          "label": "edu_research_3d"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the service and proof are in French. The user wrote in English. The language of the project? The project title is English, but the service description is French. The user wrote in English. The instruction: \"Écris dans la langue du projet.\" Likely they want French because they gave service and proof in French. But they also gave project details in English. Could be ambiguous. Usually they'd want French because they gave service in French. Let's output in French.\n\nWe need 4-6 sentences, short, professional, first person (Voxel). Show we understood need, link to service Contenu 3D éducatif & recherche, cite proof \"19 modules 3D éducatifs & de recherche (archive Voxel)\", end with light CTA. Cite the concrete project as proof of our historical (domain + year, without client name): \"Lynda _ Rigging a Cartoon Character in Maya 2016\" (education_research, 2016). So mention that we have done similar adult-oriented educational 3D work, e.g., that project.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons bien saisi que vous avez besoin d’une animation 3D claire et professionnelle, parfaitement synchronisée à votre script de deux minutes pour un module d’apprentissage destiné à des adultes.\n\nSentence 2: Chez Voxel Studio, notre offre « Contenu 3D éduc"
     }
   ]
 }
