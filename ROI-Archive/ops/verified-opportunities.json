@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T04:48:13+00:00",
+  "generatedAt": "2026-09-11T05:34:12+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1348,
+  "total": 1349,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 623
+      "count": 624
     },
     {
       "name": "États-Unis",
@@ -37733,6 +37733,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first personified as Voxel Studio (first person). Must show we understood need, relate to service \"Motion graphics produit & pub\", cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Write in language of the project: The project description is in English. So we must write in English. No fluff, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). Provide domain+year (product_ad_motion, 2020). So we need to mention that as proof of our history.\n\nWe need to keep 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I get that you need a polished product‑showcase video that blends live‑action with motion graphics to highlight your 2,000‑plus catalog and brand personality.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service is built exactly for that mix of clean animated call‑outs, text overlays and seamless transitions.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces in our archive, including the recent “Shapes Animation” (product_ad_motion, 2020) that married live‑action footage with dynamic 2D/3D graphics.\"\n\nSentence 4: Show process alignment: \"From script and storyboard to live‑action sourcing, custom animation, voice‑over, sound design and final 4K edit,"
+    },
+    {
+      "id": "freelancer:40704486",
+      "title": "Promotional Video Effects Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/video-post-editing/Promotional-Video-Effects-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "I’ve seen your brief and understand that the promo needs a visual punch — dynamic motion graphics, tasteful text call‑outs, and beat‑synced transitions — to keep the audience engaged from start to finish.  \nAt Voxel Studio we specialise in turning raw footage into polished, socially‑ready videos by adding exactly those effects"
     }
   ]
 }
