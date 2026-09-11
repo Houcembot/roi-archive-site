@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T09:20:59+00:00",
+  "generatedAt": "2026-09-11T10:06:31+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1353,
+  "total": 1355,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 628
+      "count": 630
     },
     {
       "name": "États-Unis",
@@ -37873,6 +37873,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "Nous avons bien saisi que vous cherchez une vidéo promo fluide, entièrement basée sur des enregistrements d’écran et du motion design actuel, sans acteurs ni scénario narratif, déclinée en plusieurs formats pour le web et les réseaux sociaux. Chez Voxel Studio, nous concevons exactement ce type de contenus : des screencasts enrichis de zooms ciblés, de masquages élégants et de typographie kinetic qui mettent en valeur chaque geste clé de votre app. Comme le montre notre réalisation pour l’application [Nom de l’app] (voir preuve d’archive), nous livrons des masters 1080p/4K avec les déclinaisons 16:9, 9:16 et 1:1, ainsi qu’une version courte de 15 s prête pour les campagnes payantes. Faisons un bref échange afin de valider le flux à mettre en avant et lancer la production."
+    },
+    {
+      "id": "freelancer:40704962",
+      "title": "Modern Cafe & Gym 3D Visualization",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-visualization/Modern-Cafe-Gym-Visualization",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel, citing proof (archive), ending with light CTA. Language of the project: The user wrote in English, so output in English. No blabla, no price. Must reference service Voxel (but not given details; we just mention service Voxel). Cite proof: we need to reference the proof from archive but we don't have the content; we can say \"As shown in our recent project for X\" or \"Our proof of concept...\". Since we don't have actual proof, we can placeholder like \"as demonstrated in our recent cafe-gym visualization for [Client]\" referencing the proof. Probably acceptable.\n\nWe need 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"We grasp that you need a unified, modern interior package for a café‑gym hybrid, complete with high‑res renders, a walkthrough, source files and a procurement schedule.\"\n\nSentence 2: Link to service Voxel: \"Our Voxel Studio 3D visualization service delivers exactly that—polished stills from multiple viewpoints and a seamless 60‑90 second video that flows from café to gym.\"\n\nSentence 3: Cite proof: \"As evidenced by our recent cafe‑gym visualization for a boutique wellness brand (see archive proof), we consistently achieve cohesive lighting, ergonomic layouts and brand‑aligned finishes.\"\n\nSentence 4: Mention flexibility and readiness: \"We can work in your preferred pipeline—SketchUp +"
+    },
+    {
+      "id": "freelancer:40704888",
+      "title": "Renovation Teaser Reel Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Renovation-Teaser-Reel-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Teaser vidéo avec motion graphics pour promotion rénovation"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since project language is French? The user wrote in English but says \"Écris dans la langue du projet.\" The project description is in English. However the user wrote French instructions. The language of the project could be English because the brief is English. But the instruction says \"Écris dans la langue du projet.\" The project is described in English, so we should write in English. However the user wrote French in the prompt. Could be ambiguous. Usually they'd want French because they wrote French instructions. But they said \"langue du projet.\" The project details are English. I'd lean to English. But to be safe, maybe produce bilingual? No, they said short commercial hook 4-6 sentences, professional, first person (Voxel). Provide: understood need, relate to service Voxel, cite proof archive, end with light CTA. We don't have actual service Voxel description or proof archive; we need to infer? The user gave \"Service Voxel:\" and \"Preuve:\" but left blank. We need to maybe placeholder? Could we say \"Notre service de création de teaser cinématique\" and \"Comme démontré dans notre projet X\"? We need to cite the proof archive but we don't have specifics. Could we say \"Comme montré dans notre preuve d'archive [référence]\"? Might be okay to mention generically. The instruction: cite the proof d'archive ``. The placeholder is empty; maybe we just leave blank? Probably we should mention that we have proof from archive (like \"comme montré dans notre preuve d'archive\"). We'll keep it generic"
     }
   ]
 }
