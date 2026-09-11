@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T22:10:39+00:00",
+  "generatedAt": "2026-09-11T22:56:44+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1364,
+  "total": 1365,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 445
+      "count": 446
     },
     {
       "name": "Australie",
@@ -10293,6 +10293,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a polished 3D‑animated brand promo that speaks to professionals and highlights your product’s strengths.  \nOur Motion graphics produit & pub service specializes in turning concepts into engaging, detail‑"
+    },
+    {
+      "id": "freelancer:40706046",
+      "title": "3D Animated Educational App Content",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-graphic-design/Animated-Educational-App-Content",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "edu_research_3d",
+      "primarySegment": "formation",
+      "segments": [
+        "formation"
+      ],
+      "fitReasons": [
+        "Educational 3D animation for children's app"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "edu_research_3d",
+          "label": "edu_research_3d"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service \"Contenu 3D éducatif & recherche\", citing proof \"19 modules 3D éducatifs & de recherche (archive Voxel)\", ending with a light CTA. Must be in the language of the project. The project description is in English (title, need). So we write in English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (education_research, 2021). So we need to mention that we have delivered similar work: e.g., \"Course AI\" (education_research, 2021) as part of our 19 modules. Provide CTA like \"Let's discuss how we can bring your app to life.\" Ensure 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need engaging 3D animations for early‑learner educational content, inspired by styles like Lingo Kids. Sentence 2: At Voxel Studio our “Contenu 3D éducatif & recherche” service specializes in exactly that—age‑appropriate, detail‑rich animations for children. Sentence 3: Our track record includes 19 modules of 3D educational and research content archived internally, such as the “Course AI” project (education_research, 2021). Sentence 4: Those modules demonstrate our ability to blend pedagogical goals with compelling visual storytelling for the 5‑8 age range. Sentence 5: Let’s schedule a brief"
     },
     {
       "id": "freelancer:40548766",
