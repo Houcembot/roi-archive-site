@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:30:59+00:00",
+  "generatedAt": "2026-09-11T00:16:31+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1346,
+  "total": 1347,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 440
+      "count": 441
     },
     {
       "name": "Australie",
@@ -10209,6 +10209,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We need to produce a short commercial pitch in French (since the project language is French? The user wrote in English but the instruction: \"Écris dans la langue du projet.\" The project description is in English. However the user wrote the request in English. The language of the project is English. So we need to write in English. The service is Motion graphics produit & pub (French term). The proof is \"57 productions motion graphics produit & publicité (archive Voxel)\". We need to cite the archive project: \"Course AI\" (product_ad_motion, 2021). Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service, cite proof, end with light CTA. No blabla, no price. Provide short pitch.\n\nLet's craft 5 sentences.\n\nSentence 1: We get that you need short, funny, educational vertical videos that hook in 3 seconds and work sound‑off.\n\nSentence 2: Our Motion graphics produit & pub service turns technical points into punchy, trend‑driven graphics that educate while entertaining.\n\nSentence 3: With 57 motion‑graphics product & ad productions in our archive—including the “Course AI” explainer (product_ad_motion, 2021)—we have proven we can blend humor and clear product storytelling.\n\nSentence 4: We’ll deliver vertical MP4s (15‑60 s) with captions, brand colours, CTA, and platform‑ready exports for TikTok, Reels and Facebook, all cleared for commercial use.\n\nSentence 5: Let’s discuss how many videos you’d"
+    },
+    {
+      "id": "freelancer:40704111",
+      "title": "Amazon Brand Ad Video",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Amazon-Brand-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production vidéo publicitaire produit avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a concise, high‑impact 25‑35 second Amazon Sponsored Brands"
     },
     {
       "id": "freelancer:40548766",
