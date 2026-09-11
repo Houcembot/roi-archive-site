@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T11:36:08+00:00",
+  "generatedAt": "2026-09-11T12:21:32+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1356,
+  "total": 1357,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 443
+      "count": 444
     },
     {
       "name": "Australie",
@@ -7751,6 +7751,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Write in language of the project (the project description is in English). No fluff, no price. Cite concrete project as proof: \"PUB DEMO\" (product_ad_motion, 2023). So mention that we have done similar SaaS/web-app demos, referencing that archive. Provide CTA like \"Let's schedule a quick call to kick off\". Ensure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"I understand you need crisp, feature‑focused demo videos that instantly convey your web app’s value to new users.\" Sentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in turning screen recordings into polished narratives with on‑screen text and visual highlights.\" Sentence 3: Cite proof: \"With 57 motion‑graphics product & advertising productions in our archive—including the recent “PUB DEMO” (product_ad_motion, 2023) for a SaaS client—we’ve delivered exactly the kind of concise, engaging demos you’re after.\" Sentence 4: Mention deliverables alignment: \"We can deliver a 90‑180 s main demo plus 3‑5 vertical reels, source files, and two revision rounds, ready to start immediately.\" Sentence 5: CTA: \"Let’s jump on a brief call today"
+    },
+    {
+      "id": "freelancer:40705194",
+      "title": "Rabbit Avatar Facial Rigging",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Rabbit-Avatar-Facial-Rigging",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 92,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Facial rigging & animation for rabbit avatar"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service \"Animation de personnages\", citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with light CTA. Write in language of the project: The user wrote in French? Actually the request is in French, but the project description is in English. The instruction: \"Écris dans la langue du projet.\" The project language appears to be English (the description is English). So we need to write in English. Provide 4-6 sentences, no fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). So we need to mention that as evidence of our experience.\n\nLet's craft: 5 sentences.\n\nSentence 1: We understand you need a clean facial rig for your rabbit avatar to enable smooth blinking, eye tracking, lip‑sync and expressive shapes in Animaze.\n\nSentence 2: Our Animation de personnages service specializes in refining animal‑character rigs, fixing eyelid seams and building precise blend‑shapes for speech and emotion.\n\nSentence 3: With 44 character‑animation & cartoon projects in our archive—including the Lemur Animations (cartoon_character_animation, 2020)—we have a proven track record delivering production‑ready rigs.\n\nSentence 4: We can deliver an editable Blender file, demo clips and Animaze‑ready assets, ready for testing and iteration.\n\nSentence 5: Let’s start with a short milestone"
     },
     {
       "id": "freelancer:40541144",
