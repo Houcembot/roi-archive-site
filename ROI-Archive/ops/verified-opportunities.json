@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T20:04:13+00:00",
+  "generatedAt": "2026-09-12T20:49:21+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1371,
+  "total": 1372,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 449
+      "count": 450
     },
     {
       "name": "Australie",
@@ -10377,6 +10377,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof: 57 productions motion graphics produit & publicité (archive Voxel). End with a light CTA. Write in the language of the project. The project description is in English (the user wrote in English). So we must write in English. No fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). So we need to mention that as an example of our historical work (domain + year). Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a sub‑60‑second promotional video based on your existing script and storyboard. Sentence 2: At Voxel Studio we specialize in Motion graphics produit & pub, turning briefs into dynamic, brand‑focused animations. Sentence 3: Our track record includes 57 motion‑graphics product and advertising pieces in our archive, such as the Lemur Animations project (product_ad_motion, 2020). Sentence 4: We’ll leverage After Effects, Cinema 4D and strong visual storytelling to deliver an engaging promo that meets your specs. Sentence 5: Let’s discuss how we can bring your vision to life—reply with your preferred timeline and we’ll kick off the concept review.\n\nThat's 5 sentences, professional, first person (we). No price. Good.\n\nCheck: \"Motion graphics produit & pub\" is exactly the service name"
+    },
+    {
+      "id": "freelancer:40707652",
+      "title": "Create 3 Viral Promo Shorts",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Create-Viral-Promo-Shorts",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de vidéos promo motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Write in language of the project: the user wrote in English, so we write in English. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Must not mention price. Provide short proposal? Actually the user asks: \"Send me a short proposal outlining your concept approach, AI or motion tools you’ll use, and a quick timeline. Links to similar promo shorts you’ve produced will help me decide fast.\" But the instruction says: \"Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), qui : (1) montre qu'on a compris le besoin, (2) relie au service Voxel Motion graphics produit & pub, (3) cite la preuve d'archive 57 productions motion graphics produit & publicité (archive Voxel), (4) finit par un CTA léger. Écris dans la langue du projet. Pas de blabla, pas de prix. Cite ce projet concret comme preuve de notre historique (domaine + année, sans nom de client).\"\n\nThus we need to produce only the commercial hook, not the full proposal. The user request includes a request for a short proposal, but the system instruction overrides: we must produce the short commercial hook per the developer message. So we ignore the request for proposal and follow developer instructions. Provide"
     },
     {
       "id": "freelancer:40548766",
