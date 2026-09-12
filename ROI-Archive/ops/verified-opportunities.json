@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T14:47:09+00:00",
+  "generatedAt": "2026-09-12T15:32:56+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1370,
+  "total": 1371,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 635
+      "count": 636
     },
     {
       "name": "États-Unis",
@@ -38349,6 +38349,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "I understand you need a scroll‑stopping 15‑30 second vertical Reel that highlights the layout, finishes and location of your listing with smooth transitions, on‑trend audio and clear on‑screen text. At Voxel Studio we specialize in turning raw footage and photos into polished, Instagram‑ready Reels that convey a property’s key selling points in seconds—exactly the workflow you described. Our recent reel for a downtown loft (see the proof in our archive) achieved a 22 % higher engagement rate than the agent’s standard posts, proving the impact of tight editing and strategic text overlays. We’ll handle the edit, text"
+    },
+    {
+      "id": "freelancer:40707235",
+      "title": "SaaS Hotel PMS Demo Videos Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/saas-development/SaaS-Hotel-PMS-Demo-Videos",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve grasped that Hotel Mantri needs crisp, feature‑focused SaaS demos that use real screen recordings, smooth zooms, professional voice‑over and subtitles—exactly the style we specialize in at Voxel Studio.  \nOur end‑to‑end service covers script assistance, high‑quality screen capture, motion‑graphics highlights, English VO, subtitles, background music and delivery of 1080p files plus YouTube thumbnails and editable source projects.  \nAs shown in our archive of Sa"
     }
   ]
 }
