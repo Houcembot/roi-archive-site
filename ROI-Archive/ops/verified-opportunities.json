@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T07:59:24+00:00",
+  "generatedAt": "2026-09-12T08:45:08+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1366,
+  "total": 1367,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 447
+      "count": 448
     },
     {
       "name": "Australie",
@@ -7313,6 +7313,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need a fast‑paced, vertical social ad that showcases eFootball’s latest features and speaks directly to 13‑ to 17‑year‑olds on Instagram Reels and TikTok.  \nOur Motion graphics produit & pub service specializes in turning gameplay footage into eye‑catching, trend‑savvy visuals with bold on‑screen text and a hook that lands in the"
+    },
+    {
+      "id": "freelancer:40706707",
+      "title": "Instagram Reel Advertisement Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Instagram-Reel-Advertisement-Creation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Édition de modèles AE pour publicité Instagram bilingue"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English (the brief). However the user wrote instructions in French. The \"langue du projet\" likely refers to the language of the project description, which is English. But the user wrote the request in French. The instruction: \"Écris dans la langue du projet.\" The project is about Instagram Reel Advertisement Creation, described in English. So we should write in English. However the user wrote the request in French, but the project description is English. Usually they'd want French because they wrote in French. But they explicitly say \"Écris dans la langue du projet.\" The project is described in English, so answer in English.\n\nWe need 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So include that.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need five Envato AE templates transformed into bilingual Instagram Reels with precise text, image, color, font, logo and music adjustments.\n\nSentence 2: At Voxel Studio, our Motion graphics produit & pub service specializes in polishing template‑based animations while preserving timing and enhancing brand consistency.\n\nSentence 3: We have delivered 57 motion‑graphics product and advertisement pieces, including the “Shapes Animation” ("
     },
     {
       "id": "freelancer:40545736",
