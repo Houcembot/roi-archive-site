@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T09:39:33+00:00",
+  "generatedAt": "2026-09-13T10:25:15+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1375,
+  "total": 1376,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 639
+      "count": 640
     },
     {
       "name": "États-Unis",
@@ -38489,6 +38489,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing understanding of need, linking to service product_ad, citing proof from archive (but proof is empty? The user gave \"Preuve:\" with nothing after. Possibly we need to reference the proof placeholder? Might need to say something like \"comme démontré dans notre réalisation précédente\" but we have no proof content. Could we infer that proof is missing? Maybe we should note that we have relevant experience in similar expo display videos (though not given). Since proof is empty, we might just say \"comme montré dans nos travaux précédents\" but that's not citing a specific proof. The instruction: \"cite la preuve d'archive ``\". The proof is empty, maybe we should just leave it blank? But we must cite it. Could we output something like \"(voir preuve)\"? Might be acceptable.\n\nWe need to write in French (language of project). No blabla, no price. 4-6 sentences.\n\nLet's craft: 4 sentences.\n\nSentence 1: Show we understood need: looping eye-catching video 2-3 min, 16:9, 2D animation.\n\nSentence 2: Relate to service product_ad: we create product advertisement videos that highlight branding, services, projects.\n\nSentence 3: Cite proof: maybe \"Comme démontré dans notre réalisation pour le salon X (voir preuve)\". Since proof empty, we can put \"(voir preuve)\" as placeholder.\n\nSentence 4-5: CTA léger: \"Discutons de votre storyboard dès maintenant\" etc.\n\nMake sure 4-6 sentences.\n\nLet's produce 5"
+    },
+    {
+      "id": "freelancer:40708466",
+      "title": "Engaging Instagram Reels Motion Graphics",
+      "sourceUrl": "https://www.freelancer.com/projects/after-effects/Engaging-Instagram-Reels-Motion-Graphics",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_m",
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_m",
+          "label": "product_ad_m"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve grasped that your Instagram Reels need crisp, performance‑driven motion graphics that keep viewers hooked from the first frame. With our product_ad_m service we specialize in turning"
     }
   ]
 }
