@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T16:28:19+00:00",
+  "generatedAt": "2026-09-13T17:12:44+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1381,
+  "total": 1382,
   "countryCount": 9,
   "countries": [
     {
@@ -57,7 +57,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 53
+      "count": 54
     },
     {
       "name": "Canada",
@@ -38655,7 +38655,36 @@
         }
       ],
       "lat": 20.6,
-      "lon": 78.9
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a high‑energy, character‑driven anime promo that cuts to the beat and works flawlessly across all short‑form platforms. At Voxel Studio we specialize in fast‑paced edits using"
+    },
+    {
+      "id": "freelancer:40709020",
+      "title": "Lead-Gen Prop Firm Videos",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Lead-Gen-Prop-Firm-Videos",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, and ending with light CTA. Must be in language of the project. The project description is in English. So write in English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Provide domain + year without client name. So we mention that we delivered motion graphics for an AI course product ad in 2021. Provide CTA like \"Let's discuss how we can craft your trader‑focused ads\" or \"Reply to schedule a kickoff\". Keep 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need polished, platform‑specific video ads that turn scrolling traders into qualified leads for your new prop firm.\"\n\nSentence 2: Link to service: \"Our Motion graphics produit & pub service translates brand guidelines and value propositions into concise scripts, clean motion graphics, and attention‑grabbing hooks built for feed, story, reel and pre‑roll placements.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product and advertising pieces, including a product ad for an AI‑focused course in 2021 that drove measurable engagement.\"\n\nSentence 4: Show capability: \"We provide platform‑optimized masters, cut‑downs, source files and caption‑ready exports, all with on‑screen CTAs and trackable URLs or QR codes.\"\n\nSent"
     }
   ]
 }
