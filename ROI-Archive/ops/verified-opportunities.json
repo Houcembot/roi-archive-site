@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T14:11:11+00:00",
+  "generatedAt": "2026-09-13T14:57:06+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1378,
+  "total": 1379,
   "countryCount": 9,
   "countries": [
     {
@@ -51,7 +51,7 @@
       "name": "Europe",
       "lat": 50,
       "lon": 10,
-      "count": 62
+      "count": 63
     },
     {
       "name": "Royaume-Uni",
@@ -7341,6 +7341,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), in French? The user says \"Écris dans la langue du projet.\" The project description is in English (the brief). However the user wrote instructions in French. The \"langue du projet\" likely refers to the language of the project description, which is English. But the user wrote the request in French. The instruction: \"Écris dans la langue du projet.\" The project is about Instagram Reel Advertisement Creation, described in English. So we should write in English. However the user wrote the request in French, but the project description is English. Usually they'd want French because they wrote in French. But they explicitly say \"Écris dans la langue du projet.\" The project is described in English, so answer in English.\n\nWe need 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. No blabla, no price. Cite concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So include that.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need five Envato AE templates transformed into bilingual Instagram Reels with precise text, image, color, font, logo and music adjustments.\n\nSentence 2: At Voxel Studio, our Motion graphics produit & pub service specializes in polishing template‑based animations while preserving timing and enhancing brand consistency.\n\nSentence 3: We have delivered 57 motion‑graphics product and advertisement pieces, including the “Shapes Animation” ("
+    },
+    {
+      "id": "freelancer:40708862",
+      "title": "Energetic Amazon A+ Supplement Video",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Energetic-Amazon-Supplement-Video",
+      "source": "marketplace:freelancer",
+      "country": "Europe",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Production vidéo motion graphics pour A+ Amazon"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 50,
+      "lon": 10,
+      "proposalDraft": "We’ve grasped that your Amazon A+ slot needs a high‑energy, 20‑second motion‑graphics video that turns browsers of “Trenbuterol” into buyers by spotlighting its German‑made quality, patented formula and performance promise.  \nAt Voxel Studio we specialize in **Motion graphics produit & pub**, crafting punchy, sales‑driven visuals that marry dynamic footage with kinetic type, on‑brand footage and precise call‑outs.  \nOur track record includes **57 productions motion graphics produit & publicité** in our archive, demonstrating consistent delivery of Amazon‑"
     },
     {
       "id": "freelancer:40545736",
