@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T11:20:03+00:00",
+  "generatedAt": "2026-09-14T12:05:37+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1398,
+  "total": 1399,
   "countryCount": 9,
   "countries": [
     {
@@ -57,7 +57,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 55
+      "count": 56
     },
     {
       "name": "Canada",
@@ -39133,6 +39133,33 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user wrote in English, but says \"Écris dans la langue du projet.\" The project language? The title and description are in English. So language of the project is English. So we need to write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Voxel (though service Voxel is blank? It says Service Voxel: then blank). We need to refer to service Voxel, maybe we can infer it's 3D motion graphics and realistic product demo videos. Use proof from archive (Preuve: blank). Hmm both Service Voxel and Preuve are blank. Possibly they expect us to fill with generic? But we cannot guess. Maybe we should note that we have proven expertise in realistic 3D product demo videos, referencing our archive (e.g., \"as shown in our recent demo for XYZ product\"). Since no specifics given, we can say \"as evidenced by our portfolio\". Provide CTA: \"Let's discuss how we can bring your product to life.\"\n\nWe must avoid blabla, no prices. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a realistic 3D motion‑graphics video that clearly demonstrates your product’s features. Sentence 2: At Voxel Studio we specialize in turning complex specifications into engaging, photorealistic animations. Sentence 3: Our service delivers end‑to‑end 3D product demo videos, from concept to final render, ensuring every detail aligns with your brand"
+    },
+    {
+      "id": "freelancer:40710647",
+      "title": "Courier Platform Promo Video Production",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Courier-Platform-Promo-Video-Production",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo promo avec motion graphics et branding"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2
     }
   ]
 }
