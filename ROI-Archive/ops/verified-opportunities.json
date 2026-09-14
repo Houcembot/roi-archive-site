@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T06:02:21+00:00",
+  "generatedAt": "2026-09-14T06:47:31+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1391,
+  "total": 1392,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 456
+      "count": 457
     },
     {
       "name": "Australie",
@@ -38937,6 +38937,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We grasp that you need a short, fully animated promo that spotlights your game’s newest features with a light‑hearted, energetic vibe and works in"
+    },
+    {
+      "id": "freelancer:40710021",
+      "title": "TikTok Product Demo Sales Campaign",
+      "sourceUrl": "https://www.freelancer.com/projects/social-media-marketing/TikTok-Product-Demo-Sales-Campaign",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (language of project). Must be 1st person (Voxel). Show we understood need, tie to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Cite concrete project as proof: \"PUB DEMO\" (product_ad_motion, 2023). No blabla, no price. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"Je vois que votre objectif est de transformer chaque produit affilié en une démonstration TikTok qui capte l’attention et génère directement des ventes, pas seulement des vues.\"\n\nSentence 2: Relate to service: \"Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de concevoir des vidéos courtes, dynamiques et parfaitement intégrées au flux « For You » tout en intégrant des appels à l’action clairs.\"\n\nSentence 3: Cite proof: \"Nous avons déjà réalisé 57 productions motion graphics produit & publicité, dont la récente « PUB DEMO » (product_ad_motion, 2023) qui a démontré comment allier créativité et conversion.\"\n\nSentence 4: Show capability: \"Nous pouvons élaborer un calendrier de contenus quotidien, tourner ou remixer vos assets, ajouter du texte on‑screen optimisé et fournir des rapports hebdomadaires sur VTR, CTR et ventes attribuées.\"\n\nSentence 5: Light CTA: \"Discutons dès"
     }
   ]
 }
