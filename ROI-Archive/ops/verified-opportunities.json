@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T10:34:42+00:00",
+  "generatedAt": "2026-09-14T11:20:03+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1396,
+  "total": 1398,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 647
+      "count": 648
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 459
+      "count": 460
     },
     {
       "name": "Australie",
@@ -39077,6 +39077,62 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need"
+    },
+    {
+      "id": "freelancer:40709105",
+      "title": "Promotional Video Content Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Promotional-Video-Content-Creation-40709105",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Promotional video with motion"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with a light CTA. Write in language of the project: the brief is in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"Shapes Animation\" (product_ad_motion, 2020). So we need to mention that we have done similar work, referencing that project. Provide CTA like \"Let's discuss how we can bring your next promo to life\" etc.\n\nMake sure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need polished promotional videos that work across web, social and paid channels, with full editing, motion graphics and sound design.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in exactly that end‑to‑end workflow—colour grading, branded intros/outros, text overlays and animation.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product and advertising pieces (archive Voxel), including the recent “Shapes Animation” (product_ad_motion, 2020) that showcases the same blend of editing and motion graphics you’re after.\"\n\nSentence 4: Offer next step: \"I’d be happy to share a short reel of relevant work and outline how we can handle your brand guidelines, footage and delivery specs.\"\n\nSentence 5: Light C"
+    },
+    {
+      "id": "freelancer:40710581",
+      "title": "Realistic 3D Product Demo Video -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/rendering/Realistic-Product-Demo-Video-40710581",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user wrote in English, but says \"Écris dans la langue du projet.\" The project language? The title and description are in English. So language of the project is English. So we need to write in English. Provide 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Voxel (though service Voxel is blank? It says Service Voxel: then blank). We need to refer to service Voxel, maybe we can infer it's 3D motion graphics and realistic product demo videos. Use proof from archive (Preuve: blank). Hmm both Service Voxel and Preuve are blank. Possibly they expect us to fill with generic? But we cannot guess. Maybe we should note that we have proven expertise in realistic 3D product demo videos, referencing our archive (e.g., \"as shown in our recent demo for XYZ product\"). Since no specifics given, we can say \"as evidenced by our portfolio\". Provide CTA: \"Let's discuss how we can bring your product to life.\"\n\nWe must avoid blabla, no prices. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a realistic 3D motion‑graphics video that clearly demonstrates your product’s features. Sentence 2: At Voxel Studio we specialize in turning complex specifications into engaging, photorealistic animations. Sentence 3: Our service delivers end‑to‑end 3D product demo videos, from concept to final render, ensuring every detail aligns with your brand"
     }
   ]
 }
