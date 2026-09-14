@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T12:05:37+00:00",
+  "generatedAt": "2026-09-14T12:51:13+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1399,
+  "total": 1400,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 460
+      "count": 461
     },
     {
       "name": "Australie",
@@ -7863,6 +7863,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service \"Animation de personnages\", citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", ending with light CTA. Write in language of the project: The user wrote in French? Actually the request is in French, but the project description is in English. The instruction: \"Écris dans la langue du projet.\" The project language appears to be English (the description is English). So we need to write in English. Provide 4-6 sentences, no fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). So we need to mention that as evidence of our experience.\n\nLet's craft: 5 sentences.\n\nSentence 1: We understand you need a clean facial rig for your rabbit avatar to enable smooth blinking, eye tracking, lip‑sync and expressive shapes in Animaze.\n\nSentence 2: Our Animation de personnages service specializes in refining animal‑character rigs, fixing eyelid seams and building precise blend‑shapes for speech and emotion.\n\nSentence 3: With 44 character‑animation & cartoon projects in our archive—including the Lemur Animations (cartoon_character_animation, 2020)—we have a proven track record delivering production‑ready rigs.\n\nSentence 4: We can deliver an editable Blender file, demo clips and Animaze‑ready assets, ready for testing and iteration.\n\nSentence 5: Let’s start with a short milestone"
+    },
+    {
+      "id": "freelancer:40710738",
+      "title": "Rabbit Avatar Facial Rigging -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Rabbit-Avatar-Facial-Rigging-40710738",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 92,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Rigging facial d'avatar animal, animation de personnage"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Animation de personnages, citing proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", citing the concrete project \"Lemur Animations\" (cartoon_character_animation, 2020) as proof of our history (domain + year, no client name). End with a light CTA. Write in language of the project: the project description is in English, so we write in English. No fluff, no price. Provide 4-6 sentences. Ensure we mention we understood need (facial rigging for rabbit avatar, eyelids, eye tracking, mouth shapes, expressions, Animaze-ready). Link to service Animation de personnages. Cite proof: 44 projects... and mention Lemur Animations (cartoon_character_animation, 2020). End with CTA like \"Let's discuss how we can bring your rabbit avatar to life—feel free to share the files and we'll start with a milestone.\" Keep it concise.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a clean facial rig for your rabbit avatar—smooth eyelid blinking, eye tracking, lip‑sync shapes and core expressions while preserving Lilla’s look.\n\nSentence 2: Our Animation de personnages service specializes in refining dense, triangulated meshes and building reliable rigs for real‑time tools like Animaze.\n\nSentence 3: With 44 character‑animation & cartoon projects in our archive, we’ve delivered similar work, exemplified by the Lemur"
     },
     {
       "id": "freelancer:40541144",
@@ -39159,7 +39187,8 @@
         }
       ],
       "lat": 54,
-      "lon": -2
+      "lon": -2,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof 57 productions, ending with light CTA. Must be in language of the project (English). No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that as example of our historical work (domain+year). Provide CTA like \"Let's discuss how we can bring your courier platform to life\" etc.\n\nMake sure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"We understand you need a 45‑60 second B2B promo that showcases instant quotes, AI booking, same‑day delivery, live tracking and 24/7 reliability.\"\n\nSentence 2: Link to service: \"Our Motion graphics produit & pub service turns your branding, screen recordings and footage into a polished, modern video that feels credible, not AI‑generic.\"\n\nSentence 3: Cite proof: \"With 57 motion‑graphics product and advertising productions in our archive—including the 2021 ‘Course AI’ product ad—we have the experience to deliver exactly what you envision.\"\n\nSentence 4: Maybe another sentence reinforcing: \"We’ll combine your assets with tailored stock footage, custom graphics, text and professional music to highlight each key service.\"\n\nSentence 5: CTA: \"Let’s schedule a brief call to explore how we can bring your courier platform’s story to life.\"\n\nCheck"
     }
   ]
 }
