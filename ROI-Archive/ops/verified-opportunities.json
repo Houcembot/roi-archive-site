@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T03:00:42+00:00",
+  "generatedAt": "2026-09-14T03:46:16+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1388,
+  "total": 1389,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 455
+      "count": 456
     },
     {
       "name": "Australie",
@@ -38853,6 +38853,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We’ve grasped that you need a crisp, projector‑ready launch video that walks viewers through registration, catalog browsing, and checkout with high‑contrast graphics and readable text for a big‑screen experience.  \nOur Motion graphics produit & pub service specializes in turning software flows into polished, brand‑aligned motion pieces—exactly the expertise required for your e‑commerce unveiling.  \nWith 57 motion‑graphics product and advertisement productions in our archive, including the recent “PUB DEMO” (product_ad_motion, 2023) demo for projection, we have a"
+    },
+    {
+      "id": "freelancer:40709703",
+      "title": "Videos promocionales para ecommerce",
+      "sourceUrl": "https://www.freelancer.com/projects/claude/Videos-promocionales-para-ecommerce",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user wrote in Spanish but says \"Écris dans la langue du projet.\" The project language is Spanish (the user wrote Spanish). So we need to write in Spanish. Must be professional, 1st person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof: 57 productions motion graphics produit & publicité (archive Voxel). End with light CTA. Cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). No price, no fluff. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Entendemos que necesita videos promocionales breves y profesionales que destaquen sus productos en e‑commerce y redes sociales.\"\n\nSentence 2: Relate to service: \"En Voxel Studio, nuestro servicio de Motion graphics produit & pub está especializado en crear exactamente ese tipo de piezas.\"\n\nSentence 3: Cite proof: \"Contamos con 57 producciones de motion graphics para producto y publicidad en nuestro archivo, entre ellas el proyecto “Color Pen Animations” (product_ad_motion, 2020), que demostró nuestra capacidad para combinar guion, animación y adaptación multi‑formato.\"\n\nSentence 4: Mention deliverables briefly: \"Le entregaremos guion o esquema visual, versión final Full HD o superior con archivo editable y miniatura destacada, todo listo para publicar.\"\n\nSentence 5: CTA: \"¿Podemos agendar una"
     }
   ]
 }
