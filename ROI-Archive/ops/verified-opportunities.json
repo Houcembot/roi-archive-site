@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T09:03:29+00:00",
+  "generatedAt": "2026-09-14T09:49:04+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1394,
+  "total": 1395,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 646
+      "count": 647
     },
     {
       "name": "États-Unis",
@@ -39021,6 +39021,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since project language is French? The user wrote in English, but says \"Écris dans la langue du projet.\" The project title is English, but likely they want French? The user wrote in English but the instruction says French. Usually these tasks: they want French. We'll output French.\n\nWe need to show we understood need, relate to Voxel service (which is blank? Service Voxel: empty). We need to infer service: likely Voxel Studio offers short-form video production for social stories. We'll mention that.\n\nCite proof of archive: Preuve: empty. We need to cite a proof from archive, but none given. Perhaps we can say \"comme démontré dans notre récent projet pour X\" but we have no data. We could say \"comme le montre notre portfolio de story videos\" as proof.\n\nWe need CTA light: e.g., \"Disponible pour un appel rapide cette semaine pour voir quelques exemples.\"\n\nMake 4-6 sentences, professional, first person (Voxel). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"Je comprends que vous avez besoin de vidéos stories verticales, percutantes de 15‑45 s, prêtes à être publiées sur Instagram, Facebook, TikTok et LinkedIn.\"\n\nSentence 2: Relate to service: \"Chez Voxel Studio, nous prenons en charge tout le processus, de l’idée au montage final, avec storyboard, tournage ou motion‑graphics, typographie sur‑marque, musique licenciée"
+    },
+    {
+      "id": "freelancer:40710350",
+      "title": "AI 3D Animated Logo Reveal",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Animated-Logo-Reveal",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need"
     }
   ]
 }
