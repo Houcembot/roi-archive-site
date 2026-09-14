@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T21:53:17+00:00",
+  "generatedAt": "2026-09-14T22:39:02+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1403,
+  "total": 1404,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 649
+      "count": 650
     },
     {
       "name": "États-Unis",
@@ -7397,6 +7397,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We’ve understood that you need a concise, upbeat 90‑second video that introduces your SaaS product with a casual tone, on‑screen text, light motion graphics and screen‑recorded app footage.  \nOur Motion graphics produit & pub service specializes in turning exactly this mix of narration, animation and UI demo into a polished, hook‑driven intro that feels approachable rather than stiff.  \nWith 57 motion‑graphics product and advertising pieces in our archive, we bring proven expertise to every frame – for example, the “Lemur Animations” product_ad_motion project from 2020 delivered a similar blend of casual voice‑over, branded UI snippets and energetic graphics.  \nWe’ll handle creative direction, scripting support, editing in Premiere Pro"
+    },
+    {
+      "id": "freelancer:40711635",
+      "title": "Dynamic 3D Motion Logo",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-logo/Dynamic-Motion-Logo",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création d'un logo animé 3D dynamique"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a short, punchy 3‑D animation that seamlessly reveals your name, icon, and tagline in one dynamic flourish.  \nOur Motion graphics produit & pub service is"
     },
     {
       "id": "freelancer:40545736",
