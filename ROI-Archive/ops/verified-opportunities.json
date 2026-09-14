@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T22:39:02+00:00",
+  "generatedAt": "2026-09-14T23:24:38+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1404,
+  "total": 1405,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 462
+      "count": 463
     },
     {
       "name": "Australie",
@@ -7425,6 +7425,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We understand you need a short, punchy 3‑D animation that seamlessly reveals your name, icon, and tagline in one dynamic flourish.  \nOur Motion graphics produit & pub service is"
+    },
+    {
+      "id": "freelancer:40711656",
+      "title": "Facebook Brand Story Video",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Facebook-Brand-Story-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création vidéo motion graphics pour Story Facebook"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you need a short, polished Facebook Story that instantly tells who you are and why you matter in a 15‑ to 20‑second vertical format.  \nOur Motion graphics produit & pub service will transform your logo"
     },
     {
       "id": "freelancer:40545736",
