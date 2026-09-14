@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T09:49:04+00:00",
+  "generatedAt": "2026-09-14T10:34:42+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1395,
+  "total": 1396,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 458
+      "count": 459
     },
     {
       "name": "Australie",
@@ -7369,6 +7369,34 @@
       "lat": 50,
       "lon": 10,
       "proposalDraft": "We’ve grasped that your Amazon A+ slot needs a high‑energy, 20‑second motion‑graphics video that turns browsers of “Trenbuterol” into buyers by spotlighting its German‑made quality, patented formula and performance promise.  \nAt Voxel Studio we specialize in **Motion graphics produit & pub**, crafting punchy, sales‑driven visuals that marry dynamic footage with kinetic type, on‑brand footage and precise call‑outs.  \nOur track record includes **57 productions motion graphics produit & publicité** in our archive, demonstrating consistent delivery of Amazon‑"
+    },
+    {
+      "id": "freelancer:40710472",
+      "title": "SAAS Software Product- Video Creation- Part 1",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/SAAS-Software-Product-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo motion graphics pour promo produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We’ve understood that you need a concise, upbeat 90‑second video that introduces your SaaS product with a casual tone, on‑screen text, light motion graphics and screen‑recorded app footage.  \nOur Motion graphics produit & pub service specializes in turning exactly this mix of narration, animation and UI demo into a polished, hook‑driven intro that feels approachable rather than stiff.  \nWith 57 motion‑graphics product and advertising pieces in our archive, we bring proven expertise to every frame – for example, the “Lemur Animations” product_ad_motion project from 2020 delivered a similar blend of casual voice‑over, branded UI snippets and energetic graphics.  \nWe’ll handle creative direction, scripting support, editing in Premiere Pro"
     },
     {
       "id": "freelancer:40545736",
