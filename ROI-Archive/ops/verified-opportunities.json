@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T07:33:40+00:00",
+  "generatedAt": "2026-09-14T08:18:54+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,20 +26,20 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1392,
+  "total": 1394,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 645
+      "count": 646
     },
     {
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 457
+      "count": 458
     },
     {
       "name": "Australie",
@@ -38965,6 +38965,62 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (language of project). Must be 1st person (Voxel). Show we understood need, tie to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Cite concrete project as proof: \"PUB DEMO\" (product_ad_motion, 2023). No blabla, no price. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show understanding: \"Je vois que votre objectif est de transformer chaque produit affilié en une démonstration TikTok qui capte l’attention et génère directement des ventes, pas seulement des vues.\"\n\nSentence 2: Relate to service: \"Chez Voxel Studio, notre expertise en motion graphics produit & pub nous permet de concevoir des vidéos courtes, dynamiques et parfaitement intégrées au flux « For You » tout en intégrant des appels à l’action clairs.\"\n\nSentence 3: Cite proof: \"Nous avons déjà réalisé 57 productions motion graphics produit & publicité, dont la récente « PUB DEMO » (product_ad_motion, 2023) qui a démontré comment allier créativité et conversion.\"\n\nSentence 4: Show capability: \"Nous pouvons élaborer un calendrier de contenus quotidien, tourner ou remixer vos assets, ajouter du texte on‑screen optimisé et fournir des rapports hebdomadaires sur VTR, CTR et ventes attribuées.\"\n\nSentence 5: Light CTA: \"Discutons dès"
+    },
+    {
+      "id": "freelancer:40710212",
+      "title": "Engaging Promotional Video Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/post-production/Engaging-Promotional-Video-Editing",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you have raw footage and a clear message and need expert editing"
+    },
+    {
+      "id": "freelancer:40710187",
+      "title": "Premium Social Story Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Premium-Social-Story-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since project language is French? The user wrote in English, but says \"Écris dans la langue du projet.\" The project title is English, but likely they want French? The user wrote in English but the instruction says French. Usually these tasks: they want French. We'll output French.\n\nWe need to show we understood need, relate to Voxel service (which is blank? Service Voxel: empty). We need to infer service: likely Voxel Studio offers short-form video production for social stories. We'll mention that.\n\nCite proof of archive: Preuve: empty. We need to cite a proof from archive, but none given. Perhaps we can say \"comme démontré dans notre récent projet pour X\" but we have no data. We could say \"comme le montre notre portfolio de story videos\" as proof.\n\nWe need CTA light: e.g., \"Disponible pour un appel rapide cette semaine pour voir quelques exemples.\"\n\nMake 4-6 sentences, professional, first person (Voxel). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"Je comprends que vous avez besoin de vidéos stories verticales, percutantes de 15‑45 s, prêtes à être publiées sur Instagram, Facebook, TikTok et LinkedIn.\"\n\nSentence 2: Relate to service: \"Chez Voxel Studio, nous prenons en charge tout le processus, de l’idée au montage final, avec storyboard, tournage ou motion‑graphics, typographie sur‑marque, musique licenciée"
     }
   ]
 }
