@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T05:16:37+00:00",
+  "generatedAt": "2026-09-14T06:02:21+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1390,
+  "total": 1391,
   "countryCount": 9,
   "countries": [
     {
@@ -45,7 +45,7 @@
       "name": "Australie",
       "lat": -25,
       "lon": 133,
-      "count": 63
+      "count": 64
     },
     {
       "name": "Europe",
@@ -10433,6 +10433,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof 57 productions, finish with light CTA. Write in language of the project: the user wrote in English, so we write in English. No blabla, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). Must not mention price. Provide short proposal? Actually the user asks: \"Send me a short proposal outlining your concept approach, AI or motion tools you’ll use, and a quick timeline. Links to similar promo shorts you’ve produced will help me decide fast.\" But the instruction says: \"Rédige une accroche commerciale courte (4-6 phrases), professionnelle, à la 1ʳᵉ personne (Voxel), qui : (1) montre qu'on a compris le besoin, (2) relie au service Voxel Motion graphics produit & pub, (3) cite la preuve d'archive 57 productions motion graphics produit & publicité (archive Voxel), (4) finit par un CTA léger. Écris dans la langue du projet. Pas de blabla, pas de prix. Cite ce projet concret comme preuve de notre historique (domaine + année, sans nom de client).\"\n\nThus we need to produce only the commercial hook, not the full proposal. The user request includes a request for a short proposal, but the system instruction overrides: we must produce the short commercial hook per the developer message. So we ignore the request for proposal and follow developer instructions. Provide"
+    },
+    {
+      "id": "freelancer:40709956",
+      "title": "Character Rig for Animated Short Film",
+      "sourceUrl": "https://www.freelancer.com/projects/3d-rigging/Character-Rig-for-Animated-Short",
+      "source": "marketplace:freelancer",
+      "country": "Australie",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Demande de rigging personnage pour court métrage"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": -25,
+      "lon": 133,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, link to service \"Animation de personnages\", cite proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", end with light CTA. Write in language of the project: The user wrote in French (title in English but description French). So we write in French. No fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). So we need to mention that we have done \"Lemur Animations\" (cartoon character animation, 2020) as part of the 44 projects.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons compris que vous cherchez un character rig prêt à être animé pour votre court métrage animé.\n\nSentence 2: Chez Voxel Studio, notre expertise en Animation de personnages nous permet de transformer vos modèles en rigs fluides et prêts à l’animation.\n\nSentence 3: Cette compétence s’appuie sur notre historique de 44 projets d’animation de personnages & cartoon, dont le projet « Lemur Animations » (cartoon_character_animation, 2020) réalisé pour un court métrage similaire.\n\nSentence 4: Nous garantissons un rig optimisé pour les pipelines de production 3D, réduisant le temps de mise en place et maximisant la qualité du mouvement.\n\nSentence 5: Souhaitez-vous que nous étudions votre fichier et vous proposions une première version de rig d"
     },
     {
       "id": "freelancer:40548766",
