@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T09:58:20+00:00",
+  "generatedAt": "2026-09-15T10:44:08+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1409,
+  "total": 1410,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 653
+      "count": 654
     },
     {
       "name": "États-Unis",
@@ -39441,6 +39441,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", ending with light CTA. Write in language of the project: The user wrote in English. So we need English. No blabla, no price. Cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). So we need to mention that as part of proof? The proof is 57 productions; we also need to cite the concrete project as proof of our historical (domain + year, without client name). So we can say: \"Like our 'Color Pen Animations' (product_ad_motion, 2020) ...\". Must be 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need elegant, Instagram‑ready vertical videos that showcase each cake’s texture and detail while driving add‑to‑cart clicks.\"\n\nSentence 2: Link to service: \"Our Motion graphics produit & pub service is built exactly for that—crafting polished product‑focused motion pieces that feel premium and on‑brand.\"\n\nSentence 3: Cite proof: \"We’ve delivered 57 motion‑graphics product & pub productions in our archive, including the recent 'Color Pen Animations' (product_ad_motion, 2020) for a similar premium showcase.\"\n\nSentence 4: Show capability: \"Whether you provide raw clips or want us to handle concept,"
+    },
+    {
+      "id": "freelancer:40712713",
+      "title": "Dynamic Furniture Hardware Reels",
+      "sourceUrl": "https://www.freelancer.com/projects/video-editing/Dynamic-Furniture-Hardware-Reels",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de reels dynam"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", finish with light CTA. Write in language of the project: the project description is in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"2012-10-TT Mode de paiement\" (product_ad_motion, 2012). So we need to mention that as an example of our archive.\n\nWe need to produce 4-6 sentences. Let's do 5 sentences.\n\nSentence 1: Show we understood need: \"We get that your furniture‑hardware reels need to be fast‑paced, clean, and showcase design, function, and installation in under 35 seconds.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service turns raw footage into exactly that—dynamic edits with subtle music, colour‑corrected visuals, and purposeful text callouts.\"\n\nSentence 3: Cite proof: \"To date we’ve delivered 57 motion‑graphics product and advertising pieces, including the 2012‑10‑TT Mode de paiement project (product_ad_motion, 2012).\"\n\nSentence 4: Show capability for ongoing need: \"We can handle your volume of 8‑10 reels per month, delivering Instagram‑ and Facebook‑ready MP4s that meet the 20‑35"
     }
   ]
 }
