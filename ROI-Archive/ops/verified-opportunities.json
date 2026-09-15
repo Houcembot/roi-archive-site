@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T06:57:07+00:00",
+  "generatedAt": "2026-09-15T07:42:35+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1407,
+  "total": 1408,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 651
+      "count": 652
     },
     {
       "name": "États-Unis",
@@ -10573,6 +10573,34 @@
       "lat": -25,
       "lon": 133,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel). Must show we understood need, link to service \"Animation de personnages\", cite proof \"44 projets d'animation de personnages & cartoon (archive Voxel)\", end with light CTA. Write in language of the project: The user wrote in French (title in English but description French). So we write in French. No fluff, no price. Cite the concrete project as proof: \"Lemur Animations\" (cartoon_character_animation, 2020). So we need to mention that we have done \"Lemur Animations\" (cartoon character animation, 2020) as part of the 44 projects.\n\nLet's craft 5 sentences.\n\nSentence 1: Nous avons compris que vous cherchez un character rig prêt à être animé pour votre court métrage animé.\n\nSentence 2: Chez Voxel Studio, notre expertise en Animation de personnages nous permet de transformer vos modèles en rigs fluides et prêts à l’animation.\n\nSentence 3: Cette compétence s’appuie sur notre historique de 44 projets d’animation de personnages & cartoon, dont le projet « Lemur Animations » (cartoon_character_animation, 2020) réalisé pour un court métrage similaire.\n\nSentence 4: Nous garantissons un rig optimisé pour les pipelines de production 3D, réduisant le temps de mise en place et maximisant la qualité du mouvement.\n\nSentence 5: Souhaitez-vous que nous étudions votre fichier et vous proposions une première version de rig d"
+    },
+    {
+      "id": "freelancer:40712399",
+      "title": "Minimalist Instagram Motion Graphics",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-animate/Minimalist-Instagram-Motion-Graphics",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de motion‑graphics minimaliste pour Instagram"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", and ending with a light CTA. Must be in language of the project (English). No fluff, no price. Cite the concrete project as proof: \"Color Pen Animations\" (product_ad_motion, 2020). So we need to mention that project as evidence of our track record.\n\nWe need to ensure we include the proof number and the project citation. Probably something like: \"We’ve already delivered 57 motion‑graphics product & pub pieces, including the 2020 'Color Pen Animations' ...\". Then CTA: \"Let’s schedule a quick call to lock the storyboard\" etc.\n\nMake sure 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Show we understood need: \"I see you need a calm, elegant 20‑30 s Instagram reel built from clean illustrations, with purposeful motion that serves the script.\"\n\nSentence 2: Relate to service: \"Our Motion graphics produit & pub service specializes in turning tight scripts into pixel‑perfect vertical animations.\"\n\nSentence 3: Cite proof: \"To date we’ve completed 57 motion‑graphics product & publicité pieces (archive Voxel), such as the 2020 'Color Pen Animations' (product_ad_motion).\"\n\nSentence 4: Offer next step: \"Share a couple of relevant reels once we align"
     },
     {
       "id": "freelancer:40548766",
