@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T14:30:17+00:00",
+  "generatedAt": "2026-09-15T15:15:19+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1414,
+  "total": 1415,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 656
+      "count": 657
     },
     {
       "name": "États-Unis",
@@ -7481,6 +7481,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you need an urgent 2‑day SaaS product explainer in Arabic, with premium motion graphics and proper RTL typ"
+    },
+    {
+      "id": "freelancer:40713178",
+      "title": "Instagram Reels Product Promo Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/instagram-marketing/Instagram-Reels-Product-Promo-Edit",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics product promo edit for Instagram Reel"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the service and proof are in French. The language of the project? The project title and description are English. So we should write in English. Provide a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need a high‑energy Instagram Reel that turns raw footage into a scroll‑stopping product showcase with on‑brand motion graphics and sound‑off captions.\n\nSentence 2: Our Motion graphics produit & pub service specializes in exactly that—crafting vertical, fast‑paced reels that highlight key benefits in the first five seconds and drive straight to purchase.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive, we bring proven expertise to every frame.\n\nSentence 4: For example, our “Course AI” project (product_ad_motion, 2021) delivered a vertical Reel that combined subtle callouts, trending transitions and colour‑graded aesthetics to boost engagement.\n\nSentence 5: Let’s start with a frame‑accurate review link and deliver"
     },
     {
       "id": "freelancer:40545736",
@@ -39579,7 +39607,8 @@
         }
       ],
       "lat": 38,
-      "lon": -97
+      "lon": -97,
+      "proposalDraft": "We understand you need a 30‑second animated video that clearly presents your service and its benefits.  \nOur Motion"
     }
   ]
 }
