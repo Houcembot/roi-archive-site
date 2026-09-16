@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T23:32:58+00:00",
+  "generatedAt": "2026-09-16T00:18:12+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1418,
+  "total": 1419,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 467
+      "count": 468
     },
     {
       "name": "Australie",
@@ -39693,6 +39693,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in the language of the project. The project is in English. So we write in English, professional, first person (Voxel). Must show we understood the need, relate to Voxel product service, cite the proof (but proof is empty? The field \"Preuve:\" is blank; maybe we need to reference something like \"as shown in our portfolio\" but we have no proof. Possibly we need to leave placeholder? The instruction: \"cite la preuve d'archive ``\". The proof is empty, maybe we just mention \"as demonstrated in our archive\" or similar. Since no specific proof given, we can say \"as shown in our archive of past projects\". Must not mention price. Must be 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need photorealistic, cinematic product videos that faithfully reflect your premium packaging designs, not just slideshows.\n\nSentence 2: At Voxel Studio, our product service transforms your multi‑angle photography into high‑end AI‑driven videos that preserve every detail—shape, branding, typography, and mechanism.\n\nSentence 3: Using a blend of Runway, Kling, Veo, Sora, Blender and After Effects, we reconstruct the exact product from your photos and compose a commercial‑grade narrative.\n\nSentence 4: As demonstrated in our archive of past packaging visualizations, we consistently deliver videos that look like professionally produced product commercials.\n\nSentence 5: Let’s discuss how we can turn your selected projects into the cinematic showcases you envision—reply to this message to"
+    },
+    {
+      "id": "freelancer:40713938",
+      "title": "Evil Girlfriend 3D Anime Short",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Evil-Girlfriend-Anime-Short",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "At Voxel Studio we’ve grasped exactly what you need: a sweet‑looking high‑school girl whose charm slowly reveals a razor‑sharp manipulative edge, told through subtle facial rigs, tense camera work and atmospheric lighting.  \nOur 3D anime‑short"
     }
   ]
 }
