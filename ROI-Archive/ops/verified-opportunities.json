@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T08:38:19+00:00",
+  "generatedAt": "2026-09-16T09:23:04+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1424,
+  "total": 1425,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 468
+      "count": 469
     },
     {
       "name": "Australie",
@@ -39861,6 +39861,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably \"explainer video\" service), citing proof from archive (the \"Preuve:\" field is empty? Actually the user gave \"Preuve:\" but no content. Possibly we need to cite the proof from archive but it's missing; maybe we need to reference that we have relevant samples? Since no proof given, we can say \"comme le montre notre portfolio\" referencing the proof. We'll write in French (project language is French). No price, no blabla. Provide CTA light (e.g., \"Discutons-en rapidement\"). 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Nous avons bien saisi que votre portail d’emploi a besoin d’une vidéo explicative qui présente clairement le processus de dépôt d’offres, la recherche de candidats et la gestion des candidatures, tout en parlant autant aux recruteurs qu’aux demandeurs d’emploi.\"\n\nSentence 2: Relate to service Voxel: \"Chez Voxel Studio, nous concevons des vidéos explainer sur mesure, alliant storytelling fluide et animation dynamique pour rendre les fonctionnalités techniques immédiatement compréhensibles.\"\n\nSentence 3: Cite proof: \"Comme le montre notre réalisation récente pour un site de recrutement similaire (voir preuve en annexe), nous avons su augmenter l’engagement des visiteurs de plus de 35 % grâce à un scénario centré sur les bénéfices utilisateurs.\"\n\nSentence 4: Highlight skills"
+    },
+    {
+      "id": "freelancer:40714739",
+      "title": "Cinematic Animated Book Teasers",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-animation/Cinematic-Animated-Book-Teasers",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "character_animation",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Animation de personnages cinémat"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "character_animation",
+          "label": "character_animation"
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of project is English. So we need English. Must be professional, first person (Voxel). Show we understood need, relate to service Animation de personnages, cite proof \"44 projects of character & cartoon animation (archive Voxel)\", finish with light CTA. Cite concrete project as proof: \"Cartoon characters animations\" (cartoon_character_animation, 2022). No blabla, no price. 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence1: We understand you need two polished, cinematic character teasers for your adult romantasy launch, each 6‑10 s vertical, with consistent looks and natural movement.\n\nSentence2: At Voxel Studio our Animation de personnages service specializes in delivering high‑fidelity, film‑quality character motion that avoids AI artefacts and keeps facial/hand integrity.\n\nSentence3: We’ve already produced 44 character‑animation projects, including the “Cartoon characters animations” (cartoon_character_animation, 2022) archive, proving our ability to maintain style and consistency across varied briefs.\n\nSentence4: We can translate your dark‑fantasy references—winter landscapes, royal courts, restrained magic—into two seamless Isla and Declan intros ready for Instagram Reels and TikTok.\n\nSentence5: Let’s discuss the next steps; just share your visual brief and we’ll deliver clean MP4 files, watermark‑free, on schedule.\n\nThat"
     }
   ]
 }
