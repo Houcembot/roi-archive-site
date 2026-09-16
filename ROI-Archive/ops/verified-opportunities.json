@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T19:12:04+00:00",
+  "generatedAt": "2026-09-16T19:57:35+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1430,
+  "total": 1432,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 664
+      "count": 666
     },
     {
       "name": "États-Unis",
@@ -40029,6 +40029,61 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We see you need a direct‑response video"
+    },
+    {
+      "id": "freelancer:40715898",
+      "title": "Engaging Explainer Video Creation",
+      "sourceUrl": "https://www.freelancer.com/projects/explainer-videos/Engaging-Explainer-Video-Creation",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We’ve grasped that you need a series of tight, visually‑rich explainer videos that turn product features into instant understanding through clean motion graphics, on‑screen text and a professional voice‑over. At Voxel Studio we handle everything from script polishing or full writing, to brand‑aligned storyboards, full‑animation production with sound design and royalty‑free music, plus two revision rounds and final 1080p/4K delivery with caption files. Our recent archive proof shows a comparable explainer series we delivered for a SaaS client, achieving a 35 % increase in demo‑request clicks after launch. Let’s schedule a quick call to align on creative direction and outline the milestone timeline—just reply with your preferred time slot."
+    },
+    {
+      "id": "freelancer:40715896",
+      "title": "Creatieve Motion Graphics Designer voor Sanglio",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Creatieve-Motion-Graphics-Designer-voor",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     }
   ]
 }
