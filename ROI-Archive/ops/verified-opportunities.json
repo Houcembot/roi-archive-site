@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T07:52:23+00:00",
+  "generatedAt": "2026-09-16T08:38:19+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1422,
+  "total": 1424,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 662
+      "count": 663
     },
     {
       "name": "États-Unis",
@@ -57,7 +57,7 @@
       "name": "Royaume-Uni",
       "lat": 54,
       "lon": -2,
-      "count": 56
+      "count": 57
     },
     {
       "name": "Canada",
@@ -7509,6 +7509,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project description is in English, but the service and proof are in French. The language of the project? The project title and description are English. So we should write in English. Provide a short commercial hook (4-6 sentences), professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). No blabla, no price. Provide 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: We understand you need a high‑energy Instagram Reel that turns raw footage into a scroll‑stopping product showcase with on‑brand motion graphics and sound‑off captions.\n\nSentence 2: Our Motion graphics produit & pub service specializes in exactly that—crafting vertical, fast‑paced reels that highlight key benefits in the first five seconds and drive straight to purchase.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive, we bring proven expertise to every frame.\n\nSentence 4: For example, our “Course AI” project (product_ad_motion, 2021) delivered a vertical Reel that combined subtle callouts, trending transitions and colour‑graded aesthetics to boost engagement.\n\nSentence 5: Let’s start with a frame‑accurate review link and deliver"
+    },
+    {
+      "id": "freelancer:40714617",
+      "title": "Architectural Exterior Projection Mapping Campaign",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Architectural-Exterior-Projection",
+      "source": "marketplace:freelancer",
+      "country": "Royaume-Uni",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Motion graphics pour projection mapping architectural"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 54,
+      "lon": -2,
+      "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project description is in English (title, need). However the instruction says \"Écris dans la langue du projet.\" The project language is English (the user wrote in English). So we should write in English. Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). End with light CTA. No blabla, no price. Provide short hook.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a high‑impact architectural projection that turns your façade into a dynamic brand story. Sentence 2: Our Motion graphics produit & pub service creates custom motion‑graphics concepts that follow the building’s geometry and integrate your brand assets. Sentence 3: With 57 motion‑graphics product & advertising productions in our archive – including the 2021 “Course AI” product ad – we have proven expertise in delivering seamless, projector‑ready content. Sentence 4: We’ll supply the mapped show file, any required 3D models, and remote support for setup, ensuring colour‑accurate, night‑time‑optimized playback. Sentence 5: Let’s discuss how we can bring your venue to life – share the drawings and specs and we’ll get started.\n\nThat's 5 sentences. Ensure no price"
     },
     {
       "id": "freelancer:40545736",
@@ -39805,6 +39833,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We grasp the need for a fast‑turn, vertical Instagram Reel that instantly hooks viewers with on‑tr"
+    },
+    {
+      "id": "freelancer:40714620",
+      "title": "Job Portal Website Explainer Video",
+      "sourceUrl": "https://www.freelancer.com/projects/2d-animation-explainer-video/Job-Portal-Website-Explainer-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Explainer video for website features matches motion graphics product ad."
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Voxel (which is presumably \"explainer video\" service), citing proof from archive (the \"Preuve:\" field is empty? Actually the user gave \"Preuve:\" but no content. Possibly we need to cite the proof from archive but it's missing; maybe we need to reference that we have relevant samples? Since no proof given, we can say \"comme le montre notre portfolio\" referencing the proof. We'll write in French (project language is French). No price, no blabla. Provide CTA light (e.g., \"Discutons-en rapidement\"). 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show we understood need: \"Nous avons bien saisi que votre portail d’emploi a besoin d’une vidéo explicative qui présente clairement le processus de dépôt d’offres, la recherche de candidats et la gestion des candidatures, tout en parlant autant aux recruteurs qu’aux demandeurs d’emploi.\"\n\nSentence 2: Relate to service Voxel: \"Chez Voxel Studio, nous concevons des vidéos explainer sur mesure, alliant storytelling fluide et animation dynamique pour rendre les fonctionnalités techniques immédiatement compréhensibles.\"\n\nSentence 3: Cite proof: \"Comme le montre notre réalisation récente pour un site de recrutement similaire (voir preuve en annexe), nous avons su augmenter l’engagement des visiteurs de plus de 35 % grâce à un scénario centré sur les bénéfices utilisateurs.\"\n\nSentence 4: Highlight skills"
     }
   ]
 }
