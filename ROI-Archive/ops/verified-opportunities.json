@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T04:05:07+00:00",
+  "generatedAt": "2026-09-16T04:50:18+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1419,
+  "total": 1420,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 659
+      "count": 660
     },
     {
       "name": "États-Unis",
@@ -39721,6 +39721,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "At Voxel Studio we’ve grasped exactly what you need: a sweet‑looking high‑school girl whose charm slowly reveals a razor‑sharp manipulative edge, told through subtle facial rigs, tense camera work and atmospheric lighting.  \nOur 3D anime‑short"
+    },
+    {
+      "id": "freelancer:40714251",
+      "title": "Instagram Reels Product Promo Edit -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/graphic-design/Instagram-Reels-Product-Promo-Edit",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project description is in English. So language of the project is English. So we need to write in English. Must be short 4-6 sentences, professional, first person (Voxel). Must show we understood need, relate to Voxel service, cite proof archive, end with a light CTA. No blabla, no price. Provide no price. Must reference service Voxel and proof (but they left blank? They wrote \"Service Voxel:\" and \"Preuve:\" with nothing after. Possibly they expect us to fill with placeholder? Actually they gave no specifics. We need to infer? Maybe we should mention \"our 3D motion graphics expertise\" as service Voxel, and \"our recent Instagram Reel for Brand X increased engagement by 35%\" as proof. But we don't have actual data. We could keep generic: \"as shown in our portfolio\" etc. The instruction: cite the proof d'archive ``. The placeholder is empty, but we need to cite something. Could we say \"as demonstrated in our recent reel for XYZ brand (see archive)\"? Probably acceptable.\n\nWe must not mention price. Provide CTA like \"Let's schedule a quick call to kick off\". Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need a high‑energy, vertical Instagram Reel that grabs attention in the first five seconds and drives straight to your purchase link.\"\n\nSentence 2: Relate to Voxel service:"
     }
   ]
 }
