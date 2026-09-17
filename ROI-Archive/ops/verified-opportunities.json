@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T09:32:44+00:00",
+  "generatedAt": "2026-09-17T10:17:35+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1440,
+  "total": 1441,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 671
+      "count": 672
     },
     {
       "name": "États-Unis",
@@ -40309,6 +40309,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We understand you"
+    },
+    {
+      "id": "freelancer:40717158",
+      "title": "Dynamic CRM Teaser Video",
+      "sourceUrl": "https://www.freelancer.com/projects/adobe-premiere-pro/Dynamic-CRM-Teaser-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo teaser produit avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a punchy 45‑60 s CRM teaser that combines fast UI walkthroughs, lifestyle shots, bold subtitles and"
     }
   ]
 }
