@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T05:45:30+00:00",
+  "generatedAt": "2026-09-17T06:30:57+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1434,
+  "total": 1437,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 667
+      "count": 670
     },
     {
       "name": "États-Unis",
@@ -7537,6 +7537,34 @@
       "lat": 54,
       "lon": -2,
       "proposalDraft": "We need to produce a short commercial hook 4-6 sentences, in French? The user says \"Écris dans la langue du projet.\" The project description is in English (title, need). However the instruction says \"Écris dans la langue du projet.\" The project language is English (the user wrote in English). So we should write in English. Must be 4-6 sentences, professional, first person (Voxel). Show we understood need, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", cite concrete project as proof: \"Course AI\" (product_ad_motion, 2021). End with light CTA. No blabla, no price. Provide short hook.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need a high‑impact architectural projection that turns your façade into a dynamic brand story. Sentence 2: Our Motion graphics produit & pub service creates custom motion‑graphics concepts that follow the building’s geometry and integrate your brand assets. Sentence 3: With 57 motion‑graphics product & advertising productions in our archive – including the 2021 “Course AI” product ad – we have proven expertise in delivering seamless, projector‑ready content. Sentence 4: We’ll supply the mapped show file, any required 3D models, and remote support for setup, ensuring colour‑accurate, night‑time‑optimized playback. Sentence 5: Let’s discuss how we can bring your venue to life – share the drawings and specs and we’ll get started.\n\nThat's 5 sentences. Ensure no price"
+    },
+    {
+      "id": "freelancer:40716711",
+      "title": "Animated Lead Gen Promo Video -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Animated-Lead-Gen-Promo-Video",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 95,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Vidéo promo animée avec motion graphics"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We understand you need a crisp, animated promo that highlights your clients’ pain points and showcases the measurable growth your digital‑marketing service delivers.  \nOur Motion graphics produit & pub service turns brand colours, key stats and your value proposition into a tight script, storyboard and full‑HD video that stays under 90 seconds and ends with a strong CTA.  \nWe’ve already produced 57 motion‑graphics pieces for product and advertising campaigns, including the “Course AI” product ad motion project from 2021.  \nThat track record lets us deliver a professional, on‑brand"
     },
     {
       "id": "freelancer:40545736",
@@ -40141,6 +40169,60 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "At Voxel Studio we’ve listened to your need for sharp, Instagram‑ready testimonial clips that drive traffic to your Video Dukaan page.  \nOur team excels at tight cuts, dynamic motion graphics, brand‑aligned colour grading, typo‑free subtitles, and royalty‑free music that matches an upbeat tone—delivering both 1:1 and 9:16 MP4 versions plus the source Premiere Pro or Final Cut project.  \nAs shown in our recent work for a fashion e‑commerce client, where edited testimonials lifted reel views by 32 %, we consistently produce on"
+    },
+    {
+      "id": "freelancer:40716721",
+      "title": "Blender UI Animation for SaaS",
+      "sourceUrl": "https://www.freelancer.com/projects/blender/Blender-Animation-for-SaaS",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Animated UI motion graphics for SaaS product"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
+    },
+    {
+      "id": "freelancer:40716704",
+      "title": "Dynamic Promo Video Editing",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Dynamic-Promo-Video-Editing-40716704",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     }
   ]
 }
