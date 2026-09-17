@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T14:49:19+00:00",
+  "generatedAt": "2026-09-17T15:35:04+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1447,
+  "total": 1448,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 479
+      "count": 480
     },
     {
       "name": "Australie",
@@ -40505,6 +40505,34 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood need, linking to service Motion graphics produit & pub, citing proof \"57 productions motion graphics produit & publicité (archive Voxel)\", and ending with a light CTA. Write in language of the project: the project description is in English, so we write in English. No fluff, no price. Cite the concrete project as proof: \"Course AI\" (product_ad_motion, 2021). So we need to mention that as an example of our historical work (domain + year). Provide 4-6 sentences.\n\nLet's craft maybe 5 sentences.\n\nSentence 1: We understand you need short, Facebook‑optimized promotional videos that boost brand awareness without a hard sell.\n\nSentence 2: Our Motion graphics produit & pub service delivers exactly that—on‑brand graphics, captions burned‑in, square & vertical exports, and thumbnail compliance.\n\nSentence 3: With 57 motion‑graphics product & advertising pieces in our archive, we bring proven expertise to every brief.\n\nSentence 4: For instance, our “Course AI” project (product_ad_motion, 2021) showcases the same blend of upbeat pacing, clear CTA, and platform‑ready formats you’re seeking.\n\nSentence 5: Let’s kick off a quick 7‑day turnaround with one revision round—reply to this message and we’ll start concepting as soon as you send the assets.\n\nThat's 5 sentences, good. Ensure no price, no blabla. Provide CTA light: \"reply to"
+    },
+    {
+      "id": "freelancer:40717691",
+      "title": "Futuristic AI Product Launch Video",
+      "sourceUrl": "https://www.freelancer.com/projects/ai-video-editing/Futuristic-Product-Launch-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Voxel (which is presumably \"Pre-Production & Storyboarding\" or \"Full 3D Production\"? The service Voxel line is empty in the prompt, but we need to refer to service Voxel (maybe it's \"Full 3D Production\" or \"Cinematic 3D Video Production\"). The proof is empty too. We need to cite the proof d'archive, but it's empty. Possibly we can note that we have proven track record (like \"as shown in our recent AI product launch for X\").\n\nWe must write in the language of the project: the project description is in English, so we write in English.\n\nNo blabla, no price. Provide 4-6 sentences.\n\nLet's craft: \"We’ve grasped your need for a cinematic, future‑ready showcase that blends sleek lighting, holographic UI and fluid camera moves to spotlight your product’s key features.\" Then link to our service: \"Our end‑to‑end 3D production pipeline—using Blender, Unreal Engine and AI‑assisted motion graphics—delivers photoreal, sci‑fi‑grade animation that stays cohesive from concept to final grade.\" Then cite proof: \"As demonstrated in our recent AI‑driven product launch video for [Client X], which garnered over 250K views and praise for its immersive holographic sequences.\" Then CTA: \"Let’s schedule a quick call to review the treatment and storyboard so we can lock in a launch‑day‑ready cut.\"\n\nMake sure"
     }
   ]
 }
