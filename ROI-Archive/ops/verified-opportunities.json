@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T03:29:49+00:00",
+  "generatedAt": "2026-09-17T04:15:14+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1433,
+  "total": 1434,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 666
+      "count": 667
     },
     {
       "name": "États-Unis",
@@ -40113,6 +40113,33 @@
       "lat": 38,
       "lon": -97,
       "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French? The user says \"Écris dans la langue du projet.\" The project title is English, but the description is English. However the instruction says \"Écris dans la langue du projet.\" The project language appears English (title and description). So we should write in English. Provide a short commercial hook, 4-6 sentences, first person (Voxel), showing we understood need, linking to Voxel service, citing proof from archive, ending with light CTA. No blabla, no price.\n\nWe need to reference \"Preuve:\" but it's empty? The user gave \"Preuve:\" with nothing after. Perhaps they expect us to reference some proof from archive but it's not given. Maybe we can say \"as shown in our recent project for [client]\" but we don't have specifics. Could we infer that the proof is something like \"our AI‑driven character animation demo\"? Since not provided, we might say \"as demonstrated in our archive (see attached)\". But we must not fabricate? The instruction: cite the proof of archive ``. The placeholder is empty, maybe we just write \"(voir preuve)\"? Might be okay to mention \"as evidenced in our portfolio\". We'll keep it generic but mention proof.\n\nWrite 4-6 sentences. Let's do 5 sentences.\n\nSentence 1: Show we understood need: \"We get that you need a six‑minute Zoom‑style recap where each of your six movie characters delivers a one‑minute lesson review, using your supplied scripts.\"\n\nSentence 2: Relate to Voxel service: \"At Vox"
+    },
+    {
+      "id": "freelancer:40716431",
+      "title": "Instagram Testimonial Video Promotion",
+      "sourceUrl": "https://www.freelancer.com/projects/motion-graphics/Instagram-Testimonial-Video-Promotion",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "Édition vidéo témoignages avec motion graphics pour Instagram"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9
     }
   ]
 }
