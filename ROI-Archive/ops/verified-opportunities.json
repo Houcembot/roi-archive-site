@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T11:51:29+00:00",
+  "generatedAt": "2026-09-17T12:33:34+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,14 +26,14 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1444,
+  "total": 1445,
   "countryCount": 9,
   "countries": [
     {
       "name": "Inde",
       "lat": 20.6,
       "lon": 78.9,
-      "count": 673
+      "count": 674
     },
     {
       "name": "États-Unis",
@@ -10825,6 +10825,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "Nous avons bien saisi votre besoin d’une vidéo promo de 60 secondes, rythmée, avec un walkthrough UI fluide, des inserts lifestyle et des motion graphics modernes qui mettent"
+    },
+    {
+      "id": "freelancer:40717354",
+      "title": "Create 2 Engaging Animated Reels for an Arcade Game",
+      "sourceUrl": "https://www.freelancer.com/projects/video-production/Create-Engaging-Animated-Reels-for",
+      "source": "marketplace:freelancer",
+      "country": "Inde",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 90,
+      "subject": "product_ad_motion",
+      "primarySegment": "animation",
+      "segments": [
+        "animation"
+      ],
+      "fitReasons": [
+        "Création de reels animés promotionnels, motion graphics produit"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": "product_ad_motion",
+          "label": "product_ad_motion"
+        }
+      ],
+      "lat": 20.6,
+      "lon": 78.9,
+      "proposalDraft": "We need to produce a short commercial hook (4-6 sentences) in French (since user wrote French and said \"Écris dans la langue du projet.\" The project title is English but language of project? The user wrote in English but the instruction says \"Écris dans la langue du projet.\" The project is likely English? However the user wrote the request in English but the instruction is French. The user wants the answer in the language of the project. The project description is English. So we should write in English. But the instruction says \"Écris dans la langue du projet.\" The project is English, so answer in English. Provide 4-6 sentences, professional, first person (Voxel). Show understanding, relate to service Motion graphics produit & pub, cite proof \"57 productions motion graphics produit & publicité (archive Voxel)\", end with light CTA. Cite the concrete project as proof: \"Lemur Animations\" (product_ad_motion, 2020). No blabla, no price.\n\nLet's craft 5 sentences.\n\nSentence 1: We understand you need two fast‑paced vertical Reels that capture the energetic, colorful vibe of an arcade game for Instagram, TikTok and YouTube Shorts.\n\nSentence 2: Our Motion graphics produit & pub service specializes in turning game concepts into dynamic, socially‑ready animations with custom transitions, text and sound design.\n\nSentence 3: To date we have delivered 57 motion‑graphics product & advertising pieces (Voxel archive), including the Lemur Animations product ad motion project from 2020.\n\nSentence 4: Leveraging that experience"
     },
     {
       "id": "freelancer:40548766",
