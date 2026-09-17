@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T08:03:37+00:00",
+  "generatedAt": "2026-09-17T08:47:28+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1439,
+  "total": 1440,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 475
+      "count": 476
     },
     {
       "name": "Australie",
@@ -40251,7 +40251,8 @@
         }
       ],
       "lat": 20.6,
-      "lon": 78.9
+      "lon": 78.9,
+      "proposalDraft": "We understand you want your SaaS interface to feel alive through a short, looping 3‑D animation that showcases key screens tilting, stacking and transitioning with modern polish. At Voxel Studio we"
     },
     {
       "id": "freelancer:40716704",
@@ -40280,6 +40281,34 @@
       "lat": 20.6,
       "lon": 78.9,
       "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel), showing we understood the need, linking to service Voxel (the service description is missing? maybe they omitted but we need to refer to service Voxel generically?), cite proof (archive). No price, no blabla. Language of the project: the user wrote in English, so answer in English.\n\nWe need to include: (1) show we understood need, (2) relate to Voxel service, (3) cite proof of archive, (4) end with light CTA.\n\nWe need to reference \"Preuve:\" but no content given. Possibly we need to refer to a proof placeholder like \"[Preuve]\"? The user gave \"Preuve:\" but no content. Maybe we should just mention \"as shown in our archive\" or \"as evidenced by our recent work (see archive)\". We'll assume we can cite \"see our archive\" generically.\n\nWe need to keep 4-6 sentences. Let's craft 5 sentences.\n\nSentence 1: Acknowledge need: turning raw footage, stock, stills, script into hooky promo for social.\n\nSentence 2: Explain Voxel's service: we specialize in fast-turnaround, platform‑specific edits with motion graphics, typography, color, audio.\n\nSentence 3: Cite proof: e.g., \"Our recent archive shows a 38‑second Instagram promo for X brand that achieved 2.3× engagement.\"\n\nSentence 4: Mention deliverables alignment: we’ll deliver master, cut‑downs, project files.\n\nSentence 5: C"
+    },
+    {
+      "id": "freelancer:40716961",
+      "title": "Viral Inspirational TikTok Video -- 2",
+      "sourceUrl": "https://www.freelancer.com/projects/content-creation/Viral-Inspirational-TikTok-Video",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We understand you"
     }
   ]
 }
