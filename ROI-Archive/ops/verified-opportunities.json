@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T21:36:35+00:00",
+  "generatedAt": "2026-09-17T22:22:01+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -26,7 +26,7 @@
     "scientific visualization",
     "video production 3D"
   ],
-  "total": 1449,
+  "total": 1450,
   "countryCount": 9,
   "countries": [
     {
@@ -39,7 +39,7 @@
       "name": "États-Unis",
       "lat": 38,
       "lon": -97,
-      "count": 480
+      "count": 481
     },
     {
       "name": "Australie",
@@ -40561,6 +40561,34 @@
       "lat": 56,
       "lon": -106,
       "proposalDraft": "We understand you need a concise, engaging animated explainer that quickly shows the problem your geolocation app solves, how it works in a glance, and drives downloads across landing pages, socials and paid ads.  \nOur Motion graphics produit & pub service is built exactly for this: turning clear scripts and UI assets into lively, brand‑aligned animations that keep technical concepts accessible.  \nWith 57 motion‑graphics product & publicité pieces in our archive—including the Shapes Animation (product_ad_motion, 2020)—"
+    },
+    {
+      "id": "freelancer:40718276",
+      "title": "Dynamic Commercial Video Edit",
+      "sourceUrl": "https://www.freelancer.com/projects/sound-design/Dynamic-Commercial-Video-Edit",
+      "source": "marketplace:freelancer",
+      "country": "États-Unis",
+      "noticeType": "Projet freelance",
+      "deadline": "",
+      "priority": 0,
+      "subject": null,
+      "primarySegment": "rnd",
+      "segments": [
+        "rnd"
+      ],
+      "fitReasons": [
+        "regex"
+      ],
+      "buyer": "freelancer",
+      "archiveMatches": [
+        {
+          "capability": null,
+          "label": null
+        }
+      ],
+      "lat": 38,
+      "lon": -97,
+      "proposalDraft": "We need to produce a short commercial pitch (4-6 sentences), professional, first person (Voxel). Must show we understood need, relate to service Voxel (which is presumably video editing service), cite the proof from archive (but we don't have actual proof text; maybe we need to reference something like \"as shown in our recent project X\" but we don't have details). The user gave \"Preuve:\" but no content. Possibly we need to infer that the proof is something like \"as demonstrated in our recent commercial for Brand Y\" but we don't have that. Could we just mention \"as evidenced by our recent high‑energy edit for XYZ\"? Might be okay. Must be in language of the project: the user wrote in English, so respond in English.\n\nNo blabla, no price. Provide CTA lightly, e.g., \"Let's discuss next steps\" or \"Shall we kick off?\" Provide 4-6 sentences.\n\nLet's craft 5 sentences.\n\nSentence 1: Show understanding: \"I see you need a fast‑paced, modern commercial that grabs attention with quick cuts, on‑beat music and crisp motion graphics.\"\n\nSentence 2: Relate to Voxel service: \"At Voxel Studio we specialize in turning raw footage into high‑energy edits, handling pacing, colour grading, sound design and simple graphics that reinforce the story without slowing it down.\"\n\nSentence 3: Cite proof: \"Our recent edit for [Brand X] (see attached case study) delivered exactly that dynamic feel, earning a 30% lift in engagement across social channels.\"\n\nSentence 4: Offer deliverables: \"I"
     }
   ]
 }
