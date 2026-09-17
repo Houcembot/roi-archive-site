@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T17:50:52+00:00",
+  "generatedAt": "2026-09-17T18:35:39+00:00",
   "sourcePolicy": "voxel-fit-only",
   "sources": [
     {
@@ -40559,7 +40559,8 @@
         }
       ],
       "lat": 56,
-      "lon": -106
+      "lon": -106,
+      "proposalDraft": "We understand you need a concise, engaging animated explainer that quickly shows the problem your geolocation app solves, how it works in a glance, and drives downloads across landing pages, socials and paid ads.  \nOur Motion graphics produit & pub service is built exactly for this: turning clear scripts and UI assets into lively, brand‑aligned animations that keep technical concepts accessible.  \nWith 57 motion‑graphics product & publicité pieces in our archive—including the Shapes Animation (product_ad_motion, 2020)—"
     }
   ]
 }
